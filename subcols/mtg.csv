@@ -8532,16 +8532,16 @@ BOXES,binder,Blisterstick Shaman,MBS,Mirrodin Besieged,58,normal,common,1,20083,
 BOXES,binder,Mirran Spy,MBS,Mirrodin Besieged,26,normal,common,1,20115,50e576ad-3e03-424c-8857-88ec8898a92e,0.23,false,false,near_mint,en,USD
 BOXES,binder,Koth's Courier,MBS,Mirrodin Besieged,68,normal,common,1,20073,978cc53c-c038-4442-bd46-e0b9e8cdd924,0.05,false,false,near_mint,en,USD
 BOXES,binder,Quilled Slagwurm,MBS,Mirrodin Besieged,89,normal,uncommon,1,20052,12c597b9-5024-42bd-b500-5ef6a3accda6,0.15,false,false,near_mint,en,USD
-BOXES,binder,Choking Fumes,MBS,Mirrodin Besieged,4,normal,uncommon,1,20137,1b9af543-5273-4754-ab7d-75d0b632240f,0.1,false,false,near_mint,en,USD
+BOXES,binder,Choking Fumes,MBS,Mirrodin Besieged,4,normal,uncommon,2,20137,1b9af543-5273-4754-ab7d-75d0b632240f,0.11,false,false,near_mint,en,USD
 BOXES,binder,Neurok Commando,MBS,Mirrodin Besieged,28,normal,uncommon,1,20113,aa7084f3-9335-401f-9a62-6f131351338d,0.08,false,false,near_mint,en,USD
 BOXES,binder,Oculus,MBS,Mirrodin Besieged,29,normal,common,1,20112,673bebb4-9c82-40ca-8552-b9030e961005,0.03,false,false,near_mint,en,USD
-BOXES,binder,Phyresis,MBS,Mirrodin Besieged,49,normal,common,1,20092,0059d21b-0725-4806-8691-2451db36787f,1.34,false,false,near_mint,en,USD
+BOXES,binder,Phyresis,MBS,Mirrodin Besieged,49,normal,common,2,20092,0059d21b-0725-4806-8691-2451db36787f,1.73,false,false,near_mint,en,USD
 BOXES,binder,Dross Ripper,MBS,Mirrodin Besieged,106,normal,common,1,20035,55d54f08-53f0-41b2-8b86-8244515224eb,0.02,false,false,near_mint,en,USD
 BOXES,binder,Steel Sabotage,MBS,Mirrodin Besieged,33,normal,common,1,20108,bb40de7c-1905-4615-844b-4abc231fb01e,0.18,false,false,near_mint,en,USD
 BOXES,binder,Gust-Skimmer,MBS,Mirrodin Besieged,108,normal,common,1,20033,5970d053-e2e8-471b-b342-2e9b9177724c,0.02,false,false,near_mint,en,USD
 BOXES,binder,Concussive Bolt,MBS,Mirrodin Besieged,60,normal,common,1,20081,41b68e85-a381-441d-aa18-491f9e202a10,0.04,false,false,near_mint,en,USD
 BOXES,binder,Loxodon Partisan,MBS,Mirrodin Besieged,12,normal,common,1,20129,a4a76016-96a1-40f5-9002-4b3bed65cd5c,0.03,false,false,near_mint,en,USD
-BOXES,binder,Copper Carapace,MBS,Mirrodin Besieged,102,normal,common,1,20039,60ccb013-4641-400f-a035-86030ac55582,0.03,false,false,near_mint,en,USD
+BOXES,binder,Copper Carapace,MBS,Mirrodin Besieged,102,normal,common,2,20039,60ccb013-4641-400f-a035-86030ac55582,0.04,false,false,near_mint,en,USD
 BOXES,binder,Pierce Strider,MBS,Mirrodin Besieged,123,normal,uncommon,1,20018,88b449a5-634f-47b1-a757-86a6849f6777,0.14,false,false,near_mint,en,USD
 BOXES,binder,Flesh-Eater Imp,MBS,Mirrodin Besieged,42,normal,uncommon,1,20099,6d5ee9f3-80fe-43b0-be5b-0c93103e1077,0.2,false,false,near_mint,en,USD
 BOXES,binder,Accorder Paladin,MBS,Mirrodin Besieged,1,normal,uncommon,1,20140,df0a4370-729d-40e7-b68b-21902648492d,0.12,false,false,near_mint,en,USD
@@ -8554,7 +8554,7 @@ BOXES,binder,Tangle Mantis,MBS,Mirrodin Besieged,91,normal,common,1,20050,c0e4d3
 BOXES,binder,Ogre Resister,MBS,Mirrodin Besieged,72,normal,common,1,20069,60b7407d-f677-403b-893c-361df456009a,0.03,false,false,near_mint,en,USD
 BOXES,binder,Burn the Impure,MBS,Mirrodin Besieged,59,normal,common,1,20082,b5641730-428d-4484-866e-ec1ac669537f,0.03,false,false,near_mint,en,USD
 BOXES,binder,Blood Moon,WOT,Wilds of Eldraine: Enchanting Tales,40,normal,mythic,2,85661,b0dbdacf-59b5-46fc-9635-fd4fb1527189,8.01,false,false,near_mint,en,USD
-BOXES,binder,Rot Wolf,MBS,Mirrodin Besieged,90,normal,common,2,20051,7a81dfcf-a7c4-41a4-b1e9-b9e9c3f75742,0.19,false,false,near_mint,en,USD
+BOXES,binder,Rot Wolf,MBS,Mirrodin Besieged,90,normal,common,3,20051,7a81dfcf-a7c4-41a4-b1e9-b9e9c3f75742,0.19,false,false,near_mint,en,USD
 BOXES,binder,Frantic Salvage,MBS,Mirrodin Besieged,6,normal,common,2,20135,aff909bc-0bda-4e8a-b7a3-ebc963552246,0.12,false,false,near_mint,en,USD
 BOXES,binder,Master's Call,MBS,Mirrodin Besieged,13,normal,common,2,20128,04f54188-2cfc-4964-add7-b452f32d57ef,0.24,false,false,near_mint,en,USD
 BOXES,binder,"Yuna, Grand Summoner",PW25,Wizards Play Network 2025,16,foil,mythic,1,109622,31572625-b4a8-4ac0-8f08-999d6a6636d7,34.33,false,false,near_mint,en,USD
@@ -8633,3 +8633,13 @@ caesar,binder,Haunted Ridge,INR,Innistrad Remastered,280,normal,rare,1,102482,32
 caesar,binder,Vault of Champions,CMR,Commander Legends,360,foil,rare,1,55556,0e144ae1-500d-4485-b476-5783b14380d9,13.69,false,false,near_mint,en,USD
 caesar,binder,Luxury Suite,BBD,Battlebond,82,normal,rare,1,1911,81298b0b-9d47-4777-998e-0c17821ef536,31.64,false,false,near_mint,en,USD
 caesar,binder,"Caesar, Legion's Emperor",PIP,Fallout,867,foil,mythic,1,92407,87eec46e-dc81-45aa-9026-c010663e0756,82.8,false,false,near_mint,en,USD
+BOXES,binder,Vivisection,MBS,Mirrodin Besieged,38,normal,common,1,20103,684a3631-f2d6-4a64-a04a-893f452e3a60,0.12,false,false,near_mint,en,USD
+BOXES,binder,Banishment Decree,MBS,Mirrodin Besieged,3,normal,common,1,20138,2c5f605c-9d16-493e-bc44-0e15bdf8c0bf,0.03,false,false,near_mint,en,USD
+BOXES,binder,Sphere of the Suns,MBS,Mirrodin Besieged,134,normal,uncommon,1,20007,7a2c0735-1816-489b-9793-89d1060d78f7,0.12,false,false,near_mint,en,USD
+BOXES,binder,Quicksilver Geyser,MBS,Mirrodin Besieged,30,normal,common,1,20111,fb209cf5-ac7b-4521-b488-ef72451e3a25,0.08,false,false,near_mint,en,USD
+BOXES,binder,Gnathosaur,MBS,Mirrodin Besieged,63,normal,common,1,20078,27dcb0c8-e6d5-4f6b-a74f-e495b5e42606,0.06,false,false,near_mint,en,USD
+BOXES,binder,Ardent Recruit,MBS,Mirrodin Besieged,2,normal,common,1,20139,69c42dac-f0b3-41aa-b3b2-f203e265131d,0.13,false,false,near_mint,en,USD
+BOXES,binder,Shriekhorn,MBS,Mirrodin Besieged,130,normal,common,1,20011,bb41269f-007d-43ba-a682-d3929cc69696,0.19,false,false,near_mint,en,USD
+BOXES,binder,Kemba's Legion,MBS,Mirrodin Besieged,9,normal,uncommon,1,20132,30731756-81a8-480b-938f-48c1d0cb95d7,0.05,false,false,near_mint,en,USD
+BOXES,binder,Mirrorworks,MBS,Mirrodin Besieged,114,normal,rare,1,20027,cade6dde-1edf-44b8-a37e-a22f9207db51,2.29,false,false,near_mint,en,USD
+BOXES,binder,Flayer Husk,MBS,Mirrodin Besieged,107,normal,common,1,20034,cbd47a02-5a6e-4daa-9877-f65c8639c569,0.11,false,false,near_mint,en,USD
