@@ -118,7 +118,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 675818	Pokemon	ME: Ascended Heroes		6	Holofoil	Erika's Victreebel	0.13		en	30.79	25.0	10.21
 676913	Pokemon	ME: Ascended Heroes		78	Reverse Holofoil	Team Rocket's exeggutor (Team Rocket)	0.27		en			en
 676964	Pokemon	ME: Ascended Heroes		143	Reverse Holofoil	Pecharunt (Poke Ball)	0.42		en			en
-676083	Pokemon	ME: Ascended Heroes		271	Holofoil	Mega Dragonite ex	282.0		en	352.0	282.0	91.0
+676083	Pokemon	ME: Ascended Heroes		271	Holofoil	Mega Dragonite ex	282.0	CGC 10	en	352.0	282.0	91.0
 680480	Pokemon	ME: Mega Evolution Promo		31	Holofoil	N's Zekrom	6.84		en			en
 675998	Pokemon	ME: Ascended Heroes		186	Reverse Holofoil	Counter Gain	0.17		en	30.94	25.0	10.25
 676003	Pokemon	ME: Ascended Heroes		191	Reverse Holofoil	Light Ball	1.62		en	32.12	26.0	10.56

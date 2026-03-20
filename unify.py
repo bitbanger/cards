@@ -17,7 +17,7 @@ def main():
 		if 'Riftbound' in game:
 			game = 'Riftbound'
 		# print(ll.csv([prod_id, game, set, name, number, subtype, value, '', lang], delim='\t'))
-		rows.append([prod_id, game, set, '', number, subtype, name, value, '', lang, psa_10, cgc_10, psa_9])
+		rows.append([prod_id, game, set, '', number, subtype, name, value, condition, lang, psa_10, cgc_10, psa_9])
 
 	# Sports and Star Wars
 	hierarchy = ll.json('hierarchy_of_sports_sets.json')
