@@ -53,12 +53,13 @@ def main():
 	# (or not)
 
 	for row in rows:
-		if row[-1] == 'ja':
-			row[-1] = 'jp'
-		elif row[-1] == '':
-			row[-1] = 'en'
-		if row[-3] == 0:
-			row[-3] = ''
+		if row[-4] == 'ja':
+			row[-4] = 'jp'
+		elif row[-4] == '':
+			row[-4] = 'en'
+		if row[-6] == 0:
+			row[-6] = ''
+		row[-8] = ' '.join(ll.capitalize(w) for w in row[-8].split())
 		print(ll.csv(row, delim='\t'))
 
 if __name__ == '__main__':
