@@ -107,7 +107,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 623505	Pokemon	SV09: Journey Together		78	Reverse Holofoil	Piloswine	0.16		en	31.21	14.5	10.38
 623519	Pokemon	SV09: Journey Together		92	Reverse Holofoil	Weezing	0.42		en	32.2	26.0	10.7
 623435	Pokemon	SV09: Journey Together		8	Reverse Holofoil	Maractus	0.13		en	31.12	25.0	10.36
-623594	Pokemon	Miscellaneous Cards & Products		167	Holofoil	N's Reshiram	18.21		en	145.26	64.0	24.99
 675843	Pokemon	ME: Ascended Heroes		31	Holofoil	Mega Emboar ex	1.09		en	40.05	32.0	12.65
 675951	Pokemon	ME: Ascended Heroes		139	Holofoil	Mandibuzz ex	0.55		en	34.92	28.0	11.3
 675934	Pokemon	ME: Ascended Heroes		122	Holofoil	Okidogi	0.07		en	30.64	25.0	10.17
@@ -221,7 +220,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 675917	Pokemon	ME: Ascended Heroes		105	Holofoil	Lunatone	0.12		en	30.49	24.0	10.13
 676872	Pokemon	ME: Ascended Heroes		24	Reverse Holofoil	Ethan's Magcargo (Poke Ball)	0.15		en			
 675885	Pokemon	ME: Ascended Heroes		73	Holofoil	Miraidon ex	0.47		en	38.37	31.0	12.21
-675967	Pokemon	ME: Ascended Heroes		155	Holofoil	N's Zekrom	0.46		en	39.95	32.0	12.62
 676011	Pokemon	ME: Ascended Heroes		199	Reverse Holofoil	Premium Power Pro	0.6		en	31.08	25.0	10.29
 676041	Pokemon	ME: Ascended Heroes		229	Holofoil	Heliolisk	3.05		en	74.5	60.0	15.19
 676035	Pokemon	ME: Ascended Heroes		223	Holofoil	Numel	5.83		en	68.26	20.0	21.5
