@@ -694,6 +694,18 @@ fake_id_0	Pokemon	ME: Mega Evolution Promo		32	Holofoil	Mega Gardevoir ex	0.00		
 677090	Pokemon	ME: Ascended Heroes		124	Reverse Holofoil	Haunter (Energy Symbol Pattern)	0.32		en			
 677130	Pokemon	ME: Ascended Heroes		177	Reverse Holofoil	Hop's Cramorant (Energy Symbol Pattern)	0.22		en			
 677045	Pokemon	ME: Ascended Heroes		66	Reverse Holofoil	Vikavolt (Energy Symbol Pattern)	0.24		en			
+662215	Pokemon	ME02: Phantasmal Flames		98	Holofoil	Piplup	12.98		en	151.25	52.5	28.0
+662238	Pokemon	ME02: Phantasmal Flames		3	Holofoil	Vileplume	0.12		en	33.46	24.99	10.96
+662159	Pokemon	ME02: Phantasmal Flames		53	Holofoil	Flygon	0.14		en	32.64	26.0	10.73
+662159	Pokemon	ME02: Phantasmal Flames		53	Holofoil	Flygon	0.14		en	32.64	26.0	10.73
+662229	Pokemon	ME02: Phantasmal Flames		26	Holofoil	Suicune	0.15		en	31.92	26.0	10.53
+662142	Pokemon	ME02: Phantasmal Flames		19	Reverse Holofoil	Charcadet	0.18		en	33.02	26.0	10.84
+662140	Pokemon	ME02: Phantasmal Flames		60	Reverse Holofoil	Carvanha	0.21		en	31.92	26.0	10.53
+662153	Pokemon	ME02: Phantasmal Flames		88	Reverse Holofoil	Dizzying Valley	0.16		en	31.15	25.0	10.32
+662146	Pokemon	ME02: Phantasmal Flames		16	Reverse Holofoil	Darmanitan	0.18		en	33.31	27.0	10.92
+662181	Pokemon	ME02: Phantasmal Flames		25	Reverse Holofoil	Mamoswine	0.18		en	34.22	27.0	11.17
+662139	Pokemon	ME02: Phantasmal Flames		83	Reverse Holofoil	Buneary	0.22		en	33.6	27.0	11.0
+662143	Pokemon	ME02: Phantasmal Flames		11	Reverse Holofoil	Charmander	0.27		en	34.76	24.99	11.31
 7659167	Football	2024 Panini Prestige		341		Adisa Isaac	1.23		en	34.54	28.0	11.77
 7649759	Football	2024 Panini Prestige		68		Amari Cooper	0.11		en	30.41	24.0	10.16
 7654795	Football	2024 Panini Prestige		281		Antoine Winfield Jr.	0.67		en	32.47	26.0	10.96
@@ -2485,330 +2497,6 @@ fake_id	Football	2021 Panini Chronicles Draft Picks	Donruss	1		Ja'Marr Chase	0.0
 11246414	Football	2025 Panini Prizm Draft Picks		135	Purple Wave	RJ Harvey	1.73		en	37.98	30.0	12.74
 11254135	Football	2025 Panini Prizm Draft Picks	Fearless	F-AJY	Green	Ashton Jeanty	2.12		en	40.16	32.0	13.5
 11254621	Football	2025 Panini Prizm Draft Picks	Instant Impact	20		Riley Leonard	1.99		en	39.14	31.0	13.15
-11726135	Football	2025 Panini Donruss Optic		63		Amon-Ra St. Brown	1.24		en	35.86	29.0	11.99
-11734464	Football	2025 Panini Donruss Optic		287		Andres Borregales	1.45		en	36.83	29.0	12.32
-11735027	Football	2025 Panini Donruss Optic		297		Andrew Mukuba	2.51		en	41.84	33.0	14.02
-11726164	Football	2025 Panini Donruss Optic		72		Anthony Richardson	0.99		en	0	0	0
-11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead	0.0		en	0	0	0
-11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.55		en	37.48	30.0	12.54
-11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.55		en	37.48	30.0	12.54
-11728883	Football	2025 Panini Donruss Optic		148		Baker Mayfield	0.3		en	0	0	0
-11733637	Football	2025 Panini Donruss Optic		272		Bhayshul Tuten	1.06		en	0	0	0
-11733637	Football	2025 Panini Donruss Optic		272		Bhayshul Tuten	1.06		en	0	0	0
-11724806	Football	2025 Panini Donruss Optic		31		Bo Nix	1.22		en	37.9	30.0	12.68
-11724806	Football	2025 Panini Donruss Optic		31		Bo Nix	1.22		en	37.9	30.0	12.68
-11729786	Football	2025 Panini Donruss Optic		175		Braelon Allen	0.0		en	0	0	0
-11729786	Football	2025 Panini Donruss Optic		175		Braelon Allen	0.0		en	0	0	0
-11729786	Football	2025 Panini Donruss Optic		175		Braelon Allen	0.0		en	0	0	0
-11729485	Football	2025 Panini Donruss Optic		168		Brandon Aiyuk	1.0		en	0	0	0
-11730632	Football	2025 Panini Donruss Optic		195		Breece Hall	1.59		en	0	0	0
-11724592	Football	2025 Panini Donruss Optic		25		Brian Robinson Jr.	1.49		en	0	0	0
-11724592	Football	2025 Panini Donruss Optic		25		Brian Robinson Jr.	1.49		en	0	0	0
-11723803	Football	2025 Panini Donruss Optic		4		Brian Thomas Jr.	0.99		en	41.71	33.0	13.98
-11725054	Football	2025 Panini Donruss Optic		38		Brock Purdy	1.67		en	38.89	31.0	13.02
-11725054	Football	2025 Panini Donruss Optic		38		Brock Purdy	1.67		en	38.89	31.0	13.02
-11725054	Football	2025 Panini Donruss Optic		38		Brock Purdy	1.67		en	38.89	31.0	13.02
-11726642	Football	2025 Panini Donruss Optic		83		Bucky Irving	1.34		en	0	0	0
-11726642	Football	2025 Panini Donruss Optic		83		Bucky Irving	1.34		en	0	0	0
-11729549	Football	2025 Panini Donruss Optic		162		C.J. Stroud	1.29		en	36.09	29.0	12.07
-11724183	Football	2025 Panini Donruss Optic		8		Caleb Williams	1.49		en	37.02	30.0	12.38
-11727414	Football	2025 Panini Donruss Optic		110		Calvin Ridley	0.99		en	0	0	0
-11729784	Football	2025 Panini Donruss Optic		170		Cameron Jordan	0.0		en	0	0	0
-11729784	Football	2025 Panini Donruss Optic		170		Cameron Jordan	0.0		en	0	0	0
-11735527	Football	2025 Panini Donruss Optic		217		Carson Schwesinger	1.98		en	39.28	31.0	13.15
-11735527	Football	2025 Panini Donruss Optic		217		Carson Schwesinger	1.98		en	39.28	31.0	13.15
-11724556	Football	2025 Panini Donruss Optic		24		CeeDee Lamb	1.74		en	38.22	31.0	12.79
-11724556	Football	2025 Panini Donruss Optic		24		CeeDee Lamb	1.74		en	38.22	31.0	12.79
-11727248	Football	2025 Panini Donruss Optic		103		Charles Woodson	1.99		en	39.37	32.0	13.18
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.0		en	0	0	0
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.0		en	0	0	0
-11726565	Football	2025 Panini Donruss Optic		82		Chris Jones	0.0		en	0	0	0
-11726565	Football	2025 Panini Donruss Optic		82		Chris Jones	0.0		en	0	0	0
-11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	0.0		en	0	0	0
-11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	0.0		en	0	0	0
-11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	0.0		en	0	0	0
-11728079	Football	2025 Panini Donruss Optic		129		Christian Kirk	0.0		en	0	0	0
-11726034	Football	2025 Panini Donruss Optic		71		Cole Kmet	1.25		en	35.88	29.0	12.0
-11726034	Football	2025 Panini Donruss Optic		71		Cole Kmet	1.25		en	35.88	29.0	12.0
-11730746	Football	2025 Panini Donruss Optic		200		Courtland Sutton	0.0		en	0	0	0
-11728937	Football	2025 Panini Donruss Optic		154		D'Andre Swift	1.59		en	0	0	0
-11733093	Football	2025 Panini Donruss Optic		258		DJ Giddens	1.11		en	0	0	0
-11733093	Football	2025 Panini Donruss Optic		258		DJ Giddens	1.11		en	0	0	0
-11730335	Football	2025 Panini Donruss Optic		180		DK Metcalf	1.59		en	37.48	30.0	12.54
-11730335	Football	2025 Panini Donruss Optic		180		DK Metcalf	1.59		en	37.48	30.0	12.54
-11726583	Football	2025 Panini Donruss Optic		81		Dak Prescott	1.5		en	37.06	30.0	12.4
-11724486	Football	2025 Panini Donruss Optic		22		Dalton Schultz	1.25		en	0	0	0
-11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
-11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
-11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
-11729353	Football	2025 Panini Donruss Optic		163		Daniel Carlson	1.5		en	39.41	32.0	13.2
-11725878	Football	2025 Panini Donruss Optic		65		Darnell Mooney	1.49		en	0	0	0
-11725878	Football	2025 Panini Donruss Optic		65		Darnell Mooney	1.49		en	0	0	0
-11725878	Football	2025 Panini Donruss Optic		65		Darnell Mooney	1.49		en	0	0	0
-11727775	Football	2025 Panini Donruss Optic		117		David Montgomery	1.24		en	35.86	29.0	11.99
-11727775	Football	2025 Panini Donruss Optic		117		David Montgomery	1.24		en	35.86	29.0	11.99
-11727775	Football	2025 Panini Donruss Optic		117		David Montgomery	1.24		en	35.86	29.0	11.99
-11726746	Football	2025 Panini Donruss Optic		86		De'Von Achane	0.99		en	38.05	30.0	12.73
-11724711	Football	2025 Panini Donruss Optic		28		DeVonta Smith	2.12		en	39.98	32.0	13.39
-11724768	Football	2025 Panini Donruss Optic		30		Deebo Samuel	1.0		en	0	0	0
-11724768	Football	2025 Panini Donruss Optic		30		Deebo Samuel	1.0		en	0	0	0
-11724258	Football	2025 Panini Donruss Optic		16		Deion Sanders	1.09		en	35.14	28.0	11.74
-11724258	Football	2025 Panini Donruss Optic		16		Deion Sanders	1.09		en	35.14	28.0	11.74
-11735109	Football	2025 Panini Donruss Optic		296		Demetrius Knight Jr.	1.04		en	37.15	30.0	12.43
-11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
-11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
-11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
-11727530	Football	2025 Panini Donruss Optic		112		Derrick Henry	1.09		en	34.66	28.0	11.58
-11727295	Football	2025 Panini Donruss Optic		98		Derwin James Jr.	1.49		en	0	0	0
-11727295	Football	2025 Panini Donruss Optic		98		Derwin James Jr.	1.49		en	0	0	0
-11734644	Football	2025 Panini Donruss Optic		282		Devin Neal	1.19		en	35.61	28.0	11.9
-11732503	Football	2025 Panini Donruss Optic		230		Donovan Ezeiruaku	1.74		en	0	0	0
-11732503	Football	2025 Panini Donruss Optic		230		Donovan Ezeiruaku	1.74		en	0	0	0
-11727582	Football	2025 Panini Donruss Optic		113		Donovan McNabb	0.0		en	0	0	0
-11729142	Football	2025 Panini Donruss Optic		153		Drake London	0.0		en	0	0	0
-11725366	Football	2025 Panini Donruss Optic		47		Drake Maye	1.67		en	36.63	29.0	12.25
-11725366	Football	2025 Panini Donruss Optic		47		Drake Maye	1.67		en	36.63	29.0	12.25
-11725680	Football	2025 Panini Donruss Optic		57		Drew Bledsoe	1.75		en	0	0	0
-11725680	Football	2025 Panini Donruss Optic		57		Drew Bledsoe	1.75		en	0	0	0
-11730180	Football	2025 Panini Donruss Optic		190		Drew Brees	1.65		en	37.76	30.0	12.64
-11730180	Football	2025 Panini Donruss Optic		190		Drew Brees	1.65		en	37.76	30.0	12.64
-11730013	Football	2025 Panini Donruss Optic		185		Edgerrin James	1.75		en	0	0	0
-11730013	Football	2025 Panini Donruss Optic		185		Edgerrin James	1.75		en	0	0	0
-11730476	Football	2025 Panini Donruss Optic		184		Eli Manning	1.0		en	47.64	38.0	15.99
-11731279	Football	2025 Panini Donruss Optic		214		Elijah Arroyo	1.45		en	36.86	29.0	12.33
-11731279	Football	2025 Panini Donruss Optic		214		Elijah Arroyo	1.45		en	36.86	29.0	12.33
-11733845	Football	2025 Panini Donruss Optic		265		Emeka Egbuka	1.73		en	37.29	30.0	12.48
-11733845	Football	2025 Panini Donruss Optic		265		Emeka Egbuka	1.73		en	37.29	30.0	12.48
-11727006	Football	2025 Panini Donruss Optic		95		Garrett Wilson	0.0		en	0	0	0
-11729045	Football	2025 Panini Donruss Optic		144		Geno Smith	5.0		en	53.61	43.0	18.01
-11729045	Football	2025 Panini Donruss Optic		144		Geno Smith	5.0		en	53.61	43.0	18.01
-11725441	Football	2025 Panini Donruss Optic		48		George Kittle	1.6		en	37.53	30.0	12.56
-11725441	Football	2025 Panini Donruss Optic		48		George Kittle	1.6		en	37.53	30.0	12.56
-11727254	Football	2025 Panini Donruss Optic		88		Greg Rousseau	1.45		en	0	0	0
-11727254	Football	2025 Panini Donruss Optic		88		Greg Rousseau	1.45		en	0	0	0
-11726050	Football	2025 Panini Donruss Optic		67		Greg Zuerlein	0.0		en	0	0	0
-11725565	Football	2025 Panini Donruss Optic		54		Hunter Henry	1.7		en	0	0	0
-11725565	Football	2025 Panini Donruss Optic		54		Hunter Henry	1.7		en	0	0	0
-11725652	Football	2025 Panini Donruss Optic		55		J.K. Dobbins	1.99		en	0	0	0
-11725652	Football	2025 Panini Donruss Optic		55		J.K. Dobbins	1.99		en	0	0	0
-11731668	Football	2025 Panini Donruss Optic		224		Jackson Hawes	2.0		en	39.39	32.0	13.19
-11731668	Football	2025 Panini Donruss Optic		224		Jackson Hawes	2.0		en	39.39	32.0	13.19
-11731479	Football	2025 Panini Donruss Optic		207		Jahdae Barron	1.25		en	35.88	29.0	12.0
-11726444	Football	2025 Panini Donruss Optic		79		Jahmyr Gibbs	1.5		en	37.02	30.0	12.38
-11724102	Football	2025 Panini Donruss Optic		14		Jalen Hurts	1.49		en	0	0	0
-11734970	Football	2025 Panini Donruss Optic		290		Jalon Walker	1.13		en	0	0	0
-11734970	Football	2025 Panini Donruss Optic		290		Jalon Walker	1.13		en	0	0	0
-11724702	Football	2025 Panini Donruss Optic		29		Jamaal Charles	1.49		en	0	0	0
-11728611	Football	2025 Panini Donruss Optic		138		James Cook	1.96		en	39.26	31.0	13.14
-11725724	Football	2025 Panini Donruss Optic		56		James Lofton	1.0		en	34.7	28.0	11.6
-11725724	Football	2025 Panini Donruss Optic		56		James Lofton	1.0		en	34.7	28.0	11.6
-11725724	Football	2025 Panini Donruss Optic		56		James Lofton	1.0		en	34.7	28.0	11.6
-11732558	Football	2025 Panini Donruss Optic		240		James Pearce Jr.	1.44		en	36.64	29.0	12.25
-11723960	Football	2025 Panini Donruss Optic		10		Jameson Williams	1.94		en	39.39	32.0	13.18
-11723960	Football	2025 Panini Donruss Optic		10		Jameson Williams	1.94		en	39.39	32.0	13.18
-11728799	Football	2025 Panini Donruss Optic		149		Jared Goff	1.51		en	37.1	30.0	12.41
-11730414	Football	2025 Panini Donruss Optic		194		Jauan Jennings	0.0		en	0	0	0
-11724146	Football	2025 Panini Donruss Optic		7		Jaxon Smith-Njigba	1.81		en	39.38	32.0	13.18
-11724146	Football	2025 Panini Donruss Optic		7		Jaxon Smith-Njigba	1.81		en	39.38	32.0	13.18
-11724521	Football	2025 Panini Donruss Optic		23		Jayden Daniels	1.75		en	39.41	32.0	13.2
-11732134	Football	2025 Panini Donruss Optic		225		Jayden Higgins	1.5		en	37.06	30.0	12.4
-11732134	Football	2025 Panini Donruss Optic		225		Jayden Higgins	1.5		en	37.06	30.0	12.4
-11725156	Football	2025 Panini Donruss Optic		41		Jayden Reed	1.24		en	35.86	29.0	11.99
-11732572	Football	2025 Panini Donruss Optic		249		Jaylin Lane	1.5		en	37.07	30.0	12.4
-11732284	Football	2025 Panini Donruss Optic		241		Jaylin Noel	3.0		en	39.41	32.0	13.2
-11732284	Football	2025 Panini Donruss Optic		241		Jaylin Noel	3.0		en	39.41	32.0	13.2
-11729109	Football	2025 Panini Donruss Optic		157		Jeff Garcia	1.99		en	0	0	0
-11729109	Football	2025 Panini Donruss Optic		157		Jeff Garcia	1.99		en	0	0	0
-11728276	Football	2025 Panini Donruss Optic		127		Jerry Jeudy	1.0		en	0	0	0
-11728276	Football	2025 Panini Donruss Optic		127		Jerry Jeudy	1.0		en	0	0	0
-11733404	Football	2025 Panini Donruss Optic		266		Jihaad Campbell	1.48		en	37.07	30.0	12.4
-11734315	Football	2025 Panini Donruss Optic		281		Jimmy Horn Jr.	1.0		en	0	0	0
-11723745	Football	2025 Panini Donruss Optic		1		Joe Burrow	1.59		en	38.66	31.0	12.94
-11729560	Football	2025 Panini Donruss Optic		171		John Elway	1.49		en	34.7	28.0	11.6
-11725419	Football	2025 Panini Donruss Optic		49		Jonathan Taylor	0.0		en	0	0	0
-11725419	Football	2025 Panini Donruss Optic		49		Jonathan Taylor	0.0		en	0	0	0
-11729918	Football	2025 Panini Donruss Optic		178		Jonnu Smith	1.6		en	37.01	30.0	12.38
-11728412	Football	2025 Panini Donruss Optic		128		Josh Jacobs	1.39		en	36.54	29.0	12.22
-11730050	Football	2025 Panini Donruss Optic		167		Justin Fields	1.49		en	0	0	0
-11730050	Football	2025 Panini Donruss Optic		167		Justin Fields	1.49		en	0	0	0
-11727669	Football	2025 Panini Donruss Optic		109		Justin Herbert	1.35		en	34.71	28.0	11.6
-11727669	Football	2025 Panini Donruss Optic		109		Justin Herbert	1.35		en	34.71	28.0	11.6
-11734670	Football	2025 Panini Donruss Optic		291		Kaden Prather	1.5		en	37.06	30.0	12.4
-11735646	Football	2025 Panini Donruss Optic		232		Kaleb Johnson	1.6		en	37.55	30.0	12.56
-11735646	Football	2025 Panini Donruss Optic		232		Kaleb Johnson	1.6		en	37.55	30.0	12.56
-11725298	Football	2025 Panini Donruss Optic		45		Kam Chancellor	2.0		en	0	0	0
-11734002	Football	2025 Panini Donruss Optic		271		KeAndre Lambert-Smith	1.42		en	50.3	40.0	16.89
-11730232	Football	2025 Panini Donruss Optic		187		Keenan Allen	2.0		en	0	0	0
-11727175	Football	2025 Panini Donruss Optic		97		Kenneth Gainwell	1.99		en	37.05	30.0	12.4
-11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
-11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
-11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
-11728296	Football	2025 Panini Donruss Optic		133		Kenneth Walker III	1.69		en	37.95	30.0	12.7
-11728296	Football	2025 Panini Donruss Optic		133		Kenneth Walker III	1.69		en	37.95	30.0	12.7
-11728296	Football	2025 Panini Donruss Optic		133		Kenneth Walker III	1.69		en	37.95	30.0	12.7
-11724842	Football	2025 Panini Donruss Optic		32		Keon Coleman	0.0		en	0	0	0
-11724842	Football	2025 Panini Donruss Optic		32		Keon Coleman	0.0		en	0	0	0
-11727337	Football	2025 Panini Donruss Optic		89		Kirk Cousins	0.0		en	0	0	0
-11727337	Football	2025 Panini Donruss Optic		89		Kirk Cousins	0.0		en	0	0	0
-11734794	Football	2025 Panini Donruss Optic		283		Kyle McCord	0.62		en	0	0	0
-11734794	Football	2025 Panini Donruss Optic		283		Kyle McCord	0.62		en	0	0	0
-11726735	Football	2025 Panini Donruss Optic		90		Kyle Pitts	0.99		en	0	0	0
-11726735	Football	2025 Panini Donruss Optic		90		Kyle Pitts	0.99		en	0	0	0
-11724627	Football	2025 Panini Donruss Optic		26		Ladd McConkey	2.0		en	39.41	32.0	13.2
-11726516	Football	2025 Panini Donruss Optic		80		Lamar Jackson	2.17		en	39.41	32.0	13.19
-11726516	Football	2025 Panini Donruss Optic		80		Lamar Jackson	2.17		en	39.41	32.0	13.19
-11726516	Football	2025 Panini Donruss Optic		80		Lamar Jackson	2.17		en	39.41	32.0	13.19
-11727690	Football	2025 Panini Donruss Optic		104		Leonard Williams	2.99		en	0	0	0
-11734223	Football	2025 Panini Donruss Optic		275		Luther Burden III	1.74		en	38.18	31.0	12.78
-11734223	Football	2025 Panini Donruss Optic		275		Luther Burden III	1.74		en	38.18	31.0	12.78
-11730664	Football	2025 Panini Donruss Optic		199		Mark Andrews	0.99		en	34.66	28.0	11.58
-11730664	Football	2025 Panini Donruss Optic		199		Mark Andrews	0.99		en	34.66	28.0	11.58
-11727761	Football	2025 Panini Donruss Optic		121		Mark Brunell	0.0		en	0	0	0
-11730348	Football	2025 Panini Donruss Optic		191		Marvin Harrison Jr.	0.4		en	0	0	0
-11730348	Football	2025 Panini Donruss Optic		191		Marvin Harrison Jr.	0.4		en	0	0	0
-11730348	Football	2025 Panini Donruss Optic		191		Marvin Harrison Jr.	0.4		en	0	0	0
-11731117	Football	2025 Panini Donruss Optic		206		Mason Graham	1.25		en	35.88	29.0	12.0
-11731117	Football	2025 Panini Donruss Optic		206		Mason Graham	1.25		en	35.88	29.0	12.0
-11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
-11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
-11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
-11735831	Football	2025 Panini Donruss Optic		205		Matthew Golden	1.3		en	36.67	29.0	12.27
-11735831	Football	2025 Panini Donruss Optic		205		Matthew Golden	1.3		en	36.67	29.0	12.27
-11730715	Football	2025 Panini Donruss Optic		198		Matthew Stafford	0.06		en	0	0	0
-11730101	Football	2025 Panini Donruss Optic		183		Maxx Crosby	1.44		en	0	0	0
-11732913	Football	2025 Panini Donruss Optic		250		Mike Green	0.0		en	0	0	0
-11729310	Football	2025 Panini Donruss Optic		158		Myles Garrett	1.39		en	36.54	29.0	12.22
-11729310	Football	2025 Panini Donruss Optic		158		Myles Garrett	1.39		en	36.54	29.0	12.22
-11729310	Football	2025 Panini Donruss Optic		158		Myles Garrett	1.39		en	36.54	29.0	12.22
-11727560	Football	2025 Panini Donruss Optic		108		Najee Harris	0.0		en	0	0	0
-11727560	Football	2025 Panini Donruss Optic		108		Najee Harris	0.0		en	0	0	0
-11733555	Football	2025 Panini Donruss Optic		270		Nic Scourton	2.0		en	0	0	0
-11728805	Football	2025 Panini Donruss Optic		143		Nico Collins	1.0		en	34.7	28.0	11.6
-11728805	Football	2025 Panini Donruss Optic		143		Nico Collins	1.0		en	34.7	28.0	11.6
-11729117	Football	2025 Panini Donruss Optic		155		Pat Freiermuth	2.0		en	39.42	32.0	13.2
-11725122	Football	2025 Panini Donruss Optic		40		Patrick Mahomes II	1.73		en	36.6	29.0	12.24
-11725122	Football	2025 Panini Donruss Optic		40		Patrick Mahomes II	1.73		en	36.6	29.0	12.24
-11730534	Football	2025 Panini Donruss Optic		192		Puka Nacua	1.7		en	0	0	0
-11727611	Football	2025 Panini Donruss Optic		116		Quincy Williams	1.25		en	0	0	0
-11727611	Football	2025 Panini Donruss Optic		116		Quincy Williams	1.25		en	0	0	0
-11731125	Football	2025 Panini Donruss Optic		208		RJ Harvey	1.44		en	36.21	29.0	12.11
-11730196	Football	2025 Panini Donruss Optic		179		Rashee Rice	1.74		en	0	0	0
-11725962	Football	2025 Panini Donruss Optic		66		Rex Grossman	1.42		en	0	0	0
-11725962	Football	2025 Panini Donruss Optic		66		Rex Grossman	1.42		en	0	0	0
-11725488	Football	2025 Panini Donruss Optic		51		Rhamondre Stevenson	1.7		en	0	0	0
-11725488	Football	2025 Panini Donruss Optic		51		Rhamondre Stevenson	1.7		en	0	0	0
-11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.0		en	0	0	0
-11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.0		en	0	0	0
-11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	1.27		en	35.97	29.0	12.03
-11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	1.27		en	35.97	29.0	12.03
-11727997	Football	2025 Panini Donruss Optic		126		Ricky Williams	0.99		en	34.66	28.0	11.58
-11727997	Football	2025 Panini Donruss Optic		126		Ricky Williams	0.99		en	34.66	28.0	11.58
-11733569	Football	2025 Panini Donruss Optic		255		Riley Leonard	1.75		en	37.07	30.0	12.4
-11733437	Football	2025 Panini Donruss Optic		264		Robbie Ouzts	1.44		en	36.6	29.0	12.24
-11728842	Football	2025 Panini Donruss Optic		151		Rome Odunze	1.44		en	36.78	29.0	12.3
-11730142	Football	2025 Panini Donruss Optic		186		Sam Darnold	1.67		en	37.97	30.0	12.7
-11730482	Football	2025 Panini Donruss Optic		196		Sam LaPorta	0.99		en	34.7	28.0	11.6
-11724196	Football	2025 Panini Donruss Optic		15		Saquon Barkley	1.0		en	0	0	0
-11724196	Football	2025 Panini Donruss Optic		15		Saquon Barkley	1.0		en	0	0	0
-11724196	Football	2025 Panini Donruss Optic		15		Saquon Barkley	1.0		en	0	0	0
-11729446	Football	2025 Panini Donruss Optic		161		Stefon Diggs	1.49		en	37.75	30.0	12.63
-11728617	Football	2025 Panini Donruss Optic		142		Steven Jackson	0.99		en	0	0	0
-11729177	Football	2025 Panini Donruss Optic		145		T.J. Hockenson	1.69		en	0	0	0
-11731701	Football	2025 Panini Donruss Optic		226		T.J. Sanders	0.49		en	0	0	0
-11733575	Football	2025 Panini Donruss Optic		268		Tahj Brooks	1.0		en	0	0	0
-11732174	Football	2025 Panini Donruss Optic		239		Tai Felton	0.77		en	33.1	26.0	11.05
-11724068	Football	2025 Panini Donruss Optic		13		Tee Higgins	0.99		en	36.12	29.0	12.08
-11724068	Football	2025 Panini Donruss Optic		13		Tee Higgins	0.99		en	36.12	29.0	12.08
-11724448	Football	2025 Panini Donruss Optic		21		Terrell Owens	0.3		en	0	0	0
-11726968	Football	2025 Panini Donruss Optic		96		Terrell Suggs	1.75		en	0	0	0
-11726968	Football	2025 Panini Donruss Optic		96		Terrell Suggs	1.75		en	0	0	0
-11727390	Football	2025 Panini Donruss Optic		107		Terry McLaurin	1.5		en	37.09	30.0	12.4
-11731377	Football	2025 Panini Donruss Optic		209		Tetairoa McMillan	1.63		en	39.91	32.0	13.37
-11735006	Football	2025 Panini Donruss Optic		299		Tommy Mellott	1.49		en	34.66	28.0	11.58
-11735006	Football	2025 Panini Donruss Optic		299		Tommy Mellott	1.49		en	34.66	28.0	11.58
-11732080	Football	2025 Panini Donruss Optic		229		Tre Harris	1.5		en	40.47	32.0	13.55
-11733768	Football	2025 Panini Donruss Optic		267		Trey Amos	1.99		en	0	0	0
-11726189	Football	2025 Panini Donruss Optic		74		Trey McBride	0.0		en	0	0	0
-11726189	Football	2025 Panini Donruss Optic		74		Trey McBride	0.0		en	0	0	0
-11725090	Football	2025 Panini Donruss Optic		39		Tua Tagovailoa	0.0		en	0	0	0
-11728663	Football	2025 Panini Donruss Optic		136		Tutu Atwell	1.49		en	0	0	0
-11732824	Football	2025 Panini Donruss Optic		246		Tyleik Williams	1.0		en	33.07	26.0	11.04
-11731837	Football	2025 Panini Donruss Optic		223		Tyler Shough	1.53		en	39.12	31.0	13.1
-11728954	Football	2025 Panini Donruss Optic		150		Tyreek Hill	1.7		en	45.76	37.0	15.35
-11728954	Football	2025 Panini Donruss Optic		150		Tyreek Hill	1.7		en	45.76	37.0	15.35
-11728954	Football	2025 Panini Donruss Optic		150		Tyreek Hill	1.7		en	45.76	37.0	15.35
-11723917	Football	2025 Panini Donruss Optic		6		Tyrone Tracy Jr.	0.0		en	0	0	0
-11723917	Football	2025 Panini Donruss Optic		6		Tyrone Tracy Jr.	0.0		en	0	0	0
-11723917	Football	2025 Panini Donruss Optic		6		Tyrone Tracy Jr.	0.0		en	0	0	0
-11728725	Football	2025 Panini Donruss Optic		137		Vernon Davis	1.49		en	0	0	0
-11729429	Football	2025 Panini Donruss Optic		159		Vinny Testaverde	0.0		en	0	0	0
-11728189	Football	2025 Panini Donruss Optic		132		Warren Moon	1.71		en	38.05	30.0	12.73
-11728189	Football	2025 Panini Donruss Optic		132		Warren Moon	1.71		en	38.05	30.0	12.73
-11732190	Football	2025 Panini Donruss Optic		233		Will Howard	1.75		en	38.23	31.0	12.8
-11732190	Football	2025 Panini Donruss Optic		233		Will Howard	1.75		en	38.23	31.0	12.8
-11732471	Football	2025 Panini Donruss Optic		247		Will Johnson	1.25		en	0	0	0
-11732471	Football	2025 Panini Donruss Optic		247		Will Johnson	1.25		en	0	0	0
-11734770	Football	2025 Panini Donruss Optic		288		Woody Marks	1.29		en	35.7	29.0	11.94
-11734770	Football	2025 Panini Donruss Optic		288		Woody Marks	1.29		en	35.7	29.0	11.94
-11728289	Football	2025 Panini Donruss Optic		120		Zay Flowers	0.99		en	0	0	0
-11733733	Football	2025 Panini Donruss Optic		272	Purple Shock	Bhayshul Tuten	0.99		en	34.66	28.0	11.58
-11735177	Football	2025 Panini Donruss Optic		296	Purple Shock	Demetrius Knight Jr.	2.36		en	41.8	33.0	14.0
-11735563	Football	2025 Panini Donruss Optic		230	Purple Shock	Donovan Ezeiruaku	1.67		en	37.98	30.0	12.71
-11731323	Football	2025 Panini Donruss Optic		214	Purple Shock	Elijah Arroyo	1.25		en	35.88	29.0	12.0
-11734090	Football	2025 Panini Donruss Optic		271	Purple Shock	KeAndre Lambert-Smith	0.99		en	0	0	0
-11732832	Football	2025 Panini Donruss Optic		255	Purple Shock	Riley Leonard	2.04		en	39.55	32.0	13.24
-11724040	Football	2025 Panini Donruss Optic		12	Holo	Hines Ward	1.99		en	39.37	32.0	13.18
-11725195	Football	2025 Panini Donruss Optic		42	Holo	Jalen Ramsey	1.69		en	37.99	30.0	12.71
-11734714	Football	2025 Panini Donruss Optic		291	Holo	Kaden Prather	0.0		en	0	0	0
-11730839	Football	2025 Panini Donruss Optic		68	Holo	Khalil Mack	0.0		en	0	0	0
-11726709	Football	2025 Panini Donruss Optic		84	Holo	Luke Kuechly	1.0		en	35.17	28.0	11.76
-11724416	Football	2025 Panini Donruss Optic		20	Holo	Rashod Bateman	0.0		en	0	0	0
-11733643	Football	2025 Panini Donruss Optic		268	Holo	Tahj Brooks	2.0		en	39.44	32.0	13.2
-11730440	Football	2025 Panini Donruss Optic		181	Holo	Tony Pollard	0.99		en	0	0	0
-11725875	Football	2025 Panini Donruss Optic		61	Holo	Trent Green	0.0		en	0	0	0
-11727975	Football	2025 Panini Donruss Optic		123	Holo	Xavier Worthy	0.0		en	0	0	0
-11738894	Football	2025 Panini Donruss Optic	Retro	1		Cam Ward	2.21		en	40.41	32.0	13.53
-11739081	Football	2025 Panini Donruss Optic	Retro	27		Danielle Hunter	0.99		en	0	0	0
-11738959	Football	2025 Panini Donruss Optic	Retro	17		Luther Burden III	2.0		en	38.42	31.0	12.86
-11738940	Football	2025 Panini Donruss Optic	Retro	6		Omarion Hampton	1.39		en	38.85	31.0	13.01
-11738299	Football	2025 Panini Donruss Optic	First Year Fresh	27	Blue Hyper	Cam Ward	18.0		en	83.89	67.0	28.29
-11738477	Football	2025 Panini Donruss Optic	First Year Fresh	35	Blue Hyper	Kyle Williams	1.39		en	35.89	29.0	12.0
-11738705	Football	2025 Panini Donruss Optic	First Year Fresh	39	Blue Hyper	Terrance Ferguson	0.0		en	0	0	0
-11738230	Football	2025 Panini Donruss Optic	First Year Fresh	16	Blue Hyper	TreVeyon Henderson	4.99		en	53.55	43.0	17.99
-11732159	Football	2025 Panini Donruss Optic		237	Blue Hyper	Alfred Collins	0.0		en	0	0	0
-11731299	Football	2025 Panini Donruss Optic		202	Blue Hyper	Ashton Jeanty	4.07		en	48.72	39.0	16.36
-11733906	Football	2025 Panini Donruss Optic		261	Blue Hyper	Cam Miller	0.67		en	0	0	0
-11733938	Football	2025 Panini Donruss Optic		269	Blue Hyper	Chimere Dike	1.7		en	0	0	0
-11734248	Football	2025 Panini Donruss Optic		279	Blue Hyper	Dont'e Thornton Jr.	1.25		en	36.45	29.0	12.19
-11733259	Football	2025 Panini Donruss Optic		253	Blue Hyper	Jalen Milroe	2.4		en	41.72	33.0	13.98
-11735847	Football	2025 Panini Donruss Optic		243	Blue Hyper	Kurtis Rourke	2.25		en	0	0	0
-11735847	Football	2025 Panini Donruss Optic		243	Blue Hyper	Kurtis Rourke	2.25		en	0	0	0
-11733574	Football	2025 Panini Donruss Optic		270	Blue Hyper	Nic Scourton	1.99		en	39.39	32.0	13.19
-11731389	Football	2025 Panini Donruss Optic		212	Blue Hyper	Omarion Hampton	2.14		en	40.06	32.0	13.42
-11735382	Football	2025 Panini Donruss Optic		221	Blue Hyper	Savion Williams	2.0		en	0	0	0
-11731958	Football	2025 Panini Donruss Optic		227	Blue Hyper	Tyler Loop	0.0		en	0	0	0
-11972328	Football	2025 Panini Donruss Optic	Rookie Primary Colors	2		Jaxson Dart	1.83		en	39.92	32.0	13.37
-11972356	Football	2025 Panini Donruss Optic	Rookie Primary Colors	6		Luther Burden III	2.02		en	40.64	33.0	13.61
-11739247	Football	2025 Panini Donruss Optic	Best Tuddys	13		Josh Allen / Keon Coleman	1.97		en	39.38	32.0	13.18
-11739182	Football	2025 Panini Donruss Optic	Best Tuddys	18		Kyler Murray / Marvin Harrison Jr.	0.99		en	36.45	29.0	12.19
-11738853	Football	2025 Panini Donruss Optic	Rookie Phenom	RPBH-TFE		Terrance Ferguson	0.49		en	0	0	0
-11734674	Football	2025 Panini Donruss Optic		282	Green Hyper	Devin Neal	1.74		en	0	0	0
-11733893	Football	2025 Panini Donruss Optic		265	Green Hyper	Emeka Egbuka	2.25		en	40.6	32.0	13.6
-11731697	Football	2025 Panini Donruss Optic		224	Green Hyper	Jackson Hawes	0.99		en	0	0	0
-11732596	Football	2025 Panini Donruss Optic		240	Green Hyper	James Pearce Jr.	2.49		en	41.75	33.0	13.99
-11733388	Football	2025 Panini Donruss Optic		256	Green Hyper	Malaki Starks	1.99		en	0	0	0
-11731180	Football	2025 Panini Donruss Optic		206	Green Hyper	Mason Graham	1.53		en	0	0	0
-11739420	Football	2025 Panini Donruss Optic	Diamond Hands	4		Emeka Egbuka	2.24		en	36.45	29.0	12.19
-11740599	Football	2025 Panini Donruss Optic	Rookie Recruits	20		Shedeur Sanders	1.72		en	35.98	29.0	12.03
-11740680	Football	2025 Panini Donruss Optic	Rookie Recruits	17		Tetairoa McMillan	1.39		en	37.16	30.0	12.43
-11738811	Football	2025 Panini Donruss Optic	Rookie Phenom	RPBH-RHY	Blue Hyper	RJ Harvey	1.58		en	38.27	31.0	12.81
-11739823	Football	2025 Panini Donruss Optic	Hidden Potential	15		Emeka Egbuka	1.55		en	37.29	30.0	12.48
-11740412	Football	2025 Panini Donruss Optic	Play Action	19		Davante Adams	2.0		en	39.42	32.0	13.2
-11737863	Football	2025 Panini Donruss Optic	Signature Series Holo	44		Tre Harris	6.49		en	0	0	0
-11734866	Football	2025 Panini Donruss Optic		288	Teal Velocity	Woody Marks	0.0		en	0	0	0
-11739913	Football	2025 Panini Donruss Optic	Light It Up	6		Jalen Milroe	1.2		en	35.64	29.0	11.92
-11732333	Football	2025 Panini Donruss Optic		241	Green Velocity	Jaylin Noel	0.0		en	0	0	0
-11739867	Football	2025 Panini Donruss Optic	Light it Up	1		Cam Ward	1.99		en	36.96	30.0	12.37
 11150501	Football	2025 Panini Phoenix		214		Andres Borregales	1.38		en	36.27	29.0	12.17
 11151441	Football	2025 Panini Phoenix		228		Arian Smith	1.99		en	39.06	31.0	13.13
 11141496	Football	2025 Panini Phoenix		103		Austin Ekeler	0.0		en	0	0	0
@@ -4563,6 +4251,415 @@ fake_id	Football	2021 Panini Chronicles Draft Picks	Donruss	1		Ja'Marr Chase	0.0
 11404828	Football	2025 Panini Rookies and Stars	Crusade Signature	13		Jalen Milroe	31.24		en	174.7	140.0	59.58
 11625580	Football	2025 Panini Rookies and Stars	Rookie Exclusive	10	Purple	Jaxson Dart	0.0		en	0	0	0
 11626811	Football	2025 Panini Rookies and Stars	Airborne	5	Pink	Justin Herbert	4.0		en	0	0	0
+11724305	Football	2025 Panini Donruss Optic		17		A.J. Brown	0.99		en	0	0	0
+11726313	Football	2025 Panini Donruss Optic		75		Aaron Rodgers	1.81		en	38.42	31.0	12.86
+11724261	Football	2025 Panini Donruss Optic		9		Alvin Kamara	0.0		en	0	0	0
+11726135	Football	2025 Panini Donruss Optic		63		Amon-Ra St. Brown	1.24		en	35.86	29.0	11.99
+11734464	Football	2025 Panini Donruss Optic		287		Andres Borregales	1.45		en	36.83	29.0	12.32
+11735027	Football	2025 Panini Donruss Optic		297		Andrew Mukuba	2.51		en	41.84	33.0	14.02
+11726164	Football	2025 Panini Donruss Optic		72		Anthony Richardson	0.99		en	0	0	0
+11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead	0.0		en	0	0	0
+11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead	0.0		en	0	0	0
+11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.55		en	37.48	30.0	12.54
+11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.55		en	37.48	30.0	12.54
+11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.55		en	37.48	30.0	12.54
+11728883	Football	2025 Panini Donruss Optic		148		Baker Mayfield	0.3		en	0	0	0
+11733637	Football	2025 Panini Donruss Optic		272		Bhayshul Tuten	1.06		en	0	0	0
+11733637	Football	2025 Panini Donruss Optic		272		Bhayshul Tuten	1.06		en	0	0	0
+11724806	Football	2025 Panini Donruss Optic		31		Bo Nix	1.22		en	37.9	30.0	12.68
+11724806	Football	2025 Panini Donruss Optic		31		Bo Nix	1.22		en	37.9	30.0	12.68
+11729786	Football	2025 Panini Donruss Optic		175		Braelon Allen	0.0		en	0	0	0
+11729786	Football	2025 Panini Donruss Optic		175		Braelon Allen	0.0		en	0	0	0
+11729786	Football	2025 Panini Donruss Optic		175		Braelon Allen	0.0		en	0	0	0
+11729485	Football	2025 Panini Donruss Optic		168		Brandon Aiyuk	1.0		en	0	0	0
+11730632	Football	2025 Panini Donruss Optic		195		Breece Hall	1.59		en	0	0	0
+11730632	Football	2025 Panini Donruss Optic		195		Breece Hall	1.59		en	0	0	0
+11724592	Football	2025 Panini Donruss Optic		25		Brian Robinson Jr.	1.49		en	0	0	0
+11724592	Football	2025 Panini Donruss Optic		25		Brian Robinson Jr.	1.49		en	0	0	0
+11723803	Football	2025 Panini Donruss Optic		4		Brian Thomas Jr.	0.99		en	41.71	33.0	13.98
+11723849	Football	2025 Panini Donruss Optic		3		Brock Bowers	1.7		en	0	0	0
+11725054	Football	2025 Panini Donruss Optic		38		Brock Purdy	1.67		en	38.89	31.0	13.02
+11725054	Football	2025 Panini Donruss Optic		38		Brock Purdy	1.67		en	38.89	31.0	13.02
+11725054	Football	2025 Panini Donruss Optic		38		Brock Purdy	1.67		en	38.89	31.0	13.02
+11726642	Football	2025 Panini Donruss Optic		83		Bucky Irving	1.34		en	0	0	0
+11726642	Football	2025 Panini Donruss Optic		83		Bucky Irving	1.34		en	0	0	0
+11729549	Football	2025 Panini Donruss Optic		162		C.J. Stroud	1.29		en	36.09	29.0	12.07
+11724183	Football	2025 Panini Donruss Optic		8		Caleb Williams	1.49		en	37.02	30.0	12.38
+11727414	Football	2025 Panini Donruss Optic		110		Calvin Ridley	0.99		en	0	0	0
+11729784	Football	2025 Panini Donruss Optic		170		Cameron Jordan	0.0		en	0	0	0
+11729784	Football	2025 Panini Donruss Optic		170		Cameron Jordan	0.0		en	0	0	0
+11735527	Football	2025 Panini Donruss Optic		217		Carson Schwesinger	1.98		en	39.28	31.0	13.15
+11735527	Football	2025 Panini Donruss Optic		217		Carson Schwesinger	1.98		en	39.28	31.0	13.15
+11724556	Football	2025 Panini Donruss Optic		24		CeeDee Lamb	1.74		en	38.22	31.0	12.79
+11724556	Football	2025 Panini Donruss Optic		24		CeeDee Lamb	1.74		en	38.22	31.0	12.79
+11727248	Football	2025 Panini Donruss Optic		103		Charles Woodson	1.99		en	39.37	32.0	13.18
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.0		en	0	0	0
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.0		en	0	0	0
+11726565	Football	2025 Panini Donruss Optic		82		Chris Jones	0.0		en	0	0	0
+11726565	Football	2025 Panini Donruss Optic		82		Chris Jones	0.0		en	0	0	0
+11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	0.0		en	0	0	0
+11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	0.0		en	0	0	0
+11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	0.0		en	0	0	0
+11728079	Football	2025 Panini Donruss Optic		129		Christian Kirk	0.0		en	0	0	0
+11725924	Football	2025 Panini Donruss Optic		62		Chuba Hubbard	0.0		en	0	0	0
+11726034	Football	2025 Panini Donruss Optic		71		Cole Kmet	1.25		en	35.88	29.0	12.0
+11726034	Football	2025 Panini Donruss Optic		71		Cole Kmet	1.25		en	35.88	29.0	12.0
+11730746	Football	2025 Panini Donruss Optic		200		Courtland Sutton	0.0		en	0	0	0
+11728937	Football	2025 Panini Donruss Optic		154		D'Andre Swift	1.59		en	0	0	0
+11728937	Football	2025 Panini Donruss Optic		154		D'Andre Swift	1.59		en	0	0	0
+11733093	Football	2025 Panini Donruss Optic		258		DJ Giddens	1.11		en	0	0	0
+11733093	Football	2025 Panini Donruss Optic		258		DJ Giddens	1.11		en	0	0	0
+11730335	Football	2025 Panini Donruss Optic		180		DK Metcalf	1.59		en	37.48	30.0	12.54
+11730335	Football	2025 Panini Donruss Optic		180		DK Metcalf	1.59		en	37.48	30.0	12.54
+11730335	Football	2025 Panini Donruss Optic		180		DK Metcalf	1.59		en	37.48	30.0	12.54
+11726583	Football	2025 Panini Donruss Optic		81		Dak Prescott	1.5		en	37.06	30.0	12.4
+11724486	Football	2025 Panini Donruss Optic		22		Dalton Schultz	1.25		en	0	0	0
+11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
+11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
+11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
+11735270	Football	2025 Panini Donruss Optic		298		Damien Martinez	1.35		en	36.16	29.0	12.09
+11729353	Football	2025 Panini Donruss Optic		163		Daniel Carlson	1.5		en	39.41	32.0	13.2
+11729353	Football	2025 Panini Donruss Optic		163		Daniel Carlson	1.5		en	39.41	32.0	13.2
+11725878	Football	2025 Panini Donruss Optic		65		Darnell Mooney	1.49		en	0	0	0
+11725878	Football	2025 Panini Donruss Optic		65		Darnell Mooney	1.49		en	0	0	0
+11725878	Football	2025 Panini Donruss Optic		65		Darnell Mooney	1.49		en	0	0	0
+11727775	Football	2025 Panini Donruss Optic		117		David Montgomery	1.24		en	35.86	29.0	11.99
+11727775	Football	2025 Panini Donruss Optic		117		David Montgomery	1.24		en	35.86	29.0	11.99
+11727775	Football	2025 Panini Donruss Optic		117		David Montgomery	1.24		en	35.86	29.0	11.99
+11726746	Football	2025 Panini Donruss Optic		86		De'Von Achane	0.99		en	38.05	30.0	12.73
+11726746	Football	2025 Panini Donruss Optic		86		De'Von Achane	0.99		en	38.05	30.0	12.73
+11724711	Football	2025 Panini Donruss Optic		28		DeVonta Smith	2.12		en	39.98	32.0	13.39
+11724768	Football	2025 Panini Donruss Optic		30		Deebo Samuel	1.0		en	0	0	0
+11724768	Football	2025 Panini Donruss Optic		30		Deebo Samuel	1.0		en	0	0	0
+11724258	Football	2025 Panini Donruss Optic		16		Deion Sanders	1.09		en	35.14	28.0	11.74
+11724258	Football	2025 Panini Donruss Optic		16		Deion Sanders	1.09		en	35.14	28.0	11.74
+11735109	Football	2025 Panini Donruss Optic		296		Demetrius Knight Jr.	1.04		en	37.15	30.0	12.43
+11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
+11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
+11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
+11733849	Football	2025 Panini Donruss Optic		257		Derrick Harmon	1.0		en	34.66	28.0	11.58
+11727530	Football	2025 Panini Donruss Optic		112		Derrick Henry	1.09		en	34.66	28.0	11.58
+11727295	Football	2025 Panini Donruss Optic		98		Derwin James Jr.	1.49		en	0	0	0
+11727295	Football	2025 Panini Donruss Optic		98		Derwin James Jr.	1.49		en	0	0	0
+11734644	Football	2025 Panini Donruss Optic		282		Devin Neal	1.19		en	35.61	28.0	11.9
+11732503	Football	2025 Panini Donruss Optic		230		Donovan Ezeiruaku	1.74		en	0	0	0
+11732503	Football	2025 Panini Donruss Optic		230		Donovan Ezeiruaku	1.74		en	0	0	0
+11727582	Football	2025 Panini Donruss Optic		113		Donovan McNabb	0.0		en	0	0	0
+11727582	Football	2025 Panini Donruss Optic		113		Donovan McNabb	0.0		en	0	0	0
+11729142	Football	2025 Panini Donruss Optic		153		Drake London	0.0		en	0	0	0
+11725366	Football	2025 Panini Donruss Optic		47		Drake Maye	1.67		en	36.63	29.0	12.25
+11725366	Football	2025 Panini Donruss Optic		47		Drake Maye	1.67		en	36.63	29.0	12.25
+11725680	Football	2025 Panini Donruss Optic		57		Drew Bledsoe	1.75		en	0	0	0
+11725680	Football	2025 Panini Donruss Optic		57		Drew Bledsoe	1.75		en	0	0	0
+11730180	Football	2025 Panini Donruss Optic		190		Drew Brees	1.65		en	37.76	30.0	12.64
+11730180	Football	2025 Panini Donruss Optic		190		Drew Brees	1.65		en	37.76	30.0	12.64
+11730180	Football	2025 Panini Donruss Optic		190		Drew Brees	1.65		en	37.76	30.0	12.64
+11728039	Football	2025 Panini Donruss Optic		125		Ed Reed	0.0		en	0	0	0
+11730013	Football	2025 Panini Donruss Optic		185		Edgerrin James	1.75		en	0	0	0
+11730013	Football	2025 Panini Donruss Optic		185		Edgerrin James	1.75		en	0	0	0
+11730476	Football	2025 Panini Donruss Optic		184		Eli Manning	1.0		en	47.64	38.0	15.99
+11731279	Football	2025 Panini Donruss Optic		214		Elijah Arroyo	1.45		en	36.86	29.0	12.33
+11731279	Football	2025 Panini Donruss Optic		214		Elijah Arroyo	1.45		en	36.86	29.0	12.33
+11733845	Football	2025 Panini Donruss Optic		265		Emeka Egbuka	1.73		en	37.29	30.0	12.48
+11733845	Football	2025 Panini Donruss Optic		265		Emeka Egbuka	1.73		en	37.29	30.0	12.48
+11727042	Football	2025 Panini Donruss Optic		99		Fred Warner	1.49		en	37.01	30.0	12.38
+11727006	Football	2025 Panini Donruss Optic		95		Garrett Wilson	0.0		en	0	0	0
+11727006	Football	2025 Panini Donruss Optic		95		Garrett Wilson	0.0		en	0	0	0
+11729045	Football	2025 Panini Donruss Optic		144		Geno Smith	5.0		en	53.61	43.0	18.01
+11729045	Football	2025 Panini Donruss Optic		144		Geno Smith	5.0		en	53.61	43.0	18.01
+11725441	Football	2025 Panini Donruss Optic		48		George Kittle	1.6		en	37.53	30.0	12.56
+11725441	Football	2025 Panini Donruss Optic		48		George Kittle	1.6		en	37.53	30.0	12.56
+11727254	Football	2025 Panini Donruss Optic		88		Greg Rousseau	1.45		en	0	0	0
+11727254	Football	2025 Panini Donruss Optic		88		Greg Rousseau	1.45		en	0	0	0
+11726050	Football	2025 Panini Donruss Optic		67		Greg Zuerlein	0.0		en	0	0	0
+11725565	Football	2025 Panini Donruss Optic		54		Hunter Henry	1.7		en	0	0	0
+11725565	Football	2025 Panini Donruss Optic		54		Hunter Henry	1.7		en	0	0	0
+11725565	Football	2025 Panini Donruss Optic		54		Hunter Henry	1.7		en	0	0	0
+11725652	Football	2025 Panini Donruss Optic		55		J.K. Dobbins	1.99		en	0	0	0
+11725652	Football	2025 Panini Donruss Optic		55		J.K. Dobbins	1.99		en	0	0	0
+11731668	Football	2025 Panini Donruss Optic		224		Jackson Hawes	2.0		en	39.39	32.0	13.19
+11731668	Football	2025 Panini Donruss Optic		224		Jackson Hawes	2.0		en	39.39	32.0	13.19
+11731479	Football	2025 Panini Donruss Optic		207		Jahdae Barron	1.25		en	35.88	29.0	12.0
+11731479	Football	2025 Panini Donruss Optic		207		Jahdae Barron	1.25		en	35.88	29.0	12.0
+11731479	Football	2025 Panini Donruss Optic		207		Jahdae Barron	1.25		en	35.88	29.0	12.0
+11726444	Football	2025 Panini Donruss Optic		79		Jahmyr Gibbs	1.5		en	37.02	30.0	12.38
+11726444	Football	2025 Panini Donruss Optic		79		Jahmyr Gibbs	1.5		en	37.02	30.0	12.38
+11724102	Football	2025 Panini Donruss Optic		14		Jalen Hurts	1.49		en	0	0	0
+11725192	Football	2025 Panini Donruss Optic		42		Jalen Ramsey	0.0		en	0	0	0
+11734970	Football	2025 Panini Donruss Optic		290		Jalon Walker	1.13		en	0	0	0
+11734970	Football	2025 Panini Donruss Optic		290		Jalon Walker	1.13		en	0	0	0
+11724702	Football	2025 Panini Donruss Optic		29		Jamaal Charles	1.49		en	0	0	0
+11728611	Football	2025 Panini Donruss Optic		138		James Cook	1.96		en	39.26	31.0	13.14
+11725724	Football	2025 Panini Donruss Optic		56		James Lofton	1.0		en	34.7	28.0	11.6
+11725724	Football	2025 Panini Donruss Optic		56		James Lofton	1.0		en	34.7	28.0	11.6
+11725724	Football	2025 Panini Donruss Optic		56		James Lofton	1.0		en	34.7	28.0	11.6
+11732558	Football	2025 Panini Donruss Optic		240		James Pearce Jr.	1.44		en	36.64	29.0	12.25
+11732558	Football	2025 Panini Donruss Optic		240		James Pearce Jr.	1.44		en	36.64	29.0	12.25
+11723960	Football	2025 Panini Donruss Optic		10		Jameson Williams	1.94		en	39.39	32.0	13.18
+11723960	Football	2025 Panini Donruss Optic		10		Jameson Williams	1.94		en	39.39	32.0	13.18
+11728799	Football	2025 Panini Donruss Optic		149		Jared Goff	1.51		en	37.1	30.0	12.41
+11728799	Football	2025 Panini Donruss Optic		149		Jared Goff	1.51		en	37.1	30.0	12.41
+11730414	Football	2025 Panini Donruss Optic		194		Jauan Jennings	0.0		en	0	0	0
+11724146	Football	2025 Panini Donruss Optic		7		Jaxon Smith-Njigba	1.81		en	39.38	32.0	13.18
+11724146	Football	2025 Panini Donruss Optic		7		Jaxon Smith-Njigba	1.81		en	39.38	32.0	13.18
+11734105	Football	2025 Panini Donruss Optic		273		Jaxson Dart	2.38		en	45.28	36.0	15.19
+11724521	Football	2025 Panini Donruss Optic		23		Jayden Daniels	1.75		en	39.41	32.0	13.2
+11732134	Football	2025 Panini Donruss Optic		225		Jayden Higgins	1.5		en	37.06	30.0	12.4
+11732134	Football	2025 Panini Donruss Optic		225		Jayden Higgins	1.5		en	37.06	30.0	12.4
+11732134	Football	2025 Panini Donruss Optic		225		Jayden Higgins	1.5		en	37.06	30.0	12.4
+11732134	Football	2025 Panini Donruss Optic		225		Jayden Higgins	1.5		en	37.06	30.0	12.4
+11725156	Football	2025 Panini Donruss Optic		41		Jayden Reed	1.24		en	35.86	29.0	11.99
+11725156	Football	2025 Panini Donruss Optic		41		Jayden Reed	1.24		en	35.86	29.0	11.99
+11732572	Football	2025 Panini Donruss Optic		249		Jaylin Lane	1.5		en	37.07	30.0	12.4
+11732284	Football	2025 Panini Donruss Optic		241		Jaylin Noel	3.0		en	39.41	32.0	13.2
+11732284	Football	2025 Panini Donruss Optic		241		Jaylin Noel	3.0		en	39.41	32.0	13.2
+11729109	Football	2025 Panini Donruss Optic		157		Jeff Garcia	1.99		en	0	0	0
+11729109	Football	2025 Panini Donruss Optic		157		Jeff Garcia	1.99		en	0	0	0
+11729109	Football	2025 Panini Donruss Optic		157		Jeff Garcia	1.99		en	0	0	0
+11728276	Football	2025 Panini Donruss Optic		127		Jerry Jeudy	1.0		en	0	0	0
+11728276	Football	2025 Panini Donruss Optic		127		Jerry Jeudy	1.0		en	0	0	0
+11733404	Football	2025 Panini Donruss Optic		266		Jihaad Campbell	1.48		en	37.07	30.0	12.4
+11733404	Football	2025 Panini Donruss Optic		266		Jihaad Campbell	1.48		en	37.07	30.0	12.4
+11733404	Football	2025 Panini Donruss Optic		266		Jihaad Campbell	1.48		en	37.07	30.0	12.4
+11734315	Football	2025 Panini Donruss Optic		281		Jimmy Horn Jr.	1.0		en	0	0	0
+11723745	Football	2025 Panini Donruss Optic		1		Joe Burrow	1.59		en	38.66	31.0	12.94
+11729560	Football	2025 Panini Donruss Optic		171		John Elway	1.49		en	34.7	28.0	11.6
+11725419	Football	2025 Panini Donruss Optic		49		Jonathan Taylor	0.0		en	0	0	0
+11725419	Football	2025 Panini Donruss Optic		49		Jonathan Taylor	0.0		en	0	0	0
+11729918	Football	2025 Panini Donruss Optic		178		Jonnu Smith	1.6		en	37.01	30.0	12.38
+11734613	Football	2025 Panini Donruss Optic		289		Jordan Watkins	0.86		en	34.05	27.0	11.37
+11734613	Football	2025 Panini Donruss Optic		289		Jordan Watkins	0.86		en	34.05	27.0	11.37
+11726308	Football	2025 Panini Donruss Optic		70		Josh Allen	1.35		en	36.36	29.0	12.16
+11728412	Football	2025 Panini Donruss Optic		128		Josh Jacobs	1.39		en	36.54	29.0	12.22
+11728412	Football	2025 Panini Donruss Optic		128		Josh Jacobs	1.39		en	36.54	29.0	12.22
+11730050	Football	2025 Panini Donruss Optic		167		Justin Fields	1.49		en	0	0	0
+11730050	Football	2025 Panini Donruss Optic		167		Justin Fields	1.49		en	0	0	0
+11730050	Football	2025 Panini Donruss Optic		167		Justin Fields	1.49		en	0	0	0
+11727669	Football	2025 Panini Donruss Optic		109		Justin Herbert	1.35		en	34.71	28.0	11.6
+11727669	Football	2025 Panini Donruss Optic		109		Justin Herbert	1.35		en	34.71	28.0	11.6
+11734670	Football	2025 Panini Donruss Optic		291		Kaden Prather	1.5		en	37.06	30.0	12.4
+11735646	Football	2025 Panini Donruss Optic		232		Kaleb Johnson	1.6		en	37.55	30.0	12.56
+11735646	Football	2025 Panini Donruss Optic		232		Kaleb Johnson	1.6		en	37.55	30.0	12.56
+11725298	Football	2025 Panini Donruss Optic		45		Kam Chancellor	2.0		en	0	0	0
+11725298	Football	2025 Panini Donruss Optic		45		Kam Chancellor	2.0		en	0	0	0
+11734002	Football	2025 Panini Donruss Optic		271		KeAndre Lambert-Smith	1.42		en	50.3	40.0	16.89
+11730232	Football	2025 Panini Donruss Optic		187		Keenan Allen	2.0		en	0	0	0
+11727175	Football	2025 Panini Donruss Optic		97		Kenneth Gainwell	1.99		en	37.05	30.0	12.4
+11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
+11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
+11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
+11735437	Football	2025 Panini Donruss Optic		216		Kenneth Grant	1.45		en	0	0	0
+11728296	Football	2025 Panini Donruss Optic		133		Kenneth Walker III	1.69		en	37.95	30.0	12.7
+11728296	Football	2025 Panini Donruss Optic		133		Kenneth Walker III	1.69		en	37.95	30.0	12.7
+11728296	Football	2025 Panini Donruss Optic		133		Kenneth Walker III	1.69		en	37.95	30.0	12.7
+11724842	Football	2025 Panini Donruss Optic		32		Keon Coleman	0.0		en	0	0	0
+11724842	Football	2025 Panini Donruss Optic		32		Keon Coleman	0.0		en	0	0	0
+11725969	Football	2025 Panini Donruss Optic		68		Khalil Mack	0.0		en	0	0	0
+11725262	Football	2025 Panini Donruss Optic		44		Khalil Shakir	1.25		en	35.88	29.0	12.0
+11727337	Football	2025 Panini Donruss Optic		89		Kirk Cousins	0.0		en	0	0	0
+11727337	Football	2025 Panini Donruss Optic		89		Kirk Cousins	0.0		en	0	0	0
+11734794	Football	2025 Panini Donruss Optic		283		Kyle McCord	0.62		en	0	0	0
+11734794	Football	2025 Panini Donruss Optic		283		Kyle McCord	0.62		en	0	0	0
+11734794	Football	2025 Panini Donruss Optic		283		Kyle McCord	0.62		en	0	0	0
+11726735	Football	2025 Panini Donruss Optic		90		Kyle Pitts	0.99		en	0	0	0
+11726735	Football	2025 Panini Donruss Optic		90		Kyle Pitts	0.99		en	0	0	0
+11724627	Football	2025 Panini Donruss Optic		26		Ladd McConkey	2.0		en	39.41	32.0	13.2
+11724627	Football	2025 Panini Donruss Optic		26		Ladd McConkey	2.0		en	39.41	32.0	13.2
+11726516	Football	2025 Panini Donruss Optic		80		Lamar Jackson	2.17		en	39.41	32.0	13.19
+11726516	Football	2025 Panini Donruss Optic		80		Lamar Jackson	2.17		en	39.41	32.0	13.19
+11726516	Football	2025 Panini Donruss Optic		80		Lamar Jackson	2.17		en	39.41	32.0	13.19
+11727690	Football	2025 Panini Donruss Optic		104		Leonard Williams	2.99		en	0	0	0
+11727690	Football	2025 Panini Donruss Optic		104		Leonard Williams	2.99		en	0	0	0
+11726704	Football	2025 Panini Donruss Optic		84		Luke Kuechly	1.37		en	0	0	0
+11734223	Football	2025 Panini Donruss Optic		275		Luther Burden III	1.74		en	38.18	31.0	12.78
+11734223	Football	2025 Panini Donruss Optic		275		Luther Burden III	1.74		en	38.18	31.0	12.78
+11733317	Football	2025 Panini Donruss Optic		256		Malaki Starks	1.36		en	40.64	33.0	13.61
+11730664	Football	2025 Panini Donruss Optic		199		Mark Andrews	0.99		en	34.66	28.0	11.58
+11730664	Football	2025 Panini Donruss Optic		199		Mark Andrews	0.99		en	34.66	28.0	11.58
+11727761	Football	2025 Panini Donruss Optic		121		Mark Brunell	0.0		en	0	0	0
+11730348	Football	2025 Panini Donruss Optic		191		Marvin Harrison Jr.	0.4		en	0	0	0
+11730348	Football	2025 Panini Donruss Optic		191		Marvin Harrison Jr.	0.4		en	0	0	0
+11730348	Football	2025 Panini Donruss Optic		191		Marvin Harrison Jr.	0.4		en	0	0	0
+11731117	Football	2025 Panini Donruss Optic		206		Mason Graham	1.25		en	35.88	29.0	12.0
+11731117	Football	2025 Panini Donruss Optic		206		Mason Graham	1.25		en	35.88	29.0	12.0
+11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
+11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
+11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
+11733746	Football	2025 Panini Donruss Optic		274		Mason Taylor	1.98		en	0	0	0
+11735831	Football	2025 Panini Donruss Optic		205		Matthew Golden	1.3		en	36.67	29.0	12.27
+11735831	Football	2025 Panini Donruss Optic		205		Matthew Golden	1.3		en	36.67	29.0	12.27
+11730715	Football	2025 Panini Donruss Optic		198		Matthew Stafford	0.06		en	0	0	0
+11730715	Football	2025 Panini Donruss Optic		198		Matthew Stafford	0.06		en	0	0	0
+11730101	Football	2025 Panini Donruss Optic		183		Maxx Crosby	1.44		en	0	0	0
+11730101	Football	2025 Panini Donruss Optic		183		Maxx Crosby	1.44		en	0	0	0
+11726676	Football	2025 Panini Donruss Optic		85		Micah Parsons	2.38		en	41.52	33.0	13.92
+11732913	Football	2025 Panini Donruss Optic		250		Mike Green	0.0		en	0	0	0
+11729310	Football	2025 Panini Donruss Optic		158		Myles Garrett	1.39		en	36.54	29.0	12.22
+11729310	Football	2025 Panini Donruss Optic		158		Myles Garrett	1.39		en	36.54	29.0	12.22
+11729310	Football	2025 Panini Donruss Optic		158		Myles Garrett	1.39		en	36.54	29.0	12.22
+11727560	Football	2025 Panini Donruss Optic		108		Najee Harris	0.0		en	0	0	0
+11727560	Football	2025 Panini Donruss Optic		108		Najee Harris	0.0		en	0	0	0
+11727560	Football	2025 Panini Donruss Optic		108		Najee Harris	0.0		en	0	0	0
+11733555	Football	2025 Panini Donruss Optic		270		Nic Scourton	2.0		en	0	0	0
+11728805	Football	2025 Panini Donruss Optic		143		Nico Collins	1.0		en	34.7	28.0	11.6
+11728805	Football	2025 Panini Donruss Optic		143		Nico Collins	1.0		en	34.7	28.0	11.6
+11731499	Football	2025 Panini Donruss Optic		215		Pat Bryant	1.03		en	0	0	0
+11729117	Football	2025 Panini Donruss Optic		155		Pat Freiermuth	2.0		en	39.42	32.0	13.2
+11725122	Football	2025 Panini Donruss Optic		40		Patrick Mahomes II	1.73		en	36.6	29.0	12.24
+11725122	Football	2025 Panini Donruss Optic		40		Patrick Mahomes II	1.73		en	36.6	29.0	12.24
+11730534	Football	2025 Panini Donruss Optic		192		Puka Nacua	1.7		en	0	0	0
+11727611	Football	2025 Panini Donruss Optic		116		Quincy Williams	1.25		en	0	0	0
+11727611	Football	2025 Panini Donruss Optic		116		Quincy Williams	1.25		en	0	0	0
+11727611	Football	2025 Panini Donruss Optic		116		Quincy Williams	1.25		en	0	0	0
+11731125	Football	2025 Panini Donruss Optic		208		RJ Harvey	1.44		en	36.21	29.0	12.11
+11730196	Football	2025 Panini Donruss Optic		179		Rashee Rice	1.74		en	0	0	0
+11730196	Football	2025 Panini Donruss Optic		179		Rashee Rice	1.74		en	0	0	0
+11725962	Football	2025 Panini Donruss Optic		66		Rex Grossman	1.42		en	0	0	0
+11725962	Football	2025 Panini Donruss Optic		66		Rex Grossman	1.42		en	0	0	0
+11725488	Football	2025 Panini Donruss Optic		51		Rhamondre Stevenson	1.7		en	0	0	0
+11725488	Football	2025 Panini Donruss Optic		51		Rhamondre Stevenson	1.7		en	0	0	0
+11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.0		en	0	0	0
+11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.0		en	0	0	0
+11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	1.27		en	35.97	29.0	12.03
+11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	1.27		en	35.97	29.0	12.03
+11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	1.27		en	35.97	29.0	12.03
+11727997	Football	2025 Panini Donruss Optic		126		Ricky Williams	0.99		en	34.66	28.0	11.58
+11727997	Football	2025 Panini Donruss Optic		126		Ricky Williams	0.99		en	34.66	28.0	11.58
+11727997	Football	2025 Panini Donruss Optic		126		Ricky Williams	0.99		en	34.66	28.0	11.58
+11733569	Football	2025 Panini Donruss Optic		255		Riley Leonard	1.75		en	37.07	30.0	12.4
+11733437	Football	2025 Panini Donruss Optic		264		Robbie Ouzts	1.44		en	36.6	29.0	12.24
+11728842	Football	2025 Panini Donruss Optic		151		Rome Odunze	1.44		en	36.78	29.0	12.3
+11725472	Football	2025 Panini Donruss Optic		50		Russell Wilson	0.0		en	0	0	0
+11730142	Football	2025 Panini Donruss Optic		186		Sam Darnold	1.67		en	37.97	30.0	12.7
+11730142	Football	2025 Panini Donruss Optic		186		Sam Darnold	1.67		en	37.97	30.0	12.7
+11730482	Football	2025 Panini Donruss Optic		196		Sam LaPorta	0.99		en	34.7	28.0	11.6
+11724196	Football	2025 Panini Donruss Optic		15		Saquon Barkley	1.0		en	0	0	0
+11724196	Football	2025 Panini Donruss Optic		15		Saquon Barkley	1.0		en	0	0	0
+11724196	Football	2025 Panini Donruss Optic		15		Saquon Barkley	1.0		en	0	0	0
+11729446	Football	2025 Panini Donruss Optic		161		Stefon Diggs	1.49		en	37.75	30.0	12.63
+11728617	Football	2025 Panini Donruss Optic		142		Steven Jackson	0.99		en	0	0	0
+11729177	Football	2025 Panini Donruss Optic		145		T.J. Hockenson	1.69		en	0	0	0
+11729177	Football	2025 Panini Donruss Optic		145		T.J. Hockenson	1.69		en	0	0	0
+11731701	Football	2025 Panini Donruss Optic		226		T.J. Sanders	0.49		en	0	0	0
+11733575	Football	2025 Panini Donruss Optic		268		Tahj Brooks	1.0		en	0	0	0
+11732174	Football	2025 Panini Donruss Optic		239		Tai Felton	0.77		en	33.1	26.0	11.05
+11724068	Football	2025 Panini Donruss Optic		13		Tee Higgins	0.99		en	36.12	29.0	12.08
+11724068	Football	2025 Panini Donruss Optic		13		Tee Higgins	0.99		en	36.12	29.0	12.08
+11724068	Football	2025 Panini Donruss Optic		13		Tee Higgins	0.99		en	36.12	29.0	12.08
+11724448	Football	2025 Panini Donruss Optic		21		Terrell Owens	0.3		en	0	0	0
+11724448	Football	2025 Panini Donruss Optic		21		Terrell Owens	0.3		en	0	0	0
+11726968	Football	2025 Panini Donruss Optic		96		Terrell Suggs	1.75		en	0	0	0
+11726968	Football	2025 Panini Donruss Optic		96		Terrell Suggs	1.75		en	0	0	0
+11727390	Football	2025 Panini Donruss Optic		107		Terry McLaurin	1.5		en	37.09	30.0	12.4
+11731377	Football	2025 Panini Donruss Optic		209		Tetairoa McMillan	1.63		en	39.91	32.0	13.37
+11735599	Football	2025 Panini Donruss Optic		231		Tez Johnson	1.55		en	37.3	30.0	12.48
+11735006	Football	2025 Panini Donruss Optic		299		Tommy Mellott	1.49		en	34.66	28.0	11.58
+11735006	Football	2025 Panini Donruss Optic		299		Tommy Mellott	1.49		en	34.66	28.0	11.58
+11725756	Football	2025 Panini Donruss Optic		58		Tony Dorsett	0.99		en	34.66	28.0	11.58
+11726809	Football	2025 Panini Donruss Optic		91		Torry Holt	1.04		en	34.81	28.0	11.63
+11732080	Football	2025 Panini Donruss Optic		229		Tre Harris	1.5		en	40.47	32.0	13.55
+11732860	Football	2025 Panini Donruss Optic		248		TreVeyon Henderson	1.67		en	38.46	31.0	12.88
+11732860	Football	2025 Panini Donruss Optic		248		TreVeyon Henderson	1.67		en	38.46	31.0	12.88
+11733768	Football	2025 Panini Donruss Optic		267		Trey Amos	1.99		en	0	0	0
+11726189	Football	2025 Panini Donruss Optic		74		Trey McBride	0.0		en	0	0	0
+11726189	Football	2025 Panini Donruss Optic		74		Trey McBride	0.0		en	0	0	0
+11725090	Football	2025 Panini Donruss Optic		39		Tua Tagovailoa	0.0		en	0	0	0
+11728663	Football	2025 Panini Donruss Optic		136		Tutu Atwell	1.49		en	0	0	0
+11732824	Football	2025 Panini Donruss Optic		246		Tyleik Williams	1.0		en	33.07	26.0	11.04
+11724875	Football	2025 Panini Donruss Optic		33		Tyler Allgeier	0.99		en	0	0	0
+11731837	Football	2025 Panini Donruss Optic		223		Tyler Shough	1.53		en	39.12	31.0	13.1
+11728954	Football	2025 Panini Donruss Optic		150		Tyreek Hill	1.7		en	45.76	37.0	15.35
+11728954	Football	2025 Panini Donruss Optic		150		Tyreek Hill	1.7		en	45.76	37.0	15.35
+11728954	Football	2025 Panini Donruss Optic		150		Tyreek Hill	1.7		en	45.76	37.0	15.35
+11723917	Football	2025 Panini Donruss Optic		6		Tyrone Tracy Jr.	0.0		en	0	0	0
+11723917	Football	2025 Panini Donruss Optic		6		Tyrone Tracy Jr.	0.0		en	0	0	0
+11723917	Football	2025 Panini Donruss Optic		6		Tyrone Tracy Jr.	0.0		en	0	0	0
+11728725	Football	2025 Panini Donruss Optic		137		Vernon Davis	1.49		en	0	0	0
+11728725	Football	2025 Panini Donruss Optic		137		Vernon Davis	1.49		en	0	0	0
+11729429	Football	2025 Panini Donruss Optic		159		Vinny Testaverde	0.0		en	0	0	0
+11728189	Football	2025 Panini Donruss Optic		132		Warren Moon	1.71		en	38.05	30.0	12.73
+11728189	Football	2025 Panini Donruss Optic		132		Warren Moon	1.71		en	38.05	30.0	12.73
+11728189	Football	2025 Panini Donruss Optic		132		Warren Moon	1.71		en	38.05	30.0	12.73
+11732190	Football	2025 Panini Donruss Optic		233		Will Howard	1.75		en	38.23	31.0	12.8
+11732190	Football	2025 Panini Donruss Optic		233		Will Howard	1.75		en	38.23	31.0	12.8
+11732471	Football	2025 Panini Donruss Optic		247		Will Johnson	1.25		en	0	0	0
+11732471	Football	2025 Panini Donruss Optic		247		Will Johnson	1.25		en	0	0	0
+11734770	Football	2025 Panini Donruss Optic		288		Woody Marks	1.29		en	35.7	29.0	11.94
+11734770	Football	2025 Panini Donruss Optic		288		Woody Marks	1.29		en	35.7	29.0	11.94
+11728289	Football	2025 Panini Donruss Optic		120		Zay Flowers	0.99		en	0	0	0
+11733733	Football	2025 Panini Donruss Optic		272	Purple Shock	Bhayshul Tuten	0.99		en	34.66	28.0	11.58
+11735177	Football	2025 Panini Donruss Optic		296	Purple Shock	Demetrius Knight Jr.	2.36		en	41.8	33.0	14.0
+11735563	Football	2025 Panini Donruss Optic		230	Purple Shock	Donovan Ezeiruaku	1.67		en	37.98	30.0	12.71
+11731323	Football	2025 Panini Donruss Optic		214	Purple Shock	Elijah Arroyo	1.25		en	35.88	29.0	12.0
+11734090	Football	2025 Panini Donruss Optic		271	Purple Shock	KeAndre Lambert-Smith	0.99		en	0	0	0
+11732832	Football	2025 Panini Donruss Optic		255	Purple Shock	Riley Leonard	2.04		en	39.55	32.0	13.24
+11723814	Football	2025 Panini Donruss Optic		4	Holo	Brian Thomas Jr.	2.0		en	39.36	31.0	13.18
+11724040	Football	2025 Panini Donruss Optic		12	Holo	Hines Ward	1.99		en	39.37	32.0	13.18
+11725195	Football	2025 Panini Donruss Optic		42	Holo	Jalen Ramsey	1.69		en	37.99	30.0	12.71
+11734714	Football	2025 Panini Donruss Optic		291	Holo	Kaden Prather	0.0		en	0	0	0
+11730839	Football	2025 Panini Donruss Optic		68	Holo	Khalil Mack	0.0		en	0	0	0
+11726709	Football	2025 Panini Donruss Optic		84	Holo	Luke Kuechly	1.0		en	35.17	28.0	11.76
+11724416	Football	2025 Panini Donruss Optic		20	Holo	Rashod Bateman	0.0		en	0	0	0
+11733643	Football	2025 Panini Donruss Optic		268	Holo	Tahj Brooks	2.0		en	39.44	32.0	13.2
+11730440	Football	2025 Panini Donruss Optic		181	Holo	Tony Pollard	0.99		en	0	0	0
+11725875	Football	2025 Panini Donruss Optic		61	Holo	Trent Green	0.0		en	0	0	0
+11727975	Football	2025 Panini Donruss Optic		123	Holo	Xavier Worthy	0.0		en	0	0	0
+11738894	Football	2025 Panini Donruss Optic	Retro	1		Cam Ward	2.21		en	40.41	32.0	13.53
+11739081	Football	2025 Panini Donruss Optic	Retro	27		Danielle Hunter	0.99		en	0	0	0
+11738959	Football	2025 Panini Donruss Optic	Retro	17		Luther Burden III	2.0		en	38.42	31.0	12.86
+11738940	Football	2025 Panini Donruss Optic	Retro	6		Omarion Hampton	1.39		en	38.85	31.0	13.01
+11738299	Football	2025 Panini Donruss Optic	First Year Fresh	27	Blue Hyper	Cam Ward	18.0		en	83.89	67.0	28.29
+11738477	Football	2025 Panini Donruss Optic	First Year Fresh	35	Blue Hyper	Kyle Williams	1.39		en	35.89	29.0	12.0
+11738705	Football	2025 Panini Donruss Optic	First Year Fresh	39	Blue Hyper	Terrance Ferguson	0.0		en	0	0	0
+11738705	Football	2025 Panini Donruss Optic	First Year Fresh	39	Blue Hyper	Terrance Ferguson	0.0		en	0	0	0
+11738230	Football	2025 Panini Donruss Optic	First Year Fresh	16	Blue Hyper	TreVeyon Henderson	4.99		en	53.55	43.0	17.99
+11732159	Football	2025 Panini Donruss Optic		237	Blue Hyper	Alfred Collins	0.0		en	0	0	0
+11732159	Football	2025 Panini Donruss Optic		237	Blue Hyper	Alfred Collins	0.0		en	0	0	0
+11731299	Football	2025 Panini Donruss Optic		202	Blue Hyper	Ashton Jeanty	4.07		en	48.72	39.0	16.36
+11732282	Football	2025 Panini Donruss Optic		236	Blue Hyper	Benjamin Morrison	3.0		en	0	0	0
+11733906	Football	2025 Panini Donruss Optic		261	Blue Hyper	Cam Miller	0.67		en	0	0	0
+11733938	Football	2025 Panini Donruss Optic		269	Blue Hyper	Chimere Dike	1.7		en	0	0	0
+11734248	Football	2025 Panini Donruss Optic		279	Blue Hyper	Dont'e Thornton Jr.	1.25		en	36.45	29.0	12.19
+11733259	Football	2025 Panini Donruss Optic		253	Blue Hyper	Jalen Milroe	2.4		en	41.72	33.0	13.98
+11734641	Football	2025 Panini Donruss Optic		278	Blue Hyper	Jordan James	0.0		en	0	0	0
+11735847	Football	2025 Panini Donruss Optic		243	Blue Hyper	Kurtis Rourke	2.25		en	0	0	0
+11735847	Football	2025 Panini Donruss Optic		243	Blue Hyper	Kurtis Rourke	2.25		en	0	0	0
+11733344	Football	2025 Panini Donruss Optic		254	Blue Hyper	Mitchell Evans	1.13		en	0	0	0
+11733574	Football	2025 Panini Donruss Optic		270	Blue Hyper	Nic Scourton	1.99		en	39.39	32.0	13.19
+11731389	Football	2025 Panini Donruss Optic		212	Blue Hyper	Omarion Hampton	2.14		en	40.06	32.0	13.42
+11731512	Football	2025 Panini Donruss Optic		215	Blue Hyper	Pat Bryant	1.12		en	35.37	28.0	11.82
+11735382	Football	2025 Panini Donruss Optic		221	Blue Hyper	Savion Williams	2.0		en	0	0	0
+11734849	Football	2025 Panini Donruss Optic		295	Blue Hyper	Tory Horton	1.99		en	0	0	0
+11731958	Football	2025 Panini Donruss Optic		227	Blue Hyper	Tyler Loop	0.0		en	0	0	0
+11972328	Football	2025 Panini Donruss Optic	Rookie Primary Colors	2		Jaxson Dart	1.83		en	39.92	32.0	13.37
+11972356	Football	2025 Panini Donruss Optic	Rookie Primary Colors	6		Luther Burden III	2.02		en	40.64	33.0	13.61
+11739161	Football	2025 Panini Donruss Optic	Best Tuddys	17		Bo Nix / Courtland Sutton	1.52		en	37.06	30.0	12.4
+11739247	Football	2025 Panini Donruss Optic	Best Tuddys	13		Josh Allen / Keon Coleman	1.97		en	39.38	32.0	13.18
+11739182	Football	2025 Panini Donruss Optic	Best Tuddys	18		Kyler Murray / Marvin Harrison Jr.	0.99		en	36.45	29.0	12.19
+11738853	Football	2025 Panini Donruss Optic	Rookie Phenom	RPBH-TFE		Terrance Ferguson	0.49		en	0	0	0
+11734674	Football	2025 Panini Donruss Optic		282	Green Hyper	Devin Neal	1.74		en	0	0	0
+11733893	Football	2025 Panini Donruss Optic		265	Green Hyper	Emeka Egbuka	2.25		en	40.6	32.0	13.6
+11731697	Football	2025 Panini Donruss Optic		224	Green Hyper	Jackson Hawes	0.99		en	0	0	0
+11732596	Football	2025 Panini Donruss Optic		240	Green Hyper	James Pearce Jr.	2.49		en	41.75	33.0	13.99
+11733388	Football	2025 Panini Donruss Optic		256	Green Hyper	Malaki Starks	1.99		en	0	0	0
+11731180	Football	2025 Panini Donruss Optic		206	Green Hyper	Mason Graham	1.53		en	0	0	0
+11739420	Football	2025 Panini Donruss Optic	Diamond Hands	4		Emeka Egbuka	2.24		en	36.45	29.0	12.19
+11740599	Football	2025 Panini Donruss Optic	Rookie Recruits	20		Shedeur Sanders	1.72		en	35.98	29.0	12.03
+11740680	Football	2025 Panini Donruss Optic	Rookie Recruits	17		Tetairoa McMillan	1.39		en	37.16	30.0	12.43
+11738761	Football	2025 Panini Donruss Optic	Rookie Phenom	RPBH-CLD	Blue Hyper	Colston Loveland	4.0		en	51.8	41.0	17.4
+11738811	Football	2025 Panini Donruss Optic	Rookie Phenom	RPBH-RHY	Blue Hyper	RJ Harvey	1.58		en	38.27	31.0	12.81
+11739823	Football	2025 Panini Donruss Optic	Hidden Potential	15		Emeka Egbuka	1.55		en	37.29	30.0	12.48
+11739733	Football	2025 Panini Donruss Optic	Hidden Potential	2		Jaxson Dart	1.99		en	39.4	32.0	13.2
+11740423	Football	2025 Panini Donruss Optic	Play Action	20		Christian McCaffrey	1.84		en	38.68	31.0	12.94
+11740412	Football	2025 Panini Donruss Optic	Play Action	19		Davante Adams	2.0		en	39.42	32.0	13.2
+11737863	Football	2025 Panini Donruss Optic	Signature Series Holo	44		Tre Harris	6.49		en	0	0	0
+11734866	Football	2025 Panini Donruss Optic		288	Teal Velocity	Woody Marks	0.0		en	0	0	0
+11739913	Football	2025 Panini Donruss Optic	Light It Up	6		Jalen Milroe	1.2		en	35.64	29.0	11.92
+11732333	Football	2025 Panini Donruss Optic		241	Green Velocity	Jaylin Noel	0.0		en	0	0	0
+11739867	Football	2025 Panini Donruss Optic	Light it Up	1		Cam Ward	1.99		en	36.96	30.0	12.37
+11739916	Football	2025 Panini Donruss Optic	Light it Up	17		Ray Lewis	1.8		en	38.48	31.0	12.88
+11729118	Football	2025 Panini Donruss Optic		144	Orange Scope	Geno Smith	0.0		en	0	0	0
+8206257	Football	2024 Panini Donruss Signature Marks		SMA-KSH		Khalil Shakir	6.45		en	35.0	28.0	22.16
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
