@@ -53,6 +53,18 @@ def main():
 	# (or not)
 
 	for row in rows:
+		for i, v in enumerate(row):
+			if not isinstance(v, str) and float(v)==0:
+				row[i] = ''
+			elif isinstance(v, str):
+				v = v.strip()
+				try:
+					if v and float(v) == 0.00:
+						row[i] = ''
+				except:
+					if v.isnumeric() and int(v) == 0:
+						row[i] = ''
+
 		if row[-4] == 'ja':
 			row[-4] = 'jp'
 		elif row[-4] == '':
