@@ -37,6 +37,17 @@ def main():
 		rows.append([scp_id, sport, set, subset, number, parallel, name, price, condition, 'en', psa_10, cgc_10, psa_9])
 
 	# Magic
+	# Load the Scryfall data
+	'''
+	scry2price = []
+	sfn = 'data/scryfall.json'
+	for l in ll.track(ll.lines(sfn, stream=True), total=ll.wc_l(sfn)):
+	buf = []
+	for l in ll.track(ll.lines(sfn, stream=True), total=ll.wc_l(sfn)):
+		buf.append(l)
+	for r in ll.track(ll.json('\n'.join(buf))):
+	'''
+	# Do the rest
 	for i, row in enumerate(ll.csv('subcols/mtg.csv', dicts=False, stream=True)):
 		if i==0:
 			continue
