@@ -562,7 +562,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 675961	Pokemon	ME: Ascended Heroes		149	Holofoil	Togedemaru ex	0.74		en	38.69	31.0	12.3
 676045	Pokemon	ME: Ascended Heroes		233	Holofoil	Misdreavus	6.37		en	62.0	50.0	20.97
 665725	Pokemon Japan	M2a: High Class Pack: MEGA Dream ex		54	Holofoil	Tapu Koko	0.35		jp			
-fake_id_0	Pokemon	ME: Mega Evolution Promo		32	Holofoil	Mega Gardevoir ex			en			
+685510	Pokemon	ME: Mega Evolution Promo		32	Holofoil	Mega Gardevoir ex	10.10		en			
 675879	Pokemon	ME: Ascended Heroes		67	Holofoil	Tapu Koko	0.09		en	33.0	26.0	10.79
 675932	Pokemon	ME: Ascended Heroes		120	Holofoil	Coalossal	0.08		en	30.49	24.0	10.13
 675932	Pokemon	ME: Ascended Heroes		120	Holofoil	Coalossal	0.08		en	30.49	24.0	10.13
@@ -593,7 +593,7 @@ fake_id_0	Pokemon	ME: Mega Evolution Promo		32	Holofoil	Mega Gardevoir ex			en
 676052	Pokemon	ME: Ascended Heroes		240	Holofoil	Hitmontop	6.87		en	74.83	60.0	21.88
 676050	Pokemon	ME: Ascended Heroes		238	Holofoil	Team Rocket's Mimikyu	31.12		en	275.96	221.0	41.0
 676104	Pokemon	ME: Ascended Heroes		292	Holofoil	Iris's Fighting Spirit	40.5		en	220.78	177.0	36.0
-fake_id_1	Pokemon	ME: Mega Evolution Promo		33	Holofoil	Mega Lucario ex			en			
+685511	Pokemon	ME: Mega Evolution Promo		33	Holofoil	Mega Lucario ex	18.31		en			
 675836	Pokemon	ME: Ascended Heroes		24	Holofoil	Ethan's Magcargo	0.08		en	30.39	24.0	10.1
 675836	Pokemon	ME: Ascended Heroes		24	Holofoil	Ethan's Magcargo	0.08		en	30.39	24.0	10.1
 675953	Pokemon	ME: Ascended Heroes		141	Holofoil	Hoopa	0.13		en	30.69	25.0	10.18
@@ -660,7 +660,7 @@ fake_id_1	Pokemon	ME: Mega Evolution Promo		33	Holofoil	Mega Lucario ex			en
 676065	Pokemon	ME: Ascended Heroes		253	Holofoil	Mega Audino ex	2.48		en	63.0	10.75	15.68
 676052	Pokemon	ME: Ascended Heroes		240	Holofoil	Hitmontop	6.87		en	74.83	60.0	21.88
 676103	Pokemon	ME: Ascended Heroes		291	Holofoil	Canari	46.08		en	234.69	188.0	57.13
-fake_id_0	Pokemon	ME: Mega Evolution Promo		32	Holofoil	Mega Gardevoir ex			en			
+685510	Pokemon	ME: Mega Evolution Promo		32	Holofoil	Mega Gardevoir ex	10.10		en			
 676046	Pokemon	ME: Ascended Heroes		234	Holofoil	Banette	11.39		en	185.0	148.0	21.0
 676046	Pokemon	ME: Ascended Heroes		234	Holofoil	Banette	11.39		en	185.0	148.0	21.0
 676018	Pokemon	ME: Ascended Heroes		206	Reverse Holofoil	Team Rocket's Hypnotizer	0.28		en	31.62	25.0	10.43
