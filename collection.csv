@@ -4192,30 +4192,6 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en			
 8103278	Football	2024 Panini Prizm		71	Neon Green Pulsar	Michael Dean Perry	0.72		en	32.74	26.0	11.05
 8128618	Football	2024 Panini Prizm Prizmatic		2		Drake Maye	5.0		en	132.5	106.0	37.99
 8126919	Football	2024 Panini Prizm Premier Jersey		PJ-LMY	Neon Green Pulsar	Ladd McConkey	2.38		en	90.0	72.0	12.5
-fake_id129	Football	2022 Leaf Draft Autographs	Hobby	BA-JR1		Jaden Rashada			en			
-fake_id131	Football	2022 Leaf Draft Autographs	Hobby	1		Bryce Young			en			
-fake_id131	Football	2022 Leaf Draft Autographs	Hobby	1		Bryce Young			en			
-fake_id132	Football	2022 Leaf Draft Autographs	Hobby	2		C.J. Stroud			en			
-fake_id132	Football	2022 Leaf Draft Autographs	Hobby	2		C.J. Stroud			en			
-fake_id133	Football	2022 Leaf Draft Autographs	Hobby	3		Aidan Hutchinson			en			
-fake_id133	Football	2022 Leaf Draft Autographs	Hobby	3		Aidan Hutchinson			en			
-fake_id134	Football	2022 Leaf Draft Autographs	Hobby	4		Desmond Ridder			en			
-fake_id134	Football	2022 Leaf Draft Autographs	Hobby	4		Desmond Ridder			en			
-fake_id135	Football	2022 Leaf Draft Autographs	Hobby	5		Drake London			en			
-fake_id135	Football	2022 Leaf Draft Autographs	Hobby	5		Drake London			en			
-fake_id136	Football	2022 Leaf Draft Autographs	Hobby	6		Garrett Wilson			en			
-fake_id136	Football	2022 Leaf Draft Autographs	Hobby	6		Garrett Wilson			en			
-fake_id137	Football	2022 Leaf Draft Autographs	Hobby	7		Kenny Pickett			en			
-fake_id137	Football	2022 Leaf Draft Autographs	Hobby	7		Kenny Pickett			en			
-fake_id138	Football	2022 Leaf Draft Autographs	Hobby	8		Malik Willis			en			
-fake_id138	Football	2022 Leaf Draft Autographs	Hobby	8		Malik Willis			en			
-fake_id139	Football	2022 Leaf Draft Autographs	Hobby	9		Matt Corral			en			
-fake_id139	Football	2022 Leaf Draft Autographs	Hobby	9		Matt Corral			en			
-fake_id140	Football	2022 Leaf Draft Autographs	Hobby	10		Sam Howell			en			
-fake_id140	Football	2022 Leaf Draft Autographs	Hobby	10		Sam Howell			en			
-fake_id127	Football	2022 Leaf Draft Autographs	Hobby	BA-CR1	Gold	Cameron Rising			en			
-fake_id128	Football	2022 Leaf Draft Autographs	Hobby	BA-TW2	Gold	Theo Wease			en			
-fake_id130	Football	2022 Leaf Draft Autographs	Hobby	BA-DB1	Gold	Devin Brown			en			
 12059589	Football	2025 Panini Select		99		A.J. Green			en			
 12059589	Football	2025 Panini Select		99		A.J. Green			en			
 12059457	Football	2025 Panini Select		95		Abdul Carter	2.12		en	40.7	33.0	13.61
@@ -5652,6 +5628,30 @@ fake_id130	Football	2022 Leaf Draft Autographs	Hobby	BA-DB1	Gold	Devin Brown			e
 11404828	Football	2025 Panini Rookies and Stars Crusade	Signature	13		Jalen Milroe	31.12		en	173.96	139.0	59.46
 11625580	Football	2025 Panini Rookies and Stars Rookie Exclusive		10	Purple	Jaxson Dart			en			
 11626811	Football	2025 Panini Rookies and Stars Airborne		5	Pink	Justin Herbert	2.5		en			
+fake_id131	Football	2022 Leaf Draft Hobby		B-1		Bryce Young			en			
+fake_id131	Football	2022 Leaf Draft Hobby		B-1		Bryce Young			en			
+fake_id132	Football	2022 Leaf Draft Hobby		B-2		C.J. Stroud			en			
+fake_id132	Football	2022 Leaf Draft Hobby		B-2		C.J. Stroud			en			
+fake_id133	Football	2022 Leaf Draft Hobby		B-3		Aidan Hutchinson			en			
+fake_id133	Football	2022 Leaf Draft Hobby		B-3		Aidan Hutchinson			en			
+fake_id134	Football	2022 Leaf Draft Hobby		B-4		Desmond Ridder			en			
+fake_id134	Football	2022 Leaf Draft Hobby		B-4		Desmond Ridder			en			
+fake_id135	Football	2022 Leaf Draft Hobby		B-5		Drake London			en			
+fake_id135	Football	2022 Leaf Draft Hobby		B-5		Drake London			en			
+fake_id136	Football	2022 Leaf Draft Hobby		B-6		Garrett Wilson			en			
+fake_id136	Football	2022 Leaf Draft Hobby		B-6		Garrett Wilson			en			
+fake_id137	Football	2022 Leaf Draft Hobby		B-7		Kenny Pickett			en			
+fake_id137	Football	2022 Leaf Draft Hobby		B-7		Kenny Pickett			en			
+fake_id138	Football	2022 Leaf Draft Hobby		B-8		Malik Willis			en			
+fake_id138	Football	2022 Leaf Draft Hobby		B-8		Malik Willis			en			
+fake_id139	Football	2022 Leaf Draft Hobby		B-9		Matt Corral			en			
+fake_id139	Football	2022 Leaf Draft Hobby		B-9		Matt Corral			en			
+fake_id140	Football	2022 Leaf Draft Hobby		B-10		Sam Howell			en			
+fake_id140	Football	2022 Leaf Draft Hobby		B-10		Sam Howell			en			
+fake_id129	Football	2022 Leaf Draft Hobby Autographs		BA-JR1		Jaden Rashada			en			
+fake_id127	Football	2022 Leaf Draft Hobby Autographs		BA-CR1	Gold	Cameron Rising			en			
+fake_id128	Football	2022 Leaf Draft Hobby Autographs		BA-TW2	Gold	Theo Wease			en			
+fake_id130	Football	2022 Leaf Draft Hobby Autographs		BA-DB1	Gold	Devin Brown			en			
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
