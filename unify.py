@@ -35,10 +35,17 @@ def main():
 			if set in hierarchy[sport]:
 				subset = ''
 			else:
-				main_set = max((k for k in hierarchy[sport] if set.startswith(k)), key=len)
+				try:
+					main_set = max((k for k in hierarchy[sport] if set.startswith(k)), key=len)
+				except ValueError:
+					print(row)
+					print(f"No set found in hierarchy")
+					quit(1)
 				rest = ll.rempre(set, main_set).strip()
 				set, subset = main_set, rest
 			# print(ll.csv([scp_id, sport, set, name, number, parallel, price, condition, 'en'], delim='\t'))
+
+			# TODO: lang matching
 			rows.append([scp_id, sport, set, subset, number, parallel, name, price, condition, 'en', psa_10, cgc_10, psa_9])
 
 			yield
@@ -51,7 +58,7 @@ def main():
 			if i==0:
 				continue
 			(_,_,name,sc,set,cn,foil,_,quant,_,sf_id,value,_,_,cond,lang,_) = row
-			sccn = f"{sc}\t{cn}"
+			sccn = f"{sc}\t{cn}".lower()
 			sccn2row[sccn] = row
 
 			yield
@@ -64,8 +71,8 @@ def main():
 			if line.endswith(','):
 				line = line[:-1]
 			j = ll.json(line)
-			sccn = f"{j['set']}\t{j['collector_number']}"
-			if sccn in sccn2row:
+			sccn = f"{j['set']}\t{j['collector_number']}".lower()
+			if sccn in sccn2row and j['lang']=='en':
 				if (fname:=j.get('flavor_name')):
 					sccn2fname[sccn] = fname
 
@@ -76,8 +83,11 @@ def main():
 			if i==0:
 				continue
 			(_,_,name,sc,set,cn,foil,_,quant,_,sf_id,value,_,_,cond,lang,_) = row
-			sccn = f"{sc}\t{cn}\t{name}"
+			# sccn = f"{sc}\t{cn}\t{name}"
+			sccn = f'{sc}\t{cn}'.lower()
 			sccn2row[sccn] = row
+			if sccn in sccn2fname:
+				name = f'{sccn2fname[sccn]} ({name})'
 			var = ll.uppercamel(foil.strip()) if (foil.strip() and foil.strip() != 'normal') else ''
 			for _ in range(int(quant)):
 				# print(ll.csv([sf_id, 'Magic', f'({sc}) {set}', name, cn, var, value, cond, lang], delim='\t'))
