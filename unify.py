@@ -133,7 +133,7 @@ def main():
 
 	with open('collection.csv', 'w+') as f:
 		# Do it.
-		for _ in ll.track(_inner(f), total=total):
+		for _ in ll.track(_inner(f), total=total, title='Unifying: '):
 			pass
 
 
