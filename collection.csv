@@ -7247,7 +7247,7 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12531792	Football	2025 Topps Chrome		296		Brian Robinson Jr.			en			
 12526293	Football	2025 Topps Chrome		178		Brock Bowers			en			
 12526293	Football	2025 Topps Chrome		178		Brock Bowers			en			
-12520707	Football	2025 Topps Chrome		52		Caleb Williams			en			
+12520707	Football	2025 Topps Chrome		52		Caleb Williams	5.37		en			
 12528251	Football	2025 Topps Chrome		221		Cameron Jordan			en			
 12521129	Football	2025 Topps Chrome		67		Cedric Tillman			en			
 12523997	Football	2025 Topps Chrome		129		Charvarius Ward			en			
@@ -7273,9 +7273,9 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12524959	Football	2025 Topps Chrome		149		Isiah Pacheco			en			
 12534830	Football	2025 Topps Chrome		356		JT Tuimoloau			en			
 12520345	Football	2025 Topps Chrome		45		Ja'Tavion Sanders			en			
-12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs			en			
+12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs	1.99		en			
 12523101	Football	2025 Topps Chrome		105		Jake Bates			en			
-12534699	Football	2025 Topps Chrome		354		Jalon Walker			en			
+12534699	Football	2025 Topps Chrome		354		Jalon Walker	1.99		en			
 12525325	Football	2025 Topps Chrome		157		Joe Alt			en			
 12522130	Football	2025 Topps Chrome		85		Joe Milton III			en			
 12520574	Football	2025 Topps Chrome		50		Joe Thuney			en			
@@ -7292,17 +7292,17 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12530806	Football	2025 Topps Chrome		278		Riq Woolen			en			
 12520528	Football	2025 Topps Chrome		49		Rome Odunze			en			
 12528528	Football	2025 Topps Chrome		229		Russell Wilson			en			
-12534085	Football	2025 Topps Chrome		340		Savion Williams			en			
+12534085	Football	2025 Topps Chrome		340		Savion Williams	2.99		en			
 12536079	Football	2025 Topps Chrome		370		Sebastian Castro			en			
 12527629	Football	2025 Topps Chrome		205		Stefon Diggs			en			
 12523285	Football	2025 Topps Chrome		96		Tim Patrick			en			
 12520284	Football	2025 Topps Chrome		44		Tommy Tremble			en			
-12535182	Football	2025 Topps Chrome		371		Trey Amos			en			
+12535182	Football	2025 Topps Chrome		371		Trey Amos	1.99		en			
 12525699	Football	2025 Topps Chrome		167		Tutu Atwell			en			
-12536684	Football	2025 Topps Chrome		398		Tyler Shough			en			
+12536684	Football	2025 Topps Chrome		398		Tyler Shough	7.0		en			
 12552688	Football	2025 Topps Chrome Urban Legends		UL-4		Caleb Williams			en			
 12550491	Football	2025 Topps Chrome Fortune 15		F15-2		JaTMarr Chase			en			
-12550726	Football	2025 Topps Chrome Fortune 15		F15-7		Josh Allen			en			
+12550726	Football	2025 Topps Chrome Fortune 15		F15-7		Josh Allen	19.99		en			
 12552232	Football	2025 Topps Chrome Power Players		PP-40	Refractor	Abdul Carter	9.75		en			
 12552322	Football	2025 Topps Chrome Power Players		PP-33	Refractor	George Kittle			en			
 12552067	Football	2025 Topps Chrome Power Players		PP-1	Refractor	Lamar Jackson			en			
@@ -7322,7 +7322,7 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12527425	Football	2025 Topps Chrome		201	Pulsar Refractor	Aaron Jones Sr.			en			
 12521578	Football	2025 Topps Chrome		60	Pulsar Refractor	Andrei Iosivas			en			
 12530244	Football	2025 Topps Chrome		262	Pulsar Refractor	Brock Purdy			en			
-12523944	Football	2025 Topps Chrome		124	Pulsar Refractor	Cam Robinson			en			
+12523944	Football	2025 Topps Chrome		124	Pulsar Refractor	Cam Robinson	0.99		en			
 12527914	Football	2025 Topps Chrome		216	Pulsar Refractor	Chris Olave			en			
 12524447	Football	2025 Topps Chrome		134	Raywave Refractor	Braden Smith			en			
 12528917	Football	2025 Topps Chrome		234	Raywave Refractor	Brian Burns			en			
@@ -7331,7 +7331,7 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12527893	Football	2025 Topps Chrome		212	Raywave Refractor	Garrett Bradbury			en			
 12519760	Football	2025 Topps Chrome		32	Raywave Refractor	Khalil Shakir			en			
 12536457	Football	2025 Topps Chrome		399	Raywave Refractor	Seth Henigan			en			
-12533966	Football	2025 Topps Chrome		338	Raywave Refractor	Tre Harris III			en			
+12533966	Football	2025 Topps Chrome		338	Raywave Refractor	Tre Harris III	3.99		en			
 12528092	Football	2025 Topps Chrome		217	Refractor	Brandin Cooks			en			
 12523572	Football	2025 Topps Chrome		117	Refractor	Christian Kirk			en			
 12521888	Football	2025 Topps Chrome		79	Refractor	Dak Prescott			en			
@@ -7343,7 +7343,7 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12524119	Football	2025 Topps Chrome		130	Refractor	Jonathan Taylor			en			
 12535139	Football	2025 Topps Chrome		362	Refractor	Kenneth Grant			en			
 12519656	Football	2025 Topps Chrome		30	Refractor	Keon Coleman			en			
-12522558	Football	2025 Topps Chrome		99	Refractor	Penei Sewell			en			
+12522558	Football	2025 Topps Chrome		99	Refractor	Penei Sewell	1.99		en			
 12527171	Football	2025 Topps Chrome		194	Football Leather Green	Ashtyn Davis			en			
 12519324	Football	2025 Topps Chrome		21	Football Leather Purple	Rashod Bateman			en			
 12551597	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-22		Tim Brown	5.0		en			
