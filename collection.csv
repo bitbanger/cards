@@ -1269,66 +1269,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 8141736	Football	2024 Panini Absolute		89		Najee Harris	0.85		en	33.23	27.0	11.24
 8139785	Football	2024 Panini Absolute		21		Sam Hubbard	1.37		en			
 8140530	Football	2024 Panini Absolute		47		Travis Etienne Jr.	0.11		en	30.42	24.0	10.16
-8080887	Baseball	2024 Panini Prizm		190		Brayden Taylor	0.87		en			
-8083239	Baseball	2024 Panini Prizm		270		Carson Roccaforte	1.0		en			
-8082856	Baseball	2024 Panini Prizm		257		Cole Young	0.99		en			
-8078925	Baseball	2024 Panini Prizm		123		Craig Biggio	0.7		en			
-8080680	Baseball	2024 Panini Prizm		183		Dylan Crews	0.99		en	33.73	27.0	11.43
-8076377	Baseball	2024 Panini Prizm		37		Eddie Murray	0.6		en	32.26	26.0	10.87
-8079925	Baseball	2024 Panini Prizm		157		Elian Soto	0.92		en			
-8084312	Baseball	2024 Panini Prizm		141		Ethan Salas	3.4		en	42.81	34.0	14.93
-8077740	Baseball	2024 Panini Prizm		83		Felix Hernandez	0.98		en			
-8084099	Baseball	2024 Panini Prizm		299		Felnin Celesten	1.79		en	36.76	29.0	12.6
-8082242	Baseball	2024 Panini Prizm		236		Francisco Vilorio	1.0		en			
-8082473	Baseball	2024 Panini Prizm		244		Ivan Rodriguez	1.38		en			
-8084992	Baseball	2024 Panini Prizm		249		Jackson Jobe	1.41		en	35.32	28.0	12.05
-8083952	Baseball	2024 Panini Prizm		294		Jim Palmer	1.38		en			
-8080071	Baseball	2024 Panini Prizm		162		Jim Thome	0.25		en	30.94	25.0	10.36
-8075492	Baseball	2024 Panini Prizm		7		Joe Mauer	1.5		en	19.99	16.0	
-8075667	Baseball	2024 Panini Prizm		13		Josh Knoth	0.93		en			
-8080329	Baseball	2024 Panini Prizm		171		Ken Griffey Jr.	1.52		en	35.68	29.0	12.19
-8083415	Baseball	2024 Panini Prizm		276		Kirby Puckett	1.49		en	34.99	28.0	12.06
-8078512	Baseball	2024 Panini Prizm		109		Lou Gehrig	1.22		en	34.59	28.0	11.77
-8082445	Baseball	2024 Panini Prizm		243		Mick Abel	1.35		en	35.1	28.0	11.96
-8079132	Baseball	2024 Panini Prizm		130		Mickey Mantle	2.34		en	38.73	31.0	16.99
-8076912	Baseball	2024 Panini Prizm		55		Mike Piazza	0.99		en	33.74	27.0	11.44
-8084041	Baseball	2024 Panini Prizm		297		Noah Schultz	1.45		en			
-8083152	Baseball	2024 Panini Prizm		267		Pete Rose	1.91		en	37.26	30.0	12.79
-8081245	Baseball	2024 Panini Prizm		202		Ralphy Velazquez	0.01		en			
-8077206	Baseball	2024 Panini Prizm		65		Rhett Lowder	1.55		en	35.83	29.0	12.24
-8077649	Baseball	2024 Panini Prizm		80		Robby Snelling	0.01		en			
-8076733	Baseball	2024 Panini Prizm		49		Roman Anthony	1.9		en	37.23	30.0	12.78
-8076467	Baseball	2024 Panini Prizm		40		Scott Rolen	1.02		en			
-8078598	Baseball	2024 Panini Prizm		112		Sebastian Walcott	1.74		en	36.55	29.0	12.52
-8081156	Baseball	2024 Panini Prizm		199		Termarr Johnson	1.5		en	35.68	29.0	12.18
-8075964	Baseball	2024 Panini Prizm		23		Tim Salmon	0.99		en			
-8078159	Baseball	2024 Panini Prizm		97		Tink Hence	1.1		en			
-8076050	Baseball	2024 Panini Prizm		26		Ty Madden	1.0		en			
-8079777	Baseball	2024 Panini Prizm		152		Won-Bin Cho	0.33		en			
-8076859	Baseball	2024 Panini Prizm		53	Silver	Brady House	1.15		en	34.33	27.0	11.67
-8081601	Baseball	2024 Panini Prizm		214	Silver	Jonathan Papelbon	2.96		en			
-8084288	Baseball	2024 Panini Prizm		109	Silver	Lou Gehrig	1.04		en	33.92	27.0	11.51
-8082925	Baseball	2024 Panini Prizm		259	Silver	Mitch Jebb	1.19		en			
-8080807	Baseball	2024 Panini Prizm		187	Silver	Noble Meyer	1.32		en			
-8079019	Baseball	2024 Panini Prizm		126	Silver	Roberto Clemente	1.5		en	36.78	29.0	12.61
-8075528	Baseball	2024 Panini Prizm		8	Silver	Will Clark	1.74		en	36.56	29.0	12.52
-8079784	Baseball	2024 Panini Prizm		152	Silver	Won-Bin Cho	0.25		en			
-8082565	Baseball	2024 Panini Prizm		247	Red Ice	Bobby Richardson	3.75		en			
-8077152	Baseball	2024 Panini Prizm		63	Red Ice	Cade Horton	2.34		en			
-8083987	Baseball	2024 Panini Prizm		295	Red Ice	Caden Grice	1.29		en			
-8078044	Baseball	2024 Panini Prizm		93	Red Ice	Gary Carter	2.62		en			
-8082980	Baseball	2024 Panini Prizm		261	Red Ice	Harry Ford	0.99		en			
-8075438	Baseball	2024 Panini Prizm		5	Red Ice	Luis Tiant	1.62		en			
-8078429	Baseball	2024 Panini Prizm		106	Red Ice	Ryan Clifford	0.25		en			
-8078692	Baseball	2024 Panini Prizm		115	Red Ice	Sammy Stafura	1.55		en			
-8083874	Baseball	2024 Panini Prizm		291	Red Pulsar	Junior Caminero	4.99		en	50.0	40.0	17.23
-8079525	Baseball	2024 Panini Prizm		143	Red Pulsar	Ty Floyd	1.77		en			
-8086313	Baseball	2024 Panini Prizm	Fireworks	4		Colt Emerson	1.57		en	35.93	29.0	12.28
-8086337	Baseball	2024 Panini Prizm	Fireworks	7		James Wood	1.49		en	14.95	12.0	8.3
-8077120	Baseball	2024 Panini Prizm		62	Green	George Lombard Jr.	1.33		en	35.01	28.0	11.93
-8081305	Baseball	2024 Panini Prizm		204	Green	Vladimir Guerrero	1.4		en			
-8086862	Baseball	2024 Panini Prizm	Prizmatic	23		Arjun Nimmala	1.31		en	34.93	28.0	11.9
-8086689	Baseball	2024 Panini Prizm	Prizmatic	1		Chase Davis	1.44		en	35.44	28.0	12.09
 10787614	Basketball	2025 Panini Donruss WNBA		82		A'ja Wilson	1.27		en	35.73	29.0	12.01
 10787614	Basketball	2025 Panini Donruss WNBA		82		A'ja Wilson	1.27		en	35.73	29.0	12.01
 10785711	Basketball	2025 Panini Donruss WNBA		16		Aaliyah Edwards	0.06		en	30.27	24.0	10.09
@@ -3582,26 +3522,6 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 12427761	Football	2022 Leaf Draft Hobby	Autograph	BA-DB1	Gold	Devin Brown			en			
 12427966	Football	2022 Leaf Draft Hobby	Autograph	BA-TW2	Gold	Theo Wease			en			
 12428034	Football	2022 Leaf Draft Hobby	Autograph	BA-TT1	Red	Ty Thompson			en			
-8143521	Football	2024 Panini Absolute		151		Adonai Mitchell	1.24		en	33.85	27.0	11.48
-8142056	Football	2024 Panini Absolute		100		Austin Ekeler	0.08		en	30.08	24.0	10.03
-8142056	Football	2024 Panini Absolute		100		Austin Ekeler	0.08		en	30.08	24.0	10.03
-8141391	Football	2024 Panini Absolute		77		Chris Olave	1.19		en	34.43	28.0	11.7
-8139670	Football	2024 Panini Absolute		17		D'Andre Swift	1.3		en	34.91	28.0	11.89
-8142840	Football	2024 Panini Absolute		127		Darius Robinson	0.15		en	30.57	24.0	10.22
-8141307	Football	2024 Panini Absolute		74		Jacoby Brissett	0.02		en	30.08	24.0	10.03
-8140071	Football	2024 Panini Absolute		31		Javonte Williams	0.04		en	30.23	24.0	10.09
-8139756	Football	2024 Panini Absolute		20		Joe Burrow	1.4		en	35.3	28.0	11.5
-8140500	Football	2024 Panini Absolute		46		Jonathan Taylor	0.25		en			
-8143265	Football	2024 Panini Absolute		142		Kamari Lassiter	1.0		en	33.8	27.0	11.45
-8140850	Football	2024 Panini Absolute		58		Khalil Mack	1.49		en			
-8139299	Football	2024 Panini Absolute		4		Kirk Cousins	0.55		en	32.0	26.0	10.77
-8140966	Football	2024 Panini Absolute		62		Kyren Williams	1.68		en			
-8144068	Football	2024 Panini Absolute		170		Marist Liufau	1.19		en	34.53	28.0	11.74
-8142323	Football	2024 Panini Absolute		109		Rome Odunze	1.49		en	22.24	20.0	8.0
-8141707	Football	2024 Panini Absolute		88		Russell Wilson	1.55		en	35.85	29.0	12.25
-8143981	Football	2024 Panini Absolute		167		Tip Reiman	0.99		en	34.04	27.0	11.55
-8148864	Football	2024 Panini Absolute	By Storm	BS-MCY		Malachi Corley	1.56		en	35.91	29.0	12.27
-8149822	Football	2024 Panini Absolute	Star Gazing	SG-MPJ		Michael Penix Jr.	1.0		en	20.0	16.0	15.01
 11288047	Baseball	2025 Topps	Allen and Ginter	174		Alex Bregman	1.35		en	36.15	29.0	12.13
 11287343	Baseball	2025 Topps	Allen and Ginter	94		Andres Gimenez	0.74		en			
 11288189	Baseball	2025 Topps	Allen and Ginter	190		Andruw Jones	1.0		en	35.3	28.0	11.84
@@ -7317,6 +7237,248 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 11730539	Football	2025 Panini Donruss Optic		184	Stars	Eli Manning			en			
 11729696	Football	2025 Panini Donruss Optic		172	Stars	Tyjae Spears			en			
 11740243	Football	2025 Panini Donruss Optic	Passing Grade	4		Quinn Ewers	1.79		en	37.61	30.0	12.61
+12527330	Football	2025 Topps Chrome		201		Aaron Jones Sr.			en			
+12523827	Football	2025 Topps Chrome		125		Alec Pierce			en			
+12529004	Football	2025 Topps Chrome		236		Allen Lazard			en			
+12528080	Football	2025 Topps Chrome		215		Alvin Kamara			en			
+12534207	Football	2025 Topps Chrome		344		Billy Bowman Jr.			en			
+12532607	Football	2025 Topps Chrome		319		Brady Cook			en			
+12527414	Football	2025 Topps Chrome		196		Brian O'Neill			en			
+12531792	Football	2025 Topps Chrome		296		Brian Robinson Jr.			en			
+12526293	Football	2025 Topps Chrome		178		Brock Bowers			en			
+12526293	Football	2025 Topps Chrome		178		Brock Bowers			en			
+12520707	Football	2025 Topps Chrome		52		Caleb Williams			en			
+12528251	Football	2025 Topps Chrome		221		Cameron Jordan			en			
+12521129	Football	2025 Topps Chrome		67		Cedric Tillman			en			
+12523997	Football	2025 Topps Chrome		129		Charvarius Ward			en			
+12531535	Football	2025 Topps Chrome		288		Chase McLaughlin			en			
+12531151	Football	2025 Topps Chrome		283		Chris Godwin			en			
+12523275	Football	2025 Topps Chrome		112		Christian Watson			en			
+12520192	Football	2025 Topps Chrome		42		Chuba Hubbard			en			
+12520614	Football	2025 Topps Chrome		51		Cole Kmet			en			
+12530205	Football	2025 Topps Chrome		252		Cooper DeJean			en			
+12519211	Football	2025 Topps Chrome		20		DeAndre Hopkins			en			
+12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown			en			
+12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown			en			
+12521650	Football	2025 Topps Chrome		74		Denzel Ward			en			
+12519418	Football	2025 Topps Chrome		25		Derrick Henry			en			
+12536371	Football	2025 Topps Chrome		392		Donovan Edwards			en			
+12524416	Football	2025 Topps Chrome		136		Dyami Brown			en			
+12532693	Football	2025 Topps Chrome		312		Emeka Egbuka			en			
+12536138	Football	2025 Topps Chrome		386		Emery Jones Jr.			en			
+12527848	Football	2025 Topps Chrome		212		Garrett Bradbury			en			
+12525206	Football	2025 Topps Chrome		152		George Karlaftis			en			
+12530071	Football	2025 Topps Chrome		267		George Kittle			en			
+12532203	Football	2025 Topps Chrome		305		Gunnar Helm			en			
+12524959	Football	2025 Topps Chrome		149		Isiah Pacheco			en			
+12534830	Football	2025 Topps Chrome		356		JT Tuimoloau			en			
+12520345	Football	2025 Topps Chrome		45		Ja'Tavion Sanders			en			
+12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs			en			
+12523101	Football	2025 Topps Chrome		105		Jake Bates			en			
+12534699	Football	2025 Topps Chrome		354		Jalon Walker			en			
+12525325	Football	2025 Topps Chrome		157		Joe Alt			en			
+12522130	Football	2025 Topps Chrome		85		Joe Milton III			en			
+12520574	Football	2025 Topps Chrome		50		Joe Thuney			en			
+12519932	Football	2025 Topps Chrome		36		Joey Bosa			en			
+12529811	Football	2025 Topps Chrome		257		Jonnu Smith			en			
+12529517	Football	2025 Topps Chrome		249		Jordan Davis			en			
+12526131	Football	2025 Topps Chrome		174		Kamren Kinchens			en			
+12518935	Football	2025 Topps Chrome		13		Kirk Cousins			en			
+12526585	Football	2025 Topps Chrome		183		Kolton Miller			en			
+12519612	Football	2025 Topps Chrome		29		Kyle Hamilton			en			
+12518541	Football	2025 Topps Chrome		5		Kyler Murray			en			
+12528448	Football	2025 Topps Chrome		225		Malik Nabers			en			
+12530593	Football	2025 Topps Chrome		274		Noah Fant			en			
+12530806	Football	2025 Topps Chrome		278		Riq Woolen			en			
+12520528	Football	2025 Topps Chrome		49		Rome Odunze			en			
+12528528	Football	2025 Topps Chrome		229		Russell Wilson			en			
+12534085	Football	2025 Topps Chrome		340		Savion Williams			en			
+12536079	Football	2025 Topps Chrome		370		Sebastian Castro			en			
+12527629	Football	2025 Topps Chrome		205		Stefon Diggs			en			
+12523285	Football	2025 Topps Chrome		96		Tim Patrick			en			
+12520284	Football	2025 Topps Chrome		44		Tommy Tremble			en			
+12535182	Football	2025 Topps Chrome		371		Trey Amos			en			
+12525699	Football	2025 Topps Chrome		167		Tutu Atwell			en			
+12536684	Football	2025 Topps Chrome		398		Tyler Shough			en			
+12552688	Football	2025 Topps Chrome Urban Legends		UL-4		Caleb Williams			en			
+12550491	Football	2025 Topps Chrome Fortune 15		F15-2		JaTMarr Chase			en			
+12550726	Football	2025 Topps Chrome Fortune 15		F15-7		Josh Allen			en			
+12552232	Football	2025 Topps Chrome Power Players		PP-40	Refractor	Abdul Carter	9.75		en			
+12552322	Football	2025 Topps Chrome Power Players		PP-33	Refractor	George Kittle			en			
+12552067	Football	2025 Topps Chrome Power Players		PP-1	Refractor	Lamar Jackson			en			
+12551526	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-19	Refractor	Art Monk	4.99		en			
+12550388	Football	2025 Topps Chrome All Chrome Team		ACT-23	Refractor	Kerby Joseph			en			
+12529399	Football	2025 Topps Chrome		243	Football Leather Refractor	A.J. Brown			en			
+12529590	Football	2025 Topps Chrome		252	Football Leather Refractor	Cooper DeJean			en			
+12523024	Football	2025 Topps Chrome		107	Football Leather Refractor	Jayden Reed			en			
+12525418	Football	2025 Topps Chrome		159	Football Leather Refractor	Quentin Johnston			en			
+12534713	Football	2025 Topps Chrome		359	Red White Blue Refractor	Jahdae Barron			en			
+12535454	Football	2025 Topps Chrome		366	Red White Blue Refractor	Jihaad Campbell			en			
+12530688	Football	2025 Topps Chrome		276	Red White Blue Refractor	Kenneth Walker III			en			
+12525783	Football	2025 Topps Chrome		169	Red White Blue Refractor	Matthew Stafford			en			
+12549993	Football	2025 Topps Chrome 1975		1975-22		J.J. McCarthy			en			
+12549736	Football	2025 Topps Chrome 1975		1975-18		Justin Herbert			en			
+12549732	Football	2025 Topps Chrome 1975		1975-2	Refractor	Michael Penix Jr.			en			
+12527425	Football	2025 Topps Chrome		201	Pulsar Refractor	Aaron Jones Sr.			en			
+12521578	Football	2025 Topps Chrome		60	Pulsar Refractor	Andrei Iosivas			en			
+12530244	Football	2025 Topps Chrome		262	Pulsar Refractor	Brock Purdy			en			
+12523944	Football	2025 Topps Chrome		124	Pulsar Refractor	Cam Robinson			en			
+12527914	Football	2025 Topps Chrome		216	Pulsar Refractor	Chris Olave			en			
+12524447	Football	2025 Topps Chrome		134	Raywave Refractor	Braden Smith			en			
+12528917	Football	2025 Topps Chrome		234	Raywave Refractor	Brian Burns			en			
+12523307	Football	2025 Topps Chrome		112	Raywave Refractor	Christian Watson			en			
+12524318	Football	2025 Topps Chrome		132	Raywave Refractor	Daniel Jones			en			
+12527893	Football	2025 Topps Chrome		212	Raywave Refractor	Garrett Bradbury			en			
+12519760	Football	2025 Topps Chrome		32	Raywave Refractor	Khalil Shakir			en			
+12536457	Football	2025 Topps Chrome		399	Raywave Refractor	Seth Henigan			en			
+12533966	Football	2025 Topps Chrome		338	Raywave Refractor	Tre Harris III			en			
+12528092	Football	2025 Topps Chrome		217	Refractor	Brandin Cooks			en			
+12523572	Football	2025 Topps Chrome		117	Refractor	Christian Kirk			en			
+12521888	Football	2025 Topps Chrome		79	Refractor	Dak Prescott			en			
+12526447	Football	2025 Topps Chrome		179	Refractor	Geno Smith			en			
+12527200	Football	2025 Topps Chrome		199	Refractor	J.J. McCarthy			en			
+12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker			en			
+12533841	Football	2025 Topps Chrome		343	Refractor	Jayden Higgins			en			
+12535850	Football	2025 Topps Chrome		380	Refractor	Jonah Savaiinaea			en			
+12524119	Football	2025 Topps Chrome		130	Refractor	Jonathan Taylor			en			
+12535139	Football	2025 Topps Chrome		362	Refractor	Kenneth Grant			en			
+12519656	Football	2025 Topps Chrome		30	Refractor	Keon Coleman			en			
+12522558	Football	2025 Topps Chrome		99	Refractor	Penei Sewell			en			
+12527171	Football	2025 Topps Chrome		194	Football Leather Green	Ashtyn Davis			en			
+12519324	Football	2025 Topps Chrome		21	Football Leather Purple	Rashod Bateman			en			
+12551597	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-22		Tim Brown	5.0		en			
+12550995	Football	2025 Topps Chrome Future Stars		FS-4		Brian Thomas Jr.			en			
+12551219	Football	2025 Topps Chrome Future Stars		FS-25		Jalen Carter			en			
+8141535	Football	2024 Panini Absolute		82		Aaron Rodgers	1.21		en	34.58	28.0	11.76
+8143521	Football	2024 Panini Absolute		151		Adonai Mitchell	1.24		en	33.85	27.0	11.48
+8142056	Football	2024 Panini Absolute		100		Austin Ekeler	0.08		en	30.08	24.0	10.03
+8142056	Football	2024 Panini Absolute		100		Austin Ekeler	0.08		en	30.08	24.0	10.03
+8144524	Football	2024 Panini Absolute		186		Bucky Irving	1.35		en	15.0	12.0	12.12
+8141391	Football	2024 Panini Absolute		77		Chris Olave	1.19		en	34.43	28.0	11.7
+8140301	Football	2024 Panini Absolute		39		Christian Watson	0.66		en	32.49	26.0	10.96
+8139670	Football	2024 Panini Absolute		17		D'Andre Swift	1.3		en	34.91	28.0	11.89
+8142840	Football	2024 Panini Absolute		127		Darius Robinson	0.15		en	30.57	24.0	10.22
+8141111	Football	2024 Panini Absolute		67		De'Von Achane	1.16		en	33.83	27.0	11.47
+8140734	Football	2024 Panini Absolute		54		Gardner Minshew II	0.5		en	32.26	26.0	10.87
+8143322	Football	2024 Panini Absolute		144		Jackson Powers-Johnson	1.46		en	35.57	28.0	12.14
+8141307	Football	2024 Panini Absolute		74		Jacoby Brissett	0.02		en	30.08	24.0	10.03
+8139527	Football	2024 Panini Absolute		12		James Cook	1.11		en	33.74	27.0	11.44
+8140071	Football	2024 Panini Absolute		31		Javonte Williams	0.04		en	30.23	24.0	10.09
+8142120	Football	2024 Panini Absolute		102		Jayden Daniels	1.88		en	24.99	27.31	10.0
+8139756	Football	2024 Panini Absolute		20		Joe Burrow	1.4		en	35.3	28.0	11.5
+8140500	Football	2024 Panini Absolute		46		Jonathan Taylor	0.25		en			
+8141168	Football	2024 Panini Absolute		69		Justin Jefferson	1.24		en	23.0	18.0	12.0
+8143265	Football	2024 Panini Absolute		142		Kamari Lassiter	1.0		en	33.8	27.0	11.45
+8140850	Football	2024 Panini Absolute		58		Khalil Mack	1.49		en			
+8139299	Football	2024 Panini Absolute		4		Kirk Cousins	0.55		en	32.0	26.0	10.77
+8140966	Football	2024 Panini Absolute		62		Kyren Williams	1.68		en			
+8139442	Football	2024 Panini Absolute		9		Lamar Jackson	1.25		en	34.73	28.0	11.81
+8144068	Football	2024 Panini Absolute		170		Marist Liufau	1.19		en	34.53	28.0	11.74
+8141939	Football	2024 Panini Absolute		96		Mike Evans	0.53		en	33.74	27.0	11.44
+8139900	Football	2024 Panini Absolute		25		Myles Garrett	0.99		en	34.45	28.0	7.0
+8142323	Football	2024 Panini Absolute		109		Rome Odunze	1.49		en	22.24	20.0	8.0
+8141707	Football	2024 Panini Absolute		88		Russell Wilson	1.55		en	35.85	29.0	12.25
+8140387	Football	2024 Panini Absolute		42		Stefon Diggs	0.5		en			
+8142027	Football	2024 Panini Absolute		99		Terry McLaurin	0.13		en	30.79	25.0	10.3
+8143981	Football	2024 Panini Absolute		167		Tip Reiman	0.99		en	34.04	27.0	11.55
+8140646	Football	2024 Panini Absolute		51		Travis Kelce	1.22		en	25.0	20.0	11.44
+8144125	Football	2024 Panini Absolute		172		Tykee Smith	0.99		en	16.5	13.0	11.44
+8142896	Football	2024 Panini Absolute		129		Tyler Guyton	1.12		en	34.19	27.0	11.61
+8144553	Football	2024 Panini Absolute		187		Will Shipley	1.0		en	33.79	27.0	11.45
+8148864	Football	2024 Panini Absolute	By Storm	BS-MCY		Malachi Corley	1.56		en	35.91	29.0	12.27
+8148856	Football	2024 Panini Absolute	By Storm	BS-XLE		Xavier Legette	1.6		en	35.59	28.0	12.15
+8149822	Football	2024 Panini Absolute	Star Gazing	SG-MPJ		Michael Penix Jr.	1.0		en	20.0	16.0	15.01
+8149854	Football	2024 Panini Absolute	Star Gazing	SG-ROE		Rome Odunze	1.49		en	44.0	35.0	8.5
+8078069	Baseball	2024 Panini Prizm		94		Alex Clemmey	1.06		en			
+8083682	Baseball	2024 Panini Prizm		285		Alonzo Tredwell	1.24		en			
+8080101	Baseball	2024 Panini Prizm		163		Bobby Valentine	1.12		en			
+8080887	Baseball	2024 Panini Prizm		190		Brayden Taylor	0.87		en			
+8083239	Baseball	2024 Panini Prizm		270		Carson Roccaforte	1.0		en			
+8082856	Baseball	2024 Panini Prizm		257		Cole Young	0.99		en			
+8078925	Baseball	2024 Panini Prizm		123		Craig Biggio	0.7		en			
+8080680	Baseball	2024 Panini Prizm		183		Dylan Crews	0.99		en	33.73	27.0	11.43
+8076377	Baseball	2024 Panini Prizm		37		Eddie Murray	0.6		en	32.26	26.0	10.87
+8076377	Baseball	2024 Panini Prizm		37		Eddie Murray	0.6		en	32.26	26.0	10.87
+8079925	Baseball	2024 Panini Prizm		157		Elian Soto	0.92		en			
+8080360	Baseball	2024 Panini Prizm		172		Emerson Hancock	0.73		en			
+8084312	Baseball	2024 Panini Prizm		141		Ethan Salas	3.4		en	42.81	34.0	14.93
+8077740	Baseball	2024 Panini Prizm		83		Felix Hernandez	0.98		en			
+8084099	Baseball	2024 Panini Prizm		299		Felnin Celesten	1.79		en	36.72	29.0	12.59
+8082242	Baseball	2024 Panini Prizm		236		Francisco Vilorio	1.0		en			
+8082473	Baseball	2024 Panini Prizm		244		Ivan Rodriguez	1.38		en			
+8084992	Baseball	2024 Panini Prizm		249		Jackson Jobe	1.41		en	35.28	28.0	12.04
+8084992	Baseball	2024 Panini Prizm		249		Jackson Jobe	1.41		en	35.28	28.0	12.04
+8082032	Baseball	2024 Panini Prizm		229		Jake Bloss	0.99		en			
+8083952	Baseball	2024 Panini Prizm		294		Jim Palmer	1.38		en			
+8080071	Baseball	2024 Panini Prizm		162		Jim Thome	0.25		en	30.94	25.0	10.36
+8075492	Baseball	2024 Panini Prizm		7		Joe Mauer	1.5		en	19.99	16.0	
+8076823	Baseball	2024 Panini Prizm		52		Jordan Westburg	1.7		en	36.39	29.0	12.46
+8075667	Baseball	2024 Panini Prizm		13		Josh Knoth	0.93		en			
+8080329	Baseball	2024 Panini Prizm		171		Ken Griffey Jr.	1.39		en	35.69	29.0	12.2
+8079484	Baseball	2024 Panini Prizm		142		Kevin McGonigle	2.5		en	37.5	30.0	12.89
+8083415	Baseball	2024 Panini Prizm		276		Kirby Puckett	1.49		en	34.99	28.0	12.06
+8078512	Baseball	2024 Panini Prizm		109		Lou Gehrig	1.22		en	34.59	28.0	11.77
+8079162	Baseball	2024 Panini Prizm		131		Lou Piniella	1.25		en			
+8082445	Baseball	2024 Panini Prizm		243		Mick Abel	1.35		en	35.07	28.0	11.95
+8079132	Baseball	2024 Panini Prizm		130		Mickey Mantle	2.36		en	38.77	31.0	16.99
+8076912	Baseball	2024 Panini Prizm		55		Mike Piazza	0.99		en	33.71	27.0	11.43
+8083064	Baseball	2024 Panini Prizm		264		Nick Loftin	1.17		en	34.41	28.0	11.7
+8084041	Baseball	2024 Panini Prizm		297		Noah Schultz	1.45		en			
+8083152	Baseball	2024 Panini Prizm		267		Pete Rose	1.91		en	37.26	30.0	12.79
+8081245	Baseball	2024 Panini Prizm		202		Ralphy Velazquez	0.01		en			
+8077206	Baseball	2024 Panini Prizm		65		Rhett Lowder	1.55		en	35.83	29.0	12.24
+8077649	Baseball	2024 Panini Prizm		80		Robby Snelling	0.01		en			
+8077649	Baseball	2024 Panini Prizm		80		Robby Snelling	0.01		en			
+8076733	Baseball	2024 Panini Prizm		49		Roman Anthony	1.94		en	37.13	30.0	12.75
+8081448	Baseball	2024 Panini Prizm		209		Ronny Mauricio	1.42		en	35.22	28.0	12.01
+8076467	Baseball	2024 Panini Prizm		40		Scott Rolen	1.02		en			
+8078598	Baseball	2024 Panini Prizm		112		Sebastian Walcott	1.74		en	36.55	29.0	12.52
+8081772	Baseball	2024 Panini Prizm		220		Tai Peete	1.2		en			
+8081156	Baseball	2024 Panini Prizm		199		Termarr Johnson	1.55		en	35.63	29.0	12.17
+8080917	Baseball	2024 Panini Prizm		191		Thomas White	0.99		en			
+8075964	Baseball	2024 Panini Prizm		23		Tim Salmon	1.37		en			
+8075964	Baseball	2024 Panini Prizm		23		Tim Salmon	1.37		en			
+8078159	Baseball	2024 Panini Prizm		97		Tink Hence	1.1		en			
+8077529	Baseball	2024 Panini Prizm		76		Tony Gwynn	1.79		en	36.74	29.0	12.59
+8076050	Baseball	2024 Panini Prizm		26		Ty Madden	1.0		en			
+8079777	Baseball	2024 Panini Prizm		152		Won-Bin Cho	0.34		en			
+8078628	Baseball	2024 Panini Prizm		113		Yanquiel Fernandez	0.63		en			
+8076859	Baseball	2024 Panini Prizm		53	Silver	Brady House	1.15		en	34.33	27.0	11.67
+8081601	Baseball	2024 Panini Prizm		214	Silver	Jonathan Papelbon	2.96		en			
+8084288	Baseball	2024 Panini Prizm		109	Silver	Lou Gehrig	1.04		en	33.9	27.0	11.5
+8083808	Baseball	2024 Panini Prizm		289	Silver	Manny Ramirez	1.27		en			
+8079139	Baseball	2024 Panini Prizm		130	Silver	Mickey Mantle	2.27		en	38.54	31.0	8.05
+8082925	Baseball	2024 Panini Prizm		259	Silver	Mitch Jebb	1.19		en			
+8080807	Baseball	2024 Panini Prizm		187	Silver	Noble Meyer	1.32		en			
+8077717	Baseball	2024 Panini Prizm		82	Silver	Owen Caissie	2.01		en	37.54	30.0	12.91
+8079019	Baseball	2024 Panini Prizm		126	Silver	Roberto Clemente	1.5		en	35.62	29.0	12.17
+8075528	Baseball	2024 Panini Prizm		8	Silver	Will Clark	1.74		en	36.52	29.0	12.52
+8079784	Baseball	2024 Panini Prizm		152	Silver	Won-Bin Cho	0.25		en			
+8082565	Baseball	2024 Panini Prizm		247	Red Ice	Bobby Richardson	3.75		en			
+8082801	Baseball	2024 Panini Prizm		255	Red Ice	Bryce Eldridge	2.0		en			
+8077152	Baseball	2024 Panini Prizm		63	Red Ice	Cade Horton	2.34		en			
+8079317	Baseball	2024 Panini Prizm		136	Red Ice	Cade Kuehler	0.72		en			
+8083987	Baseball	2024 Panini Prizm		295	Red Ice	Caden Grice	1.29		en			
+8077625	Baseball	2024 Panini Prizm		79	Red Ice	Dillon Head	2.26		en			
+8078044	Baseball	2024 Panini Prizm		93	Red Ice	Gary Carter	2.62		en			
+8082980	Baseball	2024 Panini Prizm		261	Red Ice	Harry Ford	1.48		en			
+8083867	Baseball	2024 Panini Prizm		291	Red Ice	Junior Caminero	3.99		en	45.08	36.0	15.8
+8075438	Baseball	2024 Panini Prizm		5	Red Ice	Luis Tiant	1.62		en			
+8078429	Baseball	2024 Panini Prizm		106	Red Ice	Ryan Clifford	0.25		en			
+8078692	Baseball	2024 Panini Prizm		115	Red Ice	Sammy Stafura	1.55		en			
+8077572	Baseball	2024 Panini Prizm		77	Red Pulsar	Carson Williams	1.78		en			
+8083874	Baseball	2024 Panini Prizm		291	Red Pulsar	Junior Caminero	4.99		en	50.0	40.0	17.23
+8079525	Baseball	2024 Panini Prizm		143	Red Pulsar	Ty Floyd	1.77		en			
+8086449	Baseball	2024 Panini Prizm	Fireworks	21		Brady House	1.31		en			
+8086313	Baseball	2024 Panini Prizm	Fireworks	4		Colt Emerson	1.89		en	35.89	29.0	12.27
+8086337	Baseball	2024 Panini Prizm	Fireworks	7		James Wood	1.49		en	14.95	12.0	8.3
+8077120	Baseball	2024 Panini Prizm		62	Green	George Lombard Jr.	1.33		en	34.98	28.0	11.92
+8082390	Baseball	2024 Panini Prizm		241	Green	Kemp Alderman	2.69		en			
+8081305	Baseball	2024 Panini Prizm		204	Green	Vladimir Guerrero	1.4		en			
+8086862	Baseball	2024 Panini Prizm	Prizmatic	23		Arjun Nimmala	1.31		en	34.93	28.0	11.9
+8086689	Baseball	2024 Panini Prizm	Prizmatic	1		Chase Davis	1.44		en	35.41	28.0	12.08
+8086799	Baseball	2024 Panini Prizm	Prizmatic	15		Matt Shaw	1.39		en	35.21	28.0	12.01
+8086896	Baseball	2024 Panini Prizm	Top Tier	2		Jackson Jobe	1.59		en	35.93	29.0	12.29
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
