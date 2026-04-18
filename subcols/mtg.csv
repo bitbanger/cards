@@ -8739,3 +8739,178 @@ BOXES,binder,Angrath's Marauders,XLN,Ixalan,132,normal,rare,1,3880,f0bfc9e0-14e8
 BOXES,binder,"Huatli, Warrior Poet",XLN,Ixalan,224,normal,mythic,1,3788,a0cc61ba-e91a-4b30-841c-cae8dd288b40,3.09,false,false,near_mint,en,USD
 BOXES,binder,Dragonskull Summit,XLN,Ixalan,252,normal,rare,1,3760,91570836-9e36-4774-8d5d-7cbcee0012ba,1.1,false,false,near_mint,en,USD
 BOXES,binder,Storm Fleet Pyromancer,XLN,Ixalan,163,normal,common,2,3849,ab5f5e45-2abb-43e1-aecb-97f0390282a7,0.06,false,false,near_mint,en,USD
+BOXES,binder,Textbook Tabulator,SOS,Secrets of Strixhaven,70,foil,common,1,112615,56f54fee-b48d-4582-8982-ca4c7b8ef553,,false,false,near_mint,en,USD
+BOXES,binder,Send in the Pest,SOS,Secrets of Strixhaven,100,foil,common,1,112576,283b508b-89f0-4c23-9686-b049e402b73c,0.39,false,false,near_mint,en,USD
+BOXES,binder,Tablet of Discovery,SOS,Secrets of Strixhaven,132,foil,uncommon,1,112565,13059664-a940-4a66-8100-0c90b884bab4,0.71,false,false,near_mint,en,USD
+BOXES,binder,Primary Research,SOS,Secrets of Strixhaven,26,foil,uncommon,1,112190,f6fdb814-45c6-4d14-afff-7f5bd1bd10a1,0.31,false,false,near_mint,en,USD
+BOXES,binder,Spectacular Skywhale,SOS,Secrets of Strixhaven,229,foil,uncommon,1,112267,c90366d5-b4ba-4772-a3c5-f138bbe7f305,0.56,false,false,near_mint,en,USD
+BOXES,binder,Paradox Gardens,SOS,Secrets of Strixhaven,258,foil,common,1,112152,dbc3447e-1329-4ea1-b4ca-b321b0ffec8f,0.28,false,false,near_mint,en,USD
+BOXES,binder,Melancholic Poet,SOS,Secrets of Strixhaven,90,foil,common,1,112696,d8309815-7035-47a5-acf2-2b2ac1e65037,0.92,false,false,near_mint,en,USD
+BOXES,binder,Zealous Lorecaster,SOS,Secrets of Strixhaven,137,foil,common,2,112590,36ab2130-9f21-4d30-873a-aa72d3d15fa8,0.3,false,false,near_mint,en,USD
+BOXES,binder,Studious First-Year // Rampant Growth,SOS,Secrets of Strixhaven,162,foil,common,2,111693,24f888dd-785c-4089-a89c-03f9080130ed,0.75,false,false,near_mint,en,USD
+BOXES,binder,Spirit Mascot,SOS,Secrets of Strixhaven,230,foil,common,2,111682,123f1fde-d8de-4640-baa1-bb3781713168,0.25,false,false,near_mint,en,USD
+BOXES,binder,End of the Hunt,SOS,Secrets of Strixhaven,81,foil,uncommon,1,112320,0809b51a-6a05-4f18-9bf4-1b8382da648f,0.32,false,false,near_mint,en,USD
+BOXES,binder,Soaring Stoneglider,SOS,Secrets of Strixhaven,32,foil,uncommon,1,112584,2fbe446b-60fd-43da-8358-985392293af8,0.25,false,false,near_mint,en,USD
+BOXES,binder,Shamanic Revelation,SOA,Secrets of Strixhaven Mystical Archive,187,foil,rare,1,112421,12e2ee56-ff9c-4a16-8446-94735c05817a,,false,false,near_mint,en,USD
+BOXES,binder,Spell Pierce,SOA,Secrets of Strixhaven Mystical Archive,153,foil,uncommon,1,112522,d3820242-f519-49a0-8c00-cb492b5c93ac,68.32,false,false,near_mint,en,USD
+BOXES,binder,Helping Hand,SOA,Secrets of Strixhaven Mystical Archive,70,normal,uncommon,1,112556,f8c32407-5a49-4eec-a3ce-cfe72797a9c9,2.73,false,false,near_mint,en,USD
+BOXES,binder,Brain Freeze,SOA,Secrets of Strixhaven Mystical Archive,78,normal,rare,1,112731,3f77b203-8574-4a5f-91f1-b7caf3301739,29.64,false,false,near_mint,en,USD
+BOXES,binder,Hop to It,SOA,Secrets of Strixhaven Mystical Archive,71,normal,uncommon,1,112553,dc7b153e-e036-42ef-8479-f9deebb6a2d6,1.66,false,false,near_mint,en,USD
+BOXES,binder,Pongify,SOA,Secrets of Strixhaven Mystical Archive,85,normal,rare,1,112410,89d595e6-3629-4f9b-8f55-8a91ff1d6f36,8.55,false,false,near_mint,en,USD
+BOXES,binder,Smallpox,SOA,Secrets of Strixhaven Mystical Archive,98,normal,rare,1,111807,988f9e6f-4ba2-4f6f-8733-23ba838179ac,10.56,false,false,near_mint,en,USD
+BOXES,binder,Shared Roots,SOA,Secrets of Strixhaven Mystical Archive,123,normal,uncommon,1,112499,b5ead982-87b1-41b6-9c71-7231fc21d06b,1.28,false,false,near_mint,en,USD
+BOXES,binder,Return the Favor,SOA,Secrets of Strixhaven Mystical Archive,112,normal,uncommon,1,112493,abe555c4-2da1-47c5-9910-cd07f4256938,3.54,false,false,near_mint,en,USD
+BOXES,binder,Sleight of Hand,SOA,Secrets of Strixhaven Mystical Archive,87,normal,uncommon,1,112729,11a91b7a-108e-43b6-a08d-56f824e807dd,1.55,false,false,near_mint,en,USD
+BOXES,binder,Deduce,SOA,Secrets of Strixhaven Mystical Archive,81,normal,uncommon,1,111799,5a8c7ae4-186b-45c5-a7b0-4b7eaf5b0f42,4.09,false,false,near_mint,en,USD
+BOXES,binder,Dismember,SOA,Secrets of Strixhaven Mystical Archive,93,normal,rare,1,112477,9382c445-bc7c-4c98-b9d8-477d77a4e523,6.46,false,false,near_mint,en,USD
+BOXES,binder,Force of Will,SOA,Secrets of Strixhaven Mystical Archive,84,normal,mythic,1,111787,24bfbb10-409f-4885-b792-73958250a65d,262.41,false,false,near_mint,en,USD
+BOXES,binder,Culling the Weak,SOA,Secrets of Strixhaven Mystical Archive,92,normal,rare,1,112492,a4db7d4c-eb99-41e3-bdf1-4ecd4b877f07,13.77,false,false,near_mint,en,USD
+BOXES,binder,Duty Beyond Death,SOA,Secrets of Strixhaven Mystical Archive,69,normal,uncommon,1,111813,c841be3a-bcfe-4ce5-9580-26b56a675df7,1.81,false,false,near_mint,en,USD
+BOXES,binder,Stargaze,SOA,Secrets of Strixhaven Mystical Archive,99,normal,uncommon,1,112500,b62a8648-7f34-454d-b9e2-cc0d0d976c82,1.17,false,false,near_mint,en,USD
+BOXES,binder,Joined Researchers // Secret Rendezvous,SOS,Secrets of Strixhaven,23,foil,rare,1,111690,1ebaafe0-3a9a-424c-8698-d26e7be45343,2.4,false,false,near_mint,en,USD
+BOXES,binder,Maelstrom Artisan // Rocket Volley,SOS,Secrets of Strixhaven,122,foil,rare,1,112237,5c88391d-271f-4021-a5d9-158ebc1e6357,2.39,false,false,near_mint,en,USD
+BOXES,binder,Improvisation Capstone,SOS,Secrets of Strixhaven,120,foil,mythic,1,111747,d01fe6e9-49ee-4708-833e-75cd5a9f167c,10.71,false,false,near_mint,en,USD
+BOXES,binder,Stormcarved Coast,SOS,Secrets of Strixhaven,263,foil,rare,1,111738,bd3ae4fa-4c97-410a-8c0a-bd203342595d,8.57,false,false,near_mint,en,USD
+BOXES,binder,"Jadzi, Steward of Fate // Oracle's Gift",SOS,Secrets of Strixhaven,55,foil,rare,1,112377,a95b6baf-01e6-49c3-9a26-394b127d53c3,1.61,false,false,near_mint,en,USD
+BOXES,binder,"Berta, Wise Extrapolator",SOS,Secrets of Strixhaven,175,foil,rare,1,111715,75f89c36-c81d-4580-9a5c-218fed0c5c9a,2.34,false,false,near_mint,en,USD
+BOXES,binder,Resonating Lute,SOS,Secrets of Strixhaven,221,foil,rare,1,112241,6ef168d6-28f2-4c24-9bfa-82c35663b729,7.54,false,false,near_mint,en,USD
+BOXES,binder,Zaffai and the Tempests,SOS,Secrets of Strixhaven,246,foil,rare,1,112236,5bdbf507-6fd7-49f6-b437-8f2ce2d0eb0f,1.61,false,false,near_mint,en,USD
+BOXES,binder,Exhibition Tidecaller,SOS,Secrets of Strixhaven,48,foil,rare,1,111730,a58c364e-d0c5-41b9-8c8b-2e5a99468cc7,3.17,false,false,near_mint,en,USD
+BOXES,binder,Withering Curse,SOS,Secrets of Strixhaven,105,foil,mythic,1,111702,50aaf618-dddb-4cbe-8231-d634b4498563,7.17,false,false,near_mint,en,USD
+BOXES,binder,Grave Researcher // Reanimate,SOS,Secrets of Strixhaven,85,foil,rare,1,111721,8b1e10e8-ea14-4761-910b-4072e2a18456,5.46,false,false,near_mint,en,USD
+BOXES,binder,Wildgrowth Archaic,SOS,Secrets of Strixhaven,168,foil,rare,1,112417,0e6e2188-7203-4d10-a838-27233f283cd5,2.85,false,false,near_mint,en,USD
+BOXES,binder,Decorum Dissertation,SOS,Secrets of Strixhaven,292,foil,mythic,1,112351,6040e27f-ed10-410c-8ae5-cfcba35c0d4c,14.47,false,false,near_mint,en,USD
+BOXES,binder,Magmablood Archaic,SOS,Secrets of Strixhaven,295,foil,rare,1,112429,30f2d6a5-1e21-4d12-bd51-6e40683b0e72,6.32,false,false,near_mint,en,USD
+BOXES,binder,Planar Engineering,SOS,Secrets of Strixhaven,340,foil,rare,1,112381,b1a2df2a-4578-46cd-8b6c-802a5af8d082,6.19,false,false,near_mint,en,USD
+BOXES,binder,Steal the Show,SOS,Secrets of Strixhaven,336,foil,rare,1,112306,eeee78ed-5cb9-4768-87d3-567f1b0ba305,3.4,false,false,near_mint,en,USD
+BOXES,binder,Suspend Aggression,SOS,Secrets of Strixhaven,357,foil,rare,1,112316,004fdcbe-6dc9-40ad-9467-b89b72a4a8ca,3.08,false,false,near_mint,en,USD
+BOXES,binder,Vastlands Scavenger // Bind to Life,SOS,Secrets of Strixhaven,342,foil,rare,1,112646,91db5c3d-45ab-440f-8568-a2837aee1fca,1.15,false,false,near_mint,en,USD
+BOXES,binder,Cauldron of Essence,SOS,Secrets of Strixhaven,347,foil,rare,1,112649,96c53f07-b34c-4cc7-a054-f0bdfa48b975,3.65,false,false,near_mint,en,USD
+BOXES,binder,"Nita, Forum Conciliator",SOS,Secrets of Strixhaven,354,foil,rare,1,112598,3e0c2dec-7649-495c-b2a7-2465c9e7fedb,5.0,false,false,near_mint,en,USD
+BOXES,binder,"Moseo, Vein's New Dean",SOS,Secrets of Strixhaven,326,foil,rare,1,112670,b5f7cc28-ab95-4880-ade6-b28245cf12af,8.73,false,false,near_mint,en,USD
+BOXES,binder,Mind into Matter,SOS,Secrets of Strixhaven,352,foil,rare,1,112400,e5886a17-e1ed-4d3f-b12f-392a7b5e7d7d,2.74,false,false,near_mint,en,USD
+BOXES,binder,Hardened Academic,SOS,Secrets of Strixhaven,351,foil,rare,1,111753,da72de84-ba2d-4f75-adcd-241d9751c8e4,4.44,false,false,near_mint,en,USD
+BOXES,binder,Comforting Counsel,SOS,Secrets of Strixhaven,338,foil,rare,1,112585,2ffdf0cc-aa53-4ec0-bed5-e3a04bbabdc6,1.92,false,false,near_mint,en,USD
+BOXES,binder,Feed the Swarm,SOA,Secrets of Strixhaven Mystical Archive,29,foil,uncommon,1,112488,a041cfe3-a02d-41e2-aea3-76bc2bacc10e,1.33,false,false,near_mint,en,USD
+BOXES,binder,Locust Spray,SOA,Secrets of Strixhaven Mystical Archive,31,foil,uncommon,1,112497,b221e1e9-7b14-4444-ac1c-3d5174c711e9,0.49,false,false,near_mint,en,USD
+BOXES,binder,Culling Ritual,SOA,Secrets of Strixhaven Mystical Archive,62,foil,rare,1,112581,2bcd7858-7ae6-4419-bc58-a5c133c97577,5.55,false,false,near_mint,en,USD
+BOXES,binder,Helping Hand,SOA,Secrets of Strixhaven Mystical Archive,5,foil,uncommon,1,112526,da5e29a8-a8fb-452b-9973-61ad613f9907,0.43,false,false,near_mint,en,USD
+BOXES,binder,Stargaze,SOA,Secrets of Strixhaven Mystical Archive,34,foil,uncommon,1,112445,5c9caa7b-0268-4606-a71d-82dff16e6418,0.73,false,false,near_mint,en,USD
+BOXES,binder,Daze,SOA,Secrets of Strixhaven Mystical Archive,15,foil,rare,1,112487,9d9a5654-6795-4799-ae3b-5827bfdf7a97,4.25,false,false,near_mint,en,USD
+BOXES,binder,Return the Favor,SOA,Secrets of Strixhaven Mystical Archive,47,foil,uncommon,1,112535,e968efff-635b-4780-9bbe-099e75a1841b,2.87,false,false,near_mint,en,USD
+BOXES,binder,Pick Your Poison,SOA,Secrets of Strixhaven Mystical Archive,55,foil,uncommon,1,112489,a11f1013-d747-4cf2-bbf5-0bd68a949ddf,1.5,false,false,near_mint,en,USD
+BOXES,binder,Stock Up,SOA,Secrets of Strixhaven Mystical Archive,24,foil,uncommon,1,110977,ad048b7c-588f-4c34-906f-4224f1aaaeb6,3.93,false,false,near_mint,en,USD
+BOXES,binder,Monstrous Rage,SOA,Secrets of Strixhaven Mystical Archive,45,foil,uncommon,1,112439,4b2e000b-a147-443b-9138-9ff2d16c0422,1.91,false,false,near_mint,en,USD
+BOXES,binder,Deflecting Palm,SOA,Secrets of Strixhaven Mystical Archive,63,foil,rare,1,112722,fa80a2e6-303f-4cd4-b719-cdc030a51181,6.82,false,false,near_mint,en,USD
+BOXES,binder,Royal Treatment,SOA,Secrets of Strixhaven Mystical Archive,56,foil,uncommon,1,112412,009bad41-5e96-4bb3-9f5e-66500fb8af29,1.16,false,false,near_mint,en,USD
+BOXES,binder,Knockout Maneuver,SOA,Secrets of Strixhaven Mystical Archive,54,foil,uncommon,1,112436,42d90959-b88c-4321-b2af-78ac7aab9909,0.51,false,false,near_mint,en,USD
+BOXES,binder,Prismatic Ending,SOA,Secrets of Strixhaven Mystical Archive,7,foil,rare,1,112510,c30342a9-9d60-4440-90fc-8df47d558be7,2.57,false,false,near_mint,en,USD
+BOXES,binder,Pongify,SOA,Secrets of Strixhaven Mystical Archive,20,foil,rare,1,112346,5780936e-629d-4737-9005-651234f5426d,5.49,false,false,near_mint,en,USD
+BOXES,binder,Sylvan Library,SPG,Special Guests,155,foil,mythic,1,111788,26a7c62c-12ed-493c-ba95-0f55fec83686,,false,false,near_mint,en,USD
+BOXES,binder,Turbulent Wilderness,SOC,Secrets of Strixhaven Commander,107,normal,rare,1,112259,aa9c37ec-7f03-44b7-b973-9ae5edff3149,7.4,false,false,near_mint,en,USD
+BOXES,binder,Herald of Amity,SOC,Secrets of Strixhaven Commander,65,normal,rare,1,112224,340d2dc1-645e-4574-a5dd-1306833c744f,4.96,false,false,near_mint,en,USD
+BOXES,binder,Relic Retriever,SOC,Secrets of Strixhaven Commander,83,normal,rare,1,112219,2866da1d-62e9-4a0d-9e6c-793d2d38c884,,false,false,near_mint,en,USD
+BOXES,binder,Changing Loyalty,SOC,Secrets of Strixhaven Commander,73,normal,rare,1,112227,4260fab8-5597-45d8-8a1c-22ef96939071,4.17,false,false,near_mint,en,USD
+BOXES,binder,Vanguard of the Restless,SOC,Secrets of Strixhaven Commander,66,normal,rare,1,112263,c0ae86e9-d1c5-4e89-aceb-d48ace0adfea,3.21,false,false,near_mint,en,USD
+BOXES,binder,Owlin Spiralmancer,SOC,Secrets of Strixhaven Commander,72,normal,rare,1,112217,176d16bf-22a9-4b5d-8e86-b23fcf822efe,3.41,false,false,near_mint,en,USD
+BOXES,binder,Inspired Skypainter // Maestro's Gift,SOC,Secrets of Strixhaven Commander,96,normal,rare,1,112220,29d2186c-c5fb-4439-95c6-ffe46b6dded9,7.07,false,false,near_mint,en,USD
+BOXES,binder,Kinetic Ooze,SOC,Secrets of Strixhaven Commander,87,normal,rare,1,112231,543877dd-c685-46a0-b3e8-db89090c7e31,8.79,false,false,near_mint,en,USD
+BOXES,binder,Prismari Pianist,SOC,Secrets of Strixhaven Commander,82,normal,rare,1,112240,6d3bfd1b-8ea8-43ad-8785-af29c807c935,3.42,false,false,near_mint,en,USD
+BOXES,binder,Expansion Algorithm,SOC,Secrets of Strixhaven Commander,69,normal,rare,1,112214,06147ee1-0fe8-4daf-962a-317dc908add5,8.01,false,false,near_mint,en,USD
+BOXES,binder,Eccentric Pestfinder // Turn Stones,SOC,Secrets of Strixhaven Commander,94,normal,rare,1,112269,d9e6b777-e0f6-47e1-808e-81850039d891,4.09,false,false,near_mint,en,USD
+BOXES,binder,"Excava, the Risen Past",SOC,Secrets of Strixhaven Commander,2,normal,mythic,1,112138,d47ebf19-b3fa-48a2-851a-254d32b0305a,11.61,false,false,near_mint,en,USD
+BOXES,binder,Scheming Silvertongue // Sign in Blood,SOS,Secrets of Strixhaven,329,normal,rare,1,112567,1c4c2765-2fb0-43f2-9e50-934405d108d2,4.35,false,false,near_mint,en,USD
+BOXES,binder,Dina's Guidance,SOS,Secrets of Strixhaven,349,normal,rare,1,112718,f6d3a29c-e698-4af3-897e-5e00e0b55ef5,2.83,false,false,near_mint,en,USD
+BOXES,binder,Ambitious Augmenter,SOS,Secrets of Strixhaven,337,normal,rare,1,112317,0319c982-e257-42fc-bb85-79da3a6dd6c1,3.72,false,false,near_mint,en,USD
+BOXES,binder,Ark of Hunger,SOS,Secrets of Strixhaven,344,normal,rare,1,112309,33669848-23ce-4738-9401-469b03f0fd6e,15.64,false,false,near_mint,en,USD
+BOXES,binder,Resonating Lute,SOS,Secrets of Strixhaven,355,normal,rare,1,112242,7151c183-24e4-4748-a513-0f2652fdd6ef,9.38,false,false,near_mint,en,USD
+BOXES,binder,Postmortem Professor,SOS,Secrets of Strixhaven,327,normal,rare,1,112650,96fbf6dc-f9f9-4568-a1a3-c65b7a9b455b,,false,false,near_mint,en,USD
+BOXES,binder,Withering Curse,SOS,Secrets of Strixhaven,330,normal,mythic,1,111757,e17f07de-7409-446d-8f21-09228f752bee,11.5,false,false,near_mint,en,USD
+BOXES,binder,Vastlands Scavenger // Bind to Life,SOS,Secrets of Strixhaven,342,normal,rare,1,112646,91db5c3d-45ab-440f-8568-a2837aee1fca,1.95,false,false,near_mint,en,USD
+BOXES,binder,Applied Geometry,SOS,Secrets of Strixhaven,343,normal,rare,1,112318,03b07915-1d88-4f11-ad35-a0cd849de977,1.93,false,false,near_mint,en,USD
+BOXES,binder,Erode,SOS,Secrets of Strixhaven,310,normal,rare,1,112290,67af20f7-666f-48fb-863b-15bc5b17ab09,9.91,false,false,near_mint,en,USD
+BOXES,binder,Splatter Technique,SOS,Secrets of Strixhaven,356,normal,rare,1,112287,266b881f-a0a8-4058-bbfe-cc46518f839d,8.68,false,false,near_mint,en,USD
+BOXES,binder,Comforting Counsel,SOS,Secrets of Strixhaven,338,normal,rare,1,112585,2ffdf0cc-aa53-4ec0-bed5-e3a04bbabdc6,2.86,false,false,near_mint,en,USD
+BOXES,binder,Shattered Sanctum,SOS,Secrets of Strixhaven,303,normal,rare,1,111746,cfc3f81d-333f-4ac9-8374-082675e07ac1,2.7,false,false,near_mint,en,USD
+BOXES,binder,Colorstorm Stallion,SOS,Secrets of Strixhaven,299,normal,rare,1,111759,e8800c58-574f-4a77-bed9-2d99e8f5813c,2.91,false,false,near_mint,en,USD
+BOXES,binder,Return the Favor,SOA,Secrets of Strixhaven Mystical Archive,47,normal,uncommon,1,112535,e968efff-635b-4780-9bbe-099e75a1841b,0.75,false,false,near_mint,en,USD
+BOXES,binder,Deflecting Palm,SOA,Secrets of Strixhaven Mystical Archive,63,normal,rare,1,112722,fa80a2e6-303f-4cd4-b719-cdc030a51181,3.2,false,false,near_mint,en,USD
+BOXES,binder,Feed the Swarm,SOA,Secrets of Strixhaven Mystical Archive,29,normal,uncommon,1,112488,a041cfe3-a02d-41e2-aea3-76bc2bacc10e,0.29,false,false,near_mint,en,USD
+BOXES,binder,Bulk Up,SOA,Secrets of Strixhaven Mystical Archive,40,normal,uncommon,1,112533,e86fcad5-8150-4a76-b27e-47a9f05745c1,0.46,false,false,near_mint,en,USD
+BOXES,binder,Armageddon,SOA,Secrets of Strixhaven Mystical Archive,3,normal,mythic,1,112435,41954132-2c71-4b3a-8893-20e0df68a848,7.57,false,false,near_mint,en,USD
+BOXES,binder,Burst Lightning,SOA,Secrets of Strixhaven Mystical Archive,41,normal,uncommon,1,112539,f98b402a-ecdb-432f-a050-65945c8c415d,0.34,false,false,near_mint,en,USD
+BOXES,binder,Pongify,SOA,Secrets of Strixhaven Mystical Archive,20,normal,rare,1,112346,5780936e-629d-4737-9005-651234f5426d,4.1,false,false,near_mint,en,USD
+BOXES,binder,Pick Your Poison,SOA,Secrets of Strixhaven Mystical Archive,55,normal,uncommon,1,112489,a11f1013-d747-4cf2-bbf5-0bd68a949ddf,0.51,false,false,near_mint,en,USD
+BOXES,binder,Requisition Raid,SOA,Secrets of Strixhaven Mystical Archive,10,normal,uncommon,1,112457,6d9efae9-365d-46c8-be92-d4a3038f0414,0.34,false,false,near_mint,en,USD
+BOXES,binder,Stock Up,SOA,Secrets of Strixhaven Mystical Archive,24,normal,uncommon,1,110977,ad048b7c-588f-4c34-906f-4224f1aaaeb6,1.77,false,false,near_mint,en,USD
+BOXES,binder,Locust Spray,SOA,Secrets of Strixhaven Mystical Archive,31,normal,uncommon,1,112497,b221e1e9-7b14-4444-ac1c-3d5174c711e9,0.17,false,false,near_mint,en,USD
+BOXES,binder,Giant Growth,SOA,Secrets of Strixhaven Mystical Archive,52,normal,uncommon,1,111801,62652aa9-57e7-42a7-8f2f-62e9a6aefb16,1.57,false,false,near_mint,en,USD
+BOXES,binder,Skycoach Conductor // All Aboard,SOS,Secrets of Strixhaven,67,foil,rare,2,112441,4ecbca71-9a1d-44c5-b709-d6f565941d5e,0.72,false,false,near_mint,en,USD
+BOXES,binder,Coastal Peak,SOC,Secrets of Strixhaven Commander,100,normal,rare,2,112228,494034a4-581a-45fe-8e87-0b0cbf339052,8.82,false,false,near_mint,en,USD
+BOXES,binder,Lorehold Charm,SOS,Secrets of Strixhaven,200,foil,uncommon,1,111656,5fe70295-e550-4577-a341-dab6c25aabfd,0.76,false,false,near_mint,en,USD
+BOXES,binder,Cuboid Colony,SOS,Secrets of Strixhaven,183,foil,uncommon,1,111705,6384d135-7780-4d75-9e95-71bce506948e,0.57,false,false,near_mint,en,USD
+BOXES,binder,Snarl Song,SOS,Secrets of Strixhaven,161,foil,uncommon,1,112723,fc4c7fa2-aebb-4636-9afd-f1010c923316,0.24,false,false,near_mint,en,USD
+BOXES,binder,"Sanar, Unfinished Genius // Wild Idea",SOS,Secrets of Strixhaven,223,foil,uncommon,1,111685,173157aa-712d-44f2-89ba-dd2511a07f26,0.55,false,false,near_mint,en,USD
+BOXES,binder,Deluge Virtuoso,SOS,Secrets of Strixhaven,42,foil,common,1,112222,2e3b16ed-8727-48fd-8b1f-c0cbd329385e,,false,false,near_mint,en,USD
+BOXES,binder,Divergent Equation,SOS,Secrets of Strixhaven,43,foil,uncommon,1,112327,26295e25-f1bf-4665-ba00-dad35c49bbc2,0.41,false,false,near_mint,en,USD
+BOXES,binder,Fractal Tender,SOS,Secrets of Strixhaven,190,foil,uncommon,1,112314,ea7f5262-4ddb-410a-be72-4bac6af9b4ec,0.82,false,false,near_mint,en,USD
+BOXES,binder,Diary of Dreams,SOS,Secrets of Strixhaven,248,foil,uncommon,1,111763,ee1e0a96-af80-444e-a456-5b256cf60625,1.42,false,false,near_mint,en,USD
+BOXES,binder,Honorbound Page // Forum's Favor,SOS,Secrets of Strixhaven,19,foil,common,1,112633,79a70863-860f-4a7b-9cb2-d3546b689d44,0.32,false,false,near_mint,en,USD
+BOXES,binder,Chase Inspiration,SOS,Secrets of Strixhaven,41,foil,common,1,112562,06f9f257-c7ef-44b7-8b2b-f038fba900af,0.52,false,false,near_mint,en,USD
+BOXES,binder,Rancorous Archaic,SOS,Secrets of Strixhaven,2,foil,common,1,111695,2565e16a-ed31-4867-adb8-f1633d580397,,false,false,near_mint,en,USD
+BOXES,binder,Stadium Tidalmage,SOS,Secrets of Strixhaven,232,foil,common,1,112658,a689289e-7141-4950-8a87-82e9bd6846fe,,false,false,near_mint,en,USD
+BOXES,binder,Encouraging Aviator // Jump,SOS,Secrets of Strixhaven,46,foil,uncommon,1,112361,72654b84-9902-41db-92ab-a3499c31221c,0.34,false,false,near_mint,en,USD
+BOXES,binder,"Mica, Reader of Ruins",SOS,Secrets of Strixhaven,124,foil,uncommon,1,112369,949ad3ff-9e80-493c-a3ae-146b919bfcd7,0.49,false,false,near_mint,en,USD
+BOXES,binder,Social Snub,SOS,Secrets of Strixhaven,228,foil,uncommon,1,112373,a04b6900-0436-4920-a0d4-c0186d605ae3,0.48,false,false,near_mint,en,USD
+BOXES,binder,Graduation Day,SOS,Secrets of Strixhaven,16,foil,uncommon,1,111755,db1cea01-123e-4b23-8b98-f94cabce3912,0.51,false,false,near_mint,en,USD
+BOXES,binder,Transcendent Archaic,SOS,Secrets of Strixhaven,5,foil,uncommon,1,112324,1624c680-502b-474a-b9b2-888fe3ca008c,0.43,false,false,near_mint,en,USD
+BOXES,binder,Charging Strifeknight,SOS,Secrets of Strixhaven,110,foil,uncommon,1,112652,9940d992-1ba1-40ec-9b93-17d773452c4b,0.49,false,false,near_mint,en,USD
+BOXES,binder,Fields of Strife,SOS,Secrets of Strixhaven,255,foil,common,1,111906,3dc7a4c3-c356-4fba-bea0-e8788da3eb57,0.32,false,false,near_mint,en,USD
+BOXES,binder,Wild Hypothesis,SOS,Secrets of Strixhaven,167,foil,common,1,112559,04fdfabc-c247-4384-a5bb-f49035f8aae0,0.3,false,false,near_mint,en,USD
+BOXES,binder,Visionary's Dance,SOS,Secrets of Strixhaven,242,foil,common,1,112638,846a0e79-a530-429e-8f7f-4b87f1b0156e,0.32,false,false,near_mint,en,USD
+BOXES,binder,Inkshape Demonstrator,SOS,Secrets of Strixhaven,21,foil,uncommon,1,112505,bcfac992-9984-4529-b9ff-a42d58832b34,0.37,false,false,near_mint,en,USD
+BOXES,binder,Muse Seeker,SOS,Secrets of Strixhaven,60,foil,uncommon,1,112243,71cb4a6b-b500-4b28-bcdb-ec4188242f39,0.61,false,false,near_mint,en,USD
+BOXES,binder,Practiced Scrollsmith,SOS,Secrets of Strixhaven,210,foil,uncommon,1,112289,40075e3f-58b3-47fd-8fbe-4b301e9ce7a1,0.4,false,false,near_mint,en,USD
+BOXES,binder,Interjection,SOS,Secrets of Strixhaven,22,foil,common,1,112560,0534cff6-299c-4155-b318-eb7581989e8a,0.29,false,false,near_mint,en,USD
+BOXES,binder,Fractalize,SOS,Secrets of Strixhaven,51,foil,uncommon,1,112399,e3c3b19b-01b6-4f5a-b428-513b778c5d89,0.3,false,false,near_mint,en,USD
+BOXES,binder,"Arnyn, Deathbloom Botanist",SOS,Secrets of Strixhaven,74,foil,uncommon,1,112621,6168b472-0930-4db5-9920-407340b99050,0.32,false,false,near_mint,en,USD
+BOXES,binder,Additive Evolution,SOS,Secrets of Strixhaven,139,foil,uncommon,1,112313,b44ec684-d558-45eb-bcd6-8119428634c2,0.87,false,false,near_mint,en,USD
+BOXES,binder,Dig Site Inventory,SOS,Secrets of Strixhaven,10,foil,common,1,112707,e52464ee-df8b-41ec-af93-4b0eb004383e,0.3,false,false,near_mint,en,USD
+BOXES,binder,"Tam, Observant Sequencer // Deep Sight",SOS,Secrets of Strixhaven,237,foil,uncommon,1,111713,7120e71b-2976-451b-89a7-a1665dc6fb6b,1.32,false,false,near_mint,en,USD
+BOXES,binder,Scathing Shadelock // Venomous Words,SOS,Secrets of Strixhaven,98,foil,uncommon,1,112558,03e664cd-c3a6-4263-b2d8-dd99058fb8ec,0.37,false,false,near_mint,en,USD
+BOXES,binder,Strixhaven Skycoach,SOS,Secrets of Strixhaven,252,foil,uncommon,1,112469,87741fbb-b426-4f83-a358-587b0907f081,0.24,false,false,near_mint,en,USD
+BOXES,binder,Procrastinate,SOS,Secrets of Strixhaven,64,foil,common,1,111692,1edb449d-620f-4e21-9d76-2c840635eb9d,0.43,false,false,near_mint,en,USD
+BOXES,binder,Elemental Mascot,SOS,Secrets of Strixhaven,185,foil,common,1,111741,c507eb1c-48e9-4d28-bb2d-71f2a9df9ab0,,false,false,near_mint,en,USD
+BOXES,binder,Rapier Wit,SOS,Secrets of Strixhaven,28,foil,common,1,112482,97b50521-5a0f-4dbd-8e15-f0f0d059c258,0.31,false,false,near_mint,en,USD
+BOXES,binder,Stand Up for Yourself,SOS,Secrets of Strixhaven,34,foil,uncommon,1,112384,b756ca13-b904-4510-9bbb-5bc2864abfbd,,false,false,near_mint,en,USD
+BOXES,binder,Borrowed Knowledge,SOS,Secrets of Strixhaven,178,foil,uncommon,1,112298,a3226e14-554d-47c9-b8b6-dfeb53cc41ba,0.35,false,false,near_mint,en,USD
+BOXES,binder,Essenceknit Scholar,SOS,Secrets of Strixhaven,187,foil,uncommon,1,112578,2a3cba55-3fae-4d45-ae03-4d662ec13718,0.48,false,false,near_mint,en,USD
+BOXES,binder,Forum of Amity,SOS,Secrets of Strixhaven,256,foil,common,1,111863,1de6c6cc-0c55-4997-8623-d7f796bd9ab8,0.25,false,false,near_mint,en,USD
+BOXES,binder,Eternal Student,SOS,Secrets of Strixhaven,82,foil,uncommon,1,112720,f97fac69-3e77-4150-9702-cc726daa6d21,0.34,false,false,near_mint,en,USD
+BOXES,binder,"Lluwen, Exchange Student // Pest Friend",SOS,Secrets of Strixhaven,199,foil,uncommon,1,111729,a0bcb638-c3c8-4973-9537-5c471f43f34f,0.44,false,false,near_mint,en,USD
+BOXES,binder,Impractical Joke,SOS,Secrets of Strixhaven,119,foil,uncommon,1,112334,39a816b4-39b8-421c-b828-68db901d34b7,0.33,false,false,near_mint,en,USD
+BOXES,binder,Harsh Annotation,SOS,Secrets of Strixhaven,18,foil,uncommon,1,112706,e07a8fc7-c11c-4469-a31d-0abf40e57bbf,0.33,false,false,near_mint,en,USD
+BOXES,binder,Zimone's Experiment,SOS,Secrets of Strixhaven,169,foil,uncommon,1,112376,a6597852-4267-4ea6-a391-f927e4833be2,0.29,false,false,near_mint,en,USD
+BOXES,binder,Prismari Charm,SOS,Secrets of Strixhaven,211,foil,uncommon,1,111723,8f6c2a5e-fe13-407c-aadd-c9caf2884ff1,0.36,false,false,near_mint,en,USD
+BOXES,binder,Topiary Lecturer,SOS,Secrets of Strixhaven,165,foil,uncommon,1,112611,4f16a1c2-0a80-45e4-b025-3aa0c0b03812,0.9,false,false,near_mint,en,USD
+BOXES,binder,Rabid Attack,SOS,Secrets of Strixhaven,96,foil,uncommon,1,112714,f5e67560-3135-4b27-a344-5859edf8bcd9,0.39,false,false,near_mint,en,USD
+BOXES,binder,Killian's Confidence,SOS,Secrets of Strixhaven,197,foil,uncommon,1,112443,55ff776a-fc3b-4338-8864-d57a85b3f123,1.0,false,false,near_mint,en,USD
+BOXES,binder,Archaic's Agony,SOS,Secrets of Strixhaven,107,foil,uncommon,1,111653,8d99f8b2-5c1c-4059-bf68-c6b2e9e5b275,,false,false,near_mint,en,USD
+BOXES,binder,Stress Dream,SOS,Secrets of Strixhaven,235,foil,uncommon,1,111691,1ec40a1b-51e7-4a35-966c-ab2a10f21a80,0.4,false,false,near_mint,en,USD
+BOXES,binder,Aberrant Manawurm,SOS,Secrets of Strixhaven,138,foil,uncommon,1,112632,797131cf-d80d-4050-bebd-2ce1d7fae5d0,0.62,false,false,near_mint,en,USD
+BOXES,binder,Rehearsed Debater,SOS,Secrets of Strixhaven,29,foil,common,1,112724,fc6a1425-6733-42a2-94d9-605966398092,,false,false,near_mint,en,USD
+BOXES,binder,Tackle Artist,SOS,Secrets of Strixhaven,133,foil,common,1,112672,b87e2474-98c1-4c1a-91ed-340b72d31653,0.27,false,false,near_mint,en,USD
+BOXES,binder,Fractal Mascot,SOS,Secrets of Strixhaven,189,foil,common,2,111745,cf5b19e3-eed1-4b36-9756-660ffb3baa08,0.38,false,false,near_mint,en,USD
+BOXES,binder,Potioner's Trove,SOS,Secrets of Strixhaven,251,foil,common,3,112570,2123b349-4649-4a15-a8b5-b54414d2b1b7,0.31,false,false,near_mint,en,USD
+BOXES,binder,Biblioplex Tomekeeper,SOS,Secrets of Strixhaven,247,foil,common,3,111740,bf2efdd9-d2b4-4bea-a5b9-dbb2eee4dfba,0.3,false,false,near_mint,en,USD
+BOXES,binder,Mindful Biomancer,SOS,Secrets of Strixhaven,154,foil,common,2,112582,2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53,0.35,false,false,near_mint,en,USD
+BOXES,binder,Ascendant Dustspeaker,SOS,Secrets of Strixhaven,8,foil,common,2,112702,de3de40b-a7ac-455e-add2-4e451b602d17,0.25,false,false,near_mint,en,USD
+BOXES,binder,Expressive Firedancer,SOS,Secrets of Strixhaven,114,foil,common,2,112286,259b8c45-6241-4206-a34e-34c7f401f47b,0.25,false,false,near_mint,en,USD
+BOXES,binder,Render Speechless,SOS,Secrets of Strixhaven,220,foil,common,2,112573,25bbb1c7-14e8-444f-ab98-e95f50927460,0.31,false,false,near_mint,en,USD
+BOXES,binder,Follow the Lumarets,SOS,Secrets of Strixhaven,148,foil,common,2,112719,f9488480-2b6c-40bc-a93e-29fb1292a2e4,0.3,false,false,near_mint,en,USD
+BOXES,binder,Banishing Betrayal,SOS,Secrets of Strixhaven,38,foil,common,2,111688,1ae9d2f3-7a9f-433a-aa1f-14337ae6f9d4,0.25,false,false,near_mint,en,USD
+BOXES,binder,Masterful Flourish,SOS,Secrets of Strixhaven,89,foil,common,2,112643,8d93d14d-7760-4af2-a237-2df326dd28d3,0.29,false,false,near_mint,en,USD
+BOXES,binder,Hungry Graffalon,SOS,Secrets of Strixhaven,151,foil,common,2,112557,030b1272-5990-4bc9-8fc1-82cc05602060,0.39,false,false,near_mint,en,USD
+BOXES,binder,Rearing Embermare,SOS,Secrets of Strixhaven,127,foil,common,2,112561,06dd56bd-de92-4202-af31-7e881c34d799,,false,false,near_mint,en,USD
+BOXES,binder,Last Gasp,SOS,Secrets of Strixhaven,86,foil,common,2,112698,da5f3729-6ec7-4482-90cb-83b973edeae4,,false,false,near_mint,en,USD
+BOXES,binder,Ulna Alley Shopkeep,SOS,Secrets of Strixhaven,103,foil,common,2,112681,c25e1ae5-f17c-4eee-98f1-5681981af31c,,false,false,near_mint,en,USD
