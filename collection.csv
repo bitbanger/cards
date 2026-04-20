@@ -2401,7 +2401,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 9780504	Basketball	2024 Panini Select		36	Orange Flash Prizm	Shai Gilgeous-Alexander	2.83		en	44.0	35.0	18.0
 9802909	Basketball	2024 Panini Select	Neon Icon	1		James Harden	1.0		en			
 12361150	Football	2019 Panini One		130	Rookie Autograph Blue	Gardner Minshew II			en			
-fake_id125	Football	2014 Panini Prestige	Rookies Signatures	224		Cyrus Kouandjio			en			
 8479253	Basketball	2024 Panini Prizm WNBA		111		Alanna Smith	1.55		en	35.86	29.0	12.22
 8476501	Basketball	2024 Panini Prizm WNBA		27		Brionna Jones	0.25		en			
 8479418	Basketball	2024 Panini Prizm WNBA		116		DeWanna Bonner	1.14		en	34.41	28.0	8.6
@@ -2426,36 +2425,6 @@ fake_id125	Football	2014 Panini Prestige	Rookies Signatures	224		Cyrus Kouandjio
 8476179	Basketball	2024 Panini Prizm WNBA		17	Green	Sabrina Ionescu	2.08		en	38.08	30.0	26.99
 8476509	Basketball	2024 Panini Prizm WNBA		27	Silver	Brionna Jones	1.5		en	15.0	12.0	12.2
 8481960	Basketball	2024 Panini Prizm WNBA	Groovy	14		Rickea Jackson	1.78		en	25.66	21.0	9.99
-10925968	Football	2025 Bowman Chrome University Acropolis		A-2		LaNorris Sellers	1.5		en	36.73	29.0	12.35
-10915834	Football	2025 Bowman Chrome University		45		Aaron Graves	1.83		en	38.19	31.0	12.85
-10915457	Football	2025 Bowman Chrome University		34		Denzel Boston	1.5		en	36.78	29.0	12.36
-10918793	Football	2025 Bowman Chrome University		134		Traylon Ray	1.99		en	38.96	31.0	13.12
-fake_id124	Football	2021 Panini Chronicles Draft Picks	Donruss	50		Azeez Ojulari			en			
-fake_id123	Football	2021 Panini Chronicles Draft Picks	Donruss	36		Ja'Marr Chase			en			
-6733591	Football	2021 Panini Chronicles Draft Picks	Recon	143		Rashod Bateman	4.25		en			
-12263796	Football	2021 Panini Chronicles Draft Picks	Spectra	283	Silver	Ja'Marr Chase			en			
-10497252	Football	2021 Panini Contenders Draft Picks	Front Row Seats	13		Terrace Marshall Jr	0.25		en			
-2245610	Football	2021 Panini Contenders Draft Picks		37		Allen Robinson II	0.16		en			
-2245592	Football	2021 Panini Contenders Draft Picks		19		Baker Mayfield	1.27		en	32.75	26.0	11.74
-2245667	Football	2021 Panini Contenders Draft Picks		94		Cole Beasley	0.99		en			
-2245615	Football	2021 Panini Contenders Draft Picks		42		Darren Waller	0.74		en			
-2245625	Football	2021 Panini Contenders Draft Picks		52		Nick Chubb	0.04		en			
-3095156	Football	2021 Panini Chronicles Draft Picks		5		Ja'Marr Chase	1.74		en	27.74	22.0	7.0
-6243039	Football	2021 Panini Chronicles Draft Picks	Score Retro	63		Devonta Smith	1.95		en			
-6241780	Football	2021 Panini Chronicles Draft Picks	Score Retro	53		Michael Carter	1.0		en			
-12263797	Football	2021 Panini Chronicles Draft Picks	Illusions	121		Kenneth Gainwell			en			
-6241781	Football	2021 Panini Chronicles Draft Picks	Prestige	99		Nico Collins	1.5		en			
-12263798	Football	2021 Panini Chronicles Draft Picks	Flux	246		Chuba Hubbard	0.99		en			
-6148177	Football	2021 Panini Chronicles Draft Picks	Playbook	347		Jamie Newman	0.97		en			
-6241764	Football	2021 Panini Chronicles Draft Picks	Playbook	336		Ja’Marr Chase	0.99		en			
-6241765	Football	2021 Panini Chronicles Draft Picks	Playbook	349		Kyle Pitts	0.97		en			
-6136986	Football	2021 Panini Chronicles Draft Picks	Playbook	345		rondale moore	1.44		en			
-6136987	Football	2021 Panini Chronicles Draft Picks	Playbook	334		trey lance	1.5		en			
-5554656	Football	2023 Leaf Draft		13		Brock Bowers	1.87		en	35.11	28.0	12.4
-5554646	Football	2023 Leaf Draft		5		Bruce Smith	1.31		en	33.59	27.0	11.68
-5554684	Football	2023 Leaf Draft		43		C. J. Stroud	2.12		en	13.75	11.0	8.96
-5554720	Football	2023 Leaf Draft		79		Drake Maye	2.26		en	35.65	29.0	12.65
-5554648	Football	2023 Leaf Draft		7		Troy Aikman	1.49		en	33.98	27.0	10.36
 11140845	Football	2025 Panini Phoenix		100		A.J. Green			en			
 11137328	Football	2025 Panini Phoenix		50		Ahmad Rashad	1.04		en	34.7	28.0	11.63
 11150501	Football	2025 Panini Phoenix		214		Andres Borregales	1.38		en	36.22	29.0	12.16
@@ -2667,7 +2636,7 @@ fake_id123	Football	2021 Panini Chronicles Draft Picks	Donruss	36		Ja'Marr Chase
 11155403	Football	2025 Panini Phoenix		176	Silver Pandora Autograph	RJ Harvey	28.0		en	165.48	132.0	57.06
 11159283	Football	2025 Panini Phoenix	Rookie Phenom Jersey	34	Green	Colston Loveland			en			
 11161435	Football	2025 Panini Phoenix	Thunderbirds	23	Bronze Pandora	Trevor Lawrence	8.0		en	66.2	53.0	22.56
-fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en			
+12415642	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas		PSA 9	en			
 8128717	Football	2024 Panini Prizm	Prizmatic	11	Green	Bo Nix	56.96	PSA 10	en	56.96	15.38	21.85
 8120050	Football	2024 Panini Prizm		347	Silver	Jayden Daniels	160.5	PSA 9	en	843.13	675.0	160.5
 8125279	Football	2024 Panini Prizm	Autograph	308	Silver	Blake Corum	38.04	PSA 9	en	76.57	61.0	38.04
@@ -7611,6 +7580,37 @@ fake_id126	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas	44.99	PSA 9	en
 11624486	Football	2025 Panini Prizm	Break	3	Green	Caleb Williams	2.97		en	41.55	33.0	13.96
 11624070	Football	2025 Panini Prizm	Fractal	2	Green	Lamar Jackson			en			
 11624719	Football	2025 Panini Prizm	Prizmatic	3	Green	Jayden Higgins	1.0		en			
+12364138	Football	2014 Panini Prestige	Signatures Insert	224	Autograph	Cyrus Kouandjio			en			
+10925968	Football	2025 Bowman Chrome University Acropolis		A-2		LaNorris Sellers	1.5		en	36.73	29.0	12.35
+10915834	Football	2025 Bowman Chrome University		45		Aaron Graves	1.83		en	38.19	31.0	12.85
+10915457	Football	2025 Bowman Chrome University		34		Denzel Boston	1.5		en	36.78	29.0	12.36
+10918793	Football	2025 Bowman Chrome University		134		Traylon Ray	1.99		en	38.96	31.0	13.12
+12364191	Football	2021 Panini Chronicles Draft Picks	Donruss	50		Azeez Ojylari			en			
+12364192	Football	2021 Panini Chronicles Draft Picks	Donruss	36		Ja'Marr Chase	1.0		en			
+6733591	Football	2021 Panini Chronicles Draft Picks	Recon	143		Rashod Bateman	4.25		en			
+12263796	Football	2021 Panini Chronicles Draft Picks	Spectra	283	Silver	Ja'Marr Chase			en			
+10497252	Football	2021 Panini Contenders Draft Picks	Front Row Seats	13		Terrace Marshall Jr	0.25		en			
+2245610	Football	2021 Panini Contenders Draft Picks		37		Allen Robinson II	0.16		en			
+2245592	Football	2021 Panini Contenders Draft Picks		19		Baker Mayfield	1.27		en	32.75	26.0	11.74
+2245667	Football	2021 Panini Contenders Draft Picks		94		Cole Beasley	0.99		en			
+2245615	Football	2021 Panini Contenders Draft Picks		42		Darren Waller	0.74		en			
+2245625	Football	2021 Panini Contenders Draft Picks		52		Nick Chubb	0.04		en			
+3095156	Football	2021 Panini Chronicles Draft Picks		5		Ja'Marr Chase	1.74		en	27.74	22.0	7.0
+6243039	Football	2021 Panini Chronicles Draft Picks	Score Retro	63		Devonta Smith	1.95		en			
+6241780	Football	2021 Panini Chronicles Draft Picks	Score Retro	53		Michael Carter	1.0		en			
+12263797	Football	2021 Panini Chronicles Draft Picks	Illusions	121		Kenneth Gainwell			en			
+6241781	Football	2021 Panini Chronicles Draft Picks	Prestige	99		Nico Collins	1.5		en			
+12263798	Football	2021 Panini Chronicles Draft Picks	Flux	246		Chuba Hubbard	0.99		en			
+6148177	Football	2021 Panini Chronicles Draft Picks	Playbook	347		Jamie Newman	0.97		en			
+6241764	Football	2021 Panini Chronicles Draft Picks	Playbook	336		Ja’Marr Chase	0.99		en			
+6241765	Football	2021 Panini Chronicles Draft Picks	Playbook	349		Kyle Pitts	0.97		en			
+6136986	Football	2021 Panini Chronicles Draft Picks	Playbook	345		rondale moore	1.44		en			
+6136987	Football	2021 Panini Chronicles Draft Picks	Playbook	334		trey lance	1.5		en			
+5554820	Football	2023 Leaf Draft		79	Blue	Drake Maye	3.99		en	18.25	15.0	15.1
+5554946	Football	2023 Leaf Draft		5	Red	Bruce Smith	1.67		en			
+5554884	Football	2023 Leaf Draft		43	Gold	C. J. Stroud	1.77		en	32.0	26.0	27.0
+5554656	Football	2023 Leaf Draft		13		Brock Bowers	1.87		en	35.11	28.0	12.4
+5554648	Football	2023 Leaf Draft		7		Troy Aikman	1.49		en	33.98	27.0	10.36
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
@@ -24499,7 +24499,8 @@ b62a8648-7f34-454d-b9e2-cc0d0d976c82	Magic	Secrets of Strixhaven Mystical Archiv
 d01fe6e9-49ee-4708-833e-75cd5a9f167c	Magic	Secrets of Strixhaven		120	Foil	Improvisation Capstone	10.71	near_mint	en			
 bd3ae4fa-4c97-410a-8c0a-bd203342595d	Magic	Secrets of Strixhaven		263	Foil	Stormcarved Coast	8.57	near_mint	en			
 a95b6baf-01e6-49c3-9a26-394b127d53c3	Magic	Secrets of Strixhaven		55	Foil	Jadzi, Steward of Fate // Oracle's Gift	1.61	near_mint	en			
-75f89c36-c81d-4580-9a5c-218fed0c5c9a	Magic	Secrets of Strixhaven		175	Foil	Berta, Wise Extrapolator	2.34	near_mint	en			
+75f89c36-c81d-4580-9a5c-218fed0c5c9a	Magic	Secrets of Strixhaven		175	Foil	Berta, Wise Extrapolator	2.26	near_mint	en			
+75f89c36-c81d-4580-9a5c-218fed0c5c9a	Magic	Secrets of Strixhaven		175	Foil	Berta, Wise Extrapolator	2.26	near_mint	en			
 6ef168d6-28f2-4c24-9bfa-82c35663b729	Magic	Secrets of Strixhaven		221	Foil	Resonating Lute	7.54	near_mint	en			
 5bdbf507-6fd7-49f6-b437-8f2ce2d0eb0f	Magic	Secrets of Strixhaven		246	Foil	Zaffai and the Tempests	1.61	near_mint	en			
 a58c364e-d0c5-41b9-8c8b-2e5a99468cc7	Magic	Secrets of Strixhaven		48	Foil	Exhibition Tidecaller	3.17	near_mint	en			
@@ -24530,9 +24531,11 @@ a11f1013-d747-4cf2-bbf5-0bd68a949ddf	Magic	Secrets of Strixhaven Mystical Archiv
 ad048b7c-588f-4c34-906f-4224f1aaaeb6	Magic	Secrets of Strixhaven Mystical Archive		24	Foil	Stock Up	3.93	near_mint	en			
 4b2e000b-a147-443b-9138-9ff2d16c0422	Magic	Secrets of Strixhaven Mystical Archive		45	Foil	Monstrous Rage	1.91	near_mint	en			
 fa80a2e6-303f-4cd4-b719-cdc030a51181	Magic	Secrets of Strixhaven Mystical Archive		63	Foil	Deflecting Palm	6.82	near_mint	en			
-009bad41-5e96-4bb3-9f5e-66500fb8af29	Magic	Secrets of Strixhaven Mystical Archive		56	Foil	Royal Treatment	1.16	near_mint	en			
+009bad41-5e96-4bb3-9f5e-66500fb8af29	Magic	Secrets of Strixhaven Mystical Archive		56	Foil	Royal Treatment	1.07	near_mint	en			
+009bad41-5e96-4bb3-9f5e-66500fb8af29	Magic	Secrets of Strixhaven Mystical Archive		56	Foil	Royal Treatment	1.07	near_mint	en			
 42d90959-b88c-4321-b2af-78ac7aab9909	Magic	Secrets of Strixhaven Mystical Archive		54	Foil	Knockout Maneuver	0.51	near_mint	en			
-c30342a9-9d60-4440-90fc-8df47d558be7	Magic	Secrets of Strixhaven Mystical Archive		7	Foil	Prismatic Ending	2.57	near_mint	en			
+c30342a9-9d60-4440-90fc-8df47d558be7	Magic	Secrets of Strixhaven Mystical Archive		7	Foil	Prismatic Ending	2.27	near_mint	en			
+c30342a9-9d60-4440-90fc-8df47d558be7	Magic	Secrets of Strixhaven Mystical Archive		7	Foil	Prismatic Ending	2.27	near_mint	en			
 5780936e-629d-4737-9005-651234f5426d	Magic	Secrets of Strixhaven Mystical Archive		20	Foil	Pongify	5.49	near_mint	en			
 26a7c62c-12ed-493c-ba95-0f55fec83686	Magic	Special Guests		155	Foil	Sylvan Library		near_mint	en			
 aa9c37ec-7f03-44b7-b973-9ae5edff3149	Magic	Secrets of Strixhaven Commander		107		Turbulent Wilderness	7.4	near_mint	en			
@@ -24562,15 +24565,19 @@ e17f07de-7409-446d-8f21-09228f752bee	Magic	Secrets of Strixhaven		330		Withering
 2ffdf0cc-aa53-4ec0-bed5-e3a04bbabdc6	Magic	Secrets of Strixhaven		338		Comforting Counsel	2.86	near_mint	en			
 cfc3f81d-333f-4ac9-8374-082675e07ac1	Magic	Secrets of Strixhaven		303		Shattered Sanctum	2.7	near_mint	en			
 e8800c58-574f-4a77-bed9-2d99e8f5813c	Magic	Secrets of Strixhaven		299		Colorstorm Stallion	2.91	near_mint	en			
-e968efff-635b-4780-9bbe-099e75a1841b	Magic	Secrets of Strixhaven Mystical Archive		47		Return the Favor	0.75	near_mint	en			
+e968efff-635b-4780-9bbe-099e75a1841b	Magic	Secrets of Strixhaven Mystical Archive		47		Return the Favor	0.57	near_mint	en			
+e968efff-635b-4780-9bbe-099e75a1841b	Magic	Secrets of Strixhaven Mystical Archive		47		Return the Favor	0.57	near_mint	en			
 fa80a2e6-303f-4cd4-b719-cdc030a51181	Magic	Secrets of Strixhaven Mystical Archive		63		Deflecting Palm	3.2	near_mint	en			
 a041cfe3-a02d-41e2-aea3-76bc2bacc10e	Magic	Secrets of Strixhaven Mystical Archive		29		Feed the Swarm	0.29	near_mint	en			
-e86fcad5-8150-4a76-b27e-47a9f05745c1	Magic	Secrets of Strixhaven Mystical Archive		40		Bulk Up	0.4	near_mint	en			
-e86fcad5-8150-4a76-b27e-47a9f05745c1	Magic	Secrets of Strixhaven Mystical Archive		40		Bulk Up	0.4	near_mint	en			
+a041cfe3-a02d-41e2-aea3-76bc2bacc10e	Magic	Secrets of Strixhaven Mystical Archive		29		Feed the Swarm	0.29	near_mint	en			
+e86fcad5-8150-4a76-b27e-47a9f05745c1	Magic	Secrets of Strixhaven Mystical Archive		40		Bulk Up	0.35	near_mint	en			
+e86fcad5-8150-4a76-b27e-47a9f05745c1	Magic	Secrets of Strixhaven Mystical Archive		40		Bulk Up	0.35	near_mint	en			
+e86fcad5-8150-4a76-b27e-47a9f05745c1	Magic	Secrets of Strixhaven Mystical Archive		40		Bulk Up	0.35	near_mint	en			
 41954132-2c71-4b3a-8893-20e0df68a848	Magic	Secrets of Strixhaven Mystical Archive		3		Armageddon	7.57	near_mint	en			
 f98b402a-ecdb-432f-a050-65945c8c415d	Magic	Secrets of Strixhaven Mystical Archive		41		Burst Lightning	0.34	near_mint	en			
 5780936e-629d-4737-9005-651234f5426d	Magic	Secrets of Strixhaven Mystical Archive		20		Pongify	4.1	near_mint	en			
-a11f1013-d747-4cf2-bbf5-0bd68a949ddf	Magic	Secrets of Strixhaven Mystical Archive		55		Pick Your Poison	0.51	near_mint	en			
+a11f1013-d747-4cf2-bbf5-0bd68a949ddf	Magic	Secrets of Strixhaven Mystical Archive		55		Pick Your Poison	0.38	near_mint	en			
+a11f1013-d747-4cf2-bbf5-0bd68a949ddf	Magic	Secrets of Strixhaven Mystical Archive		55		Pick Your Poison	0.38	near_mint	en			
 6d9efae9-365d-46c8-be92-d4a3038f0414	Magic	Secrets of Strixhaven Mystical Archive		10		Requisition Raid	0.34	near_mint	en			
 ad048b7c-588f-4c34-906f-4224f1aaaeb6	Magic	Secrets of Strixhaven Mystical Archive		24		Stock Up	1.77	near_mint	en			
 b221e1e9-7b14-4444-ac1c-3d5174c711e9	Magic	Secrets of Strixhaven Mystical Archive		31		Locust Spray	0.17	near_mint	en			
@@ -24662,6 +24669,7 @@ f9488480-2b6c-40bc-a93e-29fb1292a2e4	Magic	Secrets of Strixhaven		148	Foil	Follo
 8d93d14d-7760-4af2-a237-2df326dd28d3	Magic	Secrets of Strixhaven		89	Foil	Masterful Flourish	0.29	near_mint	en			
 030b1272-5990-4bc9-8fc1-82cc05602060	Magic	Secrets of Strixhaven		151	Foil	Hungry Graffalon	0.39	near_mint	en			
 030b1272-5990-4bc9-8fc1-82cc05602060	Magic	Secrets of Strixhaven		151	Foil	Hungry Graffalon	0.39	near_mint	en			
+030b1272-5990-4bc9-8fc1-82cc05602060	Magic	Secrets of Strixhaven		151	Foil	Hungry Graffalon	0.39	near_mint	en			
 06dd56bd-de92-4202-af31-7e881c34d799	Magic	Secrets of Strixhaven		127	Foil	Rearing Embermare		near_mint	en			
 06dd56bd-de92-4202-af31-7e881c34d799	Magic	Secrets of Strixhaven		127	Foil	Rearing Embermare		near_mint	en			
 da5f3729-6ec7-4482-90cb-83b973edeae4	Magic	Secrets of Strixhaven		86	Foil	Last Gasp		near_mint	en			
@@ -24669,14 +24677,18 @@ da5f3729-6ec7-4482-90cb-83b973edeae4	Magic	Secrets of Strixhaven		86	Foil	Last G
 c25e1ae5-f17c-4eee-98f1-5681981af31c	Magic	Secrets of Strixhaven		103	Foil	Ulna Alley Shopkeep		near_mint	en			
 c25e1ae5-f17c-4eee-98f1-5681981af31c	Magic	Secrets of Strixhaven		103	Foil	Ulna Alley Shopkeep		near_mint	en			
 40ecc34b-4cd0-4998-bbf4-7faa6fd3d7e0	Magic	Secrets of Strixhaven		66		Run Behind	0.2	near_mint	en			
+40ecc34b-4cd0-4998-bbf4-7faa6fd3d7e0	Magic	Secrets of Strixhaven		66		Run Behind	0.2	near_mint	en			
 36ab2130-9f21-4d30-873a-aa72d3d15fa8	Magic	Secrets of Strixhaven		137		Zealous Lorecaster	0.2	near_mint	en			
 bf736de9-9bc4-49df-ae60-672ed4f83f32	Magic	Secrets of Strixhaven		11		Eager Glyphmage	0.22	near_mint	en			
 25bbb1c7-14e8-444f-ab98-e95f50927460	Magic	Secrets of Strixhaven		220		Render Speechless	0.2	near_mint	en			
 b44ec684-d558-45eb-bcd6-8119428634c2	Magic	Secrets of Strixhaven		139		Additive Evolution	0.26	near_mint	en			
 44d0277c-ca82-4334-a15a-cd67a9db0d02	Magic	Secrets of Strixhaven		37		Summoned Dromedary	0.21	near_mint	en			
-3c34660c-25e3-4ff5-9b2b-5554ded2bcc3	Magic	Secrets of Strixhaven		76		Cheerful Osteomancer // Raise Dead	0.26	near_mint	en			
+3c34660c-25e3-4ff5-9b2b-5554ded2bcc3	Magic	Secrets of Strixhaven		76		Cheerful Osteomancer // Raise Dead	0.25	near_mint	en			
+3c34660c-25e3-4ff5-9b2b-5554ded2bcc3	Magic	Secrets of Strixhaven		76		Cheerful Osteomancer // Raise Dead	0.25	near_mint	en			
 2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53	Magic	Secrets of Strixhaven		154		Mindful Biomancer		near_mint	en			
 8de79312-2046-425e-9919-49afe19be81b	Magic	Secrets of Strixhaven		131		Strife Scholar // Awaken the Ages	0.18	near_mint	en			
+8de79312-2046-425e-9919-49afe19be81b	Magic	Secrets of Strixhaven		131		Strife Scholar // Awaken the Ages	0.18	near_mint	en			
+1ec40a1b-51e7-4a35-966c-ab2a10f21a80	Magic	Secrets of Strixhaven		235		Stress Dream	0.29	near_mint	en			
 1ec40a1b-51e7-4a35-966c-ab2a10f21a80	Magic	Secrets of Strixhaven		235		Stress Dream	0.29	near_mint	en			
 d40cc7da-c731-418e-8547-7033d1939450	Magic	Secrets of Strixhaven		72	Foil	Adventurous Eater // Have a Bite	0.34	near_mint	en			
 e86fcad5-8150-4a76-b27e-47a9f05745c1	Magic	Secrets of Strixhaven Mystical Archive		40	Foil	Bulk Up	0.86	near_mint	en			
@@ -24685,3 +24697,87 @@ f562d7c8-e9c2-49df-84f5-b59344774320	Magic	Secrets of Strixhaven Mystical Archiv
 7eb9e83d-515d-4911-a06b-9982200277b2	Magic	Secrets of Strixhaven		80		Emeritus of Woe // Demonic Tutor	21.1	near_mint	en			
 26156da4-1ec3-4702-bded-9868af3026b5	Magic	Secrets of Strixhaven		324		Emeritus of Woe // Demonic Tutor	34.04	near_mint	en			
 6877180c-22a1-4c4d-9178-316f4c34661b	Magic	Secrets of Strixhaven		91	Foil	Moseo, Vein's New Dean	3.39	near_mint	en			
+5fe99be0-e1ec-485e-82f8-02eba7b82441	Magic	Secrets of Strixhaven		24		Owlin Historian	0.1	near_mint	en			
+97b50521-5a0f-4dbd-8e15-f0f0d059c258	Magic	Secrets of Strixhaven		28		Rapier Wit	0.34	near_mint	en			
+fc6a1425-6733-42a2-94d9-605966398092	Magic	Secrets of Strixhaven		29		Rehearsed Debater	0.1	near_mint	en			
+b756ca13-b904-4510-9bbb-5bc2864abfbd	Magic	Secrets of Strixhaven		34		Stand Up for Yourself	0.27	near_mint	en			
+79a70863-860f-4a7b-9cb2-d3546b689d44	Magic	Secrets of Strixhaven		19		Honorbound Page // Forum's Favor	0.23	near_mint	en			
+2565e16a-ed31-4867-adb8-f1633d580397	Magic	Secrets of Strixhaven		2		Rancorous Archaic	0.14	near_mint	en			
+dbc3447e-1329-4ea1-b4ca-b321b0ffec8f	Magic	Secrets of Strixhaven		258		Paradox Gardens	0.2	near_mint	en			
+ea7f5262-4ddb-410a-be72-4bac6af9b4ec	Magic	Secrets of Strixhaven		190		Fractal Tender	0.29	near_mint	en			
+ea7f5262-4ddb-410a-be72-4bac6af9b4ec	Magic	Secrets of Strixhaven		190		Fractal Tender	0.29	near_mint	en			
+dfec5854-70c7-4e4b-9979-58775dd7a181	Magic	Secrets of Strixhaven Mystical Archive		36		Zombify	0.22	near_mint	en			
+db465858-0593-4850-8f1d-400fe230a18d	Magic	Secrets of Strixhaven Mystical Archive		26		Bitter Triumph	0.32	near_mint	en			
+72a3b17d-1e00-48e9-8402-c81bacd595a7	Magic	Secrets of Strixhaven		135	Foil	Tome Blast		near_mint	en			
+bf7fd85e-efdf-4627-997e-02c073683bac	Magic	Secrets of Strixhaven		353	Foil	Moment of Reckoning	4.63	near_mint	en			
+a138b2e9-9665-4544-866a-8672ddab79fc	Magic	Secrets of Strixhaven Commander		106		Turbulent Steppe	9.2	near_mint	en			
+c59e0004-1d6a-42a1-8ce4-31da2af2e1bf	Magic	Secrets of Strixhaven		61		Muse's Encouragement	0.5	near_mint	en			
+846a0e79-a530-429e-8f7f-4b87f1b0156e	Magic	Secrets of Strixhaven		242		Visionary's Dance	0.47	near_mint	en			
+2b7cb1a3-761e-470e-a164-6e29dd9448cd	Magic	Secrets of Strixhaven		136		Unsubtle Mockery	0.24	near_mint	en			
+6fa9cd18-3181-4373-ab65-49bf9de9487f	Magic	Secrets of Strixhaven		241		Vicious Rivalry	0.44	near_mint	en			
+8d99f8b2-5c1c-4059-bf68-c6b2e9e5b275	Magic	Secrets of Strixhaven		107		Archaic's Agony	0.78	near_mint	en			
+2d4f0bc7-da7c-4749-a24c-b01f3eb5860c	Magic	Secrets of Strixhaven		65		Quick Study	0.62	near_mint	en			
+06c9e8a7-2840-4cff-90af-c6636e598f78	Magic	Secrets of Strixhaven		194		Hardened Academic	0.53	near_mint	en			
+ac2a8a66-e38c-42ab-83e1-d2d99ee48861	Magic	Secrets of Strixhaven		4		Together as One	0.75	near_mint	en			
+6261e89a-dbf1-481a-823e-6bb00be57195	Magic	Secrets of Strixhaven		174		Aziza, Mage Tower Captain	0.3	near_mint	en			
+0a7f0fdf-1d4b-4458-a19c-274611e8a59a	Magic	Secrets of Strixhaven		202		Mind into Matter	0.54	near_mint	en			
+f4ab2d9b-c73d-478d-aac7-4d3bb24296d2	Magic	Secrets of Strixhaven		78		Decorum Dissertation	5.22	near_mint	en			
+bc3151db-7d49-4945-9c50-91f0e28f803d	Magic	Secrets of Strixhaven		331		Choreographed Sparks	3.4	near_mint	en			
+6fa9cd18-3181-4373-ab65-49bf9de9487f	Magic	Secrets of Strixhaven		241	Foil	Vicious Rivalry	0.76	near_mint	en			
+6fa9cd18-3181-4373-ab65-49bf9de9487f	Magic	Secrets of Strixhaven		241	Foil	Vicious Rivalry	0.76	near_mint	en			
+8f3a1675-0cc7-4dfd-a12e-4740a2cf81e8	Magic	Secrets of Strixhaven		112		Duel Tactics	0.25	near_mint	en			
+a689289e-7141-4950-8a87-82e9bd6846fe	Magic	Secrets of Strixhaven		232		Stadium Tidalmage	0.18	near_mint	en			
+8f6c2a5e-fe13-407c-aadd-c9caf2884ff1	Magic	Secrets of Strixhaven		211		Prismari Charm	0.42	near_mint	en			
+a0a66f7b-eab4-45da-8895-c2c2c7eb05f8	Magic	Secrets of Strixhaven		262		Spectacle Summit	0.22	near_mint	en			
+47d6093b-b1b6-4956-8bfd-02cce899f832	Magic	Secrets of Strixhaven		49		Flow State	6.43	near_mint	en			
+c85c5f06-dd31-4e2c-97be-2f64d65069ea	Magic	Secrets of Strixhaven		117		Goblin Glasswright // Craft with Pride	0.37	near_mint	en			
+c85c5f06-dd31-4e2c-97be-2f64d65069ea	Magic	Secrets of Strixhaven		117		Goblin Glasswright // Craft with Pride	0.37	near_mint	en			
+39a816b4-39b8-421c-b828-68db901d34b7	Magic	Secrets of Strixhaven		119		Impractical Joke	0.24	near_mint	en			
+06f9f257-c7ef-44b7-8b2b-f038fba900af	Magic	Secrets of Strixhaven		41		Chase Inspiration	0.18	near_mint	en			
+2e3b16ed-8727-48fd-8b1f-c0cbd329385e	Magic	Secrets of Strixhaven		42		Deluge Virtuoso	0.63	near_mint	en			
+c90366d5-b4ba-4772-a3c5-f138bbe7f305	Magic	Secrets of Strixhaven		229		Spectacular Skywhale	0.33	near_mint	en			
+4ddf4e34-a1f9-4636-942d-0a08e9f94320	Magic	Secrets of Strixhaven		129		Seize the Spoils	0.2	near_mint	en			
+259b8c45-6241-4206-a34e-34c7f401f47b	Magic	Secrets of Strixhaven		114		Expressive Firedancer	0.67	near_mint	en			
+2a812fa7-4599-4e25-97db-20ffc6bc0b26	Magic	Secrets of Strixhaven		239		Traumatic Critique	0.94	near_mint	en			
+32840097-0531-4c43-b6a8-e76c17420b04	Magic	Secrets of Strixhaven		47		Essence Scatter	0.63	near_mint	en			
+1edb449d-620f-4e21-9d76-2c840635eb9d	Magic	Secrets of Strixhaven		64		Procrastinate	0.23	near_mint	en			
+1edb449d-620f-4e21-9d76-2c840635eb9d	Magic	Secrets of Strixhaven		64		Procrastinate	0.23	near_mint	en			
+26295e25-f1bf-4665-ba00-dad35c49bbc2	Magic	Secrets of Strixhaven		43		Divergent Equation	0.26	near_mint	en			
+eb7e858a-9b85-49b2-a379-ee656b64935a	Magic	Secrets of Strixhaven		207	Foil	Old-Growth Educator	0.41	near_mint	en			
+40ecc34b-4cd0-4998-bbf4-7faa6fd3d7e0	Magic	Secrets of Strixhaven		66	Foil	Run Behind		near_mint	en			
+3e4f9d23-1a17-4188-ac91-f8ddea46a1c4	Magic	Secrets of Strixhaven		75	Foil	Burrog Banemaker	0.39	near_mint	en			
+1ceb704a-97a8-49f9-b799-30f001404144	Magic	Secrets of Strixhaven		249	Foil	Mage Tower Referee		near_mint	en			
+dc0517ca-b271-49a1-a286-c20f4e5b9309	Magic	Secrets of Strixhaven		31	Foil	Shattered Acolyte	0.31	near_mint	en			
+d357d997-9d4e-4ade-81f2-37629853f13a	Magic	Secrets of Strixhaven		73	Foil	Arcane Omens		near_mint	en			
+f143fd41-58c3-45a0-bef8-e9e4b4a502a5	Magic	Secrets of Strixhaven		233	Foil	Startled Relic Sloth	0.38	near_mint	en			
+d7cb1af2-0302-46ff-8303-ae9d07541a01	Magic	Secrets of Strixhaven		208	Foil	Paradox Surveyor	0.33	near_mint	en			
+97f7fbb9-228c-4a74-975b-38d3b6cecb32	Magic	Secrets of Strixhaven		159	Foil	Shopkeeper's Bane	0.4	near_mint	en			
+f6cb838e-a06a-46ae-a30f-e5192178c1cc	Magic	Secrets of Strixhaven		164	Foil	Thornfist Striker	0.34	near_mint	en			
+b127d543-0a90-4af6-9410-94d5cd30389e	Magic	Secrets of Strixhaven		213		Proctor's Gaze	0.24	near_mint	en			
+9d5fdbda-ebbe-45d6-a668-5ddee057a063	Magic	Secrets of Strixhaven		203		Mind Roots	0.22	near_mint	en			
+cf5b19e3-eed1-4b36-9756-660ffb3baa08	Magic	Secrets of Strixhaven		189		Fractal Mascot	0.3	near_mint	en			
+6d4a2f39-0e1e-4076-815a-2676a09a1aab	Magic	Secrets of Strixhaven		196		Inkling Mascot	0.3	near_mint	en			
+a3226e14-554d-47c9-b8b6-dfeb53cc41ba	Magic	Secrets of Strixhaven		178		Borrowed Knowledge	0.27	near_mint	en			
+77285d12-e658-4eb3-ba13-ff202afab9c8	Magic	Secrets of Strixhaven		170		Abigale, Poet Laureate // Heroic Stanza	0.31	near_mint	en			
+95d5b0a8-2b66-418e-9e5e-ecf7b304c31e	Magic	Secrets of Strixhaven		141		Burrog Barrage	0.13	near_mint	en			
+376c8b7d-1c90-47e1-bd01-e4c67f3fc4fc	Magic	Secrets of Strixhaven		163		Tenured Concocter	0.13	near_mint	en			
+f9488480-2b6c-40bc-a93e-29fb1292a2e4	Magic	Secrets of Strixhaven		148		Follow the Lumarets	0.23	near_mint	en			
+911442e3-3003-4683-a766-e791e9553667	Magic	Secrets of Strixhaven		152		Infirmary Healer // Stream of Life	0.36	near_mint	en			
+97f7fbb9-228c-4a74-975b-38d3b6cecb32	Magic	Secrets of Strixhaven		159		Shopkeeper's Bane	0.37	near_mint	en			
+79b9ace7-eceb-4f97-9ee7-d5ee3e0b3515	Magic	Secrets of Strixhaven		144		Efflorescence	0.24	near_mint	en			
+a6597852-4267-4ea6-a391-f927e4833be2	Magic	Secrets of Strixhaven		169		Zimone's Experiment	0.44	near_mint	en			
+6168b472-0930-4db5-9920-407340b99050	Magic	Secrets of Strixhaven		74		Arnyn, Deathbloom Botanist	0.34	near_mint	en			
+3a46816b-9f75-4c72-9ec6-cded6a4a0d01	Magic	Secrets of Strixhaven		77		Cost of Brilliance	0.5	near_mint	en			
+03e664cd-c3a6-4263-b2d8-dd99058fb8ec	Magic	Secrets of Strixhaven		98		Scathing Shadelock // Venomous Words	0.26	near_mint	en			
+3e4f9d23-1a17-4188-ac91-f8ddea46a1c4	Magic	Secrets of Strixhaven		75		Burrog Banemaker	0.46	near_mint	en			
+d357d997-9d4e-4ade-81f2-37629853f13a	Magic	Secrets of Strixhaven		73		Arcane Omens	0.1	near_mint	en			
+d73612fe-8992-4650-a7e3-c7b662da6a03	Magic	Secrets of Strixhaven		95		Pull from the Grave	0.43	near_mint	en			
+3d409512-50b9-4a38-91b0-19ba25227992	Magic	Secrets of Strixhaven		104		Wander Off	0.16	near_mint	en			
+3755a2e9-af55-4625-a006-2a86c7893a96	Magic	Secrets of Strixhaven		92		Poisoner's Apprentice	0.21	near_mint	en			
+9cd1417a-badc-4abd-a8ca-5b31f85c1072	Magic	Secrets of Strixhaven		6		Ajani's Response	0.48	near_mint	en			
+b87e2474-98c1-4c1a-91ed-340b72d31653	Magic	Secrets of Strixhaven		133		Tackle Artist	0.1	near_mint	en			
+b87e2474-98c1-4c1a-91ed-340b72d31653	Magic	Secrets of Strixhaven		133		Tackle Artist	0.1	near_mint	en			
+c507eb1c-48e9-4d28-bb2d-71f2a9df9ab0	Magic	Secrets of Strixhaven		185		Elemental Mascot	0.43	near_mint	en			
+c507eb1c-48e9-4d28-bb2d-71f2a9df9ab0	Magic	Secrets of Strixhaven		185		Elemental Mascot	0.43	near_mint	en			
+c0cf5e0f-3668-46f2-850d-d91a538e8ead	Magic	Secrets of Strixhaven		186		Embrace the Paradox	0.33	near_mint	en			
+c0cf5e0f-3668-46f2-850d-d91a538e8ead	Magic	Secrets of Strixhaven		186		Embrace the Paradox	0.33	near_mint	en			
