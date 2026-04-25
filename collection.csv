@@ -5145,73 +5145,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 8086689	Baseball	2024 Panini Prizm	Prizmatic	1		Chase Davis	1.44		en	35.41	28.0	12.08
 8086799	Baseball	2024 Panini Prizm	Prizmatic	15		Matt Shaw	1.39		en	35.21	28.0	12.01
 8086896	Baseball	2024 Panini Prizm	Top Tier	2		Jackson Jobe	1.59		en	35.93	29.0	12.29
-9556903	Football	2024 Panini Totally Certified		102		Adisa Isaac	1.0		en			
-9555516	Football	2024 Panini Totally Certified		29		Aidan Hutchinson	1.38		en	35.15	28.0	11.88
-9555516	Football	2024 Panini Totally Certified		29		Aidan Hutchinson	1.38		en	35.15	28.0	11.88
-9556852	Football	2024 Panini Totally Certified		87		Baker Mayfield	0.17		en	35.06	28.0	11.85
-9557582	Football	2024 Panini Totally Certified		108		Brian Thomas Jr.	1.52		en	36.02	29.0	8.38
-9557291	Football	2024 Panini Totally Certified		111		Byron Murphy II	1.5		en	36.18	29.0	12.26
-9555133	Football	2024 Panini Totally Certified		15		Chuba Hubbard	1.0		en			
-9555133	Football	2024 Panini Totally Certified		15		Chuba Hubbard	1.0		en			
-9556749	Football	2024 Panini Totally Certified		86		DK Metcalf	1.0		en			
-9556749	Football	2024 Panini Totally Certified		86		DK Metcalf	1.0		en			
-9556177	Football	2024 Panini Totally Certified		57		De'Von Achane	1.37		en	35.63	29.0	12.06
-9556177	Football	2024 Panini Totally Certified		57		De'Von Achane	1.37		en	35.63	29.0	12.06
-9556757	Football	2024 Panini Totally Certified		82		Deebo Samuel	1.0		en			
-9557727	Football	2024 Panini Totally Certified		125		Erick All Jr.	1.52		en	36.18	29.0	12.26
-9555869	Football	2024 Panini Totally Certified		44		Isiah Pacheco	1.62		en			
-9556267	Football	2024 Panini Totally Certified		61		Jacoby Brissett	1.9		en			
-9556267	Football	2024 Panini Totally Certified		61		Jacoby Brissett	1.9		en			
-9557071	Football	2024 Panini Totally Certified		99		Jake Ferguson	1.18		en	34.1	27.0	11.5
-9557071	Football	2024 Panini Totally Certified		99		Jake Ferguson	1.18		en	34.1	27.0	11.5
-9556461	Football	2024 Panini Totally Certified		72		Jalen Hurts	1.85		en	36.18	29.0	12.26
-9556461	Football	2024 Panini Totally Certified		72		Jalen Hurts	1.85		en	36.18	29.0	12.26
-9557854	Football	2024 Panini Totally Certified		131		Jalen McMillan	1.15		en			
-9554877	Football	2024 Panini Totally Certified		2		James Conner	1.97		en			
-9555191	Football	2024 Panini Totally Certified		12		James Cook	1.89		en			
-9558096	Football	2024 Panini Totally Certified		137		Javon Bullard	1.49		en			
-9558226	Football	2024 Panini Totally Certified		148		Jordan Jefferson	0.65		en			
-9558581	Football	2024 Panini Totally Certified		154		Ladd McConkey	1.41		en	35.52	28.0	7.0
-9555991	Football	2024 Panini Totally Certified		51		Matthew Stafford	1.0		en	35.72	29.0	12.09
-9555757	Football	2024 Panini Totally Certified		39		Michael Pittman Jr.	0.25		en			
-9559074	Football	2024 Panini Totally Certified		182		Michael Vick	0.99		en			
-9555278	Football	2024 Panini Totally Certified		19		Montez Sweat	1.99		en	38.17	31.0	12.99
-9555278	Football	2024 Panini Totally Certified		19		Montez Sweat	1.99		en	38.17	31.0	12.99
-9558608	Football	2024 Panini Totally Certified		164		Roman Wilson	1.65		en	36.78	29.0	12.48
-9559606	Football	2024 Panini Totally Certified		96		Terry McLaurin	0.19		en	38.58	31.0	13.13
-9557462	Football	2024 Panini Totally Certified		92		Tony Pollard	1.28		en	35.27	28.0	11.93
-9555893	Football	2024 Panini Totally Certified		45		Travis Kelce	1.0		en	34.52	28.0	11.65
-9555893	Football	2024 Panini Totally Certified		45		Travis Kelce	1.0		en	34.52	28.0	11.65
-9555823	Football	2024 Panini Totally Certified		42		Travon Walker	1.99		en			
-9555823	Football	2024 Panini Totally Certified		42		Travon Walker	1.99		en			
-9554903	Football	2024 Panini Totally Certified		3		Trey McBride	0.01		en			
-9554903	Football	2024 Panini Totally Certified		3		Trey McBride	0.01		en			
-9556105	Football	2024 Panini Totally Certified		54		Tua Tagovailoa	0.38		en			
-9555038	Football	2024 Panini Totally Certified		10	Mirror	Kyle Hamilton	1.53		en	36.31	29.0	12.3
-9559351	Football	2024 Panini Totally Certified		191	Mirror	Natrone Means	1.99		en	38.17	31.0	12.99
-9558638	Football	2024 Panini Totally Certified		162	Mirror	Ray Davis	1.27		en	34.97	28.0	11.82
-9556292	Football	2024 Panini Totally Certified		62	Mirror	Rhamondre Stevenson	1.08		en			
-9559131	Football	2024 Panini Totally Certified		179	Mirror	Steve Young	1.82		en			
-9555104	Football	2024 Panini Totally Certified		14	Mirror Purple	Andy Dalton	1.79		en			
-9556702	Football	2024 Panini Totally Certified		85	Mirror Purple	Kenneth Walker III	2.0		en			
-9559090	Football	2024 Panini Totally Certified		182	Mirror Purple	Michael Vick	1.99		en			
-9555590	Football	2024 Panini Totally Certified		32	Mirror Purple	Romeo Doubs	0.25		en			
-9559020	Football	2024 Panini Totally Certified		171	Mirror Purple	Tyler Nubin	1.0		en			
-9562991	Football	2024 Panini Totally Certified	Intriguing Players	23		Edgerrin Cooper	1.59		en	36.55	29.0	12.39
-9562991	Football	2024 Panini Totally Certified	Intriguing Players	23		Edgerrin Cooper	1.59		en	36.55	29.0	12.39
-9562951	Football	2024 Panini Totally Certified	Intriguing Players	21		Tory Taylor	1.35		en	35.59	28.0	12.05
-9563220	Football	2024 Panini Totally Certified	On Target	2		Brian Thomas Jr.	1.49		en	37.79	30.0	12.85
-9563413	Football	2024 Panini Totally Certified	On Target	10		Cooper Kupp	1.99		en			
-9562670	Football	2024 Panini Totally Certified	Franchise Foundations	20		Jayden Daniels	3.16		en	45.0	36.0	21.99
-9562680	Football	2024 Panini Totally Certified	Franchise Foundations	22		Jordan Love	1.48		en	36.16	29.0	12.26
-9562680	Football	2024 Panini Totally Certified	Franchise Foundations	22		Jordan Love	1.48		en	36.16	29.0	12.26
-9562691	Football	2024 Panini Totally Certified	Franchise Foundations	22	Mirror Silver	Jordan Love	10.99		en			
-9563631	Football	2024 Panini Totally Certified	Portraits	16		Luke McCaffrey	1.0		en	34.1	27.0	11.5
-9563520	Football	2024 Panini Totally Certified	Portraits	11		Spencer Rattler	0.99		en	34.93	28.0	11.8
-9562002	Football	2024 Panini Totally Certified	New Generation Jersey	40		Will Shipley	1.06		en			
-9556826	Football	2024 Panini Totally Certified		101	Mirror Blue	Caleb Williams	15.11		en	81.35	65.0	28.8
-9562921	Football	2024 Panini Totally Certified	Intriguing Players	11	Mirror	Maxx Crosby	1.92		en	36.23	29.0	12.27
-9561466	Football	2024 Panini Totally Certified	Gamers	12		Ja'Marr Chase	4.46		en	48.12	39.0	16.67
 10727506	Football	2025 Panini Donruss		22		A.J. Brown	0.67		en	32.89	26.0	11.02
 10728438	Football	2025 Panini Donruss		97		Aaron Rodgers	1.0		en	33.67	27.0	11.3
 10731357	Football	2025 Panini Donruss		257		Adam Thielen	0.99		en			
@@ -7808,6 +7741,97 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12066579	Football	2025 Panini Select		243	Red Blue Prizm Shock	Princely Umanmielen			en			
 12061522	Football	2025 Panini Select		138	Red Blue Prizm Shock	Tez Johnson	1.13		en	35.39	28.0	11.82
 12077148	Football	2025 Panini Select	Select Signature Prizm	35		Denzel Burke			en			
+9556429	Football	2024 Panini Totally Certified		68		Aaron Rodgers	1.1		en			
+9556903	Football	2024 Panini Totally Certified		102		Adisa Isaac	1.0		en			
+9555516	Football	2024 Panini Totally Certified		29		Aidan Hutchinson	1.38		en	35.15	28.0	11.88
+9555516	Football	2024 Panini Totally Certified		29		Aidan Hutchinson	1.38		en	35.15	28.0	11.88
+9556852	Football	2024 Panini Totally Certified		87		Baker Mayfield	0.17		en	35.06	28.0	11.85
+9557582	Football	2024 Panini Totally Certified		108		Brian Thomas Jr.	1.52		en	36.02	29.0	8.38
+9557291	Football	2024 Panini Totally Certified		111		Byron Murphy II	1.5		en	36.18	29.0	12.26
+9555133	Football	2024 Panini Totally Certified		15		Chuba Hubbard	1.0		en			
+9555133	Football	2024 Panini Totally Certified		15		Chuba Hubbard	1.0		en			
+9556749	Football	2024 Panini Totally Certified		86		DK Metcalf	1.0		en			
+9556749	Football	2024 Panini Totally Certified		86		DK Metcalf	1.0		en			
+9556781	Football	2024 Panini Totally Certified		97		Dak Prescott	2.09		en	38.59	31.0	13.14
+9555235	Football	2024 Panini Totally Certified		13		Dalton Kincaid	0.99		en	34.07	27.0	11.49
+9556530	Football	2024 Panini Totally Certified		70		Davante Adams	1.5		en			
+9556177	Football	2024 Panini Totally Certified		57		De'Von Achane	1.37		en	35.63	29.0	12.06
+9556177	Football	2024 Panini Totally Certified		57		De'Von Achane	1.37		en	35.63	29.0	12.06
+9556757	Football	2024 Panini Totally Certified		82		Deebo Samuel	1.0		en			
+9557727	Football	2024 Panini Totally Certified		125		Erick All Jr.	1.52		en	36.18	29.0	12.26
+9557010	Football	2024 Panini Totally Certified		83		George Kittle	0.99		en	34.07	27.0	11.49
+9555869	Football	2024 Panini Totally Certified		44		Isiah Pacheco	1.62		en			
+9556267	Football	2024 Panini Totally Certified		61		Jacoby Brissett	1.9		en			
+9556267	Football	2024 Panini Totally Certified		61		Jacoby Brissett	1.9		en			
+9555442	Football	2024 Panini Totally Certified		27		Jahmyr Gibbs	1.66		en	36.85	29.0	12.5
+9557071	Football	2024 Panini Totally Certified		99		Jake Ferguson	1.18		en	34.1	27.0	11.5
+9557071	Football	2024 Panini Totally Certified		99		Jake Ferguson	1.18		en	34.1	27.0	11.5
+9556461	Football	2024 Panini Totally Certified		72		Jalen Hurts	1.85		en	36.18	29.0	12.26
+9556461	Football	2024 Panini Totally Certified		72		Jalen Hurts	1.85		en	36.18	29.0	12.26
+9557854	Football	2024 Panini Totally Certified		131		Jalen McMillan	1.15		en			
+9554877	Football	2024 Panini Totally Certified		2		James Conner	1.97		en			
+9555191	Football	2024 Panini Totally Certified		12		James Cook	1.89		en			
+9555394	Football	2024 Panini Totally Certified		26		Jared Goff	1.49		en	36.17	29.0	12.26
+9558096	Football	2024 Panini Totally Certified		137		Javon Bullard	1.49		en			
+9558121	Football	2024 Panini Totally Certified		140		Jeremiah Trotter Jr.	1.29		en	35.31	28.0	11.94
+9558226	Football	2024 Panini Totally Certified		148		Jordan Jefferson	0.65		en			
+9555037	Football	2024 Panini Totally Certified		10		Kyle Hamilton	0.25		en			
+9554852	Football	2024 Panini Totally Certified		1		Kyler Murray	1.13		en			
+9558581	Football	2024 Panini Totally Certified		154		Ladd McConkey	1.41		en	35.52	28.0	7.0
+9558488	Football	2024 Panini Totally Certified		157		Malik Nabers	1.62		en	36.61	29.0	12.42
+9555991	Football	2024 Panini Totally Certified		51		Matthew Stafford	1.0		en	35.72	29.0	12.09
+9555757	Football	2024 Panini Totally Certified		39		Michael Pittman Jr.	0.25		en			
+9559074	Football	2024 Panini Totally Certified		182		Michael Vick	0.99		en			
+9555278	Football	2024 Panini Totally Certified		19		Montez Sweat	1.99		en	38.17	31.0	12.99
+9555278	Football	2024 Panini Totally Certified		19		Montez Sweat	1.99		en	38.17	31.0	12.99
+9555846	Football	2024 Panini Totally Certified		43		Patrick Mahomes II	1.65		en	36.32	29.0	12.31
+9558608	Football	2024 Panini Totally Certified		164		Roman Wilson	1.65		en	36.78	29.0	12.48
+9559606	Football	2024 Panini Totally Certified		96		Terry McLaurin	0.19		en	38.58	31.0	13.13
+9557462	Football	2024 Panini Totally Certified		92		Tony Pollard	1.28		en	35.27	28.0	11.93
+9555893	Football	2024 Panini Totally Certified		45		Travis Kelce	1.0		en	34.52	28.0	11.65
+9555893	Football	2024 Panini Totally Certified		45		Travis Kelce	1.0		en	34.52	28.0	11.65
+9555823	Football	2024 Panini Totally Certified		42		Travon Walker	1.99		en			
+9555823	Football	2024 Panini Totally Certified		42		Travon Walker	1.99		en			
+9555777	Football	2024 Panini Totally Certified		40		Trevor Lawrence	1.35		en			
+9554903	Football	2024 Panini Totally Certified		3		Trey McBride	0.01		en			
+9554903	Football	2024 Panini Totally Certified		3		Trey McBride	0.01		en			
+9558821	Football	2024 Panini Totally Certified		170		Troy Franklin	1.27		en	35.22	28.0	11.91
+9556105	Football	2024 Panini Totally Certified		54		Tua Tagovailoa	0.38		en			
+9556127	Football	2024 Panini Totally Certified		55		Tyreek Hill	0.25		en	29.99	24.0	10.38
+9558339	Football	2024 Panini Totally Certified		151	Mirror	Keilan Robinson	0.25		en			
+9555038	Football	2024 Panini Totally Certified		10	Mirror	Kyle Hamilton	1.53		en	36.31	29.0	12.3
+9556515	Football	2024 Panini Totally Certified		77	Mirror	Najee Harris	1.12		en			
+9559351	Football	2024 Panini Totally Certified		191	Mirror	Natrone Means	1.99		en	38.17	31.0	12.99
+9558638	Football	2024 Panini Totally Certified		162	Mirror	Ray Davis	1.27		en	34.97	28.0	11.82
+9556292	Football	2024 Panini Totally Certified		62	Mirror	Rhamondre Stevenson	1.08		en			
+9559131	Football	2024 Panini Totally Certified		179	Mirror	Steve Young	1.82		en			
+9555104	Football	2024 Panini Totally Certified		14	Mirror Purple	Andy Dalton	1.79		en			
+9559486	Football	2024 Panini Totally Certified		198	Mirror Purple	John Lynch	0.25		en			
+9556702	Football	2024 Panini Totally Certified		85	Mirror Purple	Kenneth Walker III	2.0		en			
+9559090	Football	2024 Panini Totally Certified		182	Mirror Purple	Michael Vick	1.99		en			
+9555590	Football	2024 Panini Totally Certified		32	Mirror Purple	Romeo Doubs	0.25		en			
+9559020	Football	2024 Panini Totally Certified		171	Mirror Purple	Tyler Nubin	1.0		en			
+9562991	Football	2024 Panini Totally Certified	Intriguing Players	23		Edgerrin Cooper	1.59		en	36.55	29.0	12.39
+9562991	Football	2024 Panini Totally Certified	Intriguing Players	23		Edgerrin Cooper	1.59		en	36.55	29.0	12.39
+9562951	Football	2024 Panini Totally Certified	Intriguing Players	21		Tory Taylor	1.35		en	35.59	28.0	12.05
+9563220	Football	2024 Panini Totally Certified	On Target	2		Brian Thomas Jr.	1.49		en	37.79	30.0	12.85
+9563413	Football	2024 Panini Totally Certified	On Target	10		Cooper Kupp	1.99		en			
+9563236	Football	2024 Panini Totally Certified	On Target	3		Ladd McConkey	1.45		en	35.18	28.0	11.9
+9562696	Football	2024 Panini Totally Certified	Franchise Foundations	23		Derrick Henry	1.19		en	34.88	28.0	11.79
+9562670	Football	2024 Panini Totally Certified	Franchise Foundations	20		Jayden Daniels	3.16		en	45.0	36.0	21.99
+9562680	Football	2024 Panini Totally Certified	Franchise Foundations	22		Jordan Love	1.48		en	36.16	29.0	12.26
+9562680	Football	2024 Panini Totally Certified	Franchise Foundations	22		Jordan Love	1.48		en	36.16	29.0	12.26
+9562691	Football	2024 Panini Totally Certified	Franchise Foundations	22	Mirror Silver	Jordan Love	10.99		en			
+9563494	Football	2024 Panini Totally Certified	Portraits	4		Caleb Williams	3.87		en	45.83	37.0	22.0
+9563631	Football	2024 Panini Totally Certified	Portraits	16		Luke McCaffrey	1.0		en	34.1	27.0	11.5
+9563520	Football	2024 Panini Totally Certified	Portraits	11		Spencer Rattler	0.99		en	34.93	28.0	11.8
+9562002	Football	2024 Panini Totally Certified	New Generation Jersey	40		Will Shipley	1.06		en			
+9556826	Football	2024 Panini Totally Certified		101	Mirror Blue	Caleb Williams	15.11		en	81.35	65.0	28.8
+9562921	Football	2024 Panini Totally Certified	Intriguing Players	11	Mirror	Maxx Crosby	1.92		en	36.23	29.0	12.27
+9561466	Football	2024 Panini Totally Certified	Gamers	12		Ja'Marr Chase	4.46		en	48.12	39.0	16.67
+9556906	Football	2024 Panini Totally Certified		82	Mirror Platinum Silver	Deebo Samuel			en			
+9563447	Football	2024 Panini Totally Certified	On Target	20	Mirror	Terrell Owens	1.74		en	37.15	30.0	12.62
+9562015	Football	2024 Panini Totally Certified	Piece of the Game	1		Matthew Stafford	3.69		en	45.15	36.0	15.59
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
@@ -24666,11 +24690,13 @@ ab5f5e45-2abb-43e1-aecb-97f0390282a7	Magic	Ixalan		163		Storm Fleet Pyromancer	0
 f6fdb814-45c6-4d14-afff-7f5bd1bd10a1	Magic	Secrets of Strixhaven		26	Foil	Primary Research	0.31	near_mint	en			
 c90366d5-b4ba-4772-a3c5-f138bbe7f305	Magic	Secrets of Strixhaven		229	Foil	Spectacular Skywhale	0.56	near_mint	en			
 dbc3447e-1329-4ea1-b4ca-b321b0ffec8f	Magic	Secrets of Strixhaven		258	Foil	Paradox Gardens	0.28	near_mint	en			
-d8309815-7035-47a5-acf2-2b2ac1e65037	Magic	Secrets of Strixhaven		90	Foil	Melancholic Poet	0.92	near_mint	en			
+d8309815-7035-47a5-acf2-2b2ac1e65037	Magic	Secrets of Strixhaven		90	Foil	Melancholic Poet	0.64	near_mint	en			
+d8309815-7035-47a5-acf2-2b2ac1e65037	Magic	Secrets of Strixhaven		90	Foil	Melancholic Poet	0.64	near_mint	en			
 36ab2130-9f21-4d30-873a-aa72d3d15fa8	Magic	Secrets of Strixhaven		137	Foil	Zealous Lorecaster	0.3	near_mint	en			
 36ab2130-9f21-4d30-873a-aa72d3d15fa8	Magic	Secrets of Strixhaven		137	Foil	Zealous Lorecaster	0.3	near_mint	en			
-24f888dd-785c-4089-a89c-03f9080130ed	Magic	Secrets of Strixhaven		162	Foil	Studious First-Year // Rampant Growth	0.75	near_mint	en			
-24f888dd-785c-4089-a89c-03f9080130ed	Magic	Secrets of Strixhaven		162	Foil	Studious First-Year // Rampant Growth	0.75	near_mint	en			
+24f888dd-785c-4089-a89c-03f9080130ed	Magic	Secrets of Strixhaven		162	Foil	Studious First-Year // Rampant Growth	0.63	near_mint	en			
+24f888dd-785c-4089-a89c-03f9080130ed	Magic	Secrets of Strixhaven		162	Foil	Studious First-Year // Rampant Growth	0.63	near_mint	en			
+24f888dd-785c-4089-a89c-03f9080130ed	Magic	Secrets of Strixhaven		162	Foil	Studious First-Year // Rampant Growth	0.63	near_mint	en			
 123f1fde-d8de-4640-baa1-bb3781713168	Magic	Secrets of Strixhaven		230	Foil	Spirit Mascot	0.25	near_mint	en			
 123f1fde-d8de-4640-baa1-bb3781713168	Magic	Secrets of Strixhaven		230	Foil	Spirit Mascot	0.25	near_mint	en			
 0809b51a-6a05-4f18-9bf4-1b8382da648f	Magic	Secrets of Strixhaven		81	Foil	End of the Hunt	0.32	near_mint	en			
@@ -24738,7 +24764,8 @@ c30342a9-9d60-4440-90fc-8df47d558be7	Magic	Secrets of Strixhaven Mystical Archiv
 aa9c37ec-7f03-44b7-b973-9ae5edff3149	Magic	Secrets of Strixhaven Commander		107		Turbulent Wilderness	7.4	near_mint	en			
 340d2dc1-645e-4574-a5dd-1306833c744f	Magic	Secrets of Strixhaven Commander		65		Herald of Amity	4.96	near_mint	en			
 2866da1d-62e9-4a0d-9e6c-793d2d38c884	Magic	Secrets of Strixhaven Commander		83		Relic Retriever		near_mint	en			
-4260fab8-5597-45d8-8a1c-22ef96939071	Magic	Secrets of Strixhaven Commander		73		Changing Loyalty	4.17	near_mint	en			
+4260fab8-5597-45d8-8a1c-22ef96939071	Magic	Secrets of Strixhaven Commander		73		Changing Loyalty	3.08	near_mint	en			
+4260fab8-5597-45d8-8a1c-22ef96939071	Magic	Secrets of Strixhaven Commander		73		Changing Loyalty	3.08	near_mint	en			
 c0ae86e9-d1c5-4e89-aceb-d48ace0adfea	Magic	Secrets of Strixhaven Commander		66		Vanguard of the Restless	3.21	near_mint	en			
 176d16bf-22a9-4b5d-8e86-b23fcf822efe	Magic	Secrets of Strixhaven Commander		72		Owlin Spiralmancer	3.41	near_mint	en			
 29d2186c-c5fb-4439-95c6-ffe46b6dded9	Magic	Secrets of Strixhaven Commander		96		Inspired Skypainter // Maestro's Gift	6.08	near_mint	en			
@@ -24751,7 +24778,8 @@ d47ebf19-b3fa-48a2-851a-254d32b0305a	Magic	Secrets of Strixhaven Commander		2		E
 1c4c2765-2fb0-43f2-9e50-934405d108d2	Magic	Secrets of Strixhaven		329		Scheming Silvertongue // Sign in Blood	4.35	near_mint	en			
 f6d3a29c-e698-4af3-897e-5e00e0b55ef5	Magic	Secrets of Strixhaven		349		Dina's Guidance	2.83	near_mint	en			
 0319c982-e257-42fc-bb85-79da3a6dd6c1	Magic	Secrets of Strixhaven		337		Ambitious Augmenter	3.72	near_mint	en			
-33669848-23ce-4738-9401-469b03f0fd6e	Magic	Secrets of Strixhaven		344		Ark of Hunger	15.64	near_mint	en			
+33669848-23ce-4738-9401-469b03f0fd6e	Magic	Secrets of Strixhaven		344		Ark of Hunger	8.31	near_mint	en			
+33669848-23ce-4738-9401-469b03f0fd6e	Magic	Secrets of Strixhaven		344		Ark of Hunger	8.31	near_mint	en			
 7151c183-24e4-4748-a513-0f2652fdd6ef	Magic	Secrets of Strixhaven		355		Resonating Lute	9.38	near_mint	en			
 96fbf6dc-f9f9-4568-a1a3-c65b7a9b455b	Magic	Secrets of Strixhaven		327		Postmortem Professor		near_mint	en			
 e17f07de-7409-446d-8f21-09228f752bee	Magic	Secrets of Strixhaven		330		Withering Curse	11.5	near_mint	en			
@@ -24779,8 +24807,9 @@ a11f1013-d747-4cf2-bbf5-0bd68a949ddf	Magic	Secrets of Strixhaven Mystical Archiv
 ad048b7c-588f-4c34-906f-4224f1aaaeb6	Magic	Secrets of Strixhaven Mystical Archive		24		Stock Up	1.77	near_mint	en			
 b221e1e9-7b14-4444-ac1c-3d5174c711e9	Magic	Secrets of Strixhaven Mystical Archive		31		Locust Spray	0.17	near_mint	en			
 62652aa9-57e7-42a7-8f2f-62e9a6aefb16	Magic	Secrets of Strixhaven Mystical Archive		52		Giant Growth	1.57	near_mint	en			
-4ecbca71-9a1d-44c5-b709-d6f565941d5e	Magic	Secrets of Strixhaven		67	Foil	Skycoach Conductor // All Aboard	0.72	near_mint	en			
-4ecbca71-9a1d-44c5-b709-d6f565941d5e	Magic	Secrets of Strixhaven		67	Foil	Skycoach Conductor // All Aboard	0.72	near_mint	en			
+4ecbca71-9a1d-44c5-b709-d6f565941d5e	Magic	Secrets of Strixhaven		67	Foil	Skycoach Conductor // All Aboard	0.75	near_mint	en			
+4ecbca71-9a1d-44c5-b709-d6f565941d5e	Magic	Secrets of Strixhaven		67	Foil	Skycoach Conductor // All Aboard	0.75	near_mint	en			
+4ecbca71-9a1d-44c5-b709-d6f565941d5e	Magic	Secrets of Strixhaven		67	Foil	Skycoach Conductor // All Aboard	0.75	near_mint	en			
 494034a4-581a-45fe-8e87-0b0cbf339052	Magic	Secrets of Strixhaven Commander		100		Coastal Peak	8.82	near_mint	en			
 494034a4-581a-45fe-8e87-0b0cbf339052	Magic	Secrets of Strixhaven Commander		100		Coastal Peak	8.82	near_mint	en			
 5fe70295-e550-4577-a341-dab6c25aabfd	Magic	Secrets of Strixhaven		200	Foil	Lorehold Charm	0.76	near_mint	en			
@@ -24806,15 +24835,18 @@ db1cea01-123e-4b23-8b98-f94cabce3912	Magic	Secrets of Strixhaven		16	Foil	Gradua
 04fdfabc-c247-4384-a5bb-f49035f8aae0	Magic	Secrets of Strixhaven		167	Foil	Wild Hypothesis	0.3	near_mint	en			
 846a0e79-a530-429e-8f7f-4b87f1b0156e	Magic	Secrets of Strixhaven		242	Foil	Visionary's Dance	0.32	near_mint	en			
 bcfac992-9984-4529-b9ff-a42d58832b34	Magic	Secrets of Strixhaven		21	Foil	Inkshape Demonstrator	0.37	near_mint	en			
-71cb4a6b-b500-4b28-bcdb-ec4188242f39	Magic	Secrets of Strixhaven		60	Foil	Muse Seeker	0.61	near_mint	en			
-40075e3f-58b3-47fd-8fbe-4b301e9ce7a1	Magic	Secrets of Strixhaven		210	Foil	Practiced Scrollsmith	0.4	near_mint	en			
+71cb4a6b-b500-4b28-bcdb-ec4188242f39	Magic	Secrets of Strixhaven		60	Foil	Muse Seeker	0.47	near_mint	en			
+71cb4a6b-b500-4b28-bcdb-ec4188242f39	Magic	Secrets of Strixhaven		60	Foil	Muse Seeker	0.47	near_mint	en			
+40075e3f-58b3-47fd-8fbe-4b301e9ce7a1	Magic	Secrets of Strixhaven		210	Foil	Practiced Scrollsmith	0.35	near_mint	en			
+40075e3f-58b3-47fd-8fbe-4b301e9ce7a1	Magic	Secrets of Strixhaven		210	Foil	Practiced Scrollsmith	0.35	near_mint	en			
 0534cff6-299c-4155-b318-eb7581989e8a	Magic	Secrets of Strixhaven		22	Foil	Interjection	0.29	near_mint	en			
 e3c3b19b-01b6-4f5a-b428-513b778c5d89	Magic	Secrets of Strixhaven		51	Foil	Fractalize	0.3	near_mint	en			
 6168b472-0930-4db5-9920-407340b99050	Magic	Secrets of Strixhaven		74	Foil	Arnyn, Deathbloom Botanist	0.32	near_mint	en			
 b44ec684-d558-45eb-bcd6-8119428634c2	Magic	Secrets of Strixhaven		139	Foil	Additive Evolution	0.87	near_mint	en			
 e52464ee-df8b-41ec-af93-4b0eb004383e	Magic	Secrets of Strixhaven		10	Foil	Dig Site Inventory	0.3	near_mint	en			
-7120e71b-2976-451b-89a7-a1665dc6fb6b	Magic	Secrets of Strixhaven		237	Foil	Tam, Observant Sequencer // Deep Sight	1.08	near_mint	en			
-7120e71b-2976-451b-89a7-a1665dc6fb6b	Magic	Secrets of Strixhaven		237	Foil	Tam, Observant Sequencer // Deep Sight	1.08	near_mint	en			
+7120e71b-2976-451b-89a7-a1665dc6fb6b	Magic	Secrets of Strixhaven		237	Foil	Tam, Observant Sequencer // Deep Sight	0.83	near_mint	en			
+7120e71b-2976-451b-89a7-a1665dc6fb6b	Magic	Secrets of Strixhaven		237	Foil	Tam, Observant Sequencer // Deep Sight	0.83	near_mint	en			
+7120e71b-2976-451b-89a7-a1665dc6fb6b	Magic	Secrets of Strixhaven		237	Foil	Tam, Observant Sequencer // Deep Sight	0.83	near_mint	en			
 03e664cd-c3a6-4263-b2d8-dd99058fb8ec	Magic	Secrets of Strixhaven		98	Foil	Scathing Shadelock // Venomous Words	0.37	near_mint	en			
 03e664cd-c3a6-4263-b2d8-dd99058fb8ec	Magic	Secrets of Strixhaven		98	Foil	Scathing Shadelock // Venomous Words	0.37	near_mint	en			
 87741fbb-b426-4f83-a358-587b0907f081	Magic	Secrets of Strixhaven		252	Foil	Strixhaven Skycoach	0.23	near_mint	en			
@@ -24850,8 +24882,9 @@ cf5b19e3-eed1-4b36-9756-660ffb3baa08	Magic	Secrets of Strixhaven		189	Foil	Fract
 bf2efdd9-d2b4-4bea-a5b9-dbb2eee4dfba	Magic	Secrets of Strixhaven		247	Foil	Biblioplex Tomekeeper	0.3	near_mint	en			
 bf2efdd9-d2b4-4bea-a5b9-dbb2eee4dfba	Magic	Secrets of Strixhaven		247	Foil	Biblioplex Tomekeeper	0.3	near_mint	en			
 bf2efdd9-d2b4-4bea-a5b9-dbb2eee4dfba	Magic	Secrets of Strixhaven		247	Foil	Biblioplex Tomekeeper	0.3	near_mint	en			
-2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53	Magic	Secrets of Strixhaven		154	Foil	Mindful Biomancer	0.35	near_mint	en			
-2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53	Magic	Secrets of Strixhaven		154	Foil	Mindful Biomancer	0.35	near_mint	en			
+2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53	Magic	Secrets of Strixhaven		154	Foil	Mindful Biomancer	0.31	near_mint	en			
+2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53	Magic	Secrets of Strixhaven		154	Foil	Mindful Biomancer	0.31	near_mint	en			
+2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53	Magic	Secrets of Strixhaven		154	Foil	Mindful Biomancer	0.31	near_mint	en			
 de3de40b-a7ac-455e-add2-4e451b602d17	Magic	Secrets of Strixhaven		8	Foil	Ascendant Dustspeaker	0.25	near_mint	en			
 de3de40b-a7ac-455e-add2-4e451b602d17	Magic	Secrets of Strixhaven		8	Foil	Ascendant Dustspeaker	0.25	near_mint	en			
 259b8c45-6241-4206-a34e-34c7f401f47b	Magic	Secrets of Strixhaven		114	Foil	Expressive Firedancer	0.25	near_mint	en			
@@ -24905,7 +24938,8 @@ ea7f5262-4ddb-410a-be72-4bac6af9b4ec	Magic	Secrets of Strixhaven		190		Fractal T
 ea7f5262-4ddb-410a-be72-4bac6af9b4ec	Magic	Secrets of Strixhaven		190		Fractal Tender	0.29	near_mint	en			
 dfec5854-70c7-4e4b-9979-58775dd7a181	Magic	Secrets of Strixhaven Mystical Archive		36		Zombify	0.22	near_mint	en			
 db465858-0593-4850-8f1d-400fe230a18d	Magic	Secrets of Strixhaven Mystical Archive		26		Bitter Triumph	0.32	near_mint	en			
-72a3b17d-1e00-48e9-8402-c81bacd595a7	Magic	Secrets of Strixhaven		135	Foil	Tome Blast		near_mint	en			
+72a3b17d-1e00-48e9-8402-c81bacd595a7	Magic	Secrets of Strixhaven		135	Foil	Tome Blast	0.2	near_mint	en			
+72a3b17d-1e00-48e9-8402-c81bacd595a7	Magic	Secrets of Strixhaven		135	Foil	Tome Blast	0.2	near_mint	en			
 bf7fd85e-efdf-4627-997e-02c073683bac	Magic	Secrets of Strixhaven		353	Foil	Moment of Reckoning	4.63	near_mint	en			
 a138b2e9-9665-4544-866a-8672ddab79fc	Magic	Secrets of Strixhaven Commander		106		Turbulent Steppe	9.2	near_mint	en			
 c59e0004-1d6a-42a1-8ce4-31da2af2e1bf	Magic	Secrets of Strixhaven		61		Muse's Encouragement	0.5	near_mint	en			
@@ -24943,7 +24977,8 @@ c90366d5-b4ba-4772-a3c5-f138bbe7f305	Magic	Secrets of Strixhaven		229		Spectacul
 eb7e858a-9b85-49b2-a379-ee656b64935a	Magic	Secrets of Strixhaven		207	Foil	Old-Growth Educator	0.41	near_mint	en			
 40ecc34b-4cd0-4998-bbf4-7faa6fd3d7e0	Magic	Secrets of Strixhaven		66	Foil	Run Behind		near_mint	en			
 3e4f9d23-1a17-4188-ac91-f8ddea46a1c4	Magic	Secrets of Strixhaven		75	Foil	Burrog Banemaker	0.39	near_mint	en			
-1ceb704a-97a8-49f9-b799-30f001404144	Magic	Secrets of Strixhaven		249	Foil	Mage Tower Referee		near_mint	en			
+1ceb704a-97a8-49f9-b799-30f001404144	Magic	Secrets of Strixhaven		249	Foil	Mage Tower Referee	0.2	near_mint	en			
+1ceb704a-97a8-49f9-b799-30f001404144	Magic	Secrets of Strixhaven		249	Foil	Mage Tower Referee	0.2	near_mint	en			
 dc0517ca-b271-49a1-a286-c20f4e5b9309	Magic	Secrets of Strixhaven		31	Foil	Shattered Acolyte	0.31	near_mint	en			
 d357d997-9d4e-4ade-81f2-37629853f13a	Magic	Secrets of Strixhaven		73	Foil	Arcane Omens		near_mint	en			
 f143fd41-58c3-45a0-bef8-e9e4b4a502a5	Magic	Secrets of Strixhaven		233	Foil	Startled Relic Sloth	0.38	near_mint	en			
@@ -24978,3 +25013,20 @@ c507eb1c-48e9-4d28-bb2d-71f2a9df9ab0	Magic	Secrets of Strixhaven		185		Elemental
 c507eb1c-48e9-4d28-bb2d-71f2a9df9ab0	Magic	Secrets of Strixhaven		185		Elemental Mascot	0.43	near_mint	en			
 c0cf5e0f-3668-46f2-850d-d91a538e8ead	Magic	Secrets of Strixhaven		186		Embrace the Paradox	0.33	near_mint	en			
 c0cf5e0f-3668-46f2-850d-d91a538e8ead	Magic	Secrets of Strixhaven		186		Embrace the Paradox	0.33	near_mint	en			
+a6813cd2-7151-459a-a2f1-52808584de53	Magic	Secrets of Strixhaven Mystical Archive		16	Foil	Deduce	0.33	near_mint	en			
+6f8f8183-d17a-41b8-b3b5-914f193fd964	Magic	Secrets of Strixhaven Mystical Archive		4	Foil	Duty Beyond Death	0.39	near_mint	en			
+622daabf-987d-4311-b3d3-b27d62cd5e6e	Magic	Secrets of Strixhaven Mystical Archive		43		Empty the Warrens	0.35	near_mint	en			
+4b2e000b-a147-443b-9138-9ff2d16c0422	Magic	Secrets of Strixhaven Mystical Archive		45		Monstrous Rage	0.15	near_mint	en			
+c837c418-2fe9-4ce8-b76d-c37241579a93	Magic	Secrets of Strixhaven Mystical Archive		22		Sleight of Hand	0.19	near_mint	en			
+21b14fb0-aeeb-4c9f-9458-ef0e2b4b604e	Magic	Secrets of Strixhaven Mystical Archive		111		Pyretic Ritual	10.56	near_mint	en			
+c243c2c4-f227-42a8-8b78-5f4b761106c2	Magic	Secrets of Strixhaven Commander		92		Yavimaya Bloomsage // Channel	3.89	near_mint	en			
+44fe9413-99a6-40e9-85b6-f9ba9bd4de86	Magic	Secrets of Strixhaven		284		Lorehold, the Historian	22.73	near_mint	en			
+b93cbaad-8ed8-4a1d-b95a-20a616dfedc9	Magic	Secrets of Strixhaven		102	Foil	Tragedy Feaster	0.83	near_mint	en			
+9278cfc3-7dcb-4b84-8646-4fb745fece9e	Magic	Secrets of Strixhaven		300	Foil	Geometer's Arthropod	1.16	near_mint	en			
+ed72d052-d287-448a-bbc5-969ebb1fcb68	Magic	Secrets of Strixhaven		362	Foil	Petrified Hamlet	6.12	near_mint	en			
+3ba971e7-0b7a-4750-896f-7cf063e66b2a	Magic	Secrets of Strixhaven		109	Foil	Blazing Firesinger // Seething Song	0.53	near_mint	en			
+b127d543-0a90-4af6-9410-94d5cd30389e	Magic	Secrets of Strixhaven		213	Foil	Proctor's Gaze	0.29	near_mint	en			
+c5e7c856-8b71-44e6-8998-0b0b3ff0ef99	Magic	Secrets of Strixhaven		153	Foil	Lumaret's Favor	0.24	near_mint	en			
+bf736de9-9bc4-49df-ae60-672ed4f83f32	Magic	Secrets of Strixhaven		11	Foil	Eager Glyphmage	0.24	near_mint	en			
+4b4c120e-abe9-4f11-a7e4-bc3f723da4b2	Magic	Secrets of Strixhaven		101	Foil	Sneering Shadewriter	0.24	near_mint	en			
+4584d5f7-b1f1-4c8e-80c5-ad35e44a968e	Magic	Secrets of Strixhaven		216	Foil	Pursue the Past	0.3	near_mint	en			
