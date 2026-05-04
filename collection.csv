@@ -1066,7 +1066,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 10961869	Football	2025 Panini Mosaic		111	Mosaic Camo Pink	Deion Branch			en			
 10973056	Football	2025 Panini Mosaic		330	Mosaic Camo Pink	Devin Neal	1.5		en	36.77	29.0	12.35
 10964556	Football	2025 Panini Mosaic		165	Mosaic Camo Pink	Fred Warner	1.49		en	36.55	29.0	12.28
-10965505	Football	2025 Panini Mosaic		191	Mosaic Camo Pink	Greg Zuerlein			en			
+10965505	Football	2025 Panini Mosaic		191	Mosaic Camo Pink	Greg Zuerlein	1.79		en			
 10957164	Football	2025 Panini Mosaic		11	Mosaic Camo Pink	Ja'Marr Chase	1.63		en	36.29	29.0	12.18
 10971500	Football	2025 Panini Mosaic		313	Mosaic Camo Pink	Jalen Royals	0.99		en			
 10956964	Football	2025 Panini Mosaic		8	Mosaic Camo Pink	Jared Verse	1.99		en	39.01	31.0	13.13
@@ -1138,7 +1138,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 7940203	Football	2024 Panini Mosaic		243		Vinny Testaverde	0.44		en	37.48	30.0	12.88
 7934373	Football	2024 Panini Mosaic		98		Zaire Franklin	0.25		en			
 7933413	Football	2024 Panini Mosaic		74	Blue Reactive	Amon-Ra St. Brown	1.76		en	36.8	29.0	22.0
-7942060	Football	2024 Panini Mosaic		289	Blue Reactive	Caleb Williams	11.0		en	92.5	74.0	21.69
+7942060	Football	2024 Panini Mosaic		289	Blue Reactive	Caleb Williams	12.0		en	92.5	74.0	21.69
 7945720	Football	2024 Panini Mosaic		373	Blue Reactive	Jalen McMillan	1.99		en	26.25	21.0	10.0
 7938590	Football	2024 Panini Mosaic		203	Blue Reactive	Julian Love	1.42		en	34.68	28.0	11.81
 7943710	Football	2024 Panini Mosaic		330	Blue Reactive	Nate Wiggins	0.99		en	33.71	27.0	11.43
@@ -1611,8 +1611,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 10791225	Basketball	2025 Panini Donruss WNBA	Tunnel Vision	15	Press Proof	Veronica Burton	1.15		en	35.16	28.0	11.81
 10790176	Basketball	2025 Panini Donruss WNBA	Franchise Features	5	Press Proof	Angel Reese	1.61		en	38.77	31.0	13.07
 10789203	Basketball	2025 Panini Donruss WNBA	Jersey Series	40		Satou Sabally	2.93		en	45.85	37.0	15.55
-10788253	Basketball	2025 Panini Donruss WNBA		98	Signature	Maddy Westbeld	15.03		en	92.94	74.0	32.07
-10788393	Basketball	2025 Panini Donruss WNBA	Next Day Autograph	7		Serena Sundell	43.75		en	211.35	169.0	73.47
+10788253	Basketball	2025 Panini Donruss WNBA		98	Signature	Maddy Westbeld	13.4		en	92.94	74.0	32.07
+10788393	Basketball	2025 Panini Donruss WNBA	Next Day Autograph	7		Serena Sundell	40.51		en	211.35	169.0	73.47
 10790250	Basketball	2025 Panini Donruss WNBA	Franchise Features	7	Diamond	Aneesah Morrow	2.0		en	8.94	7.0	8.5
 10790018	Basketball	2025 Panini Donruss WNBA	Crunch Time	14		Brittney Griner	1.15		en	34.4	28.0	11.54
 10789741	Basketball	2025 Panini Donruss WNBA	Crunch Time	8		Kelsey Plum	1.26		en	36.0	29.0	12.1
@@ -1621,7 +1621,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 10789786	Basketball	2025 Panini Donruss WNBA	Crunch Time	15		Natasha Cloud	1.4		en	37.3	30.0	12.56
 10789786	Basketball	2025 Panini Donruss WNBA	Crunch Time	15		Natasha Cloud	1.4		en	37.3	30.0	12.56
 10789890	Basketball	2025 Panini Donruss WNBA	Crunch Time	11	Press Proof	Kate Martin	0.81		en	34.39	28.0	11.54
-10789906	Basketball	2025 Panini Donruss WNBA	Crunch Time	11	Holo Laser	Kate Martin	11.83		en	83.12	67.0	28.63
+10789906	Basketball	2025 Panini Donruss WNBA	Crunch Time	11	Holo Laser	Kate Martin	12.05		en	83.12	67.0	28.63
 10787833	Basketball	2025 Panini Donruss WNBA		93	Holo Wnba Logo	Ajsa Sivka			en			
 10786584	Basketball	2025 Panini Donruss WNBA		42	Orange Laser	Aerial Powers	3.0		en	43.37	35.0	14.68
 10788006	Basketball	2025 Panini Donruss WNBA		100	Teal Laser	Sarah Ashlee Barker	1.99		en	38.83	31.0	13.1
@@ -1963,7 +1963,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 5603343	Football	2023 Panini Score	Protential	11		Josh Downs	0.89		en	32.49	26.0	11.17
 5603353	Football	2023 Panini Score	Protential	21		Tank Bigsby	0.99		en	32.71	26.0	11.27
 5603350	Football	2023 Panini Score	Protential	18		Zay Flowers	1.38		en	33.78	27.0	9.99
-5963374	Football	2023 Panini Score	It's Good! Autographs	IG-NB		Nick Bolton	16.73		en	76.92	62.0	32.0
+5963374	Football	2023 Panini Score	It's Good! Autographs	IG-NB		Nick Bolton	16.7		en	76.92	62.0	32.0
 5594957	Football	2023 Panini Score		158	Gold	Budda Baker	2.0		en			
 5594881	Football	2023 Panini Score		82	Gold	D'Andre Swift	0.99		en			
 5595039	Football	2023 Panini Score		240	Gold	Kayvon Thibodeaux	0.99		en			
@@ -1987,7 +1987,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 9520632	Football	2024 Panini Select		239		Bucky Irving	1.26		en	34.22	27.0	11.54
 9516281	Football	2024 Panini Select		144		Darnell Savage Jr.	0.66		en	32.74	26.0	11.0
 9510979	Football	2024 Panini Select		51		DeVonta Smith	1.5		en	36.25	29.0	12.28
-9509976	Football	2024 Panini Select		27		Drake Maye	2.44		en	144.0	34.97	16.11
+9509976	Football	2024 Panini Select		27		Drake Maye	2.25		en	144.0	34.97	16.11
 9516566	Football	2024 Panini Select		158		Greg Zuerlein	1.0		en			
 9516602	Football	2024 Panini Select		160		Hunter Henry	0.93		en	33.85	27.0	11.4
 9509849	Football	2024 Panini Select		26		Jayden Daniels	1.14		en	32.12	11.5	13.33
@@ -2072,7 +2072,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11392700	Star Wars	2025 Topps Galaxy Chrome		100	Refractor	Throughout the Ages	2.74		en			
 11392520	Star Wars	2025 Topps Galaxy Chrome		89	Mini-diamond Refractor	Captain of the 501st	3.3		en			
 11392387	Star Wars	2025 Topps Galaxy Chrome		81	Mini-diamond Refractor	Skywalker's Starfighter	3.0		en			
-11392702	Star Wars	2025 Topps Galaxy Chrome		100	Magenta Lava Refractor	Throughout the Ages	15.53		en			
+11392702	Star Wars	2025 Topps Galaxy Chrome		100	Magenta Lava Refractor	Throughout the Ages	18.95		en			
 11394807	Star Wars	2025 Topps Galaxy Chrome Power of the Force		POW-1		Captain Phasma	2.99		en			
 11394876	Star Wars	2025 Topps Galaxy Chrome Power of the Force		POW-13		Stormtrooper	2.99		en			
 11394943	Star Wars	2025 Topps Galaxy Chrome Power of the Force		POW-7	Prism	Chewbacca	4.25		en			
@@ -2126,7 +2126,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11245960	Football	2025 Panini Prizm Draft Picks		118		Jack Bech	0.06		en	34.49	28.0	11.56
 11245569	Football	2025 Panini Prizm Draft Picks		106		Jackson Hawes	1.12		en	35.48	28.0	11.9
 11245994	Football	2025 Panini Prizm Draft Picks		124		Jahdae Barron	1.73		en	37.74	30.0	12.68
-11243027	Football	2025 Panini Prizm Draft Picks		18		Jake Briningstool			en			
+11243027	Football	2025 Panini Prizm Draft Picks		18		Jake Briningstool	1.0		en			
 11242638	Football	2025 Panini Prizm Draft Picks		5		Jalen Milroe	1.5		en	38.08	30.0	12.8
 11242638	Football	2025 Panini Prizm Draft Picks		5		Jalen Milroe	1.5		en	38.08	30.0	12.8
 11243298	Football	2025 Panini Prizm Draft Picks		30		Jalon Walker	0.67		en	34.5	28.0	11.56
@@ -2389,9 +2389,9 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 8476509	Basketball	2024 Panini Prizm WNBA		27	Silver	Brionna Jones	1.5		en	15.0	12.0	12.2
 8481960	Basketball	2024 Panini Prizm WNBA	Groovy	14		Rickea Jackson	1.99		en	25.66	21.0	9.99
 12415642	Basketball	2017 Rittenhouse WNBA		18		Alyssa Thomas		PSA 9	en			
-8128717	Football	2024 Panini Prizm	Prizmatic	11	Green	Bo Nix	56.93	PSA 10	en	56.96	15.38	21.85
-8120050	Football	2024 Panini Prizm		347	Silver	Jayden Daniels	160.0	PSA 9	en	843.13	675.0	160.5
-8125279	Football	2024 Panini Prizm	Autograph	308	Silver	Blake Corum	37.93	PSA 9	en	76.57	61.0	38.04
+8128717	Football	2024 Panini Prizm	Prizmatic	11	Green	Bo Nix	53.31	PSA 10	en	56.96	15.38	21.85
+8120050	Football	2024 Panini Prizm		347	Silver	Jayden Daniels	161.54	PSA 9	en	843.13	675.0	160.5
+8125279	Football	2024 Panini Prizm	Autograph	308	Silver	Blake Corum	32.31	PSA 9	en	76.57	61.0	38.04
 8111612	Football	2024 Panini Prizm		204		Alvin Kamara	1.03		en	34.77	28.0	8.11
 8108458	Football	2024 Panini Prizm		154		Bo Jackson	1.68		en	27.49	22.0	12.37
 8118267	Football	2024 Panini Prizm		310		Braden Fiske	0.94		en	32.69	26.0	11.03
@@ -2498,7 +2498,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11632600	Baseball	2025 Topps	Allen and Ginter X	232		Logan Webb			en			
 11631805	Baseball	2025 Topps	Allen and Ginter X	11		Lou Brock	1.79		en	41.06	33.0	13.79
 11633145	Baseball	2025 Topps	Allen and Ginter X	197		Matthew Boyd	1.79		en			
-11632216	Baseball	2025 Topps	Allen and Ginter X	140		Max Scherzer			en			
+11632216	Baseball	2025 Topps	Allen and Ginter X	140		Max Scherzer	2.47		en			
 11632992	Baseball	2025 Topps	Allen and Ginter X	317		Mel Ott			en			
 11632168	Baseball	2025 Topps	Allen and Ginter X	118		Michael McGreevy	2.99		en			
 11632822	Baseball	2025 Topps	Allen and Ginter X	273		Michele Fitzgerald	2.49		en	41.51	33.0	13.95
@@ -2515,7 +2515,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11632758	Baseball	2025 Topps	Allen and Ginter X	175		Paul Molitor	2.35		en			
 11632049	Baseball	2025 Topps	Allen and Ginter X	128		Paul Skenes	4.38		en	48.49	39.0	16.34
 11631785	Baseball	2025 Topps	Allen and Ginter X	8		Pedro Martinez			en			
-11631820	Baseball	2025 Topps	Allen and Ginter X	29		Rafael Devers			en			
+11631820	Baseball	2025 Topps	Allen and Ginter X	29		Rafael Devers	1.79		en			
 11631960	Baseball	2025 Topps	Allen and Ginter X	60		Reggie Jackson	1.69		en			
 11632150	Baseball	2025 Topps	Allen and Ginter X	136		Riley Greene	2.99		en			
 11632506	Baseball	2025 Topps	Allen and Ginter X	164		Robert Hassell III	1.99		en			
@@ -2523,7 +2523,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11632418	Baseball	2025 Topps	Allen and Ginter X	205		Ryan Bliss	1.79		en			
 11632339	Baseball	2025 Topps	Allen and Ginter X	46		Seiya Suzuki	2.11		en	39.77	32.0	13.35
 11632262	Baseball	2025 Topps	Allen and Ginter X	99		Shota Imanaga			en			
-11632841	Baseball	2025 Topps	Allen and Ginter X	275		Skylar Astin			en			
+11632841	Baseball	2025 Topps	Allen and Ginter X	275		Skylar Astin	1.79		en			
 11632074	Baseball	2025 Topps	Allen and Ginter X	64		Stan Musial	2.59		en	41.99	34.0	14.11
 11632344	Baseball	2025 Topps	Allen and Ginter X	176		Steven Kwan	2.67		en	42.35	34.0	14.23
 11632036	Baseball	2025 Topps	Allen and Ginter X	127		Thomas Saggese	0.99		en			
@@ -2539,7 +2539,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11632558	Baseball	2025 Topps	Allen and Ginter X	229		Xander Bogaerts			en			
 11631817	Baseball	2025 Topps	Allen and Ginter X	51		Yadier Molina	1.59		en	42.14	34.0	14.16
 11632610	Baseball	2025 Topps	Allen and Ginter X	257		Zach Rishel	1.69		en	37.83	30.0	12.68
-11633161	Baseball	2025 Topps	Allen and Ginter X	19	Chrome	Mickey Mantle	15.56		en	101.34	81.0	34.42
+11633161	Baseball	2025 Topps	Allen and Ginter X	19	Chrome	Mickey Mantle	15.28		en	101.34	81.0	34.42
 11632588	Baseball	2025 Topps	Allen and Ginter X	231	Mini	Aaron Nola	4.49		en	50.8	41.0	17.13
 11632853	Baseball	2025 Topps	Allen and Ginter X	301	Mini	Andre Dawson	2.1		en	53.17	43.0	17.94
 11631787	Baseball	2025 Topps	Allen and Ginter X	26	Mini	Cal Ripken Jr.	8.99		en	67.06	54.0	22.7
@@ -2624,8 +2624,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12381247	Baseball	2026 Topps	Celebration	50	Confetti	Ronald Acuna Jr.	3.08		en	42.37	34.0	14.15
 12382288	Baseball	2026 Topps	Celebration	304	Confetti	Team Card			en			
 12381371	Baseball	2026 Topps	Celebration	89	Confetti	Team Card			en			
-12381317	Baseball	2026 Topps	Celebration	63	Pink Confetti	Jesus Luzardo			en			
-12382139	Baseball	2026 Topps	Celebration	273	Pink Confetti	Mason Barnett			en			
+12381317	Baseball	2026 Topps	Celebration	63	Pink Confetti	Jesus Luzardo	4.99		en			
+12382139	Baseball	2026 Topps	Celebration	273	Pink Confetti	Mason Barnett	3.0		en			
 12383839	Baseball	2026 Topps	Celebration Gameday Drip	GD-19		Andrew McCutchen	1.72		en	37.84	30.0	12.63
 12383886	Baseball	2026 Topps	Celebration Gameday Drip	GD-10		Francisco Lindor	1.49		en	37.79	30.0	12.62
 12383918	Baseball	2026 Topps	Celebration Gameday Drip	GD-13		Gunnar Henderson	1.0		en	34.81	28.0	11.61
@@ -2642,16 +2642,16 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 137824	Basketball	2009 Upper Deck Jordan Legacy		67	Gold	Michael Jordan	23.0	BCCG 10	en	92.11	74.0	34.67
 12464661	Football	2017 Sage Hit Premier Draft Peak Performance Platinized		PK-DC		Dalvin Cook		BCCG 10	en			
 10287706	Baseball	2021 Bowman Chrome Prospects		BCP-109	Sapphire	Geraldo Perdomo			en			
-12464703	Football	2019 Panini Illusions Rookie Signs		RS-EDO	Orange	Ed Oliver	10.5		en			
-10685775	Football	2025 Panini Certified Mirror Signature		MS-DKI	Red	Dalton Kincaid	13.8		en			
+12464703	Football	2019 Panini Illusions Rookie Signs		RS-EDO	Orange	Ed Oliver	7.25		en			
+10685775	Football	2025 Panini Certified Mirror Signature		MS-DKI	Red	Dalton Kincaid	15.0		en			
 7367355	Football	2023 Panini Select Jumbo Signature Swatch Prizm		11	White	Nick Bosa	45.0		en			
 5304022	Football	2022 Panini Illusions Great Expectations		GE-TM		Trey McBride	3.09		en	37.89	30.0	14.31
 9870570	Baseball	2024 Topps 50/50: Shohei Ohtani		HR22		Shohei Ohtani	20.0	CGC 10	en			
-8920675	Basketball	2024 Bowman Chrome University		33	Green Shimmer Refractor Autograph	Jordan Gainey	15.1		en			7.77
+8920675	Basketball	2024 Bowman Chrome University		33	Green Shimmer Refractor Autograph	Jordan Gainey	13.83		en			7.77
 12492670	Football	2014 Panini Score	Hot Rookie Franchise Fabrics Signatures	FF-SM		Shea McClellin			en			
-11155849	Football	2025 Panini Phoenix		207	Silver Autograph	Devin Neal	16.88		en	106.32	85.0	36.49
+11155849	Football	2025 Panini Phoenix		207	Silver Autograph	Devin Neal	11.79		en	106.32	85.0	36.49
 11737863	Football	2025 Panini Donruss Optic	Signature Series Holo	44		Tre Harris	6.0		en			
-11252084	Football	2025 Panini Prizm Draft Picks	Sensational Signatures	44		Isaiah Neyor			en			
+11252084	Football	2025 Panini Prizm Draft Picks	Sensational Signatures	44		Isaiah Neyor	4.25		en			
 8188893	Football	2024 Panini Prizm Draft Picks	Signing Day	SD-GMY	Red Ice	Gabriel Murphy	2.12		en			
 1302903	Football	2008 Bowman Sterling		121	Autograph	Anthony Alridge	2.21		en			
 12492673	Football	2006 Panini Score Select Inscriptions		376		Demetrius Williams	2.25		en			
@@ -3135,7 +3135,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12427545	Football	2022 Leaf Draft Hobby		B-8	Gold	Malik Willis			en			
 12427551	Football	2022 Leaf Draft Hobby		B-9	Gold	Matt Corral			en			
 12427553	Football	2022 Leaf Draft Hobby		B-10	Gold	Sam Howell			en			
-12427919	Football	2022 Leaf Draft Hobby	Autograph	BA-JR1		Jaden Rashada			en			
+12427919	Football	2022 Leaf Draft Hobby	Autograph	BA-JR1		Jaden Rashada	1.25		en			
 12427621	Football	2022 Leaf Draft Hobby	Autograph	BA-SG1		Sauce Gardner	10.0		en			
 12427651	Football	2022 Leaf Draft Hobby	Autograph	BA-CR1	Gold	Cameron Rising	2.52		en			
 12427761	Football	2022 Leaf Draft Hobby	Autograph	BA-DB1	Gold	Devin Brown			en			
@@ -3252,7 +3252,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11291623	Baseball	2025 Topps	Allen and Ginter	344	Foil Sp	Johnny Mize	1.5		en	36.81	29.0	12.36
 11293033	Baseball	2025 Topps	Allen and Ginter	25	Mini Chrome	Rickey Henderson	2.99		en	68.89	55.0	14.71
 11375787	Baseball	2025 Topps	Allen and Ginter	124	Mini Gold	Kumar Rocker	5.7		en	55.9	45.0	18.97
-11676363	Baseball	2025 Panini Select		23		Aidan Miller			en			
+11676363	Baseball	2025 Panini Select		23		Aidan Miller	0.25		en			
 11678490	Baseball	2025 Panini Select		86		Albert Pujols	0.99		en	34.59	28.0	11.57
 11675949	Baseball	2025 Panini Select		11		Andrew Painter	1.29		en	35.28	28.0	11.81
 11681762	Baseball	2025 Panini Select		167		Blake Mitchell	0.99		en			
@@ -3305,333 +3305,9 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11676116	Baseball	2025 Panini Select		16	Ice	Bubba Chandler	2.0		en	39.22	31.0	13.16
 11677893	Baseball	2025 Panini Select		73	Ice	Colt Emerson	1.99		en	39.21	31.0	13.16
 11680716	Baseball	2025 Panini Select		147	Ice	Paul Molitor	2.0		en	39.28	31.0	13.18
-11677687	Baseball	2025 Panini Select		58	Ice	Stephen Vogt			en			
+11677687	Baseball	2025 Panini Select		58	Ice	Stephen Vogt	0.99		en			
 11688573	Baseball	2025 Panini Select	Throwback	4		Rintaro Sasaki	2.99		en			
 11687308	Baseball	2025 Panini Select	Sparks	17	Ice	Cam Caminiti	3.0		en			
-11741558	Basketball	2025 Panini Prizm WNBA		76		A'ja Wilson	1.74		en	39.61	32.0	13.32
-11741558	Basketball	2025 Panini Prizm WNBA		76		A'ja Wilson	1.74		en	39.61	32.0	13.32
-11742199	Basketball	2025 Panini Prizm WNBA		94		Aaliyah Edwards	1.95		en	38.89	31.0	13.07
-11742199	Basketball	2025 Panini Prizm WNBA		94		Aaliyah Edwards	1.95		en	38.89	31.0	13.07
-11741412	Basketball	2025 Panini Prizm WNBA		15		Aaliyah Nye	1.73		en	39.0	31.0	13.12
-11741412	Basketball	2025 Panini Prizm WNBA		15		Aaliyah Nye	1.73		en	39.0	31.0	13.12
-11741279	Basketball	2025 Panini Prizm WNBA		10		Aari McDonald	1.63		en	37.45	30.0	12.57
-11741279	Basketball	2025 Panini Prizm WNBA		10		Aari McDonald	1.63		en	37.45	30.0	12.57
-11741888	Basketball	2025 Panini Prizm WNBA		85		Ajsa Sivka	1.99		en	39.06	31.0	13.13
-11741888	Basketball	2025 Panini Prizm WNBA		85		Ajsa Sivka	1.99		en	39.06	31.0	13.13
-11742363	Basketball	2025 Panini Prizm WNBA		101		Alanna Smith	1.87		en	38.52	31.0	12.94
-11741641	Basketball	2025 Panini Prizm WNBA		78		Alissa Pili	1.0		en			
-11741709	Basketball	2025 Panini Prizm WNBA		80		Allie Quigley	2.99		en			
-11741489	Basketball	2025 Panini Prizm WNBA		16		Allisha Gray	1.87		en	38.53	31.0	12.95
-11741421	Basketball	2025 Panini Prizm WNBA		129		Alysha Clark	1.49		en			
-11741421	Basketball	2025 Panini Prizm WNBA		129		Alysha Clark	1.49		en			
-11742375	Basketball	2025 Panini Prizm WNBA		44		Alyssa Thomas	1.83		en	38.35	31.0	12.88
-11742085	Basketball	2025 Panini Prizm WNBA		92		Angel Reese	1.63		en	37.11	30.0	12.46
-11741423	Basketball	2025 Panini Prizm WNBA		73		Arike Ogunbowale	1.95		en			
-11741423	Basketball	2025 Panini Prizm WNBA		73		Arike Ogunbowale	1.95		en			
-11741829	Basketball	2025 Panini Prizm WNBA		83		Aziaha James	1.5		en	36.85	29.0	12.37
-11741829	Basketball	2025 Panini Prizm WNBA		83		Aziaha James	1.5		en	36.85	29.0	12.37
-11741148	Basketball	2025 Panini Prizm WNBA		64		Azura Stevens	0.99		en	34.51	28.0	11.56
-11742673	Basketball	2025 Panini Prizm WNBA		114		Betnijah Laney-Hamilton	1.95		en	38.88	31.0	13.07
-11742673	Basketball	2025 Panini Prizm WNBA		114		Betnijah Laney-Hamilton	1.95		en	38.88	31.0	13.07
-11741797	Basketball	2025 Panini Prizm WNBA		26		Breanna Stewart	1.5		en	36.83	29.0	12.36
-11741797	Basketball	2025 Panini Prizm WNBA		26		Breanna Stewart	1.5		en	36.83	29.0	12.36
-11741924	Basketball	2025 Panini Prizm WNBA		86		Bria Hartley	1.83		en	38.36	31.0	12.89
-11742459	Basketball	2025 Panini Prizm WNBA		105		Brianna Turner	1.83		en	38.34	31.0	12.88
-11742459	Basketball	2025 Panini Prizm WNBA		105		Brianna Turner	1.83		en	38.34	31.0	12.88
-11741126	Basketball	2025 Panini Prizm WNBA		121		Brittney Sykes	1.95		en			
-11741960	Basketball	2025 Panini Prizm WNBA		87		Cameron Brink	1.73		en	37.89	30.0	12.73
-11741138	Basketball	2025 Panini Prizm WNBA		6		Carla Leite	1.82		en	38.3	31.0	12.87
-11742604	Basketball	2025 Panini Prizm WNBA		111		Chelsea Gray	0.99		en			
-11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
-11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
-11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
-11741232	Basketball	2025 Panini Prizm WNBA		124		Courtney Vandersloot	1.89		en			
-11741232	Basketball	2025 Panini Prizm WNBA		124		Courtney Vandersloot	1.89		en			
-11741326	Basketball	2025 Panini Prizm WNBA		69		Courtney Williams	1.85		en	38.43	31.0	12.91
-11741326	Basketball	2025 Panini Prizm WNBA		69		Courtney Williams	1.85		en	38.43	31.0	12.91
-12420241	Basketball	2025 Panini Prizm WNBA		71		Cynthia Cooper			en			
-12420241	Basketball	2025 Panini Prizm WNBA		71		Cynthia Cooper			en			
-11742093	Basketball	2025 Panini Prizm WNBA		33		Dana Evans	1.92		en	38.78	31.0	13.03
-11742093	Basketball	2025 Panini Prizm WNBA		33		Dana Evans	1.92		en	38.78	31.0	13.03
-11741875	Basketball	2025 Panini Prizm WNBA		27		Diamond Miller	1.64		en	37.46	30.0	12.58
-11741173	Basketball	2025 Panini Prizm WNBA		7		Diana Taurasi	1.75		en	37.98	30.0	12.76
-11742304	Basketball	2025 Panini Prizm WNBA		41		Elizabeth Kitley	1.41		en			
-11742304	Basketball	2025 Panini Prizm WNBA		41		Elizabeth Kitley	1.41		en			
-11741830	Basketball	2025 Panini Prizm WNBA		84		Emily Engstler	1.15		en	36.62	29.0	12.29
-11741268	Basketball	2025 Panini Prizm WNBA		125		Erica Wheeler	1.76		en	37.16	30.0	12.47
-11741268	Basketball	2025 Panini Prizm WNBA		125		Erica Wheeler	1.76		en	37.16	30.0	12.47
-11742185	Basketball	2025 Panini Prizm WNBA		36		Ezi Magbegor	1.99		en	39.09	31.0	13.14
-11741603	Basketball	2025 Panini Prizm WNBA		77		Gabby Williams	1.6		en	38.6	31.0	12.98
-11741603	Basketball	2025 Panini Prizm WNBA		77		Gabby Williams	1.6		en	38.6	31.0	12.98
-11741755	Basketball	2025 Panini Prizm WNBA		139		Hailey Van Lith	1.89		en	38.33	31.0	12.88
-11741755	Basketball	2025 Panini Prizm WNBA		139		Hailey Van Lith	1.89		en	38.33	31.0	12.88
-11741755	Basketball	2025 Panini Prizm WNBA		139		Hailey Van Lith	1.89		en	38.33	31.0	12.88
-11740997	Basketball	2025 Panini Prizm WNBA		2		Hailey Van Lith	1.52		en	36.51	29.0	12.25
-11740997	Basketball	2025 Panini Prizm WNBA		2		Hailey Van Lith	1.52		en	36.51	29.0	12.25
-11742355	Basketball	2025 Panini Prizm WNBA		43		Haley Jones	1.95		en	38.91	31.0	13.08
-11742355	Basketball	2025 Panini Prizm WNBA		43		Haley Jones	1.95		en	38.91	31.0	13.08
-11742355	Basketball	2025 Panini Prizm WNBA		43		Haley Jones	1.95		en	38.91	31.0	13.08
-11741349	Basketball	2025 Panini Prizm WNBA		12		Isabelle Harrison	1.83		en	38.35	31.0	12.88
-11742221	Basketball	2025 Panini Prizm WNBA		95		JJ Quinerly	1.37		en	35.71	29.0	11.97
-11742221	Basketball	2025 Panini Prizm WNBA		95		JJ Quinerly	1.37		en	35.71	29.0	11.97
-11742221	Basketball	2025 Panini Prizm WNBA		95		JJ Quinerly	1.37		en	35.71	29.0	11.97
-11742650	Basketball	2025 Panini Prizm WNBA		113		Jacy Sheldon	1.17		en	35.33	28.0	11.84
-11742650	Basketball	2025 Panini Prizm WNBA		113		Jacy Sheldon	1.17		en	35.33	28.0	11.84
-11741375	Basketball	2025 Panini Prizm WNBA		128		Jade Melbourne	1.99		en			
-11741628	Basketball	2025 Panini Prizm WNBA		20		Janelle Salaun	1.26		en	37.97	30.0	12.76
-11741628	Basketball	2025 Panini Prizm WNBA		20		Janelle Salaun	1.26		en	37.97	30.0	12.76
-11741628	Basketball	2025 Panini Prizm WNBA		20		Janelle Salaun	1.26		en	37.97	30.0	12.76
-11742162	Basketball	2025 Panini Prizm WNBA		93		Jaylyn Sherrod	1.91		en	38.7	31.0	13.01
-11742162	Basketball	2025 Panini Prizm WNBA		93		Jaylyn Sherrod	1.91		en	38.7	31.0	13.01
-11741686	Basketball	2025 Panini Prizm WNBA		137		Jessica Shepard	1.49		en	36.79	29.0	12.35
-11741686	Basketball	2025 Panini Prizm WNBA		137		Jessica Shepard	1.49		en	36.79	29.0	12.35
-11742685	Basketball	2025 Panini Prizm WNBA		57		Jewell Loyd	1.83		en	38.34	31.0	12.88
-11742685	Basketball	2025 Panini Prizm WNBA		57		Jewell Loyd	1.83		en	38.34	31.0	12.88
-11742685	Basketball	2025 Panini Prizm WNBA		57		Jewell Loyd	1.83		en	38.34	31.0	12.88
-11742568	Basketball	2025 Panini Prizm WNBA		52		Jonquel Jones	1.81		en	38.31	31.0	12.87
-11742568	Basketball	2025 Panini Prizm WNBA		52		Jonquel Jones	1.81		en	38.31	31.0	12.87
-11742568	Basketball	2025 Panini Prizm WNBA		52		Jonquel Jones	1.81		en	38.31	31.0	12.87
-11742209	Basketball	2025 Panini Prizm WNBA		37		Jordan Horston	1.49		en	37.94	30.0	12.74
-11741092	Basketball	2025 Panini Prizm WNBA		120		Jordin Canada	2.0		en			
-11741092	Basketball	2025 Panini Prizm WNBA		120		Jordin Canada	2.0		en			
-11741092	Basketball	2025 Panini Prizm WNBA		120		Jordin Canada	2.0		en			
-11742744	Basketball	2025 Panini Prizm WNBA		132		Julie Vanloo	1.3		en	35.7	29.0	11.97
-11741081	Basketball	2025 Panini Prizm WNBA		62		Kahleah Copper	1.37		en			
-11742338	Basketball	2025 Panini Prizm WNBA		100		Kaitlyn Chen	1.25		en	35.16	28.0	11.78
-11742338	Basketball	2025 Panini Prizm WNBA		100		Kaitlyn Chen	1.25		en	35.16	28.0	11.78
-11741901	Basketball	2025 Panini Prizm WNBA		143		Kaitlyn Chen	1.61		en	37.75	30.0	12.68
-11742030	Basketball	2025 Panini Prizm WNBA		89		Kamilla Cardoso	1.92		en	38.74	31.0	13.02
-11741950	Basketball	2025 Panini Prizm WNBA		29		Kathryn Westbeld	1.35		en	36.15	29.0	12.13
-11742400	Basketball	2025 Panini Prizm WNBA		45		Kayla McBride	1.92		en	38.74	31.0	13.02
-11742137	Basketball	2025 Panini Prizm WNBA		35		Kelsey Mitchell	1.75		en	37.99	30.0	12.76
-11741768	Basketball	2025 Panini Prizm WNBA		24		Kia Nurse	0.99		en			
-11742709	Basketball	2025 Panini Prizm WNBA		58		Kiah Stokes	1.83		en	37.96	30.0	12.75
-11742138	Basketball	2025 Panini Prizm WNBA		149		Kiki Iriafen	2.0		en	38.47	31.0	12.93
-11742138	Basketball	2025 Panini Prizm WNBA		149		Kiki Iriafen	2.0		en	38.47	31.0	12.93
-11742138	Basketball	2025 Panini Prizm WNBA		149		Kiki Iriafen	2.0		en	38.47	31.0	12.93
-11741451	Basketball	2025 Panini Prizm WNBA		72		Kiki Iriafen	1.78		en	37.74	30.0	18.5
-11741451	Basketball	2025 Panini Prizm WNBA		72		Kiki Iriafen	1.78		en	37.74	30.0	18.5
-11742116	Basketball	2025 Panini Prizm WNBA		91		Lauren Jackson	0.99		en	34.51	28.0	11.56
-11741499	Basketball	2025 Panini Prizm WNBA		74		Leonie Fiebich	1.89		en	38.63	31.0	12.98
-11741913	Basketball	2025 Panini Prizm WNBA		28		Li Yueru	1.6		en	38.51	31.0	12.94
-11741913	Basketball	2025 Panini Prizm WNBA		28		Li Yueru	1.6		en	38.51	31.0	12.94
-11741913	Basketball	2025 Panini Prizm WNBA		28		Li Yueru	1.6		en	38.51	31.0	12.94
-11742435	Basketball	2025 Panini Prizm WNBA		104		Lucy Olsen	1.71		en	37.78	30.0	12.69
-11741972	Basketball	2025 Panini Prizm WNBA		145		Lucy Olsen	1.07		en	35.37	28.0	11.86
-11741721	Basketball	2025 Panini Prizm WNBA		138		Maddy Westbeld	1.13		en	34.7	28.0	11.62
-11741721	Basketball	2025 Panini Prizm WNBA		138		Maddy Westbeld	1.13		en	34.7	28.0	11.62
-11741437	Basketball	2025 Panini Prizm WNBA		14		Makayla Timpson	1.49		en	37.37	30.0	12.55
-11741437	Basketball	2025 Panini Prizm WNBA		14		Makayla Timpson	1.49		en	37.37	30.0	12.55
-11742065	Basketball	2025 Panini Prizm WNBA		90		Marine Johannes	1.95		en	38.87	31.0	13.07
-11742065	Basketball	2025 Panini Prizm WNBA		90		Marine Johannes	1.95		en	38.87	31.0	13.07
-11741220	Basketball	2025 Panini Prizm WNBA		66		Marquesha Davis	1.91		en	38.73	31.0	13.01
-11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
-11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
-11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
-11742495	Basketball	2025 Panini Prizm WNBA		49		Megan Gustafson	1.87		en	38.74	31.0	13.02
-11741525	Basketball	2025 Panini Prizm WNBA		133		Michele Timms	1.0		en			
-11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
-11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
-11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
-11742317	Basketball	2025 Panini Prizm WNBA		99		Monique Billings	1.46		en	36.65	29.0	12.3
-11741056	Basketball	2025 Panini Prizm WNBA		119		NaLyssa Smith	0.99		en	34.51	28.0	11.56
-11742161	Basketball	2025 Panini Prizm WNBA		34		Nancy Lieberman	1.33		en	38.34	31.0	12.88
-11742161	Basketball	2025 Panini Prizm WNBA		34		Nancy Lieberman	1.33		en	38.34	31.0	12.88
-11742661	Basketball	2025 Panini Prizm WNBA		56		Natasha Cloud	1.92		en	39.29	31.0	13.21
-11742661	Basketball	2025 Panini Prizm WNBA		56		Natasha Cloud	1.92		en	39.29	31.0	13.21
-11742615	Basketball	2025 Panini Prizm WNBA		54		Natasha Howard	1.9		en	38.67	31.0	12.99
-11742591	Basketball	2025 Panini Prizm WNBA		53		Natisha Hiedeman	1.83		en	38.36	31.0	12.89
-11742591	Basketball	2025 Panini Prizm WNBA		53		Natisha Hiedeman	1.83		en	38.36	31.0	12.89
-11741338	Basketball	2025 Panini Prizm WNBA		127		Nika Muhl	1.98		en	39.06	31.0	13.13
-11742798	Basketball	2025 Panini Prizm WNBA		147		Paige Bueckers	6.5		en	61.8	49.0	28.88
-11741984	Basketball	2025 Panini Prizm WNBA		30		Penny Taylor	1.95		en	38.88	31.0	13.07
-11741831	Basketball	2025 Panini Prizm WNBA		25		Rae Burrell	1.48		en	36.74	29.0	12.33
-11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
-11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
-11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
-11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
-11741021	Basketball	2025 Panini Prizm WNBA		118		Rickea Jackson	1.47		en	39.08	31.0	13.14
-11742546	Basketball	2025 Panini Prizm WNBA		108		Sami Whitcomb	1.99		en			
-11742109	Basketball	2025 Panini Prizm WNBA		150		Saniya Rivers	1.52		en	36.94	30.0	12.4
-11742019	Basketball	2025 Panini Prizm WNBA		31		Sarah Ashlee Barker	2.0		en	39.09	31.0	13.15
-11741745	Basketball	2025 Panini Prizm WNBA		81		Shakira Austin	1.95		en	38.88	31.0	13.07
-11741652	Basketball	2025 Panini Prizm WNBA		136		Shey Peddy	1.72		en	37.86	30.0	12.71
-11741196	Basketball	2025 Panini Prizm WNBA		123		Skylar Diggins	1.59		en	37.25	30.0	12.5
-11741196	Basketball	2025 Panini Prizm WNBA		123		Skylar Diggins	1.59		en	37.25	30.0	12.5
-11742078	Basketball	2025 Panini Prizm WNBA		148		Sonia Citron	1.69		en	39.1	31.0	13.15
-11742625	Basketball	2025 Panini Prizm WNBA		112		Stefanie Dolson	1.97		en	38.96	31.0	13.1
-11742233	Basketball	2025 Panini Prizm WNBA		38		Sue Bird	1.89		en	37.2	30.0	12.49
-11742233	Basketball	2025 Panini Prizm WNBA		38		Sue Bird	1.89		en	37.2	30.0	12.49
-11740961	Basketball	2025 Panini Prizm WNBA		1		Sydney Colson	1.83		en	38.33	31.0	12.88
-11741008	Basketball	2025 Panini Prizm WNBA		60		Tamika Catchings	1.99		en			
-11741008	Basketball	2025 Panini Prizm WNBA		60		Tamika Catchings	1.99		en			
-11741045	Basketball	2025 Panini Prizm WNBA		61		Te-Hina Paopao	1.59		en	37.18	30.0	12.48
-11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
-11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
-11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
-11741291	Basketball	2025 Panini Prizm WNBA		68		Temi Fagbenle	1.93		en	38.78	31.0	13.04
-11741291	Basketball	2025 Panini Prizm WNBA		68		Temi Fagbenle	1.93		en	38.78	31.0	13.04
-11742697	Basketball	2025 Panini Prizm WNBA		115		Tina Thompson	1.0		en			
-11742697	Basketball	2025 Panini Prizm WNBA		115		Tina Thompson	1.0		en			
-11741469	Basketball	2025 Panini Prizm WNBA		130		Tyasha Harris	1.8		en			
-11741469	Basketball	2025 Panini Prizm WNBA		130		Tyasha Harris	1.8		en			
-11742580	Basketball	2025 Panini Prizm WNBA		110		Zia Cooke	1.71		en	37.79	30.0	12.69
-11742580	Basketball	2025 Panini Prizm WNBA		110		Zia Cooke	1.71		en	37.79	30.0	12.69
-11742203	Basketball	2025 Panini Prizm WNBA		94	Blue Velocity	Aaliyah Edwards	1.99		en	39.07	31.0	13.13
-11741416	Basketball	2025 Panini Prizm WNBA		15	Blue Velocity	Aaliyah Nye	1.55		en	37.39	30.0	12.55
-11742366	Basketball	2025 Panini Prizm WNBA		101	Blue Velocity	Alanna Smith	1.65		en	37.53	30.0	12.6
-11741712	Basketball	2025 Panini Prizm WNBA		80	Blue Velocity	Allie Quigley	2.0		en	39.13	31.0	13.15
-11741386	Basketball	2025 Panini Prizm WNBA		13	Blue Velocity	Ariel Atkins	1.54		en			
-11741386	Basketball	2025 Panini Prizm WNBA		13	Blue Velocity	Ariel Atkins	1.54		en			
-11741834	Basketball	2025 Panini Prizm WNBA		83	Blue Velocity	Aziaha James	1.97		en	38.74	31.0	13.02
-11742514	Basketball	2025 Panini Prizm WNBA		107	Blue Velocity	Brionna Jones	0.99		en	34.5	28.0	11.56
-11741247	Basketball	2025 Panini Prizm WNBA		9	Blue Velocity	DiJonai Carrington	1.98		en	39.03	31.0	13.12
-11742688	Basketball	2025 Panini Prizm WNBA		57	Blue Velocity	Jewell Loyd	1.16		en	34.52	28.0	11.56
-11742571	Basketball	2025 Panini Prizm WNBA		52	Blue Velocity	Jonquel Jones	1.41		en	36.19	29.0	12.14
-11741951	Basketball	2025 Panini Prizm WNBA		29	Blue Velocity	Kathryn Westbeld	0.99		en	39.65	32.0	13.34
-11742402	Basketball	2025 Panini Prizm WNBA		45	Blue Velocity	Kayla McBride	1.75		en	39.04	31.0	13.12
-11741772	Basketball	2025 Panini Prizm WNBA		24	Blue Velocity	Kia Nurse	1.99		en			
-11741455	Basketball	2025 Panini Prizm WNBA		72	Blue Velocity	Kiki Iriafen	2.0		en	39.69	32.0	13.35
-11741919	Basketball	2025 Panini Prizm WNBA		28	Blue Velocity	Li Yueru	1.75		en	37.26	30.0	12.51
-11741532	Basketball	2025 Panini Prizm WNBA		133	Blue Velocity	Michele Timms	0.99		en			
-11741532	Basketball	2025 Panini Prizm WNBA		133	Blue Velocity	Michele Timms	0.99		en			
-11741059	Basketball	2025 Panini Prizm WNBA		119	Blue Velocity	NaLyssa Smith	2.25		en	40.28	32.0	13.55
-11742618	Basketball	2025 Panini Prizm WNBA		54	Blue Velocity	Natasha Howard	1.62		en	41.82	33.0	14.08
-11741339	Basketball	2025 Panini Prizm WNBA		127	Blue Velocity	Nika Muhl	2.25		en	40.27	32.0	13.55
-11741257	Basketball	2025 Panini Prizm WNBA		67	Blue Velocity	Rebecca Allen	1.99		en			
-11742283	Basketball	2025 Panini Prizm WNBA		40	Blue Velocity	Ruthie Bolton	1.99		en			
-11742551	Basketball	2025 Panini Prizm WNBA		108	Blue Velocity	Sami Whitcomb	0.99		en			
-11742118	Basketball	2025 Panini Prizm WNBA		150	Blue Velocity	Saniya Rivers	1.81		en	39.08	31.0	13.14
-11741073	Basketball	2025 Panini Prizm WNBA		4	Blue Velocity	Satou Sabally	3.68		en	47.08	38.0	15.9
-11741198	Basketball	2025 Panini Prizm WNBA		123	Blue Velocity	Skylar Diggins	1.02		en	34.82	28.0	11.67
-11742084	Basketball	2025 Panini Prizm WNBA		148	Blue Velocity	Sonia Citron	3.3		en	88.5	71.0	20.5
-11742236	Basketball	2025 Panini Prizm WNBA		38	Blue Velocity	Sue Bird	2.0		en	38.11	30.0	12.8
-11740964	Basketball	2025 Panini Prizm WNBA		1	Blue Velocity	Sydney Colson	1.94		en	38.41	31.0	12.9
-11741015	Basketball	2025 Panini Prizm WNBA		60	Blue Velocity	Tamika Catchings	2.25		en	41.35	33.0	13.92
-11741187	Basketball	2025 Panini Prizm WNBA		65	Blue Velocity	Ticha Penicheiro	1.25		en	40.25	32.0	13.54
-11742583	Basketball	2025 Panini Prizm WNBA		110	Blue Velocity	Zia Cooke	1.24		en	37.4	30.0	12.55
-11742205	Basketball	2025 Panini Prizm WNBA		94	Ice	Aaliyah Edwards	1.79		en	45.43	36.0	15.34
-11741419	Basketball	2025 Panini Prizm WNBA		15	Ice	Aaliyah Nye	1.68		en	39.68	32.0	13.34
-11741646	Basketball	2025 Panini Prizm WNBA		78	Ice	Alissa Pili	1.37		en			
-11741594	Basketball	2025 Panini Prizm WNBA		75	Ice	Aliyah Boston	1.93		en	39.1	31.0	13.15
-11741715	Basketball	2025 Panini Prizm WNBA		80	Ice	Allie Quigley	0.99		en			
-11741497	Basketball	2025 Panini Prizm WNBA		16	Ice	Allisha Gray	1.64		en	37.48	30.0	12.58
-11741497	Basketball	2025 Panini Prizm WNBA		16	Ice	Allisha Gray	1.64		en	37.48	30.0	12.58
-11742014	Basketball	2025 Panini Prizm WNBA		146	Ice	Aneesah Morrow	3.42		en	43.49	35.0	14.66
-11741392	Basketball	2025 Panini Prizm WNBA		13	Ice	Ariel Atkins	0.99		en	34.52	28.0	11.56
-11741858	Basketball	2025 Panini Prizm WNBA		141	Ice	Aziaha James	1.9		en	39.05	31.0	13.13
-11741858	Basketball	2025 Panini Prizm WNBA		141	Ice	Aziaha James	1.9		en	39.05	31.0	13.13
-11742680	Basketball	2025 Panini Prizm WNBA		114	Ice	Betnijah Laney-Hamilton	1.75		en	37.99	30.0	12.76
-11742520	Basketball	2025 Panini Prizm WNBA		107	Ice	Brionna Jones	1.25		en			
-11741132	Basketball	2025 Panini Prizm WNBA		121	Ice	Brittney Sykes	1.79		en	38.14	31.0	12.82
-11741704	Basketball	2025 Panini Prizm WNBA		22	Ice	Caitlin Clark	13.95		en	133.5	107.0	25.25
-11741156	Basketball	2025 Panini Prizm WNBA		6	Ice	Carla Leite	1.71		en	39.06	31.0	13.13
-11742610	Basketball	2025 Panini Prizm WNBA		111	Ice	Chelsea Gray	2.69		en	42.28	34.0	14.24
-11741404	Basketball	2025 Panini Prizm WNBA		71	Ice	Cynthia Cooper-Dyke	1.86		en	36.85	29.0	12.36
-11742108	Basketball	2025 Panini Prizm WNBA		33	Ice	Dana Evans	2.38		en	40.33	32.0	13.56
-11742061	Basketball	2025 Panini Prizm WNBA		32	Ice	DeWanna Bonner	1.99		en			
-11741885	Basketball	2025 Panini Prizm WNBA		27	Ice	Diamond Miller	1.0		en	34.57	28.0	11.58
-11742725	Basketball	2025 Panini Prizm WNBA		116	Ice	Dominique Malonga	2.65		en	43.61	35.0	14.71
-11742563	Basketball	2025 Panini Prizm WNBA		109	Ice	Dorka Juhasz	1.25		en	34.52	28.0	11.56
-11741274	Basketball	2025 Panini Prizm WNBA		125	Ice	Erica Wheeler	1.7		en	39.08	31.0	13.14
-11742191	Basketball	2025 Panini Prizm WNBA		36	Ice	Ezi Magbegor	1.11		en	40.92	33.0	13.77
-11741004	Basketball	2025 Panini Prizm WNBA		2	Ice	Hailey Van Lith	1.66		en	38.15	31.0	12.82
-11742358	Basketball	2025 Panini Prizm WNBA		43	Ice	Haley Jones	1.89		en	38.63	31.0	12.98
-11742227	Basketball	2025 Panini Prizm WNBA		95	Ice	JJ Quinerly	1.44		en	37.53	30.0	12.6
-11741380	Basketball	2025 Panini Prizm WNBA		128	Ice	Jade Melbourne	1.5		en	36.83	29.0	12.36
-11741634	Basketball	2025 Panini Prizm WNBA		20	Ice	Janelle Salaun	1.65		en	37.74	30.0	12.68
-11742175	Basketball	2025 Panini Prizm WNBA		93	Ice	Jaylyn Sherrod	1.6		en			
-11742692	Basketball	2025 Panini Prizm WNBA		57	Ice	Jewell Loyd	1.83		en	38.44	31.0	12.92
-11742692	Basketball	2025 Panini Prizm WNBA		57	Ice	Jewell Loyd	1.83		en	38.44	31.0	12.92
-11742575	Basketball	2025 Panini Prizm WNBA		52	Ice	Jonquel Jones	1.97		en	38.97	31.0	13.1
-11742216	Basketball	2025 Panini Prizm WNBA		37	Ice	Jordan Horston	1.79		en			
-11741099	Basketball	2025 Panini Prizm WNBA		120	Ice	Jordin Canada	1.94		en			
-11742644	Basketball	2025 Panini Prizm WNBA		55	Ice	Kalani Brown			en			
-11742394	Basketball	2025 Panini Prizm WNBA		102	Ice	Karlie Samuelson	2.0		en	39.12	31.0	13.15
-11741955	Basketball	2025 Panini Prizm WNBA		29	Ice	Kathryn Westbeld	0.99		en	34.52	28.0	11.56
-11741785	Basketball	2025 Panini Prizm WNBA		82	Ice	Katie Lou Samuelson	1.73		en	37.35	30.0	12.54
-11741785	Basketball	2025 Panini Prizm WNBA		82	Ice	Katie Lou Samuelson	1.73		en	37.35	30.0	12.54
-11742745	Basketball	2025 Panini Prizm WNBA		17	Ice	Kayla Thornton	1.78		en	38.1	30.0	12.8
-11742151	Basketball	2025 Panini Prizm WNBA		35	Ice	Kelsey Mitchell	1.99		en	39.09	31.0	13.14
-11741792	Basketball	2025 Panini Prizm WNBA		24	Ice	Kia Nurse	1.24		en	35.66	29.0	11.96
-11742130	Basketball	2025 Panini Prizm WNBA		91	Ice	Lauren Jackson	1.43		en	34.97	28.0	11.72
-11741506	Basketball	2025 Panini Prizm WNBA		74	Ice	Leonie Fiebich	1.75		en	43.64	35.0	14.71
-11741506	Basketball	2025 Panini Prizm WNBA		74	Ice	Leonie Fiebich	1.75		en	43.64	35.0	14.71
-11742490	Basketball	2025 Panini Prizm WNBA		106	Ice	Lisa Leslie	1.55		en	37.8	30.0	12.69
-11741978	Basketball	2025 Panini Prizm WNBA		145	Ice	Lucy Olsen	2.5		en	41.28	33.0	13.9
-11742300	Basketball	2025 Panini Prizm WNBA		98	Ice	Monique Akoa Makani	0.38		en	31.73	25.0	10.6
-11742252	Basketball	2025 Panini Prizm WNBA		96	Ice	Myisha Hines-Allen			en			
-11742252	Basketball	2025 Panini Prizm WNBA		96	Ice	Myisha Hines-Allen			en			
-11742666	Basketball	2025 Panini Prizm WNBA		56	Ice	Natasha Cloud	1.79		en	40.58	32.0	13.66
-11742621	Basketball	2025 Panini Prizm WNBA		54	Ice	Natasha Howard	2.99		en	43.6	35.0	14.71
-11741344	Basketball	2025 Panini Prizm WNBA		127	Ice	Nika Muhl	1.99		en	38.51	31.0	12.94
-11741321	Basketball	2025 Panini Prizm WNBA		11	Ice	Rhyne Howard	1.37		en	37.96	30.0	12.75
-11742287	Basketball	2025 Panini Prizm WNBA		40	Ice	Ruthie Bolton	1.5		en	36.84	29.0	12.36
-11742125	Basketball	2025 Panini Prizm WNBA		150	Ice	Saniya Rivers	1.25		en	36.1	29.0	12.11
-11741658	Basketball	2025 Panini Prizm WNBA		136	Ice	Shey Peddy			en			
-11741658	Basketball	2025 Panini Prizm WNBA		136	Ice	Shey Peddy			en			
-11741201	Basketball	2025 Panini Prizm WNBA		123	Ice	Skylar Diggins	1.75		en	37.97	30.0	12.76
-11741168	Basketball	2025 Panini Prizm WNBA		122	Ice	Sonia Citron	2.84		en	44.23	35.0	18.5
-11742633	Basketball	2025 Panini Prizm WNBA		112	Ice	Stefanie Dolson	1.64		en	37.47	30.0	12.58
-11742239	Basketball	2025 Panini Prizm WNBA		38	Ice	Sue Bird	1.77		en	37.24	30.0	12.5
-11741052	Basketball	2025 Panini Prizm WNBA		61	Ice	Te-Hina Paopao	1.54		en	38.76	31.0	13.03
-11741192	Basketball	2025 Panini Prizm WNBA		65	Ice	Ticha Penicheiro	1.99		en	39.08	31.0	13.14
-12245000	Basketball	2025 Panini Prizm WNBA	Fractal	6		Courtney Williams	1.99		en			
-11932307	Basketball	2025 Panini Prizm WNBA	Fractal	14		Georgia Amoore	3.51		en	45.38	36.0	15.32
-11741571	Basketball	2025 Panini Prizm WNBA		76	Silver	A'ja Wilson	0.99		en	36.79	29.0	12.35
-11741290	Basketball	2025 Panini Prizm WNBA		10	Silver	Aari McDonald	3.9		en			
-11741651	Basketball	2025 Panini Prizm WNBA		78	Silver	Alissa Pili			en			
-11741586	Basketball	2025 Panini Prizm WNBA		134	Silver	Cheryl Miller			en			
-11742337	Basketball	2025 Panini Prizm WNBA		42	Silver	Damiris Dantas			en			
-11742041	Basketball	2025 Panini Prizm WNBA		89	Silver	Kamilla Cardoso	1.97		en	41.96	34.0	14.13
-11742555	Basketball	2025 Panini Prizm WNBA		51	Silver	Lexie Hull	1.38		en	39.11	31.0	13.15
-11741450	Basketball	2025 Panini Prizm WNBA		14	Silver	Makayla Timpson	2.49		en	42.66	34.0	14.38
-11741348	Basketball	2025 Panini Prizm WNBA		127	Silver	Nika Muhl	1.5		en	36.86	29.0	12.37
-11741325	Basketball	2025 Panini Prizm WNBA		11	Silver	Rhyne Howard	2.0		en	39.11	31.0	13.15
-11742292	Basketball	2025 Panini Prizm WNBA		40	Silver	Ruthie Bolton			en			
-11742636	Basketball	2025 Panini Prizm WNBA		112	Silver	Stefanie Dolson			en			
-11742482	Basketball	2025 Panini Prizm WNBA		48	Silver	Teaira McCowan			en			
-11741565	Basketball	2025 Panini Prizm WNBA		76	Green	A'ja Wilson	2.05		en	39.36	31.0	13.23
-11741417	Basketball	2025 Panini Prizm WNBA		15	Green	Aaliyah Nye	2.13		en	36.81	29.0	12.35
-11741714	Basketball	2025 Panini Prizm WNBA		80	Green	Allie Quigley	2.35		en	40.71	33.0	13.7
-11741152	Basketball	2025 Panini Prizm WNBA		64	Green	Azura Stevens	2.0		en			
-11741143	Basketball	2025 Panini Prizm WNBA		6	Green	Carla Leite	1.84		en	38.97	31.0	13.1
-11741376	Basketball	2025 Panini Prizm WNBA		128	Green	Jade Melbourne	1.19		en			
-11742643	Basketball	2025 Panini Prizm WNBA		55	Green	Kalani Brown	0.99		en			
-11740978	Basketball	2025 Panini Prizm WNBA		59	Green	Kelsey Plum	1.76		en	36.82	29.0	12.36
-11742150	Basketball	2025 Panini Prizm WNBA		149	Green	Kiki Iriafen	3.53		en	45.04	36.0	15.2
-11741456	Basketball	2025 Panini Prizm WNBA		72	Green	Kiki Iriafen	3.08		en	41.34	33.0	13.92
-11741060	Basketball	2025 Panini Prizm WNBA		119	Green	NaLyssa Smith	1.25		en			
-11742452	Basketball	2025 Panini Prizm WNBA		47	Green	Rayah Marshall			en			
-11742285	Basketball	2025 Panini Prizm WNBA		40	Green	Ruthie Bolton	0.99		en			
-11742081	Basketball	2025 Panini Prizm WNBA		148	Green	Sonia Citron	4.92		en	52.73	42.0	17.87
-11972505	Basketball	2025 Panini Prizm WNBA	Groovy	8		Dominique Malonga	4.25		en	49.34	39.0	16.63
-12423647	Basketball	2025 Panini Prizm WNBA	Groovy	14		Hailey Van Lith	3.62		en			
-12020537	Basketball	2025 Panini Prizm WNBA	Fireworks	9		Caitlin Clark	7.99		en	69.21	55.0	23.57
-12245087	Basketball	2025 Panini Prizm WNBA	Fireworks	7		Napheesa Collier	2.46		en			
-12245099	Basketball	2025 Panini Prizm WNBA	Fireworks	14		Paige Bueckers	9.29		en	100.26	80.0	18.99
-12245081	Basketball	2025 Panini Prizm WNBA	Fireworks	5		Rhyne Howard	2.06		en	39.17	31.0	13.17
-12245114	Basketball	2025 Panini Prizm WNBA	Top Tier	2		A'ja Wilson	1.67		en	37.49	30.0	12.59
-12116554	Basketball	2025 Panini Prizm WNBA	Top Tier	12		Skylar Diggins	2.99		en	43.09	34.0	14.52
-12228597	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	4		Caitlin Clark	10.0		en			
-12128728	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	15		Dominique Malonga	4.5		en	65.0	52.0	
-11851770	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	5		Kelsey Plum	3.25		en			
-11741607	Basketball	2025 Panini Prizm WNBA		75	Red Pulsar	Aliyah Boston	5.31		en	55.4	44.0	18.78
-12085614	Basketball	2025 Panini Prizm WNBA	Fearless	5		Angel Reese	2.03		en	39.28	31.0	13.21
-12245056	Basketball	2025 Panini Prizm WNBA	Fearless	11		Kelsey Plum	1.83		en	36.78	29.0	12.35
-12420839	Basketball	2025 Panini Prizm WNBA		103	White Seismic	Georgia Amoore	2.0		en			
-12420579	Basketball	2025 Panini Prizm WNBA		95	White Seismic	JJ Quinerly	3.99		en			
-12422403	Basketball	2025 Panini Prizm WNBA		113	White Seismic	Jacy Sheldon	15.51		en			
-12420581	Basketball	2025 Panini Prizm WNBA		91	White Seismic	Lauren Jackson	0.99		en			
-12419759	Basketball	2025 Panini Prizm WNBA		49	White Seismic	Megan Gustafson	0.99		en			
-12421704	Basketball	2025 Panini Prizm WNBA		34	White Seismic	Nancy Lieberman			en			
-12419846	Basketball	2025 Panini Prizm WNBA		53	White Seismic	Natisha Hiedeman			en			
-12418867	Basketball	2025 Panini Prizm WNBA		11	White Seismic	Rhyne Howard	0.99		en			
-12422052	Basketball	2025 Panini Prizm WNBA		118	White Seismic	Rickea Jackson	4.02		en			
-12420303	Basketball	2025 Panini Prizm WNBA		81	White Seismic	Shakira Austin	4.14		en			
-12421785	Basketball	2025 Panini Prizm WNBA		123	White Seismic	Skylar Diggins	2.99		en			
-12419508	Basketball	2025 Panini Prizm WNBA		38	White Seismic	Sue Bird	6.51		en			
-11742769	Basketball	2025 Panini Prizm WNBA	Pioneers	2		Ticha Penicheiro	2.41		en	39.68	32.0	13.34
 8141535	Football	2024 Panini Absolute		82		Aaron Rodgers	1.21		en	34.58	28.0	11.76
 8143521	Football	2024 Panini Absolute		151		Adonai Mitchell	1.24		en	33.85	27.0	11.48
 8142056	Football	2024 Panini Absolute		100		Austin Ekeler	0.08		en	30.08	24.0	10.03
@@ -4412,7 +4088,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11610228	Football	2025 Panini Prizm		284		Joe Theismann	1.09		en	35.03	28.0	11.73
 11610228	Football	2025 Panini Prizm		284		Joe Theismann	1.09		en	35.03	28.0	11.73
 11593288	Football	2025 Panini Prizm		51		Jonnu Smith			en			
-11590996	Football	2025 Panini Prizm		19		Jordan Addison			en			
+11590996	Football	2025 Panini Prizm		19		Jordan Addison	0.99		en			
 11617289	Football	2025 Panini Prizm		389		Jordan Watkins	0.36		en	33.7	27.0	11.27
 11598821	Football	2025 Panini Prizm		129		Jordyn Brooks	1.69		en	37.8	30.0	12.68
 11616700	Football	2025 Panini Prizm		382		Josh Conerly Jr.	1.98		en	39.18	31.0	13.15
@@ -4549,7 +4225,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11604124	Football	2025 Panini Prizm		203		Tyrone Tracy Jr.	1.87		en	38.64	31.0	12.97
 11592398	Football	2025 Panini Prizm		39		Vernon Davis	1.49		en			
 11598280	Football	2025 Panini Prizm		123		Vita Vea	1.4		en			
-11604631	Football	2025 Panini Prizm		212		Warren Sapp	39.95		en			
+11604631	Football	2025 Panini Prizm		212		Warren Sapp	1.75		en			
 11592743	Football	2025 Panini Prizm		45		Willis McGahee	2.99		en			
 11597983	Football	2025 Panini Prizm		118		Xavier Legette	1.87		en			
 11618339	Football	2025 Panini Prizm		66		Xavier McKinney	1.29		en	36.91	30.0	12.37
@@ -4574,7 +4250,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11593877	Football	2025 Panini Prizm		59	Silver	Kamren Kinchens	4.0		en			
 11607112	Football	2025 Panini Prizm		246	Silver	Kyle Van Noy	0.99		en			
 11607112	Football	2025 Panini Prizm		246	Silver	Kyle Van Noy	0.99		en			
-11611781	Football	2025 Panini Prizm		331	Silver	Luther Burden III	11.0		en	174.25	139.0	37.16
+11611781	Football	2025 Panini Prizm		331	Silver	Luther Burden III	9.25		en	174.25	139.0	37.16
 11594990	Football	2025 Panini Prizm		75	Silver	Marshall Faulk	1.5		en	36.93	30.0	12.38
 11610237	Football	2025 Panini Prizm		289	Silver	Steven Jackson	4.62		en	51.38	41.0	17.33
 11616655	Football	2025 Panini Prizm		379	Silver	Terrance Ferguson	1.92		en	38.67	31.0	12.98
@@ -4620,7 +4296,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11609604	Football	2025 Panini Prizm		295	White Disco	Wayne Chrebet			en			
 11616066	Football	2025 Panini Prizm		369	Lazer	Dont'e Thornton Jr.	1.42		en	35.83	29.0	12.0
 11610596	Football	2025 Panini Prizm		312	Lazer	Will Campbell	1.76		en	38.46	31.0	12.9
-11618738	Football	2025 Panini Prizm		432	Rookie Variation Silver	Cam Skattebo	12.76		en	94.17	75.0	58.0
+11618738	Football	2025 Panini Prizm		432	Rookie Variation Silver	Cam Skattebo	13.05		en	94.17	75.0	58.0
 11618696	Football	2025 Panini Prizm		416	Rookie Variation Silver	Riley Leonard	7.34		en	80.99	65.0	27.49
 11618814	Football	2025 Panini Prizm		426	Rookie Variation Silver	Tai Felton	1.58		en	35.9	29.0	12.03
 11624533	Football	2025 Panini Prizm	Break	7		Brian Thomas Jr.	0.99		en	34.58	28.0	11.57
@@ -4639,12 +4315,12 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11597500	Football	2025 Panini Prizm		112	Neon Green Pulsar	Cole Kmet			en			
 11616940	Football	2025 Panini Prizm		383	Neon Green Pulsar	DJ Giddens			en			
 11590869	Football	2025 Panini Prizm		17	Neon Green Pulsar	Eric Allen	1.49		en	39.26	31.0	13.17
-11598571	Football	2025 Panini Prizm		126	Neon Green Pulsar	Isiah Pacheco			en			
+11598571	Football	2025 Panini Prizm		126	Neon Green Pulsar	Isiah Pacheco	0.25		en			
 11611092	Football	2025 Panini Prizm		284	Neon Green Pulsar	Joe Theismann	2.49		en			
 11611601	Football	2025 Panini Prizm		326	Neon Green Pulsar	Matthew Golden	5.44		en	57.63	46.0	19.49
 11609918	Football	2025 Panini Prizm		303	Neon Green Pulsar	RJ Harvey	1.65		en	39.2	31.0	13.16
 11613460	Football	2025 Panini Prizm		345	Neon Green Pulsar	Trevor Etienne	0.81		en	32.54	26.0	10.87
-11594102	Football	2025 Panini Prizm		64	Neon Green Pulsar	Zach Ertz			en			
+11594102	Football	2025 Panini Prizm		64	Neon Green Pulsar	Zach Ertz	1.99		en			
 11623333	Football	2025 Panini Prizm	Premier Jersey	PJY-BIG	Neon Green Pulsar	Bucky Irving	3.0		en			
 11623453	Football	2025 Panini Prizm	Premier Jersey	PJY-XWY	Neon Green Pulsar	Xavier Worthy	3.25		en			
 11624290	Football	2025 Panini Prizm	Global Reach	5		Caleb Williams	1.18		en	36.1	29.0	12.09
@@ -4683,9 +4359,9 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11599034	Football	2025 Panini Prizm		132	Red White Blue	Minkah Fitzpatrick			en			
 11598384	Football	2025 Panini Prizm		122	Red White Blue	Sam LaPorta	1.18		en	35.45	28.0	11.87
 11592435	Football	2025 Panini Prizm		39	Red White Blue	Vernon Davis	1.0		en			
-11603050	Football	2025 Panini Prizm		190	Red Flash	Alvin Kamara			en			
+11603050	Football	2025 Panini Prizm		190	Red Flash	Alvin Kamara	2.0		en			
 11603916	Football	2025 Panini Prizm		199	Red Flash	Cameron Jordan	3.99		en			
-11602127	Football	2025 Panini Prizm		176	Red Flash	Christian Gonzalez			en			
+11602127	Football	2025 Panini Prizm		176	Red Flash	Christian Gonzalez	5.99		en			
 11597287	Football	2025 Panini Prizm		108	Red Flash	Jonathan Taylor	2.49		en			
 11591970	Football	2025 Panini Prizm		32	Red Flash	Najee Harris			en			
 11594475	Football	2025 Panini Prizm		66	Red Flash	Xavier McKinney	1.99		en			
@@ -4703,7 +4379,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12364191	Football	2021 Panini Chronicles Draft Picks	Donruss	50		Azeez Ojylari			en			
 12364192	Football	2021 Panini Chronicles Draft Picks	Donruss	36		Ja'Marr Chase	1.0		en			
 6733591	Football	2021 Panini Chronicles Draft Picks	Recon	143		Rashod Bateman	4.25		en			
-12263796	Football	2021 Panini Chronicles Draft Picks	Spectra	283	Silver	Ja'Marr Chase	10.0		en			
+12263796	Football	2021 Panini Chronicles Draft Picks	Spectra	283	Silver	Ja'Marr Chase	7.5		en			
 10497252	Football	2021 Panini Contenders Draft Picks	Front Row Seats	13		Terrace Marshall Jr	0.25		en			
 2245610	Football	2021 Panini Contenders Draft Picks		37		Allen Robinson II	0.16		en			
 2245592	Football	2021 Panini Contenders Draft Picks		19		Baker Mayfield	0.92		en	32.75	26.0	11.74
@@ -4781,7 +4457,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 403560	Football	2020 Panini Prizm		117		Von Miller	1.01		en	21.12	17.0	
 407901	Football	2020 Panini Prizm		272	Orange Disco	Cooper Kupp	1.88		en			8.5
 400542	Football	2020 Panini Prizm		367	Orange Disco	Jeremy Chinn	3.42		en	23.83	19.0	13.63
-385235	Football	2020 Panini Prizm		325	Orange Disco	Justin Herbert	39.72		en	145.75	117.0	74.0
+385235	Football	2020 Panini Prizm		325	Orange Disco	Justin Herbert	36.0		en	145.75	117.0	74.0
 410085	Football	2020 Panini Prizm		191	Orange Disco	Khalil Mack	1.49		en			
 385163	Football	2020 Panini Prizm		41	Orange Disco	Mark Andrews	2.0		en			
 400532	Football	2020 Panini Prizm		303	Silver	Jamycal Hasty	1.79		en	23.75	19.0	7.0
@@ -5211,7 +4887,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 9563631	Football	2024 Panini Totally Certified	Portraits	16		Luke McCaffrey	1.0		en	34.1	27.0	11.5
 9563520	Football	2024 Panini Totally Certified	Portraits	11		Spencer Rattler	0.99		en	34.93	28.0	11.8
 9562002	Football	2024 Panini Totally Certified	New Generation Jersey	40		Will Shipley	1.06		en			
-9556826	Football	2024 Panini Totally Certified		101	Mirror Blue	Caleb Williams	15.11		en	81.35	65.0	28.8
+9556826	Football	2024 Panini Totally Certified		101	Mirror Blue	Caleb Williams	16.64		en	81.35	65.0	28.8
 9562921	Football	2024 Panini Totally Certified	Intriguing Players	11	Mirror	Maxx Crosby	1.92		en	36.23	29.0	12.27
 9561466	Football	2024 Panini Totally Certified	Gamers	12		Ja'Marr Chase	4.46		en	48.12	39.0	16.67
 9556906	Football	2024 Panini Totally Certified		82	Mirror Platinum Silver	Deebo Samuel			en			
@@ -5220,24 +4896,24 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12527330	Football	2025 Topps Chrome		201		Aaron Jones Sr.			en			
 12523827	Football	2025 Topps Chrome		125		Alec Pierce			en			
 12523827	Football	2025 Topps Chrome		125		Alec Pierce			en			
-12529004	Football	2025 Topps Chrome		236		Allen Lazard			en			
-12528080	Football	2025 Topps Chrome		215		Alvin Kamara			en			
+12529004	Football	2025 Topps Chrome		236		Allen Lazard	0.2		en			
+12528080	Football	2025 Topps Chrome		215		Alvin Kamara	35.0		en			
 12534207	Football	2025 Topps Chrome		344		Billy Bowman Jr.	1.99		en			
-12532607	Football	2025 Topps Chrome		319		Brady Cook			en			
+12532607	Football	2025 Topps Chrome		319		Brady Cook	1.69		en			
 12524491	Football	2025 Topps Chrome		137		Brenton Strange	1.99		en			
-12527414	Football	2025 Topps Chrome		196		Brian O'Neill			en			
-12531792	Football	2025 Topps Chrome		296		Brian Robinson Jr.			en			
-12526293	Football	2025 Topps Chrome		178		Brock Bowers			en			
-12526293	Football	2025 Topps Chrome		178		Brock Bowers			en			
+12527414	Football	2025 Topps Chrome		196		Brian O'Neill	1.49		en			
+12531792	Football	2025 Topps Chrome		296		Brian Robinson Jr.	0.85		en			
+12526293	Football	2025 Topps Chrome		178		Brock Bowers	1.79		en			
+12526293	Football	2025 Topps Chrome		178		Brock Bowers	1.79		en			
 12520707	Football	2025 Topps Chrome		52		Caleb Williams	3.81		en			
 12532926	Football	2025 Topps Chrome		314		Cam Ward	4.63		en			
-12528251	Football	2025 Topps Chrome		221		Cameron Jordan			en			
+12528251	Football	2025 Topps Chrome		221		Cameron Jordan	2.25		en			
 12521129	Football	2025 Topps Chrome		67		Cedric Tillman	3.0		en			
-12523997	Football	2025 Topps Chrome		129		Charvarius Ward			en			
+12523997	Football	2025 Topps Chrome		129		Charvarius Ward	1.54		en			
 12531535	Football	2025 Topps Chrome		288		Chase McLaughlin	2.31		en			
-12531151	Football	2025 Topps Chrome		283		Chris Godwin			en			
-12523275	Football	2025 Topps Chrome		112		Christian Watson			en			
-12520192	Football	2025 Topps Chrome		42		Chuba Hubbard			en			
+12531151	Football	2025 Topps Chrome		283		Chris Godwin	1.74		en			
+12523275	Football	2025 Topps Chrome		112		Christian Watson	1.99		en			
+12520192	Football	2025 Topps Chrome		42		Chuba Hubbard	1.99		en			
 12520614	Football	2025 Topps Chrome		51		Cole Kmet	2.0		en			
 12530205	Football	2025 Topps Chrome		252		Cooper DeJean	1.99		en			
 12523234	Football	2025 Topps Chrome		103		David Montgomery	1.99		en			
@@ -5246,91 +4922,91 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown	2.0		en			
 12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown	2.0		en			
 12529253	Football	2025 Topps Chrome		244		DeVonta Smith	1.75		en			
-12531693	Football	2025 Topps Chrome		294		Deebo Samuel			en			
+12531693	Football	2025 Topps Chrome		294		Deebo Samuel	1.66		en			
 12521650	Football	2025 Topps Chrome		74		Denzel Ward	2.37		en			
-12530822	Football	2025 Topps Chrome		269		Deommodore Lenoir	15.0		en			
+12530822	Football	2025 Topps Chrome		269		Deommodore Lenoir			en			
 12519418	Football	2025 Topps Chrome		25		Derrick Henry	8.99		en			
 12536371	Football	2025 Topps Chrome		392		Donovan Edwards	1.49		en			
 12524416	Football	2025 Topps Chrome		136		Dyami Brown	1.49		en			
 12532693	Football	2025 Topps Chrome		312		Emeka Egbuka	2.99		en			
 12536138	Football	2025 Topps Chrome		386		Emery Jones Jr.	1.99		en			
-12527848	Football	2025 Topps Chrome		212		Garrett Bradbury			en			
-12525206	Football	2025 Topps Chrome		152		George Karlaftis			en			
-12530071	Football	2025 Topps Chrome		267		George Kittle			en			
-12532203	Football	2025 Topps Chrome		305		Gunnar Helm			en			
+12527848	Football	2025 Topps Chrome		212		Garrett Bradbury	1.82		en			
+12525206	Football	2025 Topps Chrome		152		George Karlaftis	1.99		en			
+12530071	Football	2025 Topps Chrome		267		George Kittle	1.99		en			
+12532203	Football	2025 Topps Chrome		305		Gunnar Helm	1.74		en			
 12533084	Football	2025 Topps Chrome		320		Isaac TeSlaa	2.99		en			
 12524959	Football	2025 Topps Chrome		149		Isiah Pacheco			en			
 12534830	Football	2025 Topps Chrome		356		JT Tuimoloau	1.99		en			
 12520345	Football	2025 Topps Chrome		45		Ja'Tavion Sanders			en			
 12536256	Football	2025 Topps Chrome		397		Jackson Hawes	1.75		en			
 12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs	1.99		en			
-12523101	Football	2025 Topps Chrome		105		Jake Bates			en			
+12523101	Football	2025 Topps Chrome		105		Jake Bates	1.99		en			
 12534699	Football	2025 Topps Chrome		354		Jalon Walker	1.99		en			
 12525325	Football	2025 Topps Chrome		157		Joe Alt	5.0		en			
-12522130	Football	2025 Topps Chrome		85		Joe Milton III			en			
-12520574	Football	2025 Topps Chrome		50		Joe Thuney			en			
-12519932	Football	2025 Topps Chrome		36		Joey Bosa			en			
+12522130	Football	2025 Topps Chrome		85		Joe Milton III	1.99		en			
+12520574	Football	2025 Topps Chrome		50		Joe Thuney	1.26		en			
+12519932	Football	2025 Topps Chrome		36		Joey Bosa	1.79		en			
 12529811	Football	2025 Topps Chrome		257		Jonnu Smith	5.0		en			
 12529517	Football	2025 Topps Chrome		249		Jordan Davis	1.99		en			
 12523207	Football	2025 Topps Chrome		110		Josh Jacobs	1.99		en			
 12518768	Football	2025 Topps Chrome		10		Josh Sweat			en			
-12526131	Football	2025 Topps Chrome		174		Kamren Kinchens			en			
+12526131	Football	2025 Topps Chrome		174		Kamren Kinchens	1.29		en			
 12518935	Football	2025 Topps Chrome		13		Kirk Cousins			en			
 12518935	Football	2025 Topps Chrome		13		Kirk Cousins			en			
-12526585	Football	2025 Topps Chrome		183		Kolton Miller			en			
-12519612	Football	2025 Topps Chrome		29		Kyle Hamilton			en			
-12518541	Football	2025 Topps Chrome		5		Kyler Murray			en			
-12525408	Football	2025 Topps Chrome		156		Ladd McConkey			en			
+12526585	Football	2025 Topps Chrome		183		Kolton Miller	2.0		en			
+12519612	Football	2025 Topps Chrome		29		Kyle Hamilton	1.75		en			
+12518541	Football	2025 Topps Chrome		5		Kyler Murray	1.1		en			
+12525408	Football	2025 Topps Chrome		156		Ladd McConkey	1.4		en			
 12536290	Football	2025 Topps Chrome		384		LeQuint Allen Jr.	1.75		en			
 12528448	Football	2025 Topps Chrome		225		Malik Nabers	3.17		en			
 12528448	Football	2025 Topps Chrome		225		Malik Nabers	3.17		en			
-12531897	Football	2025 Topps Chrome		300		Matt Gay			en			
-12526103	Football	2025 Topps Chrome		169		Matthew Stafford	15.0		en			
-12520845	Football	2025 Topps Chrome		56		Montez Sweat			en			
+12531897	Football	2025 Topps Chrome		300		Matt Gay	1.68		en			
+12526103	Football	2025 Topps Chrome		169		Matthew Stafford	15.58		en			
+12520845	Football	2025 Topps Chrome		56		Montez Sweat	1.79		en			
 12521405	Football	2025 Topps Chrome		70		Myles Garrett	1.25		en			
 12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
-12530593	Football	2025 Topps Chrome		274		Noah Fant			en			
+12530593	Football	2025 Topps Chrome		274		Noah Fant	1.67		en			
 12518486	Football	2025 Topps Chrome		3		Paris Johnson Jr.			en			
 12525403	Football	2025 Topps Chrome		159		Quentin Johnston			en			
 12527736	Football	2025 Topps Chrome		210		Rhamondre Stevenson			en			
 12530806	Football	2025 Topps Chrome		278		Riq Woolen			en			
 12520528	Football	2025 Topps Chrome		49		Rome Odunze	0.99		en			
-12528528	Football	2025 Topps Chrome		229		Russell Wilson			en			
-12522777	Football	2025 Topps Chrome		100		Sam LaPorta			en			
+12528528	Football	2025 Topps Chrome		229		Russell Wilson	1.29		en			
+12522777	Football	2025 Topps Chrome		100		Sam LaPorta	1.87		en			
 12534085	Football	2025 Topps Chrome		340		Savion Williams	1.99		en			
 12536079	Football	2025 Topps Chrome		370		Sebastian Castro	1.97		en			
 12532178	Football	2025 Topps Chrome		301		Shavon Revel Jr.	1.99		en			
 12527629	Football	2025 Topps Chrome		205		Stefon Diggs	2.25		en			
-12527371	Football	2025 Topps Chrome		200		T.J. Hockenson			en			
+12527371	Football	2025 Topps Chrome		200		T.J. Hockenson	1.0		en			
 12521237	Football	2025 Topps Chrome		59		Tee Higgins	1.99		en			
-12523285	Football	2025 Topps Chrome		96		Tim Patrick			en			
+12523285	Football	2025 Topps Chrome		96		Tim Patrick	1.49		en			
 12520284	Football	2025 Topps Chrome		44		Tommy Tremble			en			
 12535182	Football	2025 Topps Chrome		371		Trey Amos	2.0		en			
-12521155	Football	2025 Topps Chrome		65		Trey Hendrickson			en			
-12530139	Football	2025 Topps Chrome		256		Troy Fautanu			en			
+12521155	Football	2025 Topps Chrome		65		Trey Hendrickson	1.89		en			
+12530139	Football	2025 Topps Chrome		256		Troy Fautanu	1.88		en			
 12525699	Football	2025 Topps Chrome		167		Tutu Atwell			en			
 12536684	Football	2025 Topps Chrome		398		Tyler Shough	3.3		en			
 12523406	Football	2025 Topps Chrome		113		Xavier McKinney	1.24		en			
-12552688	Football	2025 Topps Chrome Urban Legends		UL-4		Caleb Williams	30.0		en			
+12552688	Football	2025 Topps Chrome Urban Legends		UL-4		Caleb Williams	296.43		en			
 12550491	Football	2025 Topps Chrome Fortune 15		F15-2		JaTMarr Chase			en			
 12550726	Football	2025 Topps Chrome Fortune 15		F15-7		Josh Allen	5.0		en			
 12550845	Football	2025 Topps Chrome Fortune 15		F15-33		Peyton Manning	2.47		en			
 12552232	Football	2025 Topps Chrome Power Players		PP-40	Refractor	Abdul Carter	3.0		en			
-12552330	Football	2025 Topps Chrome Power Players		PP-7	Refractor	Caleb Williams	19.99		en			
+12552330	Football	2025 Topps Chrome Power Players		PP-7	Refractor	Caleb Williams	2.58		en			
 12552322	Football	2025 Topps Chrome Power Players		PP-33	Refractor	George Kittle	9.99		en			
 12552067	Football	2025 Topps Chrome Power Players		PP-1	Refractor	Lamar Jackson	5.5		en			
 12551526	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-19	Refractor	Art Monk	1.82		en			
 12550388	Football	2025 Topps Chrome All Chrome Team		ACT-23	Refractor	Kerby Joseph	3.49		en			
 12529399	Football	2025 Topps Chrome		243	Football Leather Refractor	A.J. Brown	4.0		en			
 12529590	Football	2025 Topps Chrome		252	Football Leather Refractor	Cooper DeJean	5.99		en			
-12519978	Football	2025 Topps Chrome		37	Football Leather Refractor	Dalton Kincaid			en			
+12519978	Football	2025 Topps Chrome		37	Football Leather Refractor	Dalton Kincaid	1.99		en			
 12523024	Football	2025 Topps Chrome		107	Football Leather Refractor	Jayden Reed	2.75		en			
-12525418	Football	2025 Topps Chrome		159	Football Leather Refractor	Quentin Johnston			en			
+12525418	Football	2025 Topps Chrome		159	Football Leather Refractor	Quentin Johnston	1.78		en			
 12520216	Football	2025 Topps Chrome		42	Red White Blue Refractor	Chuba Hubbard			en			
-12534713	Football	2025 Topps Chrome		359	Red White Blue Refractor	Jahdae Barron			en			
+12534713	Football	2025 Topps Chrome		359	Red White Blue Refractor	Jahdae Barron	0.99		en			
 12535454	Football	2025 Topps Chrome		366	Red White Blue Refractor	Jihaad Campbell	2.99		en			
-12530688	Football	2025 Topps Chrome		276	Red White Blue Refractor	Kenneth Walker III			en			
-12525783	Football	2025 Topps Chrome		169	Red White Blue Refractor	Matthew Stafford	46.38		en			
+12530688	Football	2025 Topps Chrome		276	Red White Blue Refractor	Kenneth Walker III	0.91		en			
+12525783	Football	2025 Topps Chrome		169	Red White Blue Refractor	Matthew Stafford	32.0		en			
 12549993	Football	2025 Topps Chrome 1975		1975-22		J.J. McCarthy	2.65		en			
 12549736	Football	2025 Topps Chrome 1975		1975-18		Justin Herbert	1.88		en			
 12549838	Football	2025 Topps Chrome 1975		1975-13		Matthew Golden	3.0		en			
@@ -5344,14 +5020,14 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12518411	Football	2025 Topps Chrome		3	Pulsar Refractor	Paris Johnson Jr.			en			
 12534350	Football	2025 Topps Chrome		342	Pulsar Refractor	Tez Johnson	1.54		en			
 12524447	Football	2025 Topps Chrome		134	Raywave Refractor	Braden Smith	1.99		en			
-12528917	Football	2025 Topps Chrome		234	Raywave Refractor	Brian Burns			en			
-12520641	Football	2025 Topps Chrome		52	Raywave Refractor	Caleb Williams	10.0		en			
-12523307	Football	2025 Topps Chrome		112	Raywave Refractor	Christian Watson			en			
+12528917	Football	2025 Topps Chrome		234	Raywave Refractor	Brian Burns	1.25		en			
+12520641	Football	2025 Topps Chrome		52	Raywave Refractor	Caleb Williams	8.25		en			
+12523307	Football	2025 Topps Chrome		112	Raywave Refractor	Christian Watson	2.47		en			
 12524318	Football	2025 Topps Chrome		132	Raywave Refractor	Daniel Jones	0.94		en			
-12527893	Football	2025 Topps Chrome		212	Raywave Refractor	Garrett Bradbury			en			
+12527893	Football	2025 Topps Chrome		212	Raywave Refractor	Garrett Bradbury	1.99		en			
 12531614	Football	2025 Topps Chrome		295	Raywave Refractor	Jayden Daniels	7.27		en			
 12519760	Football	2025 Topps Chrome		32	Raywave Refractor	Khalil Shakir	3.06		en			
-12536457	Football	2025 Topps Chrome		399	Raywave Refractor	Seth Henigan			en			
+12536457	Football	2025 Topps Chrome		399	Raywave Refractor	Seth Henigan	0.99		en			
 12533966	Football	2025 Topps Chrome		338	Raywave Refractor	Tre Harris III	3.99		en			
 12522880	Football	2025 Topps Chrome		104	Refractor	Aidan Hutchinson	3.5		en			
 12532613	Football	2025 Topps Chrome		319	Refractor	Brady Cook	1.99		en			
@@ -5363,19 +5039,19 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12527200	Football	2025 Topps Chrome		199	Refractor	J.J. McCarthy	3.9		en			
 12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	3.11		en			
 12533841	Football	2025 Topps Chrome		343	Refractor	Jayden Higgins	4.45		en			
-12535850	Football	2025 Topps Chrome		380	Refractor	Jonah Savaiinaea			en			
-12524119	Football	2025 Topps Chrome		130	Refractor	Jonathan Taylor	16.23		en			
+12535850	Football	2025 Topps Chrome		380	Refractor	Jonah Savaiinaea	1.29		en			
+12524119	Football	2025 Topps Chrome		130	Refractor	Jonathan Taylor	1.49		en			
 12535139	Football	2025 Topps Chrome		362	Refractor	Kenneth Grant	0.99		en			
-12519656	Football	2025 Topps Chrome		30	Refractor	Keon Coleman			en			
+12519656	Football	2025 Topps Chrome		30	Refractor	Keon Coleman	0.99		en			
 12522558	Football	2025 Topps Chrome		99	Refractor	Penei Sewell	1.99		en			
 12531985	Football	2025 Topps Chrome		49	Refractor	Rome Odunze	2.25		en			
 12536853	Football	2025 Topps Chrome		372	Refractor	Woody Marks	1.37		en			
 12527171	Football	2025 Topps Chrome		194	Football Leather Green	Ashtyn Davis			en			
 12519324	Football	2025 Topps Chrome		21	Football Leather Purple	Rashod Bateman			en			
-12551630	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-23		Keyshawn Johnson			en			
+12551630	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-23		Keyshawn Johnson	1.99		en			
 12551597	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-22		Tim Brown	4.99		en			
 12550995	Football	2025 Topps Chrome Future Stars		FS-4		Brian Thomas Jr.	1.0		en			
-12551219	Football	2025 Topps Chrome Future Stars		FS-25		Jalen Carter			en			
+12551219	Football	2025 Topps Chrome Future Stars		FS-25		Jalen Carter	1.5		en			
 12552233	Football	2025 Topps Chrome Power Players		PP-24		Puka Nacua	4.99		en			
 12059589	Football	2025 Panini Select		99		A.J. Green			en			
 12059589	Football	2025 Panini Select		99		A.J. Green			en			
@@ -5413,9 +5089,9 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12068141	Football	2025 Panini Select		277		Braelon Allen			en			
 12063385	Football	2025 Panini Select		175		Breece Hall	1.84		en	39.46	32.0	13.2
 12066385	Football	2025 Panini Select		230		Brenton Strange	1.0		en			
-12055928	Football	2025 Panini Select		30		Brian Thomas Jr.			en			
-12055928	Football	2025 Panini Select		30		Brian Thomas Jr.			en			
-12055928	Football	2025 Panini Select		30		Brian Thomas Jr.			en			
+12055928	Football	2025 Panini Select		30		Brian Thomas Jr.	1.45		en			
+12055928	Football	2025 Panini Select		30		Brian Thomas Jr.	1.45		en			
+12055928	Football	2025 Panini Select		30		Brian Thomas Jr.	1.45		en			
 12064656	Football	2025 Panini Select		200		Brian Urlacher	1.0		en			
 12064656	Football	2025 Panini Select		200		Brian Urlacher	1.0		en			
 12060314	Football	2025 Panini Select		117		Brock Purdy	2.75		en	43.12	35.0	14.42
@@ -5460,8 +5136,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12063746	Football	2025 Panini Select		184		Curtis Samuel	1.69		en			
 12061349	Football	2025 Panini Select		131		DJ Giddens	1.08		en	34.75	28.0	11.61
 12061349	Football	2025 Panini Select		131		DJ Giddens	1.08		en	34.75	28.0	11.61
-12063181	Football	2025 Panini Select		173		DJ Moore			en			
-12063181	Football	2025 Panini Select		173		DJ Moore			en			
+12063181	Football	2025 Panini Select		173		DJ Moore	1.76		en			
+12063181	Football	2025 Panini Select		173		DJ Moore	1.76		en			
 12069783	Football	2025 Panini Select		296		Dak Prescott	1.44		en	40.49	32.0	13.54
 12058696	Football	2025 Panini Select		85		Dalton Kincaid	1.45		en			
 12058696	Football	2025 Panini Select		85		Dalton Kincaid	1.45		en			
@@ -5553,8 +5229,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12058846	Football	2025 Panini Select		88		Jayden Daniels	1.6		en	37.14	30.0	12.41
 12061302	Football	2025 Panini Select		136		Jayden Higgins	1.53		en			
 12059257	Football	2025 Panini Select		96		Jaydon Blue			en			
-12063558	Football	2025 Panini Select		182		Jaylen Waddle			en			
-12063558	Football	2025 Panini Select		182		Jaylen Waddle			en			
+12063558	Football	2025 Panini Select		182		Jaylen Waddle	2.5		en			
+12063558	Football	2025 Panini Select		182		Jaylen Waddle	2.5		en			
 12059711	Football	2025 Panini Select		89		Jaylin Lane	1.0		en			
 12059711	Football	2025 Panini Select		89		Jaylin Lane	1.0		en			
 12059711	Football	2025 Panini Select		89		Jaylin Lane	1.0		en			
@@ -5598,7 +5274,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12067326	Football	2025 Panini Select		252		Kaleb Johnson	2.49		en			
 12056796	Football	2025 Panini Select		52		Kaleb Johnson	1.06		en	36.94	30.0	12.35
 12056796	Football	2025 Panini Select		52		Kaleb Johnson	1.06		en	36.94	30.0	12.35
-12062591	Football	2025 Panini Select		149		Kam Chancellor			en			
+12062591	Football	2025 Panini Select		149		Kam Chancellor	1.59		en			
 12054728	Football	2025 Panini Select		7		Kareem Hunt	1.59		en			
 12054728	Football	2025 Panini Select		7		Kareem Hunt	1.59		en			
 12054728	Football	2025 Panini Select		7		Kareem Hunt	1.59		en			
@@ -5668,7 +5344,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12061697	Football	2025 Panini Select		142		Rashid Shaheed	1.99		en	40.65	33.0	13.6
 12067306	Football	2025 Panini Select		261		Rashod Bateman	1.49		en			
 12057548	Football	2025 Panini Select		62		Rashod Bateman	0.99		en			
-12069235	Football	2025 Panini Select		299		Ray Lewis			en			
+12069235	Football	2025 Panini Select		299		Ray Lewis	1.88		en			
 12055217	Football	2025 Panini Select		16		Ricky Pearsall	1.31		en			
 12055217	Football	2025 Panini Select		16		Ricky Pearsall	1.31		en			
 12055217	Football	2025 Panini Select		16		Ricky Pearsall	1.31		en			
@@ -5896,42 +5572,42 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12081363	Football	2025 Panini Select	Phenomenon	9		Matthew Golden	3.46		en			
 12081282	Football	2025 Panini Select	Phenomenon	16	Prizm	Ashton Jeanty	3.4		en	48.91	39.0	16.39
 12080953	Football	2025 Panini Select	Neon Icons	19		Abdul Carter	1.3		en	34.75	28.0	11.61
-12056504	Football	2025 Panini Select		41	Copper Prizm Shock	Tyler Shough	20.0		en			
+12056504	Football	2025 Panini Select		41	Copper Prizm Shock	Tyler Shough	19.98		en			
 12056035	Football	2025 Panini Select		32	Black Green Prizm Shock	Alec Pierce			en			
 12061622	Football	2025 Panini Select		140	Black Green Prizm Shock	Alvin Kamara	1.25		en			
 12068435	Football	2025 Panini Select		279	Black Green Prizm Shock	Andres Borregales			en			
-12066101	Football	2025 Panini Select		204	Black Green Prizm Shock	Ashton Jeanty			en			
+12066101	Football	2025 Panini Select		204	Black Green Prizm Shock	Ashton Jeanty	3.0		en			
 12068232	Football	2025 Panini Select		268	Black Green Prizm Shock	Barryn Sorrell	2.89		en			
 12062113	Football	2025 Panini Select		148	Black Green Prizm Shock	Bijan Robinson	1.96		en	41.79	33.0	13.98
-12063405	Football	2025 Panini Select		175	Black Green Prizm Shock	Breece Hall			en			
+12063405	Football	2025 Panini Select		175	Black Green Prizm Shock	Breece Hall	2.0		en			
 12056138	Football	2025 Panini Select		34	Black Green Prizm Shock	C.J. Stroud	1.01		en			
 12058131	Football	2025 Panini Select		73	Black Green Prizm Shock	Caleb Williams	2.7		en	44.22	35.0	14.8
 12069335	Football	2025 Panini Select		292	Black Green Prizm Shock	Cam Jurgens	3.0		en			
-12067360	Football	2025 Panini Select		254	Black Green Prizm Shock	Carson Schwesinger			en			
+12067360	Football	2025 Panini Select		254	Black Green Prizm Shock	Carson Schwesinger	5.25		en			
 12057641	Football	2025 Panini Select		59	Black Green Prizm Shock	Chase Brown	1.6		en			
 12055773	Football	2025 Panini Select		27	Black Green Prizm Shock	Chimere Dike	3.99		en			
 12055773	Football	2025 Panini Select		27	Black Green Prizm Shock	Chimere Dike	3.99		en			
 12061822	Football	2025 Panini Select		139	Black Green Prizm Shock	Chris Godwin	1.99		en			
-12056526	Football	2025 Panini Select		43	Black Green Prizm Shock	Chuba Hubbard			en			
-12056526	Football	2025 Panini Select		43	Black Green Prizm Shock	Chuba Hubbard			en			
+12056526	Football	2025 Panini Select		43	Black Green Prizm Shock	Chuba Hubbard	2.25		en			
+12056526	Football	2025 Panini Select		43	Black Green Prizm Shock	Chuba Hubbard	2.25		en			
 12054943	Football	2025 Panini Select		11	Black Green Prizm Shock	Courtland Sutton	1.79		en			
 12060879	Football	2025 Panini Select		120	Black Green Prizm Shock	Davante Adams	1.99		en			
 12067505	Football	2025 Panini Select		263	Black Green Prizm Shock	Donovan Jackson			en			
-12064999	Football	2025 Panini Select		206	Black Green Prizm Shock	Dont'e Thornton Jr.			en			
+12064999	Football	2025 Panini Select		206	Black Green Prizm Shock	Dont'e Thornton Jr.	1.0		en			
 12059828	Football	2025 Panini Select		105	Black Green Prizm Shock	Geno Smith			en			
 12064655	Football	2025 Panini Select		197	Black Green Prizm Shock	George Pickens	0.99		en			
 12066428	Football	2025 Panini Select		234	Black Green Prizm Shock	Graham Mertz	0.01		en			
 12055982	Football	2025 Panini Select		31	Black Green Prizm Shock	JT Tuimoloau			en			
-12077817	Football	2025 Panini Select		191	Black Green Prizm Shock	Jalen Carter			en			
+12077817	Football	2025 Panini Select		191	Black Green Prizm Shock	Jalen Carter	1.35		en			
 12061993	Football	2025 Panini Select		146	Black Green Prizm Shock	Jalon Walker	1.27		en			
-12066724	Football	2025 Panini Select		247	Black Green Prizm Shock	James Pearce Jr.			en			
+12066724	Football	2025 Panini Select		247	Black Green Prizm Shock	James Pearce Jr.	1.17		en			
 12058256	Football	2025 Panini Select		77	Black Green Prizm Shock	Jamien Sherwood			en			
 12065096	Football	2025 Panini Select		213	Black Green Prizm Shock	Jaxon Smith-Njigba	3.49		en			
 12059721	Football	2025 Panini Select		93	Black Green Prizm Shock	Jaxson Dart	9.22		en	101.35	81.0	34.1
 12061322	Football	2025 Panini Select		136	Black Green Prizm Shock	Jayden Higgins	3.99		en			
 12056977	Football	2025 Panini Select		56	Black Green Prizm Shock	Jerry Jeudy			en			
 12055305	Football	2025 Panini Select		18	Black Green Prizm Shock	Jordan Watkins	1.2		en			
-12064074	Football	2025 Panini Select		187	Black Green Prizm Shock	Josh Conerly Jr.			en			
+12064074	Football	2025 Panini Select		187	Black Green Prizm Shock	Josh Conerly Jr.	0.99		en			
 12056786	Football	2025 Panini Select		49	Black Green Prizm Shock	Julio Jones	2.5		en			
 12056817	Football	2025 Panini Select		52	Black Green Prizm Shock	Kaleb Johnson			en			
 12056513	Football	2025 Panini Select		40	Black Green Prizm Shock	Kendre Miller			en			
@@ -5948,8 +5624,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12059855	Football	2025 Panini Select		107	Black Green Prizm Shock	Patrick Mahomes II	3.21		en	48.78	39.0	16.34
 12059158	Football	2025 Panini Select		92	Black Green Prizm Shock	Quinyon Mitchell	1.62		en			
 12068878	Football	2025 Panini Select		284	Black Green Prizm Shock	Ray Davis			en			
-12055224	Football	2025 Panini Select		16	Black Green Prizm Shock	Ricky Pearsall			en			
-12061498	Football	2025 Panini Select		133	Black Green Prizm Shock	Riley Leonard			en			
+12055224	Football	2025 Panini Select		16	Black Green Prizm Shock	Ricky Pearsall	1.75		en			
+12061498	Football	2025 Panini Select		133	Black Green Prizm Shock	Riley Leonard	1.16		en			
 12058358	Football	2025 Panini Select		74	Black Green Prizm Shock	Rome Odunze	1.39		en			
 12058951	Football	2025 Panini Select		90	Black Green Prizm Shock	Saquon Barkley	2.5		en			
 12060208	Football	2025 Panini Select		115	Black Green Prizm Shock	Tariq Woolen	1.99		en			
@@ -5969,29 +5645,29 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12056041	Football	2025 Panini Select		32	Pink Prizm Shock	Alec Pierce	0.99		en			
 12067345	Football	2025 Panini Select		257	Pink Prizm Shock	Andrei Iosivas	2.0		en			
 12066462	Football	2025 Panini Select		232	Pink Prizm Shock	Anthony Richardson	0.99		en			
-12063449	Football	2025 Panini Select		175	Pink Prizm Shock	Breece Hall			en			
+12063449	Football	2025 Panini Select		175	Pink Prizm Shock	Breece Hall	0.01		en			
 12060406	Football	2025 Panini Select		117	Pink Prizm Shock	Brock Purdy	2.29		en			
 12058162	Football	2025 Panini Select		73	Pink Prizm Shock	Caleb Williams	5.84		en			
 12060855	Football	2025 Panini Select		126	Pink Prizm Shock	Cam Ward	9.89		en			
 12059429	Football	2025 Panini Select		98	Pink Prizm Shock	CeeDee Lamb	2.29		en			
-12064376	Football	2025 Panini Select		199	Pink Prizm Shock	Chris Chambers			en			
+12064376	Football	2025 Panini Select		199	Pink Prizm Shock	Chris Chambers	1.59		en			
 12056221	Football	2025 Panini Select		37	Pink Prizm Shock	Emeka Egbuka	9.62		en			
-12055989	Football	2025 Panini Select		31	Pink Prizm Shock	JT Tuimoloau			en			
-12062280	Football	2025 Panini Select		157	Pink Prizm Shock	Ja'Marr Chase			en			
+12055989	Football	2025 Panini Select		31	Pink Prizm Shock	JT Tuimoloau	0.91		en			
+12062280	Football	2025 Panini Select		157	Pink Prizm Shock	Ja'Marr Chase	2.25		en			
 12064496	Football	2025 Panini Select		191	Pink Prizm Shock	Jalen Carter	1.97		en			
 12060292	Football	2025 Panini Select		108	Pink Prizm Shock	Jalen Royals	2.99		en			
-12056701	Football	2025 Panini Select		48	Pink Prizm Shock	James Pearce Jr.			en			
+12056701	Football	2025 Panini Select		48	Pink Prizm Shock	James Pearce Jr.	0.01		en			
 12059104	Football	2025 Panini Select		89	Pink Prizm Shock	Jaylin Lane	0.99		en			
 12057232	Football	2025 Panini Select		57	Pink Prizm Shock	Joe Burrow	4.94		en			
-12064073	Football	2025 Panini Select		183	Pink Prizm Shock	Jonah Savaiinaea			en			
+12064073	Football	2025 Panini Select		183	Pink Prizm Shock	Jonah Savaiinaea	0.99		en			
 12056814	Football	2025 Panini Select		49	Pink Prizm Shock	Julio Jones	0.99		en			
 12054737	Football	2025 Panini Select		7	Pink Prizm Shock	Kareem Hunt	1.25		en			
 12068406	Football	2025 Panini Select		274	Pink Prizm Shock	Kyle Monangai	6.88		en			
 12068406	Football	2025 Panini Select		274	Pink Prizm Shock	Kyle Monangai	6.88		en			
 12057755	Football	2025 Panini Select		66	Pink Prizm Shock	Matthew Golden	3.16		en			
-12064547	Football	2025 Panini Select		198	Pink Prizm Shock	Miles Sanders			en			
-12065535	Football	2025 Panini Select		216	Pink Prizm Shock	Nick Martin			en			
-12065535	Football	2025 Panini Select		216	Pink Prizm Shock	Nick Martin			en			
+12064547	Football	2025 Panini Select		198	Pink Prizm Shock	Miles Sanders	1.35		en			
+12065535	Football	2025 Panini Select		216	Pink Prizm Shock	Nick Martin	2.49		en			
+12065535	Football	2025 Panini Select		216	Pink Prizm Shock	Nick Martin	2.49		en			
 12055467	Football	2025 Panini Select		21	Pink Prizm Shock	Puka Nacua	1.99		en			
 12057606	Football	2025 Panini Select		62	Pink Prizm Shock	Rashod Bateman			en			
 12055183	Football	2025 Panini Select		16	Pink Prizm Shock	Ricky Pearsall	0.99		en			
@@ -5999,10 +5675,10 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12058386	Football	2025 Panini Select		74	Pink Prizm Shock	Rome Odunze	0.99		en			
 12058972	Football	2025 Panini Select		90	Pink Prizm Shock	Saquon Barkley	1.5		en			
 12063244	Football	2025 Panini Select		167	Pink Prizm Shock	Savion Williams	1.69		en			
-12058414	Football	2025 Panini Select		79	Pink Prizm Shock	Stefon Diggs			en			
-12062573	Football	2025 Panini Select		158	Pink Prizm Shock	Tahj Brooks			en			
+12058414	Football	2025 Panini Select		79	Pink Prizm Shock	Stefon Diggs	1.49		en			
+12062573	Football	2025 Panini Select		158	Pink Prizm Shock	Tahj Brooks	0.06		en			
 12055680	Football	2025 Panini Select		25	Pink Prizm Shock	Tony Pollard	0.99		en			
-12069520	Football	2025 Panini Select		298	Pink Prizm Shock	Tyler Booker			en			
+12069520	Football	2025 Panini Select		298	Pink Prizm Shock	Tyler Booker	2.39		en			
 12062013	Football	2025 Panini Select		141	Pink Prizm Shock	Tyler Shough	5.0		en			
 12058709	Football	2025 Panini Select		83	Pink Prizm Shock	Tyreek Hill	0.99		en			
 12060200	Football	2025 Panini Select		113	Zebra Prizm Shock	Ernest Jones	20.0		en			
@@ -6011,10 +5687,10 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 12060574	Football	2025 Panini Select		106	Orange Prizm Shock	Tommy Mellott	9.0		en			
 12060574	Football	2025 Panini Select		106	Orange Prizm Shock	Tommy Mellott	9.0		en			
 12064843	Football	2025 Panini Select		201	Orange Prizm Shock	Tre Harris	3.0		en			
-12063858	Football	2025 Panini Select		186	Orange Prizm Shock	Ty Johnson			en			
+12063858	Football	2025 Panini Select		186	Orange Prizm Shock	Ty Johnson	5.66		en			
 12080072	Football	2025 Panini Select	Rookie Swatch Prizm	13	Red	Jalen Royals	1.0		en			
 12079069	Football	2025 Panini Select	Draft Selections Memorabilia Prizm	25	Red	Cam Ward	3.0		en			
-12055847	Football	2025 Panini Select		28	Red Prizm Shock	Travis Hunter	10.5		en			
+12055847	Football	2025 Panini Select		28	Red Prizm Shock	Travis Hunter	9.95		en			
 12064773	Football	2025 Panini Select		195	Red Blue Prizm Shock	Cam Skattebo	9.23		en	73.16	59.0	24.57
 12057280	Football	2025 Panini Select		58	Red Blue Prizm Shock	Demetrius Knight Jr.	1.0		en	34.77	28.0	11.61
 12054739	Football	2025 Panini Select		7	Red Blue Prizm Shock	Kareem Hunt	1.0		en			
@@ -6533,10 +6209,10 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11401909	Football	2025 Panini Rookies and Stars		30		Jaylen Waddle	1.79		en	38.24	31.0	12.83
 11401909	Football	2025 Panini Rookies and Stars		30		Jaylen Waddle	1.79		en	38.24	31.0	12.83
 11403560	Football	2025 Panini Rookies and Stars		140		Jaylin Lane	1.59		en	36.61	29.0	12.27
-11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel			en			
-11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel			en			
-11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel			en			
-11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel			en			
+11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel	1.49		en			
+11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel	1.49		en			
+11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel	1.49		en			
+11403176	Football	2025 Panini Rookies and Stars		141		Jaylin Noel	1.49		en			
 11402305	Football	2025 Panini Rookies and Stars		59		Jerry Jeudy	1.62		en	37.46	30.0	12.56
 11402305	Football	2025 Panini Rookies and Stars		59		Jerry Jeudy	1.62		en	37.46	30.0	12.56
 11402305	Football	2025 Panini Rookies and Stars		59		Jerry Jeudy	1.62		en	37.46	30.0	12.56
@@ -7101,7 +6777,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11626175	Football	2025 Panini Rookies and Stars	Crusade	7		Saquon Barkley	1.1		en	35.99	29.0	12.06
 11626189	Football	2025 Panini Rookies and Stars	Crusade	2		Shedeur Sanders	2.71		en	43.76	35.0	14.73
 11626189	Football	2025 Panini Rookies and Stars	Crusade	2		Shedeur Sanders	2.71		en	43.76	35.0	14.73
-11626470	Football	2025 Panini Rookies and Stars	Crusade	6		Tetairoa McMillan	1.94		en	37.6	30.0	12.61
+11626470	Football	2025 Panini Rookies and Stars	Crusade	6		Tetairoa McMillan	2.08		en	37.6	30.0	12.61
 11627298	Football	2025 Panini Rookies and Stars	Stellar Rookie	4		Ashton Jeanty	2.44		en	40.37	32.0	13.56
 11627254	Football	2025 Panini Rookies and Stars	Stellar Rookie	9		Cam Ward	2.51		en	41.74	33.0	14.04
 11627280	Football	2025 Panini Rookies and Stars	Stellar Rookie	10		Jaxson Dart	6.25		en	66.69	53.0	22.61
@@ -7365,17 +7041,17 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11405415	Football	2025 Panini Rookies and Stars		134	Rookie Signature	Jalon Walker	7.04		en	58.0	46.0	19.61
 11405368	Football	2025 Panini Rookies and Stars		156	Rookie Signature	Mason Graham	5.99		en	44.25	35.0	14.89
 11405439	Football	2025 Panini Rookies and Stars		158	Rookie Signature	Matthew Golden	18.5		en	115.12	92.0	39.27
-11405487	Football	2025 Panini Rookies and Stars		172	Rookie Signature	Riley Leonard	15.45		en	101.04	81.0	34.39
+11405487	Football	2025 Panini Rookies and Stars		172	Rookie Signature	Riley Leonard	12.0		en	101.04	81.0	34.39
 11401859	Football	2025 Panini Rookies and Stars		26	True Blue	Josh Allen	11.98		en	85.24	68.0	28.97
 11402122	Football	2025 Panini Rookies and Stars		43	True Blue	Phil Simms			en			
 11404219	Football	2025 Panini Rookies and Stars		180	True Blue	T.J. Sanders	0.99		en			
-11404343	Football	2025 Panini Rookies and Stars		198	True Blue	Will Johnson			en			
+11404343	Football	2025 Panini Rookies and Stars		198	True Blue	Will Johnson	2.36		en			
 11404367	Football	2025 Panini Rookies and Stars		199	True Blue	Woody Marks	4.99		en			
 11404797	Football	2025 Panini Rookies and Stars		10	Signature True Blue	Jamaal Charles	16.51		en			
 11627830	Football	2025 Panini Rookies and Stars	Thrillers	29	White	Bucky Irving	9.0		en			
 11625331	Football	2025 Panini Rookies and Stars	Draft Class	18	Red Blue	Emeka Egbuka			en			
 11625805	Football	2025 Panini Rookies and Stars	Rookie Rush	11	Gold	Kyle Williams			en			
-11626703	Football	2025 Panini Rookies and Stars	Airborne	2	White	Shedeur Sanders	13.99		en			
+11626703	Football	2025 Panini Rookies and Stars	Airborne	2	White	Shedeur Sanders	12.66		en			
 11402982	Football	2025 Panini Rookies and Stars		103	Orange	Andrew Mukuba	2.99		en			
 11401555	Football	2025 Panini Rookies and Stars		4	Orange	Bo Nix	17.99		en	106.01	85.0	36.11
 11402377	Football	2025 Panini Rookies and Stars		64	Orange	Caleb Williams	19.63		en	131.87	106.0	45.02
@@ -7402,7 +7078,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11403840	Football	2025 Panini Rookies and Stars		182	Purple	Terrance Ferguson	1.25		en	35.76	29.0	11.98
 11404039	Football	2025 Panini Rookies and Stars		184	Purple	Tez Johnson	2.2		en			
 11402679	Football	2025 Panini Rookies and Stars		84	Purple	Trevor Lawrence	1.5		en	36.96	30.0	12.38
-11625923	Football	2025 Panini Rookies and Stars	Rookie Rush	10	Red Blue	Travis Hunter			en			
+11625923	Football	2025 Panini Rookies and Stars	Rookie Rush	10	Red Blue	Travis Hunter	40.0		en			
 11626258	Football	2025 Panini Rookies and Stars	Crusade	9	Pink	Ashton Jeanty			en			
 11405701	Football	2025 Panini Rookies and Stars		155	Orange Rookie Signature	Malaki Starks	9.38		en	73.21	59.0	24.85
 11402125	Football	2025 Panini Rookies and Stars		46	Red	A.J. Brown	1.49		en			
@@ -7431,13 +7107,13 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11401965	Football	2025 Panini Rookies and Stars		34	Red	Drew Bledsoe	1.69		en	37.83	30.0	12.68
 11403118	Football	2025 Panini Rookies and Stars		122	Red	Elic Ayomanor			en			
 11404761	Football	2025 Panini Rookies and Stars		123	Red	Elijah Arroyo	1.0		en	34.61	28.0	11.58
-11402702	Football	2025 Panini Rookies and Stars		85	Red	Fred Taylor			en			
+11402702	Football	2025 Panini Rookies and Stars		85	Red	Fred Taylor	1.39		en			
 11401991	Football	2025 Panini Rookies and Stars		36	Red	Garrett Wilson			en			
 11403646	Football	2025 Panini Rookies and Stars		127	Red	Isaac TeSlaa	2.88		en	43.27	35.0	14.56
 11402267	Football	2025 Panini Rookies and Stars		56	Red	Ja'Marr Chase	1.65		en			
 11403047	Football	2025 Panini Rookies and Stars		128	Red	Jack Bech	1.45		en			
 11402065	Football	2025 Panini Rookies and Stars		44	Red	Jalen Hurts	1.18		en	35.6	28.0	11.92
-11403393	Football	2025 Panini Rookies and Stars		132	Red	Jalen Milroe			en			
+11403393	Football	2025 Panini Rookies and Stars		132	Red	Jalen Milroe	1.5		en			
 11403484	Football	2025 Panini Rookies and Stars		133	Red	Jalen Royals	3.25		en			
 11403250	Football	2025 Panini Rookies and Stars		136	Red	Jarquez Hunter	1.99		en			
 11403354	Football	2025 Panini Rookies and Stars		137	Red	Jaxson Dart	4.0		en	47.27	38.0	15.94
@@ -7480,8 +7156,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11404148	Football	2025 Panini Rookies and Stars		191	Red	Ty Robinson	4.27		en			
 11402776	Football	2025 Panini Rookies and Stars		93	Red	Xavier Legette			en			
 11401623	Football	2025 Panini Rookies and Stars		9	Red	Xavier Worthy	1.49		en	36.88	30.0	12.36
-11627282	Football	2025 Panini Rookies and Stars	Stellar Rookie	10	Red Plaid	Jaxson Dart	12.5		en	84.87	68.0	28.86
-11627282	Football	2025 Panini Rookies and Stars	Stellar Rookie	10	Red Plaid	Jaxson Dart	12.5		en	84.87	68.0	28.86
+11627282	Football	2025 Panini Rookies and Stars	Stellar Rookie	10	Red Plaid	Jaxson Dart	11.3		en	84.87	68.0	28.86
+11627282	Football	2025 Panini Rookies and Stars	Stellar Rookie	10	Red Plaid	Jaxson Dart	11.3		en	84.87	68.0	28.86
 11627140	Football	2025 Panini Rookies and Stars	Airborne	18	Red Plaid	Baker Mayfield	1.15		en	34.83	28.0	11.66
 11627057	Football	2025 Panini Rookies and Stars	Airborne	23	Red Plaid	Jalen Milroe	1.43		en	34.56	28.0	11.57
 11626858	Football	2025 Panini Rookies and Stars	Airborne	14	Red Plaid	Jared Goff	1.37		en	38.07	30.0	12.77
@@ -7505,14 +7181,14 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11406491	Football	2025 Panini Rookies and Stars	Star Search	3		Cam Skattebo	5.0		en	50.01	40.0	16.88
 11406537	Football	2025 Panini Rookies and Stars	Star Search	10		Jalen Milroe	2.0		en	39.16	31.0	13.15
 11406579	Football	2025 Panini Rookies and Stars	Star Search	20		Mykel Williams	1.49		en	35.53	28.0	11.9
-11627174	Football	2025 Panini Rookies and Stars	Airborne	30	Blue Plaid	Jaxson Dart	11.5		en	80.88	65.0	27.49
+11627174	Football	2025 Panini Rookies and Stars	Airborne	30	Blue Plaid	Jaxson Dart	10.0		en	80.88	65.0	27.49
 11627094	Football	2025 Panini Rookies and Stars	Airborne	24	Blue Plaid	Phil Simms	1.49		en			
 11626181	Football	2025 Panini Rookies and Stars	Crusade	7	Blue Plaid	Saquon Barkley	3.99		en	48.35	39.0	16.31
 11626193	Football	2025 Panini Rookies and Stars	Crusade	2	Blue Plaid	Shedeur Sanders	7.44		en	66.84	53.0	22.66
 11626480	Football	2025 Panini Rookies and Stars	Crusade	6	Blue Plaid	Tetairoa McMillan	5.0		en	53.05	42.0	17.92
 11626251	Football	2025 Panini Rookies and Stars	Crusade	9	Red Plaid	Ashton Jeanty	3.26		en	44.15	35.0	14.86
 11626626	Football	2025 Panini Rookies and Stars	Crusade	28	Red Plaid	Bo Nix	2.99		en	42.74	34.0	14.38
-11626347	Football	2025 Panini Rookies and Stars	Crusade	11	Red Plaid	Jaxson Dart	14.25		en	82.73	66.0	28.13
+11626347	Football	2025 Panini Rookies and Stars	Crusade	11	Red Plaid	Jaxson Dart	12.41		en	82.73	66.0	28.13
 11626164	Football	2025 Panini Rookies and Stars	Crusade	1	Red Plaid	Patrick Mahomes II	5.94		en	54.34	43.0	18.37
 11626357	Football	2025 Panini Rookies and Stars	Crusade	20	Red Plaid	Quinshon Judkins	1.87		en	38.02	30.0	12.76
 11626556	Football	2025 Panini Rookies and Stars	Crusade	26	Red Plaid	RJ Harvey	1.75		en	37.77	30.0	12.67
@@ -7539,8 +7215,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11405022	Football	2025 Panini Rookies and Stars	Freshman Orientation Autograph	14	Prime	Tyler Warren			en			
 11405983	Football	2025 Panini Rookies and Stars	Big Time	10		C.J. Stroud	3.25		en	45.02	36.0	15.15
 11405994	Football	2025 Panini Rookies and Stars	Big Time	14		J.J. McCarthy	6.8		en	61.45	49.0	20.78
-11405965	Football	2025 Panini Rookies and Stars	Big Time	4		Josh Allen	10.5		en	80.27	64.0	27.26
-11405965	Football	2025 Panini Rookies and Stars	Big Time	4		Josh Allen	10.5		en	80.27	64.0	27.26
+11405965	Football	2025 Panini Rookies and Stars	Big Time	4		Josh Allen	10.25		en	80.27	64.0	27.26
+11405965	Football	2025 Panini Rookies and Stars	Big Time	4		Josh Allen	10.25		en	80.27	64.0	27.26
 11405992	Football	2025 Panini Rookies and Stars	Big Time	13		Puka Nacua	4.57		en	53.06	42.0	17.92
 11405969	Football	2025 Panini Rookies and Stars	Big Time	5	Prime	Bryce Young			en			
 11626450	Football	2025 Panini Rookies and Stars	Crusade	21	White	Cam Skattebo	7.5		en			
@@ -7564,8 +7240,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11726164	Football	2025 Panini Donruss Optic		72		Anthony Richardson	0.99		en			
 11734443	Football	2025 Panini Donruss Optic		285		Arian Smith	1.68		en	37.78	30.0	12.67
 11734443	Football	2025 Panini Donruss Optic		285		Arian Smith	1.68		en	37.78	30.0	12.67
-11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead			en			
-11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead			en			
+11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead	0.99		en			
+11725018	Football	2025 Panini Donruss Optic		37		Arik Armstead	0.99		en			
 11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.51		en	37.0	30.0	12.4
 11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.51		en	37.0	30.0	12.4
 11727872	Football	2025 Panini Donruss Optic		122		Art Monk	1.51		en	37.0	30.0	12.4
@@ -7617,16 +7293,16 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11727248	Football	2025 Panini Donruss Optic		103		Charles Woodson	2.0		en	39.29	31.0	13.18
 11727248	Football	2025 Panini Donruss Optic		103		Charles Woodson	2.0		en	39.29	31.0	13.18
 11730623	Football	2025 Panini Donruss Optic		197		Chase Brown	0.99		en	34.59	28.0	11.57
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin			en			
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin			en			
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin			en			
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin			en			
-11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin			en			
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.99		en			
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.99		en			
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.99		en			
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.99		en			
+11727156	Football	2025 Panini Donruss Optic		102		Chris Godwin	0.99		en			
 11726565	Football	2025 Panini Donruss Optic		82		Chris Jones	2.19		en			
 11726565	Football	2025 Panini Donruss Optic		82		Chris Jones	2.19		en			
-11730851	Football	2025 Panini Donruss Optic		73		Chris Olave			en			
-11730851	Football	2025 Panini Donruss Optic		73		Chris Olave			en			
-11730851	Football	2025 Panini Donruss Optic		73		Chris Olave			en			
+11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	3.26		en			
+11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	3.26		en			
+11730851	Football	2025 Panini Donruss Optic		73		Chris Olave	3.26		en			
 11728079	Football	2025 Panini Donruss Optic		129		Christian Kirk			en			
 11728079	Football	2025 Panini Donruss Optic		129		Christian Kirk			en			
 11728079	Football	2025 Panini Donruss Optic		129		Christian Kirk			en			
@@ -7977,9 +7653,9 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11725962	Football	2025 Panini Donruss Optic		66		Rex Grossman	3.13		en	44.49	36.0	14.97
 11725488	Football	2025 Panini Donruss Optic		51		Rhamondre Stevenson	1.48		en			
 11725488	Football	2025 Panini Donruss Optic		51		Rhamondre Stevenson	1.48		en			
-11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon			en			
-11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon			en			
-11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon			en			
+11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.99		en			
+11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.99		en			
+11728506	Football	2025 Panini Donruss Optic		141		Rich Gannon	0.99		en			
 11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	3.99		en	36.9	30.0	12.36
 11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	3.99		en	36.9	30.0	12.36
 11729663	Football	2025 Panini Donruss Optic		174		Ricky Pearsall	3.99		en	36.9	30.0	12.36
@@ -8065,8 +7741,8 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11725090	Football	2025 Panini Donruss Optic		39		Tua Tagovailoa	0.99		en			
 11728663	Football	2025 Panini Donruss Optic		136		Tutu Atwell	1.49		en			
 11728663	Football	2025 Panini Donruss Optic		136		Tutu Atwell	1.49		en			
-11729672	Football	2025 Panini Donruss Optic		172		Tyjae Spears			en			
-11729672	Football	2025 Panini Donruss Optic		172		Tyjae Spears			en			
+11729672	Football	2025 Panini Donruss Optic		172		Tyjae Spears	0.99		en			
+11729672	Football	2025 Panini Donruss Optic		172		Tyjae Spears	0.99		en			
 11732824	Football	2025 Panini Donruss Optic		246		Tyleik Williams	2.0		en	39.27	31.0	13.17
 11724875	Football	2025 Panini Donruss Optic		33		Tyler Allgeier	0.99		en			
 11731837	Football	2025 Panini Donruss Optic		223		Tyler Shough	1.43		en	74.99	60.0	12.46
@@ -8132,7 +7808,7 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11730440	Football	2025 Panini Donruss Optic		181	Holo	Tony Pollard	0.99		en	34.58	28.0	11.57
 11734886	Football	2025 Panini Donruss Optic		295	Holo	Tory Horton	1.13		en	37.53	30.0	12.58
 11725875	Football	2025 Panini Donruss Optic		61	Holo	Trent Green			en			
-11727975	Football	2025 Panini Donruss Optic		123	Holo	Xavier Worthy			en			
+11727975	Football	2025 Panini Donruss Optic		123	Holo	Xavier Worthy	1.35		en			
 11738894	Football	2025 Panini Donruss Optic	Retro	1		Cam Ward	1.83		en	38.69	31.0	12.98
 11739081	Football	2025 Panini Donruss Optic	Retro	27		Danielle Hunter	1.0		en	34.63	28.0	11.59
 11738959	Football	2025 Panini Donruss Optic	Retro	17		Luther Burden III	1.51		en	36.99	30.0	12.39
@@ -8213,11 +7889,395 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11731757	Football	2025 Panini Donruss Optic		226	Pink	T.J. Sanders	1.25		en	35.8	29.0	11.99
 11730973	Football	2025 Panini Donruss Optic		201	Pink	Travis Hunter	2.53		en	94.5	76.0	13.32
 11733838	Football	2025 Panini Donruss Optic		267	Pink	Trey Amos	0.99		en			
-11733955	Football	2025 Panini Donruss Optic		276	Pink	Walter Nolen			en			
+11733955	Football	2025 Panini Donruss Optic		276	Pink	Walter Nolen	0.99		en			
 11739307	Football	2025 Panini Donruss Optic	Captain in Charge	8		Drew Brees	1.32		en	38.1	30.0	12.78
-11740910	Football	2025 Panini Donruss Optic	Uptown	12		Joe Burrow	249.94		en	1098.94	879.0	332.5
-11735748	Football	2025 Panini Donruss Optic	Hash Marks	20		Roman Wilson			en			
+11740910	Football	2025 Panini Donruss Optic	Uptown	12		Joe Burrow	238.5		en	1098.94	879.0	332.5
+11735748	Football	2025 Panini Donruss Optic	Hash Marks	20		Roman Wilson	6.0		en			
 11724451	Football	2025 Panini Donruss Optic		21	Fire	Terrell Owens	2.25		en	40.42	32.0	13.57
+11741558	Basketball	2025 Panini Prizm WNBA		76		A'ja Wilson	1.74		en	39.61	32.0	13.32
+11741558	Basketball	2025 Panini Prizm WNBA		76		A'ja Wilson	1.74		en	39.61	32.0	13.32
+11742199	Basketball	2025 Panini Prizm WNBA		94		Aaliyah Edwards	1.95		en	38.89	31.0	13.07
+11742199	Basketball	2025 Panini Prizm WNBA		94		Aaliyah Edwards	1.95		en	38.89	31.0	13.07
+11742199	Basketball	2025 Panini Prizm WNBA		94		Aaliyah Edwards	1.95		en	38.89	31.0	13.07
+11741412	Basketball	2025 Panini Prizm WNBA		15		Aaliyah Nye	1.73		en	39.0	31.0	13.12
+11741412	Basketball	2025 Panini Prizm WNBA		15		Aaliyah Nye	1.73		en	39.0	31.0	13.12
+11741412	Basketball	2025 Panini Prizm WNBA		15		Aaliyah Nye	1.73		en	39.0	31.0	13.12
+11741279	Basketball	2025 Panini Prizm WNBA		10		Aari McDonald	1.63		en	37.45	30.0	12.57
+11741279	Basketball	2025 Panini Prizm WNBA		10		Aari McDonald	1.63		en	37.45	30.0	12.57
+11741888	Basketball	2025 Panini Prizm WNBA		85		Ajsa Sivka	1.99		en	39.06	31.0	13.13
+11741888	Basketball	2025 Panini Prizm WNBA		85		Ajsa Sivka	1.99		en	39.06	31.0	13.13
+11741888	Basketball	2025 Panini Prizm WNBA		85		Ajsa Sivka	1.99		en	39.06	31.0	13.13
+11742363	Basketball	2025 Panini Prizm WNBA		101		Alanna Smith	1.87		en	38.52	31.0	12.94
+11741641	Basketball	2025 Panini Prizm WNBA		78		Alissa Pili	1.0		en			
+11741641	Basketball	2025 Panini Prizm WNBA		78		Alissa Pili	1.0		en			
+11741709	Basketball	2025 Panini Prizm WNBA		80		Allie Quigley	2.99		en			
+11741489	Basketball	2025 Panini Prizm WNBA		16		Allisha Gray	1.87		en	38.53	31.0	12.95
+11741421	Basketball	2025 Panini Prizm WNBA		129		Alysha Clark	1.49		en			
+11741421	Basketball	2025 Panini Prizm WNBA		129		Alysha Clark	1.49		en			
+11742375	Basketball	2025 Panini Prizm WNBA		44		Alyssa Thomas	1.83		en	38.35	31.0	12.88
+11742375	Basketball	2025 Panini Prizm WNBA		44		Alyssa Thomas	1.83		en	38.35	31.0	12.88
+11741675	Basketball	2025 Panini Prizm WNBA		79		Aneesah Morrow	1.99		en	38.58	31.0	12.96
+11742085	Basketball	2025 Panini Prizm WNBA		92		Angel Reese	1.63		en	37.11	30.0	12.46
+11741423	Basketball	2025 Panini Prizm WNBA		73		Arike Ogunbowale	1.95		en			
+11741423	Basketball	2025 Panini Prizm WNBA		73		Arike Ogunbowale	1.95		en			
+11741423	Basketball	2025 Panini Prizm WNBA		73		Arike Ogunbowale	1.95		en			
+11741829	Basketball	2025 Panini Prizm WNBA		83		Aziaha James	1.5		en	36.85	29.0	12.37
+11741829	Basketball	2025 Panini Prizm WNBA		83		Aziaha James	1.5		en	36.85	29.0	12.37
+11741829	Basketball	2025 Panini Prizm WNBA		83		Aziaha James	1.5		en	36.85	29.0	12.37
+11741148	Basketball	2025 Panini Prizm WNBA		64		Azura Stevens	0.99		en	34.51	28.0	11.56
+11742673	Basketball	2025 Panini Prizm WNBA		114		Betnijah Laney-Hamilton	1.95		en	38.88	31.0	13.07
+11742673	Basketball	2025 Panini Prizm WNBA		114		Betnijah Laney-Hamilton	1.95		en	38.88	31.0	13.07
+11741797	Basketball	2025 Panini Prizm WNBA		26		Breanna Stewart	1.5		en	36.83	29.0	12.36
+11741797	Basketball	2025 Panini Prizm WNBA		26		Breanna Stewart	1.5		en	36.83	29.0	12.36
+11741924	Basketball	2025 Panini Prizm WNBA		86		Bria Hartley	1.83		en	38.36	31.0	12.89
+11742459	Basketball	2025 Panini Prizm WNBA		105		Brianna Turner	1.83		en	38.34	31.0	12.88
+11742459	Basketball	2025 Panini Prizm WNBA		105		Brianna Turner	1.83		en	38.34	31.0	12.88
+11742510	Basketball	2025 Panini Prizm WNBA		107		Brionna Jones			en			
+11741126	Basketball	2025 Panini Prizm WNBA		121		Brittney Sykes	1.95		en			
+11741960	Basketball	2025 Panini Prizm WNBA		87		Cameron Brink	1.73		en	37.89	30.0	12.73
+11741138	Basketball	2025 Panini Prizm WNBA		6		Carla Leite	1.82		en	38.3	31.0	12.87
+11742604	Basketball	2025 Panini Prizm WNBA		111		Chelsea Gray	0.99		en			
+11742604	Basketball	2025 Panini Prizm WNBA		111		Chelsea Gray	0.99		en			
+11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
+11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
+11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
+11741572	Basketball	2025 Panini Prizm WNBA		134		Cheryl Miller	1.86		en	38.47	31.0	12.93
+11741232	Basketball	2025 Panini Prizm WNBA		124		Courtney Vandersloot	1.89		en			
+11741232	Basketball	2025 Panini Prizm WNBA		124		Courtney Vandersloot	1.89		en			
+11741326	Basketball	2025 Panini Prizm WNBA		69		Courtney Williams	1.85		en	38.43	31.0	12.91
+11741326	Basketball	2025 Panini Prizm WNBA		69		Courtney Williams	1.85		en	38.43	31.0	12.91
+12420241	Basketball	2025 Panini Prizm WNBA		71		Cynthia Cooper			en			
+12420241	Basketball	2025 Panini Prizm WNBA		71		Cynthia Cooper			en			
+11742093	Basketball	2025 Panini Prizm WNBA		33		Dana Evans	1.92		en	38.78	31.0	13.03
+11742093	Basketball	2025 Panini Prizm WNBA		33		Dana Evans	1.92		en	38.78	31.0	13.03
+11741875	Basketball	2025 Panini Prizm WNBA		27		Diamond Miller	1.64		en	37.46	30.0	12.58
+11741173	Basketball	2025 Panini Prizm WNBA		7		Diana Taurasi	1.75		en	37.98	30.0	12.76
+11741173	Basketball	2025 Panini Prizm WNBA		7		Diana Taurasi	1.75		en	37.98	30.0	12.76
+11742556	Basketball	2025 Panini Prizm WNBA		109		Dorka Juhasz	1.95		en	48.16	39.0	16.28
+11742304	Basketball	2025 Panini Prizm WNBA		41		Elizabeth Kitley	1.41		en			
+11742304	Basketball	2025 Panini Prizm WNBA		41		Elizabeth Kitley	1.41		en			
+11741830	Basketball	2025 Panini Prizm WNBA		84		Emily Engstler	1.15		en	36.62	29.0	12.29
+11741268	Basketball	2025 Panini Prizm WNBA		125		Erica Wheeler	1.76		en	37.16	30.0	12.47
+11741268	Basketball	2025 Panini Prizm WNBA		125		Erica Wheeler	1.76		en	37.16	30.0	12.47
+11742185	Basketball	2025 Panini Prizm WNBA		36		Ezi Magbegor	1.99		en	39.09	31.0	13.14
+11742185	Basketball	2025 Panini Prizm WNBA		36		Ezi Magbegor	1.99		en	39.09	31.0	13.14
+11741603	Basketball	2025 Panini Prizm WNBA		77		Gabby Williams	1.6		en	38.6	31.0	12.98
+11741603	Basketball	2025 Panini Prizm WNBA		77		Gabby Williams	1.6		en	38.6	31.0	12.98
+11741755	Basketball	2025 Panini Prizm WNBA		139		Hailey Van Lith	1.89		en	38.33	31.0	12.88
+11741755	Basketball	2025 Panini Prizm WNBA		139		Hailey Van Lith	1.89		en	38.33	31.0	12.88
+11741755	Basketball	2025 Panini Prizm WNBA		139		Hailey Van Lith	1.89		en	38.33	31.0	12.88
+11740997	Basketball	2025 Panini Prizm WNBA		2		Hailey Van Lith	1.52		en	36.51	29.0	12.25
+11740997	Basketball	2025 Panini Prizm WNBA		2		Hailey Van Lith	1.52		en	36.51	29.0	12.25
+11742355	Basketball	2025 Panini Prizm WNBA		43		Haley Jones	1.95		en	38.91	31.0	13.08
+11742355	Basketball	2025 Panini Prizm WNBA		43		Haley Jones	1.95		en	38.91	31.0	13.08
+11742355	Basketball	2025 Panini Prizm WNBA		43		Haley Jones	1.95		en	38.91	31.0	13.08
+11741349	Basketball	2025 Panini Prizm WNBA		12		Isabelle Harrison	1.83		en	38.35	31.0	12.88
+11741349	Basketball	2025 Panini Prizm WNBA		12		Isabelle Harrison	1.83		en	38.35	31.0	12.88
+11742221	Basketball	2025 Panini Prizm WNBA		95		JJ Quinerly	1.37		en	35.71	29.0	11.97
+11742221	Basketball	2025 Panini Prizm WNBA		95		JJ Quinerly	1.37		en	35.71	29.0	11.97
+11742221	Basketball	2025 Panini Prizm WNBA		95		JJ Quinerly	1.37		en	35.71	29.0	11.97
+11742650	Basketball	2025 Panini Prizm WNBA		113		Jacy Sheldon	1.17		en	35.33	28.0	11.84
+11742650	Basketball	2025 Panini Prizm WNBA		113		Jacy Sheldon	1.17		en	35.33	28.0	11.84
+11741375	Basketball	2025 Panini Prizm WNBA		128		Jade Melbourne	1.99		en			
+11741628	Basketball	2025 Panini Prizm WNBA		20		Janelle Salaun	1.26		en	37.97	30.0	12.76
+11741628	Basketball	2025 Panini Prizm WNBA		20		Janelle Salaun	1.26		en	37.97	30.0	12.76
+11741628	Basketball	2025 Panini Prizm WNBA		20		Janelle Salaun	1.26		en	37.97	30.0	12.76
+11742162	Basketball	2025 Panini Prizm WNBA		93		Jaylyn Sherrod	1.91		en	38.7	31.0	13.01
+11742162	Basketball	2025 Panini Prizm WNBA		93		Jaylyn Sherrod	1.91		en	38.7	31.0	13.01
+11741686	Basketball	2025 Panini Prizm WNBA		137		Jessica Shepard	1.49		en	36.79	29.0	12.35
+11741686	Basketball	2025 Panini Prizm WNBA		137		Jessica Shepard	1.49		en	36.79	29.0	12.35
+11742685	Basketball	2025 Panini Prizm WNBA		57		Jewell Loyd	1.83		en	38.34	31.0	12.88
+11742685	Basketball	2025 Panini Prizm WNBA		57		Jewell Loyd	1.83		en	38.34	31.0	12.88
+11742685	Basketball	2025 Panini Prizm WNBA		57		Jewell Loyd	1.83		en	38.34	31.0	12.88
+11742568	Basketball	2025 Panini Prizm WNBA		52		Jonquel Jones	1.81		en	38.31	31.0	12.87
+11742568	Basketball	2025 Panini Prizm WNBA		52		Jonquel Jones	1.81		en	38.31	31.0	12.87
+11742568	Basketball	2025 Panini Prizm WNBA		52		Jonquel Jones	1.81		en	38.31	31.0	12.87
+11742209	Basketball	2025 Panini Prizm WNBA		37		Jordan Horston	1.49		en	37.94	30.0	12.74
+11741092	Basketball	2025 Panini Prizm WNBA		120		Jordin Canada	2.0		en			
+11741092	Basketball	2025 Panini Prizm WNBA		120		Jordin Canada	2.0		en			
+11741092	Basketball	2025 Panini Prizm WNBA		120		Jordin Canada	2.0		en			
+11742744	Basketball	2025 Panini Prizm WNBA		132		Julie Vanloo	1.3		en	35.7	29.0	11.97
+11742744	Basketball	2025 Panini Prizm WNBA		132		Julie Vanloo	1.3		en	35.7	29.0	11.97
+11741081	Basketball	2025 Panini Prizm WNBA		62		Kahleah Copper	1.37		en			
+11741081	Basketball	2025 Panini Prizm WNBA		62		Kahleah Copper	1.37		en			
+11742338	Basketball	2025 Panini Prizm WNBA		100		Kaitlyn Chen	1.25		en	35.16	28.0	11.78
+11742338	Basketball	2025 Panini Prizm WNBA		100		Kaitlyn Chen	1.25		en	35.16	28.0	11.78
+11741901	Basketball	2025 Panini Prizm WNBA		143		Kaitlyn Chen	1.61		en	37.75	30.0	12.68
+11742030	Basketball	2025 Panini Prizm WNBA		89		Kamilla Cardoso	1.92		en	38.74	31.0	13.02
+11742030	Basketball	2025 Panini Prizm WNBA		89		Kamilla Cardoso	1.92		en	38.74	31.0	13.02
+11741950	Basketball	2025 Panini Prizm WNBA		29		Kathryn Westbeld	1.35		en	36.15	29.0	12.13
+11742400	Basketball	2025 Panini Prizm WNBA		45		Kayla McBride	1.92		en	38.74	31.0	13.02
+11742137	Basketball	2025 Panini Prizm WNBA		35		Kelsey Mitchell	1.75		en	37.99	30.0	12.76
+11741768	Basketball	2025 Panini Prizm WNBA		24		Kia Nurse	0.99		en			
+11742709	Basketball	2025 Panini Prizm WNBA		58		Kiah Stokes	1.83		en	37.96	30.0	12.75
+11742138	Basketball	2025 Panini Prizm WNBA		149		Kiki Iriafen	2.0		en	38.47	31.0	12.93
+11742138	Basketball	2025 Panini Prizm WNBA		149		Kiki Iriafen	2.0		en	38.47	31.0	12.93
+11742138	Basketball	2025 Panini Prizm WNBA		149		Kiki Iriafen	2.0		en	38.47	31.0	12.93
+11741451	Basketball	2025 Panini Prizm WNBA		72		Kiki Iriafen	1.78		en	37.74	30.0	18.5
+11741451	Basketball	2025 Panini Prizm WNBA		72		Kiki Iriafen	1.78		en	37.74	30.0	18.5
+11742116	Basketball	2025 Panini Prizm WNBA		91		Lauren Jackson	0.99		en	34.51	28.0	11.56
+11741499	Basketball	2025 Panini Prizm WNBA		74		Leonie Fiebich	1.89		en	38.63	31.0	12.98
+11741913	Basketball	2025 Panini Prizm WNBA		28		Li Yueru	1.6		en	38.51	31.0	12.94
+11741913	Basketball	2025 Panini Prizm WNBA		28		Li Yueru	1.6		en	38.51	31.0	12.94
+11741913	Basketball	2025 Panini Prizm WNBA		28		Li Yueru	1.6		en	38.51	31.0	12.94
+11742435	Basketball	2025 Panini Prizm WNBA		104		Lucy Olsen	1.71		en	37.78	30.0	12.69
+11741972	Basketball	2025 Panini Prizm WNBA		145		Lucy Olsen	1.07		en	35.37	28.0	11.86
+11741721	Basketball	2025 Panini Prizm WNBA		138		Maddy Westbeld	1.13		en	34.7	28.0	11.62
+11741721	Basketball	2025 Panini Prizm WNBA		138		Maddy Westbeld	1.13		en	34.7	28.0	11.62
+11741437	Basketball	2025 Panini Prizm WNBA		14		Makayla Timpson	1.49		en	37.37	30.0	12.55
+11741437	Basketball	2025 Panini Prizm WNBA		14		Makayla Timpson	1.49		en	37.37	30.0	12.55
+11742065	Basketball	2025 Panini Prizm WNBA		90		Marine Johannes	1.95		en	38.87	31.0	13.07
+11742065	Basketball	2025 Panini Prizm WNBA		90		Marine Johannes	1.95		en	38.87	31.0	13.07
+11741220	Basketball	2025 Panini Prizm WNBA		66		Marquesha Davis	1.91		en	38.73	31.0	13.01
+11741220	Basketball	2025 Panini Prizm WNBA		66		Marquesha Davis	1.91		en	38.73	31.0	13.01
+11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
+11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
+11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
+11741616	Basketball	2025 Panini Prizm WNBA		135		Maya Moore	1.24		en	35.64	29.0	11.95
+11742495	Basketball	2025 Panini Prizm WNBA		49		Megan Gustafson	1.87		en	38.74	31.0	13.02
+11741525	Basketball	2025 Panini Prizm WNBA		133		Michele Timms	1.0		en			
+11741525	Basketball	2025 Panini Prizm WNBA		133		Michele Timms	1.0		en			
+11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
+11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
+11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
+11742291	Basketball	2025 Panini Prizm WNBA		98		Monique Akoa Makani	2.01		en	39.14	31.0	13.16
+11742317	Basketball	2025 Panini Prizm WNBA		99		Monique Billings	1.46		en	36.65	29.0	12.3
+11741056	Basketball	2025 Panini Prizm WNBA		119		NaLyssa Smith	0.99		en	34.51	28.0	11.56
+11742161	Basketball	2025 Panini Prizm WNBA		34		Nancy Lieberman	1.33		en	38.34	31.0	12.88
+11742161	Basketball	2025 Panini Prizm WNBA		34		Nancy Lieberman	1.33		en	38.34	31.0	12.88
+11742661	Basketball	2025 Panini Prizm WNBA		56		Natasha Cloud	1.92		en	39.29	31.0	13.21
+11742661	Basketball	2025 Panini Prizm WNBA		56		Natasha Cloud	1.92		en	39.29	31.0	13.21
+11742661	Basketball	2025 Panini Prizm WNBA		56		Natasha Cloud	1.92		en	39.29	31.0	13.21
+11742615	Basketball	2025 Panini Prizm WNBA		54		Natasha Howard	1.9		en	38.67	31.0	12.99
+11742591	Basketball	2025 Panini Prizm WNBA		53		Natisha Hiedeman	1.83		en	38.36	31.0	12.89
+11742591	Basketball	2025 Panini Prizm WNBA		53		Natisha Hiedeman	1.83		en	38.36	31.0	12.89
+11742591	Basketball	2025 Panini Prizm WNBA		53		Natisha Hiedeman	1.83		en	38.36	31.0	12.89
+11741338	Basketball	2025 Panini Prizm WNBA		127		Nika Muhl	1.98		en	39.06	31.0	13.13
+11742798	Basketball	2025 Panini Prizm WNBA		147		Paige Bueckers	6.5		en	61.8	49.0	28.88
+11741984	Basketball	2025 Panini Prizm WNBA		30		Penny Taylor	1.95		en	38.88	31.0	13.07
+11741831	Basketball	2025 Panini Prizm WNBA		25		Rae Burrell	1.48		en	36.74	29.0	12.33
+11741831	Basketball	2025 Panini Prizm WNBA		25		Rae Burrell	1.48		en	36.74	29.0	12.33
+11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
+11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
+11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
+11741313	Basketball	2025 Panini Prizm WNBA		11		Rhyne Howard	1.5		en	36.83	29.0	12.36
+11741021	Basketball	2025 Panini Prizm WNBA		118		Rickea Jackson	1.47		en	39.08	31.0	13.14
+11742280	Basketball	2025 Panini Prizm WNBA		40		Ruthie Bolton	1.99		en			
+11742546	Basketball	2025 Panini Prizm WNBA		108		Sami Whitcomb	1.99		en			
+11742546	Basketball	2025 Panini Prizm WNBA		108		Sami Whitcomb	1.99		en			
+11741475	Basketball	2025 Panini Prizm WNBA		131		Saniya Rivers	1.6		en	38.21	31.0	12.84
+11742109	Basketball	2025 Panini Prizm WNBA		150		Saniya Rivers	1.52		en	36.94	30.0	12.4
+11742019	Basketball	2025 Panini Prizm WNBA		31		Sarah Ashlee Barker	2.0		en	39.09	31.0	13.15
+11742019	Basketball	2025 Panini Prizm WNBA		31		Sarah Ashlee Barker	2.0		en	39.09	31.0	13.15
+11741745	Basketball	2025 Panini Prizm WNBA		81		Shakira Austin	1.95		en	38.88	31.0	13.07
+11741663	Basketball	2025 Panini Prizm WNBA		21		Sheryl Swoopes			en			
+11741652	Basketball	2025 Panini Prizm WNBA		136		Shey Peddy	1.72		en	37.86	30.0	12.71
+11741652	Basketball	2025 Panini Prizm WNBA		136		Shey Peddy	1.72		en	37.86	30.0	12.71
+11741196	Basketball	2025 Panini Prizm WNBA		123		Skylar Diggins	1.59		en	37.25	30.0	12.5
+11741196	Basketball	2025 Panini Prizm WNBA		123		Skylar Diggins	1.59		en	37.25	30.0	12.5
+11742078	Basketball	2025 Panini Prizm WNBA		148		Sonia Citron	1.69		en	39.1	31.0	13.15
+11742625	Basketball	2025 Panini Prizm WNBA		112		Stefanie Dolson	1.97		en	38.96	31.0	13.1
+11742625	Basketball	2025 Panini Prizm WNBA		112		Stefanie Dolson	1.97		en	38.96	31.0	13.1
+11742233	Basketball	2025 Panini Prizm WNBA		38		Sue Bird	1.89		en	37.2	30.0	12.49
+11742233	Basketball	2025 Panini Prizm WNBA		38		Sue Bird	1.89		en	37.2	30.0	12.49
+11740961	Basketball	2025 Panini Prizm WNBA		1		Sydney Colson	1.83		en	38.33	31.0	12.88
+11741008	Basketball	2025 Panini Prizm WNBA		60		Tamika Catchings	1.99		en			
+11741008	Basketball	2025 Panini Prizm WNBA		60		Tamika Catchings	1.99		en			
+11741045	Basketball	2025 Panini Prizm WNBA		61		Te-Hina Paopao	1.59		en	37.18	30.0	12.48
+11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
+11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
+11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
+11742471	Basketball	2025 Panini Prizm WNBA		48		Teaira McCowan			en			
+11741291	Basketball	2025 Panini Prizm WNBA		68		Temi Fagbenle	1.93		en	38.78	31.0	13.04
+11741291	Basketball	2025 Panini Prizm WNBA		68		Temi Fagbenle	1.93		en	38.78	31.0	13.04
+11741033	Basketball	2025 Panini Prizm WNBA		3		Tina Charles	18.5		en			
+11742697	Basketball	2025 Panini Prizm WNBA		115		Tina Thompson	1.0		en			
+11742697	Basketball	2025 Panini Prizm WNBA		115		Tina Thompson	1.0		en			
+11741469	Basketball	2025 Panini Prizm WNBA		130		Tyasha Harris	1.8		en			
+11741469	Basketball	2025 Panini Prizm WNBA		130		Tyasha Harris	1.8		en			
+11741361	Basketball	2025 Panini Prizm WNBA		70		Veronica Burton	2.06		en	39.41	32.0	13.25
+11742580	Basketball	2025 Panini Prizm WNBA		110		Zia Cooke	1.71		en	37.79	30.0	12.69
+11742580	Basketball	2025 Panini Prizm WNBA		110		Zia Cooke	1.71		en	37.79	30.0	12.69
+11742580	Basketball	2025 Panini Prizm WNBA		110		Zia Cooke	1.71		en	37.79	30.0	12.69
+11742203	Basketball	2025 Panini Prizm WNBA		94	Blue Velocity	Aaliyah Edwards	1.99		en	39.07	31.0	13.13
+11741416	Basketball	2025 Panini Prizm WNBA		15	Blue Velocity	Aaliyah Nye	1.55		en	37.39	30.0	12.55
+11742366	Basketball	2025 Panini Prizm WNBA		101	Blue Velocity	Alanna Smith	1.65		en	37.53	30.0	12.6
+11741712	Basketball	2025 Panini Prizm WNBA		80	Blue Velocity	Allie Quigley	2.0		en	39.13	31.0	13.15
+11741386	Basketball	2025 Panini Prizm WNBA		13	Blue Velocity	Ariel Atkins	1.54		en			
+11741386	Basketball	2025 Panini Prizm WNBA		13	Blue Velocity	Ariel Atkins	1.54		en			
+11741834	Basketball	2025 Panini Prizm WNBA		83	Blue Velocity	Aziaha James	1.97		en	38.74	31.0	13.02
+11742514	Basketball	2025 Panini Prizm WNBA		107	Blue Velocity	Brionna Jones	0.99		en	34.5	28.0	11.56
+11741247	Basketball	2025 Panini Prizm WNBA		9	Blue Velocity	DiJonai Carrington	1.98		en	39.03	31.0	13.12
+11742688	Basketball	2025 Panini Prizm WNBA		57	Blue Velocity	Jewell Loyd	1.16		en	34.52	28.0	11.56
+11742571	Basketball	2025 Panini Prizm WNBA		52	Blue Velocity	Jonquel Jones	1.41		en	36.19	29.0	12.14
+11741951	Basketball	2025 Panini Prizm WNBA		29	Blue Velocity	Kathryn Westbeld	0.99		en	39.65	32.0	13.34
+11742402	Basketball	2025 Panini Prizm WNBA		45	Blue Velocity	Kayla McBride	1.75		en	39.04	31.0	13.12
+11741772	Basketball	2025 Panini Prizm WNBA		24	Blue Velocity	Kia Nurse	1.99		en			
+11741455	Basketball	2025 Panini Prizm WNBA		72	Blue Velocity	Kiki Iriafen	2.0		en	39.69	32.0	13.35
+11741919	Basketball	2025 Panini Prizm WNBA		28	Blue Velocity	Li Yueru	1.75		en	37.26	30.0	12.51
+11741532	Basketball	2025 Panini Prizm WNBA		133	Blue Velocity	Michele Timms	0.99		en			
+11741532	Basketball	2025 Panini Prizm WNBA		133	Blue Velocity	Michele Timms	0.99		en			
+11741059	Basketball	2025 Panini Prizm WNBA		119	Blue Velocity	NaLyssa Smith	2.25		en	40.28	32.0	13.55
+11742618	Basketball	2025 Panini Prizm WNBA		54	Blue Velocity	Natasha Howard	1.62		en	41.82	33.0	14.08
+11741339	Basketball	2025 Panini Prizm WNBA		127	Blue Velocity	Nika Muhl	2.25		en	40.27	32.0	13.55
+11741257	Basketball	2025 Panini Prizm WNBA		67	Blue Velocity	Rebecca Allen	1.99		en			
+11742283	Basketball	2025 Panini Prizm WNBA		40	Blue Velocity	Ruthie Bolton	1.99		en			
+11742551	Basketball	2025 Panini Prizm WNBA		108	Blue Velocity	Sami Whitcomb	0.99		en			
+11742118	Basketball	2025 Panini Prizm WNBA		150	Blue Velocity	Saniya Rivers	1.81		en	39.08	31.0	13.14
+11741073	Basketball	2025 Panini Prizm WNBA		4	Blue Velocity	Satou Sabally	3.68		en	47.08	38.0	15.9
+11741198	Basketball	2025 Panini Prizm WNBA		123	Blue Velocity	Skylar Diggins	1.02		en	34.82	28.0	11.67
+11742084	Basketball	2025 Panini Prizm WNBA		148	Blue Velocity	Sonia Citron	3.3		en	88.5	71.0	20.5
+11742236	Basketball	2025 Panini Prizm WNBA		38	Blue Velocity	Sue Bird	2.0		en	38.11	30.0	12.8
+11740964	Basketball	2025 Panini Prizm WNBA		1	Blue Velocity	Sydney Colson	1.94		en	38.41	31.0	12.9
+11741015	Basketball	2025 Panini Prizm WNBA		60	Blue Velocity	Tamika Catchings	2.25		en	41.35	33.0	13.92
+11741187	Basketball	2025 Panini Prizm WNBA		65	Blue Velocity	Ticha Penicheiro	1.25		en	40.25	32.0	13.54
+11742583	Basketball	2025 Panini Prizm WNBA		110	Blue Velocity	Zia Cooke	1.24		en	37.4	30.0	12.55
+11742205	Basketball	2025 Panini Prizm WNBA		94	Ice	Aaliyah Edwards	1.79		en	45.43	36.0	15.34
+11741419	Basketball	2025 Panini Prizm WNBA		15	Ice	Aaliyah Nye	1.68		en	39.68	32.0	13.34
+11741646	Basketball	2025 Panini Prizm WNBA		78	Ice	Alissa Pili	1.37		en			
+11741594	Basketball	2025 Panini Prizm WNBA		75	Ice	Aliyah Boston	1.93		en	39.1	31.0	13.15
+11741715	Basketball	2025 Panini Prizm WNBA		80	Ice	Allie Quigley	0.99		en			
+11741497	Basketball	2025 Panini Prizm WNBA		16	Ice	Allisha Gray	1.64		en	37.48	30.0	12.58
+11741497	Basketball	2025 Panini Prizm WNBA		16	Ice	Allisha Gray	1.64		en	37.48	30.0	12.58
+11742014	Basketball	2025 Panini Prizm WNBA		146	Ice	Aneesah Morrow	3.42		en	43.49	35.0	14.66
+11741392	Basketball	2025 Panini Prizm WNBA		13	Ice	Ariel Atkins	0.99		en	34.52	28.0	11.56
+11741858	Basketball	2025 Panini Prizm WNBA		141	Ice	Aziaha James	1.9		en	39.05	31.0	13.13
+11741858	Basketball	2025 Panini Prizm WNBA		141	Ice	Aziaha James	1.9		en	39.05	31.0	13.13
+11742680	Basketball	2025 Panini Prizm WNBA		114	Ice	Betnijah Laney-Hamilton	1.75		en	37.99	30.0	12.76
+11742520	Basketball	2025 Panini Prizm WNBA		107	Ice	Brionna Jones	1.25		en			
+11741132	Basketball	2025 Panini Prizm WNBA		121	Ice	Brittney Sykes	1.79		en	38.14	31.0	12.82
+11741704	Basketball	2025 Panini Prizm WNBA		22	Ice	Caitlin Clark	12.05		en	133.5	107.0	25.25
+11741156	Basketball	2025 Panini Prizm WNBA		6	Ice	Carla Leite	1.71		en	39.06	31.0	13.13
+11742610	Basketball	2025 Panini Prizm WNBA		111	Ice	Chelsea Gray	2.69		en	42.28	34.0	14.24
+11741404	Basketball	2025 Panini Prizm WNBA		71	Ice	Cynthia Cooper-Dyke	1.86		en	36.85	29.0	12.36
+11742108	Basketball	2025 Panini Prizm WNBA		33	Ice	Dana Evans	2.38		en	40.33	32.0	13.56
+11742061	Basketball	2025 Panini Prizm WNBA		32	Ice	DeWanna Bonner	1.99		en			
+11741885	Basketball	2025 Panini Prizm WNBA		27	Ice	Diamond Miller	1.0		en	34.57	28.0	11.58
+11742725	Basketball	2025 Panini Prizm WNBA		116	Ice	Dominique Malonga	2.65		en	43.61	35.0	14.71
+11742563	Basketball	2025 Panini Prizm WNBA		109	Ice	Dorka Juhasz	1.25		en	34.52	28.0	11.56
+11741274	Basketball	2025 Panini Prizm WNBA		125	Ice	Erica Wheeler	1.7		en	39.08	31.0	13.14
+11742191	Basketball	2025 Panini Prizm WNBA		36	Ice	Ezi Magbegor	1.11		en	40.92	33.0	13.77
+11741004	Basketball	2025 Panini Prizm WNBA		2	Ice	Hailey Van Lith	1.66		en	38.15	31.0	12.82
+11742358	Basketball	2025 Panini Prizm WNBA		43	Ice	Haley Jones	1.89		en	38.63	31.0	12.98
+11742227	Basketball	2025 Panini Prizm WNBA		95	Ice	JJ Quinerly	1.44		en	37.53	30.0	12.6
+11741380	Basketball	2025 Panini Prizm WNBA		128	Ice	Jade Melbourne	1.5		en	36.83	29.0	12.36
+11741634	Basketball	2025 Panini Prizm WNBA		20	Ice	Janelle Salaun	1.65		en	37.74	30.0	12.68
+11742175	Basketball	2025 Panini Prizm WNBA		93	Ice	Jaylyn Sherrod	1.6		en			
+11742692	Basketball	2025 Panini Prizm WNBA		57	Ice	Jewell Loyd	1.83		en	38.44	31.0	12.92
+11742692	Basketball	2025 Panini Prizm WNBA		57	Ice	Jewell Loyd	1.83		en	38.44	31.0	12.92
+11742575	Basketball	2025 Panini Prizm WNBA		52	Ice	Jonquel Jones	1.97		en	38.97	31.0	13.1
+11742216	Basketball	2025 Panini Prizm WNBA		37	Ice	Jordan Horston	1.79		en			
+11741099	Basketball	2025 Panini Prizm WNBA		120	Ice	Jordin Canada	1.94		en			
+11742644	Basketball	2025 Panini Prizm WNBA		55	Ice	Kalani Brown			en			
+11742394	Basketball	2025 Panini Prizm WNBA		102	Ice	Karlie Samuelson	2.0		en	39.12	31.0	13.15
+11741955	Basketball	2025 Panini Prizm WNBA		29	Ice	Kathryn Westbeld	0.99		en	34.52	28.0	11.56
+11741785	Basketball	2025 Panini Prizm WNBA		82	Ice	Katie Lou Samuelson	1.73		en	37.35	30.0	12.54
+11741785	Basketball	2025 Panini Prizm WNBA		82	Ice	Katie Lou Samuelson	1.73		en	37.35	30.0	12.54
+11742745	Basketball	2025 Panini Prizm WNBA		17	Ice	Kayla Thornton	1.78		en	38.1	30.0	12.8
+11742151	Basketball	2025 Panini Prizm WNBA		35	Ice	Kelsey Mitchell	1.99		en	39.09	31.0	13.14
+11741792	Basketball	2025 Panini Prizm WNBA		24	Ice	Kia Nurse	1.24		en	35.66	29.0	11.96
+11742130	Basketball	2025 Panini Prizm WNBA		91	Ice	Lauren Jackson	1.43		en	34.97	28.0	11.72
+11741506	Basketball	2025 Panini Prizm WNBA		74	Ice	Leonie Fiebich	1.75		en	43.64	35.0	14.71
+11741506	Basketball	2025 Panini Prizm WNBA		74	Ice	Leonie Fiebich	1.75		en	43.64	35.0	14.71
+11742490	Basketball	2025 Panini Prizm WNBA		106	Ice	Lisa Leslie	1.55		en	37.8	30.0	12.69
+11741978	Basketball	2025 Panini Prizm WNBA		145	Ice	Lucy Olsen	2.5		en	41.28	33.0	13.9
+11742300	Basketball	2025 Panini Prizm WNBA		98	Ice	Monique Akoa Makani	0.38		en	31.73	25.0	10.6
+11742252	Basketball	2025 Panini Prizm WNBA		96	Ice	Myisha Hines-Allen	1.89		en			
+11742252	Basketball	2025 Panini Prizm WNBA		96	Ice	Myisha Hines-Allen	1.89		en			
+11742666	Basketball	2025 Panini Prizm WNBA		56	Ice	Natasha Cloud	1.79		en	40.58	32.0	13.66
+11742621	Basketball	2025 Panini Prizm WNBA		54	Ice	Natasha Howard	2.99		en	43.6	35.0	14.71
+11741344	Basketball	2025 Panini Prizm WNBA		127	Ice	Nika Muhl	1.99		en	38.51	31.0	12.94
+11741321	Basketball	2025 Panini Prizm WNBA		11	Ice	Rhyne Howard	1.37		en	37.96	30.0	12.75
+11742287	Basketball	2025 Panini Prizm WNBA		40	Ice	Ruthie Bolton	1.5		en	36.84	29.0	12.36
+11742125	Basketball	2025 Panini Prizm WNBA		150	Ice	Saniya Rivers	1.25		en	36.1	29.0	12.11
+11741658	Basketball	2025 Panini Prizm WNBA		136	Ice	Shey Peddy			en			
+11741658	Basketball	2025 Panini Prizm WNBA		136	Ice	Shey Peddy			en			
+11741201	Basketball	2025 Panini Prizm WNBA		123	Ice	Skylar Diggins	1.75		en	37.97	30.0	12.76
+11741168	Basketball	2025 Panini Prizm WNBA		122	Ice	Sonia Citron	2.84		en	44.23	35.0	18.5
+11742633	Basketball	2025 Panini Prizm WNBA		112	Ice	Stefanie Dolson	1.64		en	37.47	30.0	12.58
+11742239	Basketball	2025 Panini Prizm WNBA		38	Ice	Sue Bird	1.77		en	37.24	30.0	12.5
+11741052	Basketball	2025 Panini Prizm WNBA		61	Ice	Te-Hina Paopao	1.54		en	38.76	31.0	13.03
+11741192	Basketball	2025 Panini Prizm WNBA		65	Ice	Ticha Penicheiro	1.99		en	39.08	31.0	13.14
+12245000	Basketball	2025 Panini Prizm WNBA	Fractal	6		Courtney Williams	1.99		en			
+12085608	Basketball	2025 Panini Prizm WNBA	Fractal	7		Dearica Hamby	2.87		en			
+11932307	Basketball	2025 Panini Prizm WNBA	Fractal	14		Georgia Amoore	3.51		en	45.38	36.0	15.32
+11741571	Basketball	2025 Panini Prizm WNBA		76	Silver	A'ja Wilson	0.99		en	36.79	29.0	12.35
+11741290	Basketball	2025 Panini Prizm WNBA		10	Silver	Aari McDonald	3.9		en			
+11741651	Basketball	2025 Panini Prizm WNBA		78	Silver	Alissa Pili	0.99		en			
+11741399	Basketball	2025 Panini Prizm WNBA		13	Silver	Ariel Atkins			en			
+11741586	Basketball	2025 Panini Prizm WNBA		134	Silver	Cheryl Miller			en			
+11742337	Basketball	2025 Panini Prizm WNBA		42	Silver	Damiris Dantas			en			
+11742041	Basketball	2025 Panini Prizm WNBA		89	Silver	Kamilla Cardoso	1.97		en	41.96	34.0	14.13
+11742555	Basketball	2025 Panini Prizm WNBA		51	Silver	Lexie Hull	1.38		en	39.11	31.0	13.15
+11741923	Basketball	2025 Panini Prizm WNBA		28	Silver	Li Yueru	2.49		en	41.38	33.0	13.93
+11741450	Basketball	2025 Panini Prizm WNBA		14	Silver	Makayla Timpson	2.49		en	42.66	34.0	14.38
+11741348	Basketball	2025 Panini Prizm WNBA		127	Silver	Nika Muhl	1.5		en	36.86	29.0	12.37
+11741325	Basketball	2025 Panini Prizm WNBA		11	Silver	Rhyne Howard	2.0		en	39.11	31.0	13.15
+11742292	Basketball	2025 Panini Prizm WNBA		40	Silver	Ruthie Bolton	2.49		en			
+11742091	Basketball	2025 Panini Prizm WNBA		148	Silver	Sonia Citron	5.18		en	57.28	46.0	36.0
+11742636	Basketball	2025 Panini Prizm WNBA		112	Silver	Stefanie Dolson			en			
+11742482	Basketball	2025 Panini Prizm WNBA		48	Silver	Teaira McCowan			en			
+11741565	Basketball	2025 Panini Prizm WNBA		76	Green	A'ja Wilson	2.05		en	39.36	31.0	13.23
+11741417	Basketball	2025 Panini Prizm WNBA		15	Green	Aaliyah Nye	2.13		en	36.81	29.0	12.35
+11741714	Basketball	2025 Panini Prizm WNBA		80	Green	Allie Quigley	2.35		en	40.71	33.0	13.7
+11741152	Basketball	2025 Panini Prizm WNBA		64	Green	Azura Stevens	2.0		en			
+11742001	Basketball	2025 Panini Prizm WNBA		88	Green	Bridget Carleton	2.12		en	39.64	32.0	13.34
+11741143	Basketball	2025 Panini Prizm WNBA		6	Green	Carla Leite	1.84		en	38.97	31.0	13.1
+11741376	Basketball	2025 Panini Prizm WNBA		128	Green	Jade Melbourne	1.19		en			
+11742643	Basketball	2025 Panini Prizm WNBA		55	Green	Kalani Brown	0.99		en			
+11740978	Basketball	2025 Panini Prizm WNBA		59	Green	Kelsey Plum	1.76		en	36.82	29.0	12.36
+11742150	Basketball	2025 Panini Prizm WNBA		149	Green	Kiki Iriafen	3.53		en	45.04	36.0	15.2
+11741456	Basketball	2025 Panini Prizm WNBA		72	Green	Kiki Iriafen	3.08		en	41.34	33.0	13.92
+11741060	Basketball	2025 Panini Prizm WNBA		119	Green	NaLyssa Smith	1.25		en			
+11742452	Basketball	2025 Panini Prizm WNBA		47	Green	Rayah Marshall	0.99		en			
+11742452	Basketball	2025 Panini Prizm WNBA		47	Green	Rayah Marshall	0.99		en			
+11742285	Basketball	2025 Panini Prizm WNBA		40	Green	Ruthie Bolton	0.99		en			
+11742747	Basketball	2025 Panini Prizm WNBA		136	Green	Shey Peddy	0.99		en			
+11742081	Basketball	2025 Panini Prizm WNBA		148	Green	Sonia Citron	4.92		en	52.73	42.0	17.87
+11972505	Basketball	2025 Panini Prizm WNBA	Groovy	8		Dominique Malonga	4.25		en	49.34	39.0	16.63
+12423647	Basketball	2025 Panini Prizm WNBA	Groovy	14		Hailey Van Lith	3.62		en			
+12395153	Basketball	2025 Panini Prizm WNBA	Groovy	6		Rickea Jackson	2.59		en			
+12020537	Basketball	2025 Panini Prizm WNBA	Fireworks	9		Caitlin Clark	7.99		en	69.21	55.0	23.57
+12245087	Basketball	2025 Panini Prizm WNBA	Fireworks	7		Napheesa Collier	2.46		en			
+12245099	Basketball	2025 Panini Prizm WNBA	Fireworks	14		Paige Bueckers	9.29		en	100.26	80.0	18.99
+12245081	Basketball	2025 Panini Prizm WNBA	Fireworks	5		Rhyne Howard	2.06		en	39.17	31.0	13.17
+12245081	Basketball	2025 Panini Prizm WNBA	Fireworks	5		Rhyne Howard	2.06		en	39.17	31.0	13.17
+12245114	Basketball	2025 Panini Prizm WNBA	Top Tier	2		A'ja Wilson	1.67		en	37.49	30.0	12.59
+12245147	Basketball	2025 Panini Prizm WNBA	Top Tier	15		Kelsey Plum	1.59		en	36.79	29.0	12.35
+12116554	Basketball	2025 Panini Prizm WNBA	Top Tier	12		Skylar Diggins	2.99		en	43.09	34.0	14.52
+12414506	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	12		Aneesah Morrow	2.5		en			
+12228597	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	4		Caitlin Clark	7.76		en			
+12128728	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	15		Dominique Malonga	4.5		en	65.0	52.0	
+11851770	Basketball	2025 Panini Prizm WNBA	Kaleidoscopic	5		Kelsey Plum	3.25		en			
+11741607	Basketball	2025 Panini Prizm WNBA		75	Red Pulsar	Aliyah Boston	5.31		en	55.4	44.0	18.78
+12085614	Basketball	2025 Panini Prizm WNBA	Fearless	5		Angel Reese	2.03		en	39.28	31.0	13.21
+12245056	Basketball	2025 Panini Prizm WNBA	Fearless	11		Kelsey Plum	1.83		en	36.78	29.0	12.35
+12420118	Basketball	2025 Panini Prizm WNBA		69	White Seismic	Courtney Williams			en			
+12419269	Basketball	2025 Panini Prizm WNBA		27	White Seismic	Diamond Miller			en			
+12420839	Basketball	2025 Panini Prizm WNBA		103	White Seismic	Georgia Amoore	2.0		en			
+12418797	Basketball	2025 Panini Prizm WNBA		2	White Seismic	Hailey Van Lith			en			
+12419643	Basketball	2025 Panini Prizm WNBA		43	White Seismic	Haley Jones			en			
+12420579	Basketball	2025 Panini Prizm WNBA		95	White Seismic	JJ Quinerly	3.99		en			
+12422403	Basketball	2025 Panini Prizm WNBA		113	White Seismic	Jacy Sheldon	9.38		en			
+12421249	Basketball	2025 Panini Prizm WNBA		128	White Seismic	Jade Melbourne			en			
+12420420	Basketball	2025 Panini Prizm WNBA		93	White Seismic	Jaylyn Sherrod			en			
+12419824	Basketball	2025 Panini Prizm WNBA		52	White Seismic	Jonquel Jones			en			
+12421595	Basketball	2025 Panini Prizm WNBA		143	White Seismic	Kaitlyn Chen			en			
+12421748	Basketball	2025 Panini Prizm WNBA		35	White Seismic	Kelsey Mitchell			en			
+12420581	Basketball	2025 Panini Prizm WNBA		91	White Seismic	Lauren Jackson	0.99		en			
+12421479	Basketball	2025 Panini Prizm WNBA		138	White Seismic	Maddy Westbeld			en			
+12419759	Basketball	2025 Panini Prizm WNBA		49	White Seismic	Megan Gustafson	0.99		en			
+12421857	Basketball	2025 Panini Prizm WNBA		133	White Seismic	Michele Timms			en			
+12421704	Basketball	2025 Panini Prizm WNBA		34	White Seismic	Nancy Lieberman			en			
+12419846	Basketball	2025 Panini Prizm WNBA		53	White Seismic	Natisha Hiedeman	0.99		en			
+12418867	Basketball	2025 Panini Prizm WNBA		11	White Seismic	Rhyne Howard	0.99		en			
+12418867	Basketball	2025 Panini Prizm WNBA		11	White Seismic	Rhyne Howard	0.99		en			
+12422052	Basketball	2025 Panini Prizm WNBA		118	White Seismic	Rickea Jackson	4.02		en			
+12420303	Basketball	2025 Panini Prizm WNBA		81	White Seismic	Shakira Austin	4.14		en			
+12421785	Basketball	2025 Panini Prizm WNBA		123	White Seismic	Skylar Diggins	2.99		en			
+12419508	Basketball	2025 Panini Prizm WNBA		38	White Seismic	Sue Bird	6.51		en			
+11742769	Basketball	2025 Panini Prizm WNBA	Pioneers	2		Ticha Penicheiro	2.41		en	39.68	32.0	13.34
+12423795	Basketball	2025 Panini Prizm WNBA	Pioneers	4	Green	Lauren Jackson			en			
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
