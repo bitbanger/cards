@@ -1628,7 +1628,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 10785334	Basketball	2025 Panini Donruss WNBA		1	Green Laser	Aliyah Boston	2.5		en	41.12	33.0	7.5
 10786152	Basketball	2025 Panini Donruss WNBA		25	Green Laser	Napheesa Collier	2.99		en	43.32	35.0	14.67
 10789390	Basketball	2025 Panini Donruss WNBA	Jersey Series	78	Red	Angel Reese	9.28		en	81.5	65.0	28.01
-2004032	Football	2020 Panini Contenders		254	Autograph	Tyler Bass	56.25	PSA 10	en	56.25	45.0	33.37
 9004804	Football	2024 Panini Donruss Optic		71		AJ Dillon	1.0		en	34.03	27.0	11.49
 9006758	Football	2024 Panini Donruss Optic		128		Aaron Jones	0.68		en	30.93	25.0	10.34
 9004703	Football	2024 Panini Donruss Optic		68		Aidan Hutchinson	0.96		en	40.39	32.0	13.84
@@ -7741,268 +7740,6 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 11134755	Football	2025 Panini Phoenix		22	Silver Hyper	Alvin Kamara	0.99		en	34.47	28.0	11.55
 11138070	Football	2025 Panini Phoenix		63	Silver Hyper	Tyler Nubin	2.49		en			
 11157441	Football	2025 Panini Phoenix	Phoenician Penmanship	22	Hyper	Barryn Sorrell			en			
-12527330	Football	2025 Topps Chrome		201		Aaron Jones Sr.			en			
-12532146	Football	2025 Topps Chrome		255		Aaron Rodgers	1.54		en			
-12523827	Football	2025 Topps Chrome		125		Alec Pierce			en			
-12523827	Football	2025 Topps Chrome		125		Alec Pierce			en			
-12529004	Football	2025 Topps Chrome		236		Allen Lazard	0.2		en			
-12529004	Football	2025 Topps Chrome		236		Allen Lazard	0.2		en			
-12528080	Football	2025 Topps Chrome		215		Alvin Kamara	35.0		en			
-12528080	Football	2025 Topps Chrome		215		Alvin Kamara	35.0		en			
-12521555	Football	2025 Topps Chrome		60		Andrei Iosivas			en			
-12534207	Football	2025 Topps Chrome		344		Billy Bowman Jr.	1.99		en			
-12534207	Football	2025 Topps Chrome		344		Billy Bowman Jr.	1.99		en			
-12522261	Football	2025 Topps Chrome		88		Bo Nix	6.99		en			
-12532607	Football	2025 Topps Chrome		319		Brady Cook	1.69		en			
-12524491	Football	2025 Topps Chrome		137		Brenton Strange	1.99		en			
-12527414	Football	2025 Topps Chrome		196		Brian O'Neill	1.49		en			
-12531792	Football	2025 Topps Chrome		296		Brian Robinson Jr.	0.85		en			
-12526293	Football	2025 Topps Chrome		178		Brock Bowers	1.79		en			
-12526293	Football	2025 Topps Chrome		178		Brock Bowers	1.79		en			
-12520707	Football	2025 Topps Chrome		52		Caleb Williams	3.81		en			
-12532926	Football	2025 Topps Chrome		314		Cam Ward	4.63		en			
-12528251	Football	2025 Topps Chrome		221		Cameron Jordan	2.25		en			
-12521129	Football	2025 Topps Chrome		67		Cedric Tillman	3.0		en			
-12523997	Football	2025 Topps Chrome		129		Charvarius Ward	1.54		en			
-12531535	Football	2025 Topps Chrome		288		Chase McLaughlin	2.31		en			
-12531535	Football	2025 Topps Chrome		288		Chase McLaughlin	2.31		en			
-12531151	Football	2025 Topps Chrome		283		Chris Godwin	1.74		en			
-12523275	Football	2025 Topps Chrome		112		Christian Watson	1.99		en			
-12520192	Football	2025 Topps Chrome		42		Chuba Hubbard	1.99		en			
-12520614	Football	2025 Topps Chrome		51		Cole Kmet	2.0		en			
-12520614	Football	2025 Topps Chrome		51		Cole Kmet	2.0		en			
-12530205	Football	2025 Topps Chrome		252		Cooper DeJean	1.99		en			
-12519976	Football	2025 Topps Chrome		37		Dalton Kincaid			en			
-12548423	Football	2025 Topps Chrome		367		Darien Porter	1.68		en			
-12548423	Football	2025 Topps Chrome		367		Darien Porter	1.68		en			
-12523234	Football	2025 Topps Chrome		103		David Montgomery	1.99		en			
-12521429	Football	2025 Topps Chrome		69		David Njoku	2.15		en			
-12526863	Football	2025 Topps Chrome		188		De'Von Achane			en			
-12519211	Football	2025 Topps Chrome		20		DeAndre Hopkins	1.99		en			
-12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown	2.0		en			
-12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown	2.0		en			
-12529253	Football	2025 Topps Chrome		244		DeVonta Smith	1.75		en			
-12531693	Football	2025 Topps Chrome		294		Deebo Samuel	1.66		en			
-12521650	Football	2025 Topps Chrome		74		Denzel Ward	2.37		en			
-12530822	Football	2025 Topps Chrome		269		Deommodore Lenoir			en			
-12534751	Football	2025 Topps Chrome		361		Derrick Harmon	1.97		en			
-12534751	Football	2025 Topps Chrome		361		Derrick Harmon	1.97		en			
-12519418	Football	2025 Topps Chrome		25		Derrick Henry	8.99		en			
-12535950	Football	2025 Topps Chrome		391		Devin Neal	1.87		en			
-12536371	Football	2025 Topps Chrome		392		Donovan Edwards	1.49		en			
-12524416	Football	2025 Topps Chrome		136		Dyami Brown	1.49		en			
-12524416	Football	2025 Topps Chrome		136		Dyami Brown	1.49		en			
-12533931	Football	2025 Topps Chrome		336		Elic Ayomanor			en			
-12532693	Football	2025 Topps Chrome		312		Emeka Egbuka	2.99		en			
-12536138	Football	2025 Topps Chrome		386		Emery Jones Jr.	1.99		en			
-12527848	Football	2025 Topps Chrome		212		Garrett Bradbury	1.82		en			
-12525206	Football	2025 Topps Chrome		152		George Karlaftis	1.99		en			
-12530071	Football	2025 Topps Chrome		267		George Kittle	1.99		en			
-12532203	Football	2025 Topps Chrome		305		Gunnar Helm	1.74		en			
-12525047	Football	2025 Topps Chrome		151		Harrison Butker			en			
-12524789	Football	2025 Topps Chrome		146		Hollywood Brown			en			
-12533084	Football	2025 Topps Chrome		320		Isaac TeSlaa	2.99		en			
-12524959	Football	2025 Topps Chrome		149		Isiah Pacheco			en			
-12534830	Football	2025 Topps Chrome		356		JT Tuimoloau	1.99		en			
-12520345	Football	2025 Topps Chrome		45		Ja'Tavion Sanders			en			
-12536256	Football	2025 Topps Chrome		397		Jackson Hawes	1.49		en			
-12536256	Football	2025 Topps Chrome		397		Jackson Hawes	1.49		en			
-12528099	Football	2025 Topps Chrome		213		Jahlani Tavai			en			
-12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs	1.99		en			
-12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs	1.99		en			
-12523101	Football	2025 Topps Chrome		105		Jake Bates	1.99		en			
-12522521	Football	2025 Topps Chrome		90		Jaleel McLaughlin	2.0		en			
-12533514	Football	2025 Topps Chrome		337		Jalen Royals			en			
-12534699	Football	2025 Topps Chrome		354		Jalon Walker	1.99		en			
-12526272	Football	2025 Topps Chrome		173		Jared Verse	2.0		en			
-12530866	Football	2025 Topps Chrome		280		Jason Myers	1.0		en			
-12527069	Football	2025 Topps Chrome		190		Jaylen Wright	1.7		en			
-12520891	Football	2025 Topps Chrome		57		Jaylon Johnson	1.67		en			
-12520891	Football	2025 Topps Chrome		57		Jaylon Johnson	1.67		en			
-12525325	Football	2025 Topps Chrome		157		Joe Alt	5.0		en			
-12525325	Football	2025 Topps Chrome		157		Joe Alt	5.0		en			
-12522130	Football	2025 Topps Chrome		85		Joe Milton III	1.99		en			
-12520574	Football	2025 Topps Chrome		50		Joe Thuney	1.26		en			
-12519932	Football	2025 Topps Chrome		36		Joey Bosa	1.79		en			
-12519932	Football	2025 Topps Chrome		36		Joey Bosa	1.79		en			
-12529811	Football	2025 Topps Chrome		257		Jonnu Smith	5.0		en			
-12529811	Football	2025 Topps Chrome		257		Jonnu Smith	5.0		en			
-12529517	Football	2025 Topps Chrome		249		Jordan Davis	1.99		en			
-12523207	Football	2025 Topps Chrome		110		Josh Jacobs	1.99		en			
-12518768	Football	2025 Topps Chrome		10		Josh Sweat			en			
-12532797	Football	2025 Topps Chrome		323		Kaleb Johnson			en			
-12526131	Football	2025 Topps Chrome		174		Kamren Kinchens	1.29		en			
-12525218	Football	2025 Topps Chrome		155		Keenan Allen	1.5		en			
-12521671	Football	2025 Topps Chrome		73		Kenny Clark	1.52		en			
-12525590	Football	2025 Topps Chrome		160		Khalil Mack	0.85		en			
-12525590	Football	2025 Topps Chrome		160		Khalil Mack	0.85		en			
-12518935	Football	2025 Topps Chrome		13		Kirk Cousins			en			
-12518935	Football	2025 Topps Chrome		13		Kirk Cousins			en			
-12518935	Football	2025 Topps Chrome		13		Kirk Cousins			en			
-12526585	Football	2025 Topps Chrome		183		Kolton Miller	2.0		en			
-12519612	Football	2025 Topps Chrome		29		Kyle Hamilton	1.75		en			
-12519612	Football	2025 Topps Chrome		29		Kyle Hamilton	1.75		en			
-12535949	Football	2025 Topps Chrome		382		Kyle Monangai	1.82		en			
-12518541	Football	2025 Topps Chrome		5		Kyler Murray	1.1		en			
-12525408	Football	2025 Topps Chrome		156		Ladd McConkey	1.4		en			
-12529356	Football	2025 Topps Chrome		246		Lane Johnson			en			
-12536290	Football	2025 Topps Chrome		384		LeQuint Allen Jr.	1.53		en			
-12536290	Football	2025 Topps Chrome		384		LeQuint Allen Jr.	1.53		en			
-12528448	Football	2025 Topps Chrome		225		Malik Nabers	3.17		en			
-12528448	Football	2025 Topps Chrome		225		Malik Nabers	3.17		en			
-12531897	Football	2025 Topps Chrome		300		Matt Gay	1.68		en			
-12531897	Football	2025 Topps Chrome		300		Matt Gay	1.68		en			
-12526103	Football	2025 Topps Chrome		169		Matthew Stafford	15.58		en			
-12521827	Football	2025 Topps Chrome		77		Micah Parsons	1.49		en			
-12518972	Football	2025 Topps Chrome		15		Michael Penix Jr.			en			
-12520845	Football	2025 Topps Chrome		56		Montez Sweat	1.79		en			
-12521405	Football	2025 Topps Chrome		70		Myles Garrett	1.25		en			
-12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
-12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
-12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
-12523563	Football	2025 Topps Chrome		115		Nico Collins			en			
-12530593	Football	2025 Topps Chrome		274		Noah Fant	1.67		en			
-12530803	Football	2025 Topps Chrome		273		Olu Oluwatimi	1.49		en			
-12518486	Football	2025 Topps Chrome		3		Paris Johnson Jr.			en			
-12530568	Football	2025 Topps Chrome		260		Patrick Queen	1.32		en			
-12530568	Football	2025 Topps Chrome		260		Patrick Queen	1.32		en			
-12525403	Football	2025 Topps Chrome		159		Quentin Johnston			en			
-12529721	Football	2025 Topps Chrome		251		Reed Blankenship			en			
-12527736	Football	2025 Topps Chrome		210		Rhamondre Stevenson			en			
-12530806	Football	2025 Topps Chrome		278		Riq Woolen			en			
-12520528	Football	2025 Topps Chrome		49		Rome Odunze	0.99		en			
-12520801	Football	2025 Topps Chrome		55		Roschon Johnson	0.99		en			
-12528528	Football	2025 Topps Chrome		229		Russell Wilson	1.29		en			
-12522777	Football	2025 Topps Chrome		100		Sam LaPorta	1.87		en			
-12522777	Football	2025 Topps Chrome		100		Sam LaPorta	1.87		en			
-12534085	Football	2025 Topps Chrome		340		Savion Williams	1.99		en			
-12536079	Football	2025 Topps Chrome		370		Sebastian Castro	1.97		en			
-12532178	Football	2025 Topps Chrome		301		Shavon Revel Jr.	1.99		en			
-12527629	Football	2025 Topps Chrome		205		Stefon Diggs	2.25		en			
-12527371	Football	2025 Topps Chrome		200		T.J. Hockenson	1.0		en			
-12527371	Football	2025 Topps Chrome		200		T.J. Hockenson	1.0		en			
-12521237	Football	2025 Topps Chrome		59		Tee Higgins	1.99		en			
-12523285	Football	2025 Topps Chrome		96		Tim Patrick	1.49		en			
-12520284	Football	2025 Topps Chrome		44		Tommy Tremble			en			
-12531578	Football	2025 Topps Chrome		290		Tony Pollard	1.29		en			
-12531578	Football	2025 Topps Chrome		290		Tony Pollard	1.29		en			
-12535182	Football	2025 Topps Chrome		371		Trey Amos	2.0		en			
-12521155	Football	2025 Topps Chrome		65		Trey Hendrickson	1.89		en			
-12530139	Football	2025 Topps Chrome		256		Troy Fautanu	1.88		en			
-12525699	Football	2025 Topps Chrome		167		Tutu Atwell			en			
-12536684	Football	2025 Topps Chrome		398		Tyler Shough	3.3		en			
-12534489	Football	2025 Topps Chrome		346		Tyler Warren	4.99		en			
-12532694	Football	2025 Topps Chrome		321		Will Howard	6.8		en			
-12529260	Football	2025 Topps Chrome		241		Will McDonald IV	2.47		en			
-12523406	Football	2025 Topps Chrome		113		Xavier McKinney	1.24		en			
-12523406	Football	2025 Topps Chrome		113		Xavier McKinney	1.24		en			
-12552688	Football	2025 Topps Chrome Urban Legends		UL-4		Caleb Williams	296.43		en			
-12550491	Football	2025 Topps Chrome Fortune 15		F15-2		JaTMarr Chase			en			
-12550928	Football	2025 Topps Chrome Fortune 15		F15-17		Jordan Love	1.4		en			
-12550726	Football	2025 Topps Chrome Fortune 15		F15-7		Josh Allen	5.0		en			
-12550845	Football	2025 Topps Chrome Fortune 15		F15-33		Peyton Manning	2.47		en			
-12552232	Football	2025 Topps Chrome Power Players		PP-40	Refractor	Abdul Carter	3.0		en			
-12552330	Football	2025 Topps Chrome Power Players		PP-7	Refractor	Caleb Williams	2.58		en			
-12552322	Football	2025 Topps Chrome Power Players		PP-33	Refractor	George Kittle	9.99		en			
-12552067	Football	2025 Topps Chrome Power Players		PP-1	Refractor	Lamar Jackson	5.5		en			
-12551959	Football	2025 Topps Chrome Power Players		PP-35	Refractor	Tyler Warren	10.0		en			
-12551526	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-19	Refractor	Art Monk	1.82		en			
-12550139	Football	2025 Topps Chrome All Chrome Team		ACT-11	Refractor	George Kittle	2.89		en			
-12550388	Football	2025 Topps Chrome All Chrome Team		ACT-23	Refractor	Kerby Joseph	3.49		en			
-12529399	Football	2025 Topps Chrome		243	Football Leather Refractor	A.J. Brown	4.0		en			
-12529590	Football	2025 Topps Chrome		252	Football Leather Refractor	Cooper DeJean	5.99		en			
-12519978	Football	2025 Topps Chrome		37	Football Leather Refractor	Dalton Kincaid	1.99		en			
-12523024	Football	2025 Topps Chrome		107	Football Leather Refractor	Jayden Reed	2.75		en			
-12525418	Football	2025 Topps Chrome		159	Football Leather Refractor	Quentin Johnston	1.78		en			
-12520216	Football	2025 Topps Chrome		42	Red White Blue Refractor	Chuba Hubbard			en			
-12534713	Football	2025 Topps Chrome		359	Red White Blue Refractor	Jahdae Barron	0.99		en			
-12535454	Football	2025 Topps Chrome		366	Red White Blue Refractor	Jihaad Campbell	2.99		en			
-12530688	Football	2025 Topps Chrome		276	Red White Blue Refractor	Kenneth Walker III	0.91		en			
-12525783	Football	2025 Topps Chrome		169	Red White Blue Refractor	Matthew Stafford	32.0		en			
-12549712	Football	2025 Topps Chrome 1975		1975-10		Dak Prescott			en			
-12549993	Football	2025 Topps Chrome 1975		1975-22		J.J. McCarthy	2.65		en			
-12549736	Football	2025 Topps Chrome 1975		1975-18		Justin Herbert	1.88		en			
-12549838	Football	2025 Topps Chrome 1975		1975-13		Matthew Golden	3.0		en			
-12550063	Football	2025 Topps Chrome 1975		1975-31	Refractor	Baker Mayfield			en			
-12549975	Football	2025 Topps Chrome 1975		1975-30	Refractor	Kenneth Walker III			en			
-12549732	Football	2025 Topps Chrome 1975		1975-2	Refractor	Michael Penix Jr.	4.99		en			
-12527425	Football	2025 Topps Chrome		201	Pulsar Refractor	Aaron Jones Sr.	2.49		en			
-12521578	Football	2025 Topps Chrome		60	Pulsar Refractor	Andrei Iosivas			en			
-12526114	Football	2025 Topps Chrome		171	Pulsar Refractor	Blake Corum			en			
-12530244	Football	2025 Topps Chrome		262	Pulsar Refractor	Brock Purdy	5.38		en			
-12523944	Football	2025 Topps Chrome		124	Pulsar Refractor	Cam Robinson	0.99		en			
-12528075	Football	2025 Topps Chrome		220	Pulsar Refractor	Chase Young			en			
-12527914	Football	2025 Topps Chrome		216	Pulsar Refractor	Chris Olave	1.0		en			
-12523571	Football	2025 Topps Chrome		120	Pulsar Refractor	Joe Mixon	1.71		en			
-12525488	Football	2025 Topps Chrome		161	Pulsar Refractor	Najee Harris			en			
-12518411	Football	2025 Topps Chrome		3	Pulsar Refractor	Paris Johnson Jr.			en			
-12532657	Football	2025 Topps Chrome		310	Pulsar Refractor	Phil Mafah			en			
-12534148	Football	2025 Topps Chrome		340	Pulsar Refractor	Savion Williams			en			
-12533528	Football	2025 Topps Chrome		326	Pulsar Refractor	Tetairoa McMillan	12.99		en			
-12534350	Football	2025 Topps Chrome		342	Pulsar Refractor	Tez Johnson	1.54		en			
-12525102	Football	2025 Topps Chrome		154	Pulsar Refractor	Trent McDuffie			en			
-12524447	Football	2025 Topps Chrome		134	Raywave Refractor	Braden Smith	1.99		en			
-12528917	Football	2025 Topps Chrome		234	Raywave Refractor	Brian Burns	1.25		en			
-12520641	Football	2025 Topps Chrome		52	Raywave Refractor	Caleb Williams	8.25		en			
-12523307	Football	2025 Topps Chrome		112	Raywave Refractor	Christian Watson	2.47		en			
-12524318	Football	2025 Topps Chrome		132	Raywave Refractor	Daniel Jones	0.94		en			
-12527893	Football	2025 Topps Chrome		212	Raywave Refractor	Garrett Bradbury	1.99		en			
-12531614	Football	2025 Topps Chrome		295	Raywave Refractor	Jayden Daniels	7.27		en			
-12519760	Football	2025 Topps Chrome		32	Raywave Refractor	Khalil Shakir	3.06		en			
-12536457	Football	2025 Topps Chrome		399	Raywave Refractor	Seth Henigan	0.99		en			
-12533966	Football	2025 Topps Chrome		338	Raywave Refractor	Tre Harris III	3.99		en			
-12522880	Football	2025 Topps Chrome		104	Refractor	Aidan Hutchinson	3.5		en			
-12532613	Football	2025 Topps Chrome		319	Refractor	Brady Cook	1.99		en			
-12528092	Football	2025 Topps Chrome		217	Refractor	Brandin Cooks	4.0		en			
-12523572	Football	2025 Topps Chrome		117	Refractor	Christian Kirk	1.23		en			
-12521888	Football	2025 Topps Chrome		79	Refractor	Dak Prescott	3.37		en			
-12521441	Football	2025 Topps Chrome		69	Refractor	David Njoku	1.49		en			
-12530829	Football	2025 Topps Chrome		269	Refractor	Deommodore Lenoir	1.0		en			
-12526447	Football	2025 Topps Chrome		179	Refractor	Geno Smith	1.99		en			
-12527450	Football	2025 Topps Chrome		204	Refractor	Harrison Smith	0.99		en			
-12527200	Football	2025 Topps Chrome		199	Refractor	J.J. McCarthy	3.9		en			
-12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	1.42		en			
-12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	1.42		en			
-12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	1.42		en			
-12522909	Football	2025 Topps Chrome		102	Refractor	Jared Goff			en			
-12533841	Football	2025 Topps Chrome		343	Refractor	Jayden Higgins	4.45		en			
-12529337	Football	2025 Topps Chrome		239	Refractor	Jeremy Ruckert			en			
-12535850	Football	2025 Topps Chrome		380	Refractor	Jonah Savaiinaea	1.29		en			
-12524119	Football	2025 Topps Chrome		130	Refractor	Jonathan Taylor	1.49		en			
-12535139	Football	2025 Topps Chrome		362	Refractor	Kenneth Grant	0.99		en			
-12519656	Football	2025 Topps Chrome		30	Refractor	Keon Coleman	0.99		en			
-12518936	Football	2025 Topps Chrome		13	Refractor	Kirk Cousins			en			
-12526104	Football	2025 Topps Chrome		169	Refractor	Matthew Stafford	29.99		en			
-12518406	Football	2025 Topps Chrome		2	Refractor	Michael Wilson			en			
-12522558	Football	2025 Topps Chrome		99	Refractor	Penei Sewell	1.99		en			
-12531985	Football	2025 Topps Chrome		49	Refractor	Rome Odunze	2.25		en			
-12536853	Football	2025 Topps Chrome		372	Refractor	Woody Marks	1.37		en			
-12523409	Football	2025 Topps Chrome		113	Refractor	Xavier McKinney			en			
-12527171	Football	2025 Topps Chrome		194	Football Leather Green	Ashtyn Davis			en			
-12519324	Football	2025 Topps Chrome		21	Football Leather Purple	Rashod Bateman			en			
-12551630	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-23		Keyshawn Johnson	1.99		en			
-12551597	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-22		Tim Brown	4.99		en			
-12550995	Football	2025 Topps Chrome Future Stars		FS-4		Brian Thomas Jr.	1.0		en			
-12551219	Football	2025 Topps Chrome Future Stars		FS-25		Jalen Carter	1.5		en			
-12552327	Football	2025 Topps Chrome Power Players		PP-7		Caleb Williams	1.89		en			
-12552348	Football	2025 Topps Chrome Power Players		PP-8		Cam Ward	25.0		en			
-12552215	Football	2025 Topps Chrome Power Players		PP-30		Nico Collins	3.49		en			
-12552233	Football	2025 Topps Chrome Power Players		PP-24		Puka Nacua	4.99		en			
-12524233	Football	2025 Topps Chrome		128	Hot Pink X-fractor Refractor	Laiatu Latu			en			
-12519574	Football	2025 Topps Chrome		28	Hot Pink X-fractor Refractor	Nate Wiggins			en			
-12528719	Football	2025 Topps Chrome		228	Hot Pink X-fractor Refractor	Tyrone Tracy Jr.	2.25		en			
-12526738	Football	2025 Topps Chrome		185	Lime Green X-fractor Refractor	Tyreek Hill			en			
-12528733	Football	2025 Topps Chrome		226	X-fractor	Darius Slayton			en			
-12523322	Football	2025 Topps Chrome		110	X-fractor	Josh Jacobs			en			
-12518782	Football	2025 Topps Chrome		10	X-fractor	Josh Sweat			en			
-12518419	Football	2025 Topps Chrome		3	X-fractor	Paris Johnson Jr.			en			
-12527777	Football	2025 Topps Chrome		210	X-fractor	Rhamondre Stevenson			en			
-12527274	Football	2025 Topps Chrome		203	X-fractor	Will Reichard			en			
-12550368	Football	2025 Topps Chrome All Chrome Team		ACT-17		Chris Jones	1.98		en			
-12550292	Football	2025 Topps Chrome All Chrome Team		ACT-20		Fred Warner	3.99		en			
-12551043	Football	2025 Topps Chrome Future Stars		FS-6	X-fractor	Marvin Harrison Jr.			en			
-12551732	Football	2025 Topps Chrome Legends Of The Gridiron		LOG-37		Devin Hester	1.19		en			
-12551575	Football	2025 Topps Chrome Legends Of The Gridiron		LOG-21		Jerry Rice			en			
 10727506	Football	2025 Panini Donruss		22		A.J. Brown	0.67		en	32.89	26.0	11.03
 10728438	Football	2025 Panini Donruss		97		Aaron Rodgers	1.0		en	34.3	27.0	11.53
 10731357	Football	2025 Panini Donruss		257		Adam Thielen	0.99		en	34.25	27.0	11.52
@@ -8690,6 +8427,437 @@ src_id	category	set	subset	number	variant	name	value	condition	language	psa_10	c
 10740196	Football	2025 Panini Donruss	White Hot Rookies	WHR-JXD		Jaxson Dart	1.75		en	75.0	60.0	10.0
 10740191	Football	2025 Panini Donruss	White Hot Rookies	WHR-TVH		Travis Hunter	1.23		en	45.17	36.0	12.52
 10806164	Football	2025 Panini Donruss	Action All-pros	AAP-ABR		A.J. Brown	1.25		en	34.57	28.0	15.5
+2004032	Football	2020 Panini Contenders		254	Autograph	Tyler Bass	56.25	PSA 10	en	56.25	45.0	33.37
+2002495	Football	2020 Panini Contenders		10		A. J. Brown			en			
+2002569	Football	2020 Panini Contenders		84		A. J. Green	0.99		en			
+2002538	Football	2020 Panini Contenders		53		Aaron Donald	1.18		en			
+2002550	Football	2020 Panini Contenders		65		Aaron Jones	1.23		en			
+2002486	Football	2020 Panini Contenders		1		Aaron Rodgers	1.5		en	26.0	21.0	14.0
+2002531	Football	2020 Panini Contenders		46		Adam Thielen	1.29		en			
+2002492	Football	2020 Panini Contenders		7		Adrian Peterson	1.23		en	37.71	30.0	9.65
+2002512	Football	2020 Panini Contenders		27		Alshon Jeffery	0.25		en			
+2002524	Football	2020 Panini Contenders		39		Alvin Kamara	1.52		en			
+2002559	Football	2020 Panini Contenders		74		Amari Cooper	0.71		en			
+2002542	Football	2020 Panini Contenders		57		Austin Ekeler	0.23		en			
+2002562	Football	2020 Panini Contenders		77		Baker Mayfield	1.23		en	31.9	26.0	11.41
+2002501	Football	2020 Panini Contenders		16		Ben Roethlisberger	0.33		en	29.99	24.0	10.35
+2002548	Football	2020 Panini Contenders		63		Brandin Cooks	1.29		en			
+2002526	Football	2020 Panini Contenders		41		Cam Newton	1.05		en	19.99	16.0	
+2002511	Football	2020 Panini Contenders		26		Carson Wentz	0.83		en			
+2002499	Football	2020 Panini Contenders		14		Chris Godwin	0.08		en	29.99	24.0	24.99
+2002573	Football	2020 Panini Contenders		88		Christian McCaffrey	0.5		en	29.99	24.0	10.53
+2002556	Football	2020 Panini Contenders		71		Courtland Sutton	0.34		en			
+2002536	Football	2020 Panini Contenders		51		DJ Chark Jr.	0.79		en			
+2002574	Football	2020 Panini Contenders		89		DJ Moore	0.06		en			
+2002558	Football	2020 Panini Contenders		73		Dak Prescott	0.61		en	30.87	25.0	10.65
+2002530	Football	2020 Panini Contenders		45		Dalvin Cook	1.53		en			
+2002521	Football	2020 Panini Contenders		36		Daniel Jones	0.53		en	50.0	40.0	42.0
+2002544	Football	2020 Panini Contenders		59		Darius Leonard	1.25		en			
+2002568	Football	2020 Panini Contenders		83		David Montgomery	1.5		en			
+2002585	Football	2020 Panini Contenders		100		DeAndre Hopkins	0.75		en			
+2002496	Football	2020 Panini Contenders		11		Derrick Henry	1.17		en	24.99	20.0	15.67
+2002547	Football	2020 Panini Contenders		62		Deshaun Watson	0.7		en			
+2002525	Football	2020 Panini Contenders		40		Drew Brees	0.99		en	21.1	17.0	11.0
+2002554	Football	2020 Panini Contenders		69		Drew Lock	1.49		en	7.5	6.0	
+2002560	Football	2020 Panini Contenders		75		Ezekiel Elliott	0.11		en	30.13	24.0	10.1
+2002534	Football	2020 Panini Contenders		49		Gardner Minshew II	0.99		en			
+2002546	Football	2020 Panini Contenders		61		J. J. Watt	0.54		en	26.99	22.0	10.51
+2002539	Football	2020 Panini Contenders		54		Jalen Ramsey	0.06		en			
+2002519	Football	2020 Panini Contenders		34		Jamal Adams	1.15		en	9.5	8.0	
+2002502	Football	2020 Panini Contenders		17		James Conner	1.15		en			
+2002537	Football	2020 Panini Contenders		52		Jared Goff	0.06		en			250.0
+2002515	Football	2020 Panini Contenders		30		Jason Witten	0.7		en			
+2002509	Football	2020 Panini Contenders		24		Jimmy Garoppolo	1.14		en			
+2002570	Football	2020 Panini Contenders		85		Joe Mixon	0.2		en			
+2002541	Football	2020 Panini Contenders		56		Joey Bosa	0.76		en			
+2002535	Football	2020 Panini Contenders		50		Josh Allen	0.96		en			
+2002575	Football	2020 Panini Contenders		90		Josh Allen	1.63		en	51.03	41.0	11.25
+2002514	Football	2020 Panini Contenders		29		Josh Jacobs	0.12		en			
+2002504	Football	2020 Panini Contenders		19		JuJu Smith Schuster	0.99		en			
+2002528	Football	2020 Panini Contenders		43		Julian Edelman	0.7		en	55.05	44.0	10.82
+2002582	Football	2020 Panini Contenders		97		Julio Jones	0.15		en			
+2002540	Football	2020 Panini Contenders		55		Keenan Allen	0.18		en			
+2002553	Football	2020 Panini Contenders		68		Kerryon Johnson	1.36		en			
+2002566	Football	2020 Panini Contenders		81		Khalil Mack	1.09		en			
+2002529	Football	2020 Panini Contenders		44		Kirk Cousins	1.45		en			
+2002583	Football	2020 Panini Contenders		98		Kyler Murray	0.11		en	15.25	12.0	6.5
+2002578	Football	2020 Panini Contenders		93		Lamar Jackson	1.48		en	27.52	22.0	14.75
+2002584	Football	2020 Panini Contenders		99		Larry Fitzgerald	0.09		en	29.99	24.0	13.0
+2002518	Football	2020 Panini Contenders		33		Le'Veon Bell	2.07		en			
+2002561	Football	2020 Panini Contenders		76		Leighton Vander Esch	1.75		en			
+2002579	Football	2020 Panini Contenders		94		Mark Ingram II	0.47		en			
+2002545	Football	2020 Panini Contenders		60		Marlon Mack	0.25		en			
+2002580	Football	2020 Panini Contenders		95		Marquise Brown	2.4		en			
+2002552	Football	2020 Panini Contenders		67		Marvin Jones Jr.	0.18		en			
+2002551	Football	2020 Panini Contenders		66		Matthew Stafford	0.38		en	30.47	24.0	6.0
+2002555	Football	2020 Panini Contenders		70		Melvin Gordon III	0.06		en			
+2002523	Football	2020 Panini Contenders		38		Michael Thomas	1.09		en			
+2002500	Football	2020 Panini Contenders		15		Mike Evans	1.21		en	13.0	10.0	11.05
+2002513	Football	2020 Panini Contenders		28		Miles Sanders	1.17		en			
+2002565	Football	2020 Panini Contenders		80		Myles Garrett	1.55		en			
+2002508	Football	2020 Panini Contenders		23		Nick Bosa	1.49		en	24.99	20.0	12.0
+2002563	Football	2020 Panini Contenders		78		Nick Chubb	0.99		en	31.42	25.0	11.05
+2002564	Football	2020 Panini Contenders		79		Odell Beckham Jr.	0.55		en			
+2002487	Football	2020 Panini Contenders		2		Patrick Mahomes II	1.78		en	42.87	20.5	17.0
+2002543	Football	2020 Panini Contenders		58		Philip Rivers	1.25		en			5.33
+2002557	Football	2020 Panini Contenders		72		Phillip Lindsay	0.06		en			
+2002510	Football	2020 Panini Contenders		25		Richard Sherman	0.43		en			
+2002498	Football	2020 Panini Contenders		13		Rob Gronkowski	0.86		en	29.99	24.0	16.2
+2002567	Football	2020 Panini Contenders		82		Roquan Smith	1.38		en			
+2002505	Football	2020 Panini Contenders		20		Russell Wilson	0.1		en	12.39	10.0	10.07
+2002532	Football	2020 Panini Contenders		47		Ryan Fitzpatrick	0.8		en			
+2002494	Football	2020 Panini Contenders		9		Ryan Tannehill	0.99		en			
+2002517	Football	2020 Panini Contenders		32		Sam Darnold	0.99		en			
+2002520	Football	2020 Panini Contenders		35		Saquon Barkley	1.08		en	7.73	6.0	
+2002527	Football	2020 Panini Contenders		42		Sony Michel	1.0		en			
+2002576	Football	2020 Panini Contenders		91		Stefon Diggs	0.38		en	25.0	20.0	
+2002522	Football	2020 Panini Contenders		37		Sterling Shepard	0.53		en			
+2002503	Football	2020 Panini Contenders		18		T. J. Watt	1.22		en	21.99	18.0	11.28
+2002572	Football	2020 Panini Contenders		87		Teddy Bridgewater	1.0		en			
+2002493	Football	2020 Panini Contenders		8		Terry McLaurin	0.06		en			
+2002581	Football	2020 Panini Contenders		96		Todd Gurley II	1.53		en			
+2002497	Football	2020 Panini Contenders		12		Tom Brady	1.61		en	32.0	13.98	12.24
+2002489	Football	2020 Panini Contenders		4		Travis Kelce	1.5		en	15.95	13.0	11.69
+2002577	Football	2020 Panini Contenders		92		Tre'Davious White	0.06		en			
+2002571	Football	2020 Panini Contenders		86		Tyler Boyd	1.33		en			5.75
+2002506	Football	2020 Panini Contenders		21		Tyler Lockett	0.11		en	6.5	5.0	
+2002491	Football	2020 Panini Contenders		5		Tyrann Mathieu	1.76		en			
+2002488	Football	2020 Panini Contenders		3		Tyreek Hill	0.49		en	21.5	17.0	10.35
+2004012	Football	2020 Panini Contenders		232	Autograph	Tony Jones Jr.	1.84		en	32.71	26.0	12.02
+11792763	Football	2020 Panini Contenders	Legendary	LC-BJA		Bo Jackson	2.73		en			
+3366221	Football	2020 Panini Contenders	Legendary	LC-DMA		Dan Marino	1.48		en	85.35	68.0	8.5
+3366222	Football	2020 Panini Contenders	Legendary	LC-PMA		Peyton Manning	1.99		en	22.5	18.0	7.0
+4556932	Football	2020 Panini Contenders	Mvp	MC-BRO		Ben Roethlisberger	1.99		en			8.5
+4953139	Football	2020 Panini Contenders	Mvp	MC-GMI		Gardner Minshew II	1.79		en			8.95
+4246401	Football	2020 Panini Contenders	Mvp	MC-JAL		Josh Allen	1.99		en	50.0	40.0	20.49
+4683856	Football	2020 Panini Contenders	Rookie Ticket Swatches	RTS-DAS		D'Andre Swift	2.0		en	32.86	26.0	22.25
+4683868	Football	2020 Panini Contenders	Rookie Ticket Swatches	RTS-JJE		Justin Jefferson	14.25		en	93.22	75.0	41.82
+4956202	Football	2020 Panini Contenders	Rookie Of The Year	RY-CAK		Cam Akers	1.25		en	25.0	20.0	
+10262847	Football	2020 Panini Contenders	Rookie Of The Year	RY-CYO		Chase Young	3.73		en	5.0	4.0	
+4953145	Football	2020 Panini Contenders	Rookie Of The Year	RY-JHU		Jalen Hurts	1.94		en	41.76	33.0	18.81
+4953146	Football	2020 Panini Contenders	Rookie Of The Year	RY-MPI		Michael Pittman Jr	1.57		en	16.49	13.0	
+11395483	Football	2020 Panini Contenders	Round Numbers	RN-YO		Chase Young, Jeff Okudah	2.38		en			
+8670708	Football	2020 Panini Contenders	Round Numbers	RN-MD		Xavier McKinney, Trevon Diggs	3.75		en			
+12905380	Football	2020 Panini Contenders	Round Numbers	RN-BE		Lynn Bowden Jr. / Bryan Edwards			en			
+4953156	Football	2020 Panini Contenders	Winning Ticket	WT1		Patrick Mahomes	3.0		en	59.39	48.0	17.55
+12527330	Football	2025 Topps Chrome		201		Aaron Jones Sr.	1.29		en			
+12532146	Football	2025 Topps Chrome		255		Aaron Rodgers	1.54		en	37.37	30.0	12.48
+12534482	Football	2025 Topps Chrome		350		Abdul Carter	1.44		en	34.93	28.0	11.66
+12523827	Football	2025 Topps Chrome		125		Alec Pierce	1.87		en	38.94	31.0	13.01
+12523827	Football	2025 Topps Chrome		125		Alec Pierce	1.87		en	38.94	31.0	13.01
+12529004	Football	2025 Topps Chrome		236		Allen Lazard	0.2		en			
+12529004	Football	2025 Topps Chrome		236		Allen Lazard	0.2		en			
+12528080	Football	2025 Topps Chrome		215		Alvin Kamara	35.0		en			
+12528080	Football	2025 Topps Chrome		215		Alvin Kamara	35.0		en			
+12521555	Football	2025 Topps Chrome		60		Andrei Iosivas			en			
+12534207	Football	2025 Topps Chrome		344		Billy Bowman Jr.	1.99		en	38.7	31.0	12.93
+12534207	Football	2025 Topps Chrome		344		Billy Bowman Jr.	1.99		en	38.7	31.0	12.93
+12522261	Football	2025 Topps Chrome		88		Bo Nix	2.21		en	41.2	33.0	13.77
+12522261	Football	2025 Topps Chrome		88		Bo Nix	2.21		en	41.2	33.0	13.77
+12531709	Football	2025 Topps Chrome		299		Bobby Wagner	1.75		en	38.37	31.0	12.82
+12532607	Football	2025 Topps Chrome		319		Brady Cook	1.69		en	37.23	30.0	12.43
+12524491	Football	2025 Topps Chrome		137		Brenton Strange	1.99		en			
+12524491	Football	2025 Topps Chrome		137		Brenton Strange	1.99		en			
+12527414	Football	2025 Topps Chrome		196		Brian O'Neill	1.49		en	35.93	29.0	12.0
+12531792	Football	2025 Topps Chrome		296		Brian Robinson Jr.	0.85		en	30.96	25.0	10.32
+12526293	Football	2025 Topps Chrome		178		Brock Bowers	1.79		en	38.57	31.0	12.88
+12526293	Football	2025 Topps Chrome		178		Brock Bowers	1.79		en	38.57	31.0	12.88
+12530942	Football	2025 Topps Chrome		284		Cade Otton			en			
+12520707	Football	2025 Topps Chrome		52		Caleb Williams	3.81		en	39.09	31.0	13.06
+12532926	Football	2025 Topps Chrome		314		Cam Ward	4.63		en	39.52	32.0	13.21
+12528251	Football	2025 Topps Chrome		221		Cameron Jordan	2.25		en			
+12521129	Football	2025 Topps Chrome		67		Cedric Tillman	3.0		en	37.18	30.0	12.42
+12521764	Football	2025 Topps Chrome		76		CeeDee Lamb	1.42		en	36.89	30.0	12.32
+12523997	Football	2025 Topps Chrome		129		Charvarius Ward	1.54		en	37.12	30.0	12.4
+12531535	Football	2025 Topps Chrome		288		Chase McLaughlin	2.31		en	35.74	29.0	11.93
+12531535	Football	2025 Topps Chrome		288		Chase McLaughlin	2.31		en	35.74	29.0	11.93
+12531151	Football	2025 Topps Chrome		283		Chris Godwin	1.74		en	38.32	31.0	12.8
+12523275	Football	2025 Topps Chrome		112		Christian Watson	1.99		en	39.53	32.0	13.21
+12520192	Football	2025 Topps Chrome		42		Chuba Hubbard	1.99		en	38.76	31.0	12.95
+12520614	Football	2025 Topps Chrome		51		Cole Kmet	2.0		en	37.61	30.0	12.56
+12520614	Football	2025 Topps Chrome		51		Cole Kmet	2.0		en	37.61	30.0	12.56
+12530205	Football	2025 Topps Chrome		252		Cooper DeJean	1.99		en	39.48	32.0	13.19
+12519976	Football	2025 Topps Chrome		37		Dalton Kincaid	0.99		en	33.73	27.0	11.26
+12548423	Football	2025 Topps Chrome		367		Darien Porter	1.68		en	38.04	30.0	12.71
+12548423	Football	2025 Topps Chrome		367		Darien Porter	1.68		en	38.04	30.0	12.71
+12523234	Football	2025 Topps Chrome		103		David Montgomery	1.99		en	39.53	32.0	13.21
+12521429	Football	2025 Topps Chrome		69		David Njoku	2.15		en	40.28	32.0	13.46
+12519771	Football	2025 Topps Chrome		33		Dawson Knox	1.58		en	37.56	30.0	12.55
+12526863	Football	2025 Topps Chrome		188		De'Von Achane	1.0		en	34.78	28.0	11.61
+12526863	Football	2025 Topps Chrome		188		De'Von Achane	1.0		en	34.78	28.0	11.61
+12519211	Football	2025 Topps Chrome		20		DeAndre Hopkins	1.99		en	37.76	30.0	12.61
+12524287	Football	2025 Topps Chrome		133		DeForest Buckner	1.1		en			
+12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown	2.0		en	38.91	31.0	13.0
+12521801	Football	2025 Topps Chrome		78		DeMarvion Overshown	2.0		en	38.91	31.0	13.0
+12529253	Football	2025 Topps Chrome		244		DeVonta Smith	1.75		en	38.32	31.0	12.8
+12531693	Football	2025 Topps Chrome		294		Deebo Samuel	1.66		en	37.47	30.0	12.51
+12521650	Football	2025 Topps Chrome		74		Denzel Ward	2.37		en	39.52	32.0	13.21
+12530822	Football	2025 Topps Chrome		269		Deommodore Lenoir			en			
+12520478	Football	2025 Topps Chrome		47		Derrick Brown			en			
+12534751	Football	2025 Topps Chrome		361		Derrick Harmon	1.97		en	39.43	32.0	13.17
+12534751	Football	2025 Topps Chrome		361		Derrick Harmon	1.97		en	39.43	32.0	13.17
+12519418	Football	2025 Topps Chrome		25		Derrick Henry	8.99		en	39.52	32.0	13.21
+12535950	Football	2025 Topps Chrome		391		Devin Neal	1.87		en	38.95	31.0	13.01
+12536371	Football	2025 Topps Chrome		392		Donovan Edwards	1.49		en	35.36	28.0	11.81
+12524416	Football	2025 Topps Chrome		136		Dyami Brown	1.49		en	37.57	30.0	12.55
+12524416	Football	2025 Topps Chrome		136		Dyami Brown	1.49		en	37.57	30.0	12.55
+12533931	Football	2025 Topps Chrome		336		Elic Ayomanor	1.3		en			
+12532693	Football	2025 Topps Chrome		312		Emeka Egbuka	2.99		en	39.53	32.0	13.21
+12536138	Football	2025 Topps Chrome		386		Emery Jones Jr.	1.99		en	34.79	28.0	11.61
+12530512	Football	2025 Topps Chrome		268		Fred Warner	1.29		en	35.31	28.0	11.79
+12527848	Football	2025 Topps Chrome		212		Garrett Bradbury	1.82		en	38.71	31.0	12.93
+12525206	Football	2025 Topps Chrome		152		George Karlaftis	1.99		en	39.52	32.0	13.21
+12530071	Football	2025 Topps Chrome		267		George Kittle	1.99		en	38.62	31.0	12.9
+12532203	Football	2025 Topps Chrome		305		Gunnar Helm	1.74		en	38.32	31.0	12.8
+12525047	Football	2025 Topps Chrome		151		Harrison Butker	1.74		en	38.33	31.0	12.8
+12524789	Football	2025 Topps Chrome		146		Hollywood Brown	0.2		en			
+12533084	Football	2025 Topps Chrome		320		Isaac TeSlaa	2.99		en	41.92	34.0	14.01
+12533084	Football	2025 Topps Chrome		320		Isaac TeSlaa	2.99		en	41.92	34.0	14.01
+12524959	Football	2025 Topps Chrome		149		Isiah Pacheco	1.0		en	34.78	28.0	11.61
+12527199	Football	2025 Topps Chrome		199		J.J. McCarthy	1.72		en	38.46	31.0	12.85
+12534830	Football	2025 Topps Chrome		356		JT Tuimoloau	1.99		en	39.53	32.0	13.21
+12520345	Football	2025 Topps Chrome		45		Ja'Tavion Sanders			en			
+12536256	Football	2025 Topps Chrome		397		Jackson Hawes	1.49		en	37.13	30.0	12.4
+12536256	Football	2025 Topps Chrome		397		Jackson Hawes	1.49		en	37.13	30.0	12.4
+12528099	Football	2025 Topps Chrome		213		Jahlani Tavai	1.26		en	36.13	29.0	12.06
+12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs	1.99		en	39.51	32.0	13.21
+12522579	Football	2025 Topps Chrome		101		Jahmyr Gibbs	1.99		en	39.51	32.0	13.21
+12523101	Football	2025 Topps Chrome		105		Jake Bates	1.99		en	39.53	32.0	13.21
+12522521	Football	2025 Topps Chrome		90		Jaleel McLaughlin	2.0		en			
+12522521	Football	2025 Topps Chrome		90		Jaleel McLaughlin	2.0		en			
+12529559	Football	2025 Topps Chrome		247		Jalen Hurts	1.43		en	38.22	31.0	12.77
+12533514	Football	2025 Topps Chrome		337		Jalen Royals	1.77		en	38.61	31.0	12.9
+12534699	Football	2025 Topps Chrome		354		Jalon Walker	1.99		en	39.52	32.0	13.21
+12522516	Football	2025 Topps Chrome		97		Jameson Williams	1.77		en	36.17	29.0	12.08
+12526272	Football	2025 Topps Chrome		173		Jared Verse	2.0		en	39.57	32.0	13.22
+12530866	Football	2025 Topps Chrome		280		Jason Myers	1.0		en	37.17	30.0	12.42
+12530866	Football	2025 Topps Chrome		280		Jason Myers	1.0		en	37.17	30.0	12.42
+12527069	Football	2025 Topps Chrome		190		Jaylen Wright	1.7		en	38.13	31.0	12.74
+12527069	Football	2025 Topps Chrome		190		Jaylen Wright	1.7		en	38.13	31.0	12.74
+12520891	Football	2025 Topps Chrome		57		Jaylon Johnson	1.67		en	37.99	30.0	12.69
+12520891	Football	2025 Topps Chrome		57		Jaylon Johnson	1.67		en	37.99	30.0	12.69
+12526531	Football	2025 Topps Chrome		184		Jeremy Chinn	1.27		en			
+12525325	Football	2025 Topps Chrome		157		Joe Alt	5.0		en	45.55	36.0	15.24
+12525325	Football	2025 Topps Chrome		157		Joe Alt	5.0		en	45.55	36.0	15.24
+12522130	Football	2025 Topps Chrome		85		Joe Milton III	1.99		en	39.51	32.0	13.21
+12520574	Football	2025 Topps Chrome		50		Joe Thuney	1.26		en	34.97	28.0	11.68
+12519932	Football	2025 Topps Chrome		36		Joey Bosa	1.79		en	35.98	29.0	12.01
+12519932	Football	2025 Topps Chrome		36		Joey Bosa	1.79		en	35.98	29.0	12.01
+12527136	Football	2025 Topps Chrome		197		Jonathan Greenard	1.75		en	38.38	31.0	12.82
+12529811	Football	2025 Topps Chrome		257		Jonnu Smith	5.0		en	39.53	32.0	13.21
+12529811	Football	2025 Topps Chrome		257		Jonnu Smith	5.0		en	39.53	32.0	13.21
+12529517	Football	2025 Topps Chrome		249		Jordan Davis	1.99		en	37.13	30.0	12.4
+12523207	Football	2025 Topps Chrome		110		Josh Jacobs	1.99		en	44.2	35.0	14.78
+12518768	Football	2025 Topps Chrome		10		Josh Sweat			en			
+12529266	Football	2025 Topps Chrome		237		Justin Fields	2.12		en	40.14	32.0	13.41
+12532797	Football	2025 Topps Chrome		323		Kaleb Johnson	1.92		en	39.52	32.0	13.21
+12526131	Football	2025 Topps Chrome		174		Kamren Kinchens	1.29		en			
+12525218	Football	2025 Topps Chrome		155		Keenan Allen	1.5		en	37.18	30.0	12.42
+12537334	Football	2025 Topps Chrome		378		Kelvin Banks Jr.	1.62		en	38.37	31.0	12.82
+12521671	Football	2025 Topps Chrome		73		Kenny Clark	1.52		en	37.27	30.0	12.45
+12525590	Football	2025 Topps Chrome		160		Khalil Mack	0.85		en	34.07	27.0	11.37
+12525590	Football	2025 Topps Chrome		160		Khalil Mack	0.85		en	34.07	27.0	11.37
+12518935	Football	2025 Topps Chrome		13		Kirk Cousins	0.99		en			
+12518935	Football	2025 Topps Chrome		13		Kirk Cousins	0.99		en			
+12518935	Football	2025 Topps Chrome		13		Kirk Cousins	0.99		en			
+12526585	Football	2025 Topps Chrome		183		Kolton Miller	2.0		en			
+12519612	Football	2025 Topps Chrome		29		Kyle Hamilton	1.75		en	38.37	31.0	12.82
+12519612	Football	2025 Topps Chrome		29		Kyle Hamilton	1.75		en	38.37	31.0	12.82
+12535949	Football	2025 Topps Chrome		382		Kyle Monangai	1.82		en	38.71	31.0	12.93
+12518541	Football	2025 Topps Chrome		5		Kyler Murray	1.1		en	35.26	28.0	11.77
+12525893	Football	2025 Topps Chrome		168		Kyren Williams			en			
+12525408	Football	2025 Topps Chrome		156		Ladd McConkey	1.4		en	36.7	29.0	12.26
+12529356	Football	2025 Topps Chrome		246		Lane Johnson	1.83		en			
+12536290	Football	2025 Topps Chrome		384		LeQuint Allen Jr.	1.53		en	35.26	28.0	11.77
+12536290	Football	2025 Topps Chrome		384		LeQuint Allen Jr.	1.53		en	35.26	28.0	11.77
+12528448	Football	2025 Topps Chrome		225		Malik Nabers	3.17		en	40.38	32.0	13.5
+12528448	Football	2025 Topps Chrome		225		Malik Nabers	3.17		en	40.38	32.0	13.5
+12531897	Football	2025 Topps Chrome		300		Matt Gay	1.68		en	38.04	30.0	12.71
+12531897	Football	2025 Topps Chrome		300		Matt Gay	1.68		en	38.04	30.0	12.71
+12526103	Football	2025 Topps Chrome		169		Matthew Stafford	15.58		en	98.67	79.0	33.12
+12526372	Football	2025 Topps Chrome		180		Maxx Crosby	1.48		en	39.42	32.0	13.17
+12521827	Football	2025 Topps Chrome		77		Micah Parsons	1.49		en	37.13	30.0	12.4
+12518972	Football	2025 Topps Chrome		15		Michael Penix Jr.	1.25		en	36.65	29.0	12.24
+12520845	Football	2025 Topps Chrome		56		Montez Sweat	1.79		en	39.53	32.0	13.21
+12521405	Football	2025 Topps Chrome		70		Myles Garrett	1.25		en	35.98	29.0	12.01
+12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
+12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
+12534322	Football	2025 Topps Chrome		353		Nic Scourton			en			
+12523563	Football	2025 Topps Chrome		115		Nico Collins	2.46		en			
+12531477	Football	2025 Topps Chrome		293		Noah Brown	1.99		en	39.52	32.0	13.21
+12530593	Football	2025 Topps Chrome		274		Noah Fant	1.67		en	37.99	30.0	12.69
+12530803	Football	2025 Topps Chrome		273		Olu Oluwatimi	1.49		en	37.13	30.0	12.4
+12518486	Football	2025 Topps Chrome		3		Paris Johnson Jr.	0.99		en			
+12530568	Football	2025 Topps Chrome		260		Patrick Queen	1.32		en	36.31	29.0	12.13
+12530568	Football	2025 Topps Chrome		260		Patrick Queen	1.32		en	36.31	29.0	12.13
+12522555	Football	2025 Topps Chrome		99		Penei Sewell	1.97		en	39.42	32.0	13.17
+12525403	Football	2025 Topps Chrome		159		Quentin Johnston	1.29		en			
+12525403	Football	2025 Topps Chrome		159		Quentin Johnston	1.29		en			
+12524890	Football	2025 Topps Chrome		147		Rashee Rice	1.0		en	34.79	28.0	11.61
+12529721	Football	2025 Topps Chrome		251		Reed Blankenship	1.75		en	35.36	28.0	11.8
+12527736	Football	2025 Topps Chrome		210		Rhamondre Stevenson			en			
+12530806	Football	2025 Topps Chrome		278		Riq Woolen			en			
+12520528	Football	2025 Topps Chrome		49		Rome Odunze	0.99		en	37.99	30.0	12.69
+12520801	Football	2025 Topps Chrome		55		Roschon Johnson	0.99		en	34.74	28.0	11.59
+12528528	Football	2025 Topps Chrome		229		Russell Wilson	1.29		en	34.78	28.0	11.61
+12522777	Football	2025 Topps Chrome		100		Sam LaPorta	1.87		en	38.95	31.0	13.01
+12522777	Football	2025 Topps Chrome		100		Sam LaPorta	1.87		en	38.95	31.0	13.01
+12534085	Football	2025 Topps Chrome		340		Savion Williams	1.99		en	38.37	31.0	12.82
+12536079	Football	2025 Topps Chrome		370		Sebastian Castro	1.97		en	37.17	30.0	12.42
+12532178	Football	2025 Topps Chrome		301		Shavon Revel Jr.	1.99		en	38.8	31.0	12.96
+12532178	Football	2025 Topps Chrome		301		Shavon Revel Jr.	1.99		en	38.8	31.0	12.96
+12527629	Football	2025 Topps Chrome		205		Stefon Diggs	2.25		en	38.03	30.0	12.71
+12527371	Football	2025 Topps Chrome		200		T.J. Hockenson	1.0		en			
+12527371	Football	2025 Topps Chrome		200		T.J. Hockenson	1.0		en			
+12535720	Football	2025 Topps Chrome		383		Tate Ratledge	1.76		en	35.93	29.0	12.0
+12521237	Football	2025 Topps Chrome		59		Tee Higgins	1.99		en	34.73	28.0	11.59
+12523285	Football	2025 Topps Chrome		96		Tim Patrick	1.49		en			
+12520284	Football	2025 Topps Chrome		44		Tommy Tremble			en			
+12531578	Football	2025 Topps Chrome		290		Tony Pollard	1.29		en			
+12531578	Football	2025 Topps Chrome		290		Tony Pollard	1.29		en			
+12535182	Football	2025 Topps Chrome		371		Trey Amos	2.0		en	37.08	30.0	12.38
+12521155	Football	2025 Topps Chrome		65		Trey Hendrickson	1.89		en	39.05	31.0	13.05
+12530139	Football	2025 Topps Chrome		256		Troy Fautanu	1.88		en	39.0	31.0	13.03
+12525699	Football	2025 Topps Chrome		167		Tutu Atwell			en			
+12535267	Football	2025 Topps Chrome		364		Tyleik Williams	1.84		en	38.81	31.0	12.96
+12536684	Football	2025 Topps Chrome		398		Tyler Shough	3.3		en	37.18	30.0	12.42
+12534489	Football	2025 Topps Chrome		346		Tyler Warren	2.17		en	39.53	32.0	13.21
+12532694	Football	2025 Topps Chrome		321		Will Howard	1.55		en	37.42	30.0	12.5
+12529260	Football	2025 Topps Chrome		241		Will McDonald IV	2.47		en	42.53	34.0	14.22
+12520021	Football	2025 Topps Chrome		38		Xavier Legette	1.0		en	35.41	28.0	11.82
+12523406	Football	2025 Topps Chrome		113		Xavier McKinney	1.24		en	35.93	29.0	12.0
+12523406	Football	2025 Topps Chrome		113		Xavier McKinney	1.24		en	35.93	29.0	12.0
+12531621	Football	2025 Topps Chrome		297		Zach Ertz	2.14		en	40.24	32.0	13.45
+12552688	Football	2025 Topps Chrome Urban Legends		UL-4		Caleb Williams	296.43		en			
+12550491	Football	2025 Topps Chrome Fortune 15		F15-2		JaTMarr Chase			en			
+12550928	Football	2025 Topps Chrome Fortune 15		F15-17		Jordan Love	1.4		en	36.7	29.0	12.26
+12550726	Football	2025 Topps Chrome Fortune 15		F15-7		Josh Allen	5.0		en	39.81	32.0	13.3
+12550845	Football	2025 Topps Chrome Fortune 15		F15-33		Peyton Manning	2.47		en	37.18	30.0	12.42
+12552232	Football	2025 Topps Chrome Power Players		PP-40	Refractor	Abdul Carter	3.0		en			
+12552330	Football	2025 Topps Chrome Power Players		PP-7	Refractor	Caleb Williams	2.58		en			
+12552322	Football	2025 Topps Chrome Power Players		PP-33	Refractor	George Kittle	9.99		en			
+12552067	Football	2025 Topps Chrome Power Players		PP-1	Refractor	Lamar Jackson	5.5		en			
+12551959	Football	2025 Topps Chrome Power Players		PP-35	Refractor	Tyler Warren	10.0		en			
+12551526	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-19	Refractor	Art Monk	1.82		en			
+12550139	Football	2025 Topps Chrome All Chrome Team		ACT-11	Refractor	George Kittle	2.89		en			
+12550388	Football	2025 Topps Chrome All Chrome Team		ACT-23	Refractor	Kerby Joseph	3.49		en			
+12550365	Football	2025 Topps Chrome All Chrome Team		ACT-16	Refractor	Trey Hendrickson			en			
+12529399	Football	2025 Topps Chrome		243	Leather Refractor	A.J. Brown	4.0		en	50.63	41.0	16.95
+12529590	Football	2025 Topps Chrome		252	Leather Refractor	Cooper DeJean	5.99		en	44.3	35.0	14.82
+12520507	Football	2025 Topps Chrome		48	Leather Refractor	DJ Moore	1.35		en			
+12519978	Football	2025 Topps Chrome		37	Leather Refractor	Dalton Kincaid	1.99		en	39.53	32.0	13.21
+12534635	Football	2025 Topps Chrome		359	Leather Refractor	Jahdae Barron	1.74		en			
+12523024	Football	2025 Topps Chrome		107	Leather Refractor	Jayden Reed	2.75		en	45.55	36.0	15.24
+12525418	Football	2025 Topps Chrome		159	Leather Refractor	Quentin Johnston	1.78		en	38.52	31.0	12.87
+12520216	Football	2025 Topps Chrome		42	Red White Blue Refractor	Chuba Hubbard			en			
+12521903	Football	2025 Topps Chrome		79	Red White Blue Refractor	Dak Prescott	4.0		en	51.86	41.0	17.36
+12534713	Football	2025 Topps Chrome		359	Red White Blue Refractor	Jahdae Barron	0.99		en	39.57	32.0	13.22
+12535454	Football	2025 Topps Chrome		366	Red White Blue Refractor	Jihaad Campbell	2.99		en	38.85	31.0	12.98
+12530688	Football	2025 Topps Chrome		276	Red White Blue Refractor	Kenneth Walker III	0.91		en	34.97	28.0	11.68
+12530544	Football	2025 Topps Chrome		270	Red White Blue Refractor	Kyle Juszczyk	2.99		en	44.31	35.0	14.82
+12525783	Football	2025 Topps Chrome		169	Red White Blue Refractor	Matthew Stafford	32.0		en	179.95	144.0	60.5
+12528536	Football	2025 Topps Chrome		227	Red White Blue Refractor	Wan'Dale Robinson	2.74		en	43.11	34.0	14.41
+12549712	Football	2025 Topps Chrome 1975		1975-10		Dak Prescott			en			
+12549993	Football	2025 Topps Chrome 1975		1975-22		J.J. McCarthy	2.65		en			
+12549736	Football	2025 Topps Chrome 1975		1975-18		Justin Herbert	1.88		en			
+12549838	Football	2025 Topps Chrome 1975		1975-13		Matthew Golden	3.0		en			
+12550063	Football	2025 Topps Chrome 1975		1975-31	Refractor	Baker Mayfield			en			
+12549877	Football	2025 Topps Chrome 1975		1975-5	Refractor	Chuba Hubbard			en			
+12549975	Football	2025 Topps Chrome 1975		1975-30	Refractor	Kenneth Walker III			en			
+12549732	Football	2025 Topps Chrome 1975		1975-2	Refractor	Michael Penix Jr.	4.99		en			
+12527425	Football	2025 Topps Chrome		201	Pulsar Refractor	Aaron Jones Sr.	2.49		en	39.52	32.0	13.21
+12521578	Football	2025 Topps Chrome		60	Pulsar Refractor	Andrei Iosivas			en			
+12526114	Football	2025 Topps Chrome		171	Pulsar Refractor	Blake Corum	1.79		en	41.33	33.0	13.82
+12530244	Football	2025 Topps Chrome		262	Pulsar Refractor	Brock Purdy	5.38		en	47.31	38.0	15.83
+12523944	Football	2025 Topps Chrome		124	Pulsar Refractor	Cam Robinson	0.99		en	39.33	31.0	13.14
+12528075	Football	2025 Topps Chrome		220	Pulsar Refractor	Chase Young	1.5		en	37.17	30.0	12.42
+12527914	Football	2025 Topps Chrome		216	Pulsar Refractor	Chris Olave	1.0		en	36.36	29.0	12.14
+12529979	Football	2025 Topps Chrome		263	Pulsar Refractor	Christian McCaffrey	2.17		en	41.91	34.0	14.01
+12524701	Football	2025 Topps Chrome		142	Pulsar Refractor	Gabe Davis	3.62		en	47.31	38.0	15.83
+12523571	Football	2025 Topps Chrome		120	Pulsar Refractor	Joe Mixon	1.71		en	38.18	31.0	12.75
+12525488	Football	2025 Topps Chrome		161	Pulsar Refractor	Najee Harris			en			
+12518411	Football	2025 Topps Chrome		3	Pulsar Refractor	Paris Johnson Jr.	1.49		en			
+12532657	Football	2025 Topps Chrome		310	Pulsar Refractor	Phil Mafah	1.99		en	39.52	32.0	13.21
+12534148	Football	2025 Topps Chrome		340	Pulsar Refractor	Savion Williams	2.99		en	44.64	36.0	14.93
+12533528	Football	2025 Topps Chrome		326	Pulsar Refractor	Tetairoa McMillan	4.26		en	57.5	46.0	19.26
+12534350	Football	2025 Topps Chrome		342	Pulsar Refractor	Tez Johnson	1.54		en	37.08	30.0	12.38
+12525102	Football	2025 Topps Chrome		154	Pulsar Refractor	Trent McDuffie	1.79		en			
+12524447	Football	2025 Topps Chrome		134	Raywave Refractor	Braden Smith	1.99		en			
+12528917	Football	2025 Topps Chrome		234	Raywave Refractor	Brian Burns	1.25		en	39.33	31.0	13.14
+12520641	Football	2025 Topps Chrome		52	Raywave Refractor	Caleb Williams	8.25		en	66.06	53.0	22.15
+12523307	Football	2025 Topps Chrome		112	Raywave Refractor	Christian Watson	2.47		en	41.82	33.0	13.98
+12524318	Football	2025 Topps Chrome		132	Raywave Refractor	Daniel Jones	0.94		en	38.8	31.0	12.96
+12527893	Football	2025 Topps Chrome		212	Raywave Refractor	Garrett Bradbury	1.99		en			
+12531614	Football	2025 Topps Chrome		295	Raywave Refractor	Jayden Daniels	7.27		en	58.73	47.0	19.67
+12535445	Football	2025 Topps Chrome		366	Raywave Refractor	Jihaad Campbell	2.5		en	41.96	34.0	14.03
+12519760	Football	2025 Topps Chrome		32	Raywave Refractor	Khalil Shakir	3.06		en	39.05	31.0	13.05
+12533370	Football	2025 Topps Chrome		333	Raywave Refractor	Matthew Golden	4.5		en	53.8	43.0	18.01
+12533206	Football	2025 Topps Chrome		318	Raywave Refractor	Riley Leonard	2.79		en	43.59	35.0	14.58
+12536457	Football	2025 Topps Chrome		399	Raywave Refractor	Seth Henigan	0.99		en			
+12533966	Football	2025 Topps Chrome		338	Raywave Refractor	Tre Harris III	3.99		en	39.58	32.0	13.22
+12536894	Football	2025 Topps Chrome		372	Raywave Refractor	Woody Marks	2.51		en	42.01	34.0	14.04
+12522880	Football	2025 Topps Chrome		104	Refractor	Aidan Hutchinson	3.5		en	41.77	33.0	13.96
+12526083	Football	2025 Topps Chrome		171	Refractor	Blake Corum	1.47		en	37.13	30.0	12.4
+12532613	Football	2025 Topps Chrome		319	Refractor	Brady Cook	1.99		en	39.52	32.0	13.21
+12528092	Football	2025 Topps Chrome		217	Refractor	Brandin Cooks	4.0		en	39.52	32.0	13.21
+12523572	Football	2025 Topps Chrome		117	Refractor	Christian Kirk	1.23		en	37.71	30.0	12.59
+12521888	Football	2025 Topps Chrome		79	Refractor	Dak Prescott	3.37		en	39.51	32.0	13.21
+12521441	Football	2025 Topps Chrome		69	Refractor	David Njoku	1.49		en	37.13	30.0	12.4
+12530829	Football	2025 Topps Chrome		269	Refractor	Deommodore Lenoir	1.0		en	34.78	28.0	11.61
+12534749	Football	2025 Topps Chrome		361	Refractor	Derrick Harmon	1.88		en	38.99	31.0	13.03
+12526447	Football	2025 Topps Chrome		179	Refractor	Geno Smith	1.99		en	34.93	28.0	11.66
+12527450	Football	2025 Topps Chrome		204	Refractor	Harrison Smith	0.99		en	38.75	31.0	12.95
+12527200	Football	2025 Topps Chrome		199	Refractor	J.J. McCarthy	3.9		en	42.14	34.0	14.09
+12520069	Football	2025 Topps Chrome		39	Refractor	Jalen Coker	1.5		en	39.52	32.0	13.21
+12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	1.42		en	36.79	29.0	12.29
+12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	1.42		en	36.79	29.0	12.29
+12534708	Football	2025 Topps Chrome		354	Refractor	Jalon Walker	1.42		en	36.79	29.0	12.29
+12522909	Football	2025 Topps Chrome		102	Refractor	Jared Goff	1.7		en	38.14	31.0	12.74
+12533841	Football	2025 Topps Chrome		343	Refractor	Jayden Higgins	4.45		en	35.98	29.0	12.01
+12529337	Football	2025 Topps Chrome		239	Refractor	Jeremy Ruckert	2.49		en			
+12521588	Football	2025 Topps Chrome		71	Refractor	Jerome Ford	1.19		en	35.69	29.0	11.92
+12535850	Football	2025 Topps Chrome		380	Refractor	Jonah Savaiinaea	1.29		en	35.41	28.0	11.82
+12524119	Football	2025 Topps Chrome		130	Refractor	Jonathan Taylor	1.49		en	37.13	30.0	12.4
+12535139	Football	2025 Topps Chrome		362	Refractor	Kenneth Grant	0.99		en	37.9	30.0	12.66
+12519656	Football	2025 Topps Chrome		30	Refractor	Keon Coleman	0.99		en	34.74	28.0	11.6
+12518936	Football	2025 Topps Chrome		13	Refractor	Kirk Cousins	2.0		en	39.0	31.0	13.03
+12526104	Football	2025 Topps Chrome		169	Refractor	Matthew Stafford	29.99		en	173.48	139.0	58.32
+12518406	Football	2025 Topps Chrome		2	Refractor	Michael Wilson	1.44		en	36.9	30.0	12.32
+12522558	Football	2025 Topps Chrome		99	Refractor	Penei Sewell	1.99		en	37.12	30.0	12.4
+12531985	Football	2025 Topps Chrome		49	Refractor	Rome Odunze	2.25		en	40.77	33.0	13.63
+12536141	Football	2025 Topps Chrome		370	Refractor	Sebastian Castro	2.5		en	41.96	34.0	14.03
+12530049	Football	2025 Topps Chrome		265	Refractor	Trent Williams	1.78		en	39.51	32.0	13.21
+12536853	Football	2025 Topps Chrome		372	Refractor	Woody Marks	1.37		en	35.98	29.0	12.01
+12523409	Football	2025 Topps Chrome		113	Refractor	Xavier McKinney	1.3		en	37.13	30.0	12.4
+12527171	Football	2025 Topps Chrome		194	Leather Green	Ashtyn Davis			en			
+12519324	Football	2025 Topps Chrome		21	Leather Purple	Rashod Bateman			en			
+12551630	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-23		Keyshawn Johnson	1.99		en			
+12551597	Football	2025 Topps Chrome	Legends of the Gridiron	LOG-22		Tim Brown	4.99		en			
+12550995	Football	2025 Topps Chrome Future Stars		FS-4		Brian Thomas Jr.	1.0		en			
+12551219	Football	2025 Topps Chrome Future Stars		FS-25		Jalen Carter	1.5		en			
+12552327	Football	2025 Topps Chrome Power Players		PP-7		Caleb Williams	1.89		en			
+12552348	Football	2025 Topps Chrome Power Players		PP-8		Cam Ward	25.0		en			
+12552215	Football	2025 Topps Chrome Power Players		PP-30		Nico Collins	3.49		en			
+12552233	Football	2025 Topps Chrome Power Players		PP-24		Puka Nacua	4.99		en			
+12524233	Football	2025 Topps Chrome		128	X-fractor Pink	Laiatu Latu			en			
+12519574	Football	2025 Topps Chrome		28	X-fractor Pink	Nate Wiggins	3.39		en			
+12528719	Football	2025 Topps Chrome		228	X-fractor Pink	Tyrone Tracy Jr.	2.25		en			
+12526738	Football	2025 Topps Chrome		185	X-fractor Green	Tyreek Hill			en			
+12528733	Football	2025 Topps Chrome		226	X-fractor	Darius Slayton	2.69		en			
+12523322	Football	2025 Topps Chrome		110	X-fractor	Josh Jacobs			en			
+12518782	Football	2025 Topps Chrome		10	X-fractor	Josh Sweat			en			
+12518419	Football	2025 Topps Chrome		3	X-fractor	Paris Johnson Jr.			en			
+12527777	Football	2025 Topps Chrome		210	X-fractor	Rhamondre Stevenson			en			
+12527274	Football	2025 Topps Chrome		203	X-fractor	Will Reichard			en			
+12550431	Football	2025 Topps Chrome All Chrome Team		ACT-25		Chris Boswell			en			
+12550368	Football	2025 Topps Chrome All Chrome Team		ACT-17		Chris Jones	1.98		en			
+12550292	Football	2025 Topps Chrome All Chrome Team		ACT-20		Fred Warner	3.99		en			
+12549967	Football	2025 Topps Chrome All Chrome Team		ACT-1		Lamar Jackson	3.12		en			
+12551043	Football	2025 Topps Chrome Future Stars		FS-6	X-fractor	Marvin Harrison Jr.			en			
+12551732	Football	2025 Topps Chrome Legends Of The Gridiron		LOG-37		Devin Hester	1.19		en			
+12551575	Football	2025 Topps Chrome Legends Of The Gridiron		LOG-21		Jerry Rice			en			
+12530632	Football	2025 Topps Chrome		277	Leather Gold	Devon Witherspoon			en			
+12550873	Football	2025 Topps Chrome Fortune 15		F15-17	Refractor	Jordan Love	2.71		en	44.06	35.0	14.74
 f321777f-399b-4f80-9baf-da6a0aaa325a	Magic	Assassin's Creed		14		Become Anonymous	0.12	near_mint	en			
 be1e598a-840c-4166-88a6-92a8b9958536	Magic	Assassin's Creed		21		Loyal Inventor	0.2	near_mint	en			
 5e4510e9-dc3f-4403-ae52-348d2a3eef84	Magic	Assassin's Creed		50		Bayek of Siwa	0.45	near_mint	en			
