@@ -57,7 +57,7 @@ def main():
 		for i, row in enumerate(ll.csv('subcols/mtg.csv', dicts=False, stream=True)):
 			if i==0:
 				continue
-			(_,_,name,sc,set,cn,foil,_,quant,_,sf_id,value,_,_,cond,lang,_) = row
+			(binder,binder_type,name,sc,set,cn,foil,rarity,quant,mb_id,sf_id,value,misprint,altered,cond,lang,currency,added) = row
 			sccn = f"{sc}\t{cn}".lower()
 			sccn2row[sccn] = row
 
@@ -82,7 +82,7 @@ def main():
 		for i, row in enumerate(ll.csv('subcols/mtg.csv', dicts=False, stream=True)):
 			if i==0:
 				continue
-			(_,_,name,sc,set,cn,foil,_,quant,_,sf_id,value,_,_,cond,lang,_) = row
+			(binder,binder_type,name,sc,set,cn,foil,rarity,quant,mb_id,sf_id,value,misprint,altered,cond,lang,currency,added) = row
 			# sccn = f"{sc}\t{cn}\t{name}"
 			sccn = f'{sc}\t{cn}'.lower()
 			sccn2row[sccn] = row
